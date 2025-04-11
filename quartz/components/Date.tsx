@@ -23,6 +23,8 @@ export function formatDate(d: Date, locale: ValidLocale = "en-US"): string {
     year: "numeric",
     month: "short",
     day: "2-digit",
+    //hour: "2-digit", //add this if you want hours and minutes for dates
+    //minute: "2-digit", //add this if you want hours and minutes for dates
   })
 }
 

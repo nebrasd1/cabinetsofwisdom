@@ -1,3 +1,4 @@
+import { formatDate, getDate } from "./Date" //date modified component stuff
 import { Date, getDate } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
@@ -27,10 +28,25 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     const text = fileData.text
 
     if (text) {
-      const segments: (string | JSX.Element)[] = []
+       var modifiedSegment: string = "" //date modified component stuff
+       var createdSegment: string = "" //date modified component stuff
+       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+        //segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />) //removed for date modified component stuff
+        const cfgDefaultDataType = cfg.defaultDateType //date modified component stuff
+
+         if (fileData.dates.created) {
+           cfg.defaultDateType = "created"
+           createdSegment = formatDate(getDate(cfg, fileData)!)
+         }
+
+         if (fileData.dates.modified) {
+           cfg.defaultDateType = "modified"
+           modifiedSegment = formatDate(getDate(cfg, fileData)!)
+         }
+
+         cfg.defaultDateType = cfgDefaultDataType
       }
 
       // Display reading time if enabled
@@ -43,8 +59,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       }
 
       return (
-        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+        /*<p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
           {segments}
+        </p>*/ //date modified component stuff removing this and adding replacement below
+        <p class={`content-meta ${displayClass ?? ""}`}>
+           Created: {createdSegment} | Modified: {modifiedSegment}
         </p>
       )
     } else {

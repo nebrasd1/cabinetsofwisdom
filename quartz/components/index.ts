@@ -22,6 +22,12 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import Author from "./Author"
+import Properties from "./Properties"
+import SidebarLinks from "./SidebarLinks"
+import ProcessLinks from "./ProcessLinks"
+import Divider from "./Divider"
+import LinksHeader from "./LinksHeader"
 
 export {
   ArticleTitle,
@@ -48,4 +54,10 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  Author,
+  Properties,
+  SidebarLinks,
+  ProcessLinks,
+  Divider,
+  LinksHeader,
 }

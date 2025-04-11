@@ -562,8 +562,11 @@ video {
 }
 
 div:has(> .overflow) {
-  max-height: 100%;
+// below two is how my backup is setup.. not sure what it affects.
+//  display: flex;
+//  overflow-y: auto;
   overflow-y: hidden;
+  max-height: 100%;
 }
 
 ul.overflow,

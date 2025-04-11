@@ -4,12 +4,11 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [Component.LinksHeader()],
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      //GitHub: "https://github.com/jackyzha0/quartz",
     },
   }),
 }
@@ -23,6 +22,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    //Component.Properties(), //properties component.. turned off until i can figure out a better way to use it.
     Component.TagList(),
   ],
   left: [
@@ -37,12 +37,28 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "RECENT OUTPUT",
+        limit: 4,
+        filter: (f) =>
+          f.slug!.startsWith("Output/") && f.slug! !== "Output/index",
+        linkToMore: "Output/" as SimpleSlug,
+      }),
+    ),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "RECENT HIGHLIGHTS",
+        limit: 4,
+        filter: (f) => f.slug!.startsWith("Information/References/") && f.slug! !== "Information/References/index" && !f.frontmatter?.sidebar,
+        linkToMore: "Information/References/" as SimpleSlug,
+      }),
+    ),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    //Component.Graph(),
     Component.Backlinks(),
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
 }
 
@@ -61,7 +77,42 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    //Component.Explorer(),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "RECENT OUTPUT",
+        limit: 4,
+        filter: (f) =>
+          f.slug!.startsWith("Output/") && f.slug! !== "Output/index" && !f?.frontmatter?.sidebar,
+        linkToMore: "Output/" as SimpleSlug,
+      }),
+    ),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "RECENT HIGHLIGHTS",
+        limit: 4,
+        filter: (f) => f.slug!.startsWith("Information/References/") && f.slug! !== "Information/References/index" && !f?.frontmatter?.sidebar,
+        linkToMore: "Information/References/" as SimpleSlug,
+      }),
+    ),
   ],
   right: [],
 }
+
+/* Extra sections in case we need them:
+
+    Component.DesktopOnly(
+      Component.ProcessLinks({
+      title: "PROCESS",
+      limit: 8,
+      filter: (file) => file?.frontmatter?.processLink,
+    }),
+  ),
+    Component.DesktopOnly(
+      Component.SidebarLinks({
+      title: "LINKS",
+      limit: 8,
+      filter: (file) => file?.frontmatter?.sidebar,
+    }),
+  ),
+*/
