@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "knowledge.ahmaddialdin.com",
+    baseUrl: "cabinetsofwisdom.com",
     ignorePatterns: [".smart-env", "private", "templates", ".stfolder", ".obsidian", ".trash", "Templates", "00 Meta/Excalidraw", "00 Meta/Dataviews", "00/Meta/Obsidian Guidance", "00 Meta/AI Prompts", "00 Meta/Templates", "Information/References/Conversations/", "Information/Fiction Ideas/", "Information/References/Websites/", "Information/References/PDFs/", "50 Personal/", "70 RPGs/", "Relations Testing", "smart-chats", "Context"],
     //defaultDateType: "created",
     defaultDateType: "modified", //date modified component
