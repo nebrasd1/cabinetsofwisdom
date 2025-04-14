@@ -1,5 +1,6 @@
 ---
-title: Things I Found
+title: Information
 publish: true
 processLink: false
+date: ""
 ---

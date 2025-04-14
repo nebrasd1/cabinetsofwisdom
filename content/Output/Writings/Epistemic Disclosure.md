@@ -1,3 +1,7 @@
+---
+publish: true
+date: 2025-04-01
+---
 No idea where to put this, but I might as well capture my thoughts on this and the AI-assisted research (using [Learn About](https://learning.google.com/experiments/learn-about)) I've done, and figure out the details later.
 
 # Options based on research below

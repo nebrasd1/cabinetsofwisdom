@@ -42,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
         title: "RECENT OUTPUT",
         limit: 4,
         filter: (f) =>
-          f.slug!.startsWith("Output/") && f.slug! !== "Output/index",
+          f.slug!.startsWith("Output/") && f.slug! !== "Output/index" && f.slug! !== "Output/Things_I_Found/index" && f.slug! !== "Output/Writings/index",
         linkToMore: "Output/" as SimpleSlug,
       }),
     ),

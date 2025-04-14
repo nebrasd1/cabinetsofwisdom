@@ -1,6 +1,5 @@
 ---
-title: Writings
+title: Things I Found
 publish: true
-processLink: false
 date: 2023-10-01
 ---

@@ -88,16 +88,17 @@ https://github.com/Socratica-Org/toolbox
 ### Nav Bar
 https://notes.camargomau.com
 https://github.com/camargomau/notkesto-site
-- 
 
 ### Hide "x items under this folder" in folder page
-- FolderContent.tsx file
+- FolderContent.tsx file unde components/pages
 	- showFolderCount: change from true to false
 
 ### Sidebar Scrolling
 - If you find the sidebar doesn't scroll, fix in base.scss:
 	- under &.sidebar.. **height** should become **min-height**
+		- this worked last time i tried (April 13)
 	- also, do a clear cache for website (double check by going to incognito mode)
+		- not sure if this is still valid.. getting the issue regardless
 
 ### For color schemes
 https://discord.com/channels/927628110009098281/1205066819170336808/1205082850811052063

@@ -1,3 +1,7 @@
+---
+publish: true
+date: 2025-01-04
+---
 # PENDING QUESTIONS
 - Things I've Found vs Things I've Learned?
 	- Sharing the article itself and giving a summary on it, that's something I've found
