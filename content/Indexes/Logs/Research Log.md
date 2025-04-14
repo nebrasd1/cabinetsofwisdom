@@ -1,6 +1,6 @@
 ---
-publish: true
-sidebar: true
+publish: false
+sidebar: false
 ---
 Wondering if I can pull off some sort of way to capture things I've been consuming as well as have recently consumed, and put it all within context of the greater topics I'm trying to grok.
 
