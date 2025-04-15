@@ -74,7 +74,13 @@ https://github.com/jackyzha0/quartz
 Potentially useful for design ideas
 https://github.com/Socratica-Org/toolbox
 
-## terminal and github tips
+## terminal and GitHub tips
+### Updating Quartz
+- I have a script in root folder "update-quartz.sh" for whenever we want to update our fork to whatever the main quartz repo has
+- cd "/c/users/ahmad/OneDrive/Documents/Obsidian Vaults/cabinetsofwisdom/" 
+- ./update-quartz.sh
+### Syncing local to Github
+- npx quartz sync -m "type a quick description of what changed"
 ### When using terminal, any files/folders with spacing in them needs quotation marks
 ### When something gets uploaded and you want to remove it from github:
 - Remove it from computer folder/location
@@ -125,6 +131,13 @@ colors: {
 https://discord.com/channels/927628110009098281/1149197588084572161/1197929960745214103
 - https://github.com/xy-241/CS-Notes/commit/4fcbc28192bf3641fb2ac0bf3c55190bbbd2fd0a#diff-c4a1f1305c12e56f02e5d490587be80c27bbb8965960ace98f85796df8335efb
 - Just follow the above changes (mostly.. might need to adjust as quartz gets updated, and might need to remove anything about reading time)
+- contentmeta.tsx file
+- Also keep in mind, especially for existing files that you start quartz with, all the date modified fields bear "today's" date. Makes all the articles in Information for example all the same modified date.
+	- Best way to deal with this is to manually modify the "modified" field... that will overrule the system date it's using.
+#### Dates
+- date frontmatter - created date
+- modified frontmatter - modified date
+- published frontmatter - published date
 ### Properties display
 These two as far as i can tell are the same, and I grabbed the properties stuff from the first one.
 https://github.com/Confidaunt/quartz_Nystar/

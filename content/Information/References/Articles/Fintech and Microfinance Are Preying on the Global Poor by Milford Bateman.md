@@ -1,14 +1,16 @@
 ---
-title: "Fintech and Microfinance Are Preying on the Global Poor"
+title: Fintech and Microfinance Are Preying on the Global Poor
 date: 2023-06-04
 datePublished: 2023-06-02
-type: articles
+modified: 2025-01-01
+type:
+  - articles
 source: reader
 url: https://jacobin.com/2023/06/fintech-microfinance-poverty-debt-global-south-world-bank/
-author: "Milford Bateman"
-lenses: 
-  - "[[capitalism]]" 
-  - "[[socialism]]" 
+author: Milford Bateman
+lenses:
+  - "[[capitalism]]"
+  - "[[socialism]]"
 publish: true
 ---
 > [!note]+ Basic Info

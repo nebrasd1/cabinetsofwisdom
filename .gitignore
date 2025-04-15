@@ -17,7 +17,7 @@ Context/
 content/Information/References/Conversations
 content/Information/References/Websites
 content/Information/References/PDFs
-content/Information/Fiction\ Ideas
+content/Information/Fiction_Ideas
 50\ Personal/
 "50 Personal"/
 content/Output/Day_Jobs/
@@ -27,7 +27,13 @@ Excalidraw/
 Relations\ Testing/
 "Relations Testing"/
 smart-chats/
-"00 Meta/AI Prompts"/
-00\ Meta/AI\ Prompts/
-"00 Meta/Dataviews"/
-00\ Meta/Dataviews
+"AI Prompts"/
+AI\ Prompts/
+"Dataviews"/
+Dataviews/
+"Obsidian Guidance"/
+Obsidian\ Guidance/
+"Tools and Resources"/
+Tools\ and\ Resources/
+Logs/Kids\ Log
+"Logs/Kids Log"

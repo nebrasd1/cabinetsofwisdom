@@ -1,6 +1,6 @@
 ---
 title: Listening Log
-publish: true
+publish: false
 date: 2025-01-04
 ---
 # Log
