@@ -1,2 +1,0 @@
-Guy who took away civil liberties, fought against it, advised against it, etc., then turns around and sells self-help books about how you need to work internally to make yourself happy.. you can't achieve happiness from state support, or trying to change the outside world. You have to do it internally and privately.
--- Jacobin article about the happiness guru guy
