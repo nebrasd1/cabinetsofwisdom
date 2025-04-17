@@ -14,6 +14,7 @@ lenses:
 publish: true
 cssclasses:
   - grid
+description: Fascinating attempt at measuring YouTube itself.
 ---
 > [!note]+ Basic Info
 >

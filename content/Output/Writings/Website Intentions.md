@@ -1,6 +1,8 @@
 ---
 publish: true
 date: 2025-01-04
+modified: 2025-04-01
+description: What it says on the tin.. what I want out of this whole thing.
 ---
 # PENDING QUESTIONS
 - Things I've Found vs Things I've Learned?
