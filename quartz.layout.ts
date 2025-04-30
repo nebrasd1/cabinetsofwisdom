@@ -22,7 +22,10 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    //Component.Properties(), //properties component.. turned off until i can figure out a better way to use it.
+    Component.ConditionalRender({
+      component: Component.Properties(), //right now using this as epistemic disclosure box.. if i need it for something else, might need to make an offshoot of it.
+      condition: (page) => page.fileData.slug.startsWith("Output/Writings"),
+    }),
     Component.TagList(),
   ],
   left: [

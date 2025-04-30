@@ -3,6 +3,12 @@ publish: true
 date: 2025-01-04
 modified: 2025-01-20
 description: Figuring out "nutrition labels" for my articles.
+📚source:
+  - Casual Research
+📶certainty: 
+⚖️bias: 
+🎯purpose:
+  - Spitballing
 ---
 No idea where to put this, but I might as well capture my thoughts on this and the AI-assisted research (using [Learn About](https://learning.google.com/experiments/learn-about)) I've done, and figure out the details later.
 
@@ -10,7 +16,7 @@ No idea where to put this, but I might as well capture my thoughts on this and t
 - **Source and Effort**: Quick Thought / Deep Thought / Personal Experience / Conversations / Casual Perusal (2nd/3rd sources) / Deep Research (1st sources)
 - **Certainty**: Known - Certain - Likely - Possible - Unlikely - Remote - Unknown
 - **Bias**: Anti-capitalist / I give the sub in power dynamics the benefit of the doubt
-- **Purpose**: Review / Rant / Discussion Topic / Daydreaming / Spitballing / Thought Experiment / Worldbuilding / Today I Learned / Public Bookmark
+- **Purpose**: Review / Rant / Discussion / Daydreaming / Spitballing / Thought Experiment / Worldbuilding / Today I Learned / Public Bookmark
 
 # Research
 **Epistemic disclosures** are statements that provide context and transparency about how someone came to know something. They go beyond simply stating a fact and instead reveal the reasoning, evidence, and level of confidence behind a claim. Imagine them like nutritional labels for information, helping you assess the quality and reliability of what you're consuming.
@@ -23,7 +29,7 @@ No idea where to put this, but I might as well capture my thoughts on this and t
 ### Level of Certainty
 * "Level of Certainty" is crucial for honesty and responsible knowledge sharing. It's about acknowledging how sure you are about the information you're presenting. Are you completely certain, or is there some room for doubt? Maybe you're just exploring an idea and want to signal that you're not fully convinced yet.
 * e.g. Predicting the future is inherently uncertain, but it's crucial to analyze current developments and consider ethical implications.
-* ![[Pasted image 20241113125836.png]]
+* ![[Hunston's Scale of Certainty.png]]
 	* These I suppose are similar to the [confidence tags from gwern](https://gwern.net/about#confidence-tags): certain - highly likely - likely - possible - unlikely - highly unlikely - remote - impossible
 	* A combo? Known - Certain - Likely - Possible - Unlikely - Remote - Unknown?
 ### Potential Biases

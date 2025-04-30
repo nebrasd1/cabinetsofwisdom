@@ -12,4 +12,13 @@ Yes, if you're aware of the original [House of Wisdom](https://en.wikipedia.org/
 
 True to form, the House of Wisdom [did have many imitators](https://en.wikipedia.org/wiki/House_of_Wisdom#Other_%22Houses_of_Wisdom%22), so, nothing wrong with adding to that.
 
-# Tour of Site
+# Things To Do
+- ?? Subscribe to RSS Feed for output.
+- Subscribe to newsletter.
+# Links to Check Out / Start Here!
+- About Me
+- Digital Gardening
+- How this site works
+- Disclaimers/Terms of Use?
+- Newsletter / Monthly Changelog?
+- 

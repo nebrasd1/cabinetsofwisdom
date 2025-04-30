@@ -3,8 +3,10 @@ publish: true
 date: 2025-01-04
 modified: 2025-04-01
 description: What it says on the tin.. what I want out of this whole thing.
+📚source:
+  - Deep Thought
 ---
-# PENDING QUESTIONS
+# Pending Questions
 - Things I've Found vs Things I've Learned?
 	- Sharing the article itself and giving a summary on it, that's something I've found
 	- Sharing the highlights and insights and bigger picture stuff to lenses and questions, that's something I've learned.
@@ -27,7 +29,6 @@ description: What it says on the tin.. what I want out of this whole thing.
 - Email/web post
 ### Form
 - Sections (thoughts, links, media)
-- [[Newsletter Template]]
 ### Function
 - Brief thoughts of the week
 - Curated version of the link posts that happened in past week
@@ -40,7 +41,6 @@ description: What it says on the tin.. what I want out of this whole thing.
 - Epistemic disclosure
 - tl;dr
 - Body of text
-- [[Blog Post Template]]
 ### Function
 - My own writings and musings
 - It would invariably link/draw towards the deeper recesses of the vault
@@ -55,7 +55,6 @@ description: What it says on the tin.. what I want out of this whole thing.
 - Brief commentary, why it's interesting to me, how it ties to other stuff I'm looking at
 - Make sure to credit the original creator
 - Link to my highlights page of the item (if available)
-- [[Link Post Template]]
 ### Function
 - Links to interesting things I've recently come across online
 - Readwise would overlap with this, but not sure I'd share the readwise highlights page.. maybe that's a link in this post?

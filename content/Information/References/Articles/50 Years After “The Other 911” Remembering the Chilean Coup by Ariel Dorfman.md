@@ -2,7 +2,8 @@
 title: "50 Years After “The Other 9/11”: Remembering the Chilean Coup"
 date: 2023-09-17
 datePublished: 2023-09-11
-type: articles
+type:
+  - articles
 source: reader
 url: https://www.thenation.com/article/world/the-other-9-11-chile-coup/
 author: Ariel Dorfman
