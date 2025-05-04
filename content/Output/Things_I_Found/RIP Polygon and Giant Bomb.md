@@ -10,7 +10,7 @@ modified:
 url: https://aftermath.site/aftermath-hours-podcast-giant-bomb-polygon-layoffs-valnet
 credit: "[[Aftermath]]"
 lenses:
-  - "[[capitalism]]"
+  - "[[capitalism|capitalism]]"
 publish: true
 ---
 [Giant Bomb's fate is up in the air](https://kotaku.com/giant-bomb-fandom-dan-ryckert-jeff-grubb-gerstmann-1851778728), and [Polygon just got shafted with a recent sale](https://aftermath.site/polygon-layoffs-sale).
