@@ -1,1 +1,0 @@
-socialism, capitalism, with some pop culture now and then.. or at least some casual writing now and then.
