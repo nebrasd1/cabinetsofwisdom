@@ -9,6 +9,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       //GitHub: "https://github.com/jackyzha0/quartz",
+      RSS Overall: "https://cabinetsofwisdom.com/index.xml"
+      RSS Writings & Things I Found: "https://cabinetsofwisdom.com/Output.rss"
     },
   }),
 }
@@ -45,7 +47,8 @@ export const defaultContentPageLayout: PageLayout = {
         title: "RECENT OUTPUT",
         limit: 4,
         filter: (f) =>
-          f.slug!.startsWith("Output/") && f.slug! !== "Output/index" && f.slug! !== "Output/Things_I_Found/index" && f.slug! !== "Output/Writings/index",
+          //f.slug!.startsWith("Output/") && f.slug! !== "Output/index" && f.slug! !== "Output/Writings/index" && f.slug! !== "Output/Things_I_Found/index",
+          f.slug!.startsWith("Output/") && !f?.frontmatter?.index,
         linkToMore: "Output/" as SimpleSlug,
       }),
     ),
@@ -53,7 +56,7 @@ export const defaultContentPageLayout: PageLayout = {
       Component.RecentNotes({
         title: "RECENT HIGHLIGHTS",
         limit: 4,
-        filter: (f) => f.slug!.startsWith("Information/References/") && f.slug! !== "Information/References/index" && !f.frontmatter?.sidebar,
+        filter: (f) => f.slug!.startsWith("Information/References/") && !f?.frontmatter?.index && !f.frontmatter?.sidebar,
         linkToMore: "Information/References/" as SimpleSlug,
       }),
     ),
@@ -86,7 +89,7 @@ export const defaultListPageLayout: PageLayout = {
         title: "RECENT OUTPUT",
         limit: 4,
         filter: (f) =>
-          f.slug!.startsWith("Output/") && f.slug! !== "Output/index" && !f?.frontmatter?.sidebar,
+          f.slug!.startsWith("Output/") && !f?.frontmatter?.index,
         linkToMore: "Output/" as SimpleSlug,
       }),
     ),
@@ -94,7 +97,7 @@ export const defaultListPageLayout: PageLayout = {
       Component.RecentNotes({
         title: "RECENT HIGHLIGHTS",
         limit: 4,
-        filter: (f) => f.slug!.startsWith("Information/References/") && f.slug! !== "Information/References/index" && !f?.frontmatter?.sidebar,
+        filter: (f) => f.slug!.startsWith("Information/References/") && !f?.frontmatter?.index && !f?.frontmatter?.sidebar,
         linkToMore: "Information/References/" as SimpleSlug,
       }),
     ),

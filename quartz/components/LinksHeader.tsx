@@ -11,7 +11,10 @@ export default (() => {
       <div>
         <div id="links-header">
           <span>
-            <a href="/Output/">🌱Output</a>
+            <a href="/Output/Things_I_Found/">🔖Things I Found</a>
+          </span>
+          <span>
+            <a href="/Output/Writings/">🌱Writings</a>
           </span>
           <span>
             <a href="/Information/References/">🗂️References</a>
