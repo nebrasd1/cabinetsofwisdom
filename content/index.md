@@ -21,5 +21,5 @@ True to form, the House of Wisdom [did have many imitators](https://en.wikipedia
 - [[Disclaimers]]
 
 ## RSS Feeds
-- [Everything](http://localhost:8080/index.xml)
-- [Writings & Things I Found](http://localhost:8080/Output.rss)
+- [Everything](https://cabinetsofwisdom.com/index.xml)
+- [Writings & Things I Found](https://cabinetsofwisdom.com/Output.rss)
