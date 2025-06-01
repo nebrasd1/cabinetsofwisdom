@@ -24,6 +24,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import Author from "./Author"
+import Epistemic from "./Epistemic"
 import Properties from "./Properties"
 import SidebarLinks from "./SidebarLinks"
 import ProcessLinks from "./ProcessLinks"
@@ -57,6 +58,7 @@ export {
   Flex,
   ConditionalRender,
   Author,
+  Epistemic,
   Properties,
   SidebarLinks,
   ProcessLinks,
