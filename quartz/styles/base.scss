@@ -205,7 +205,8 @@ a {
       margin: 0 auto;
     }
 
-    & .sidebar {
+    & .sidebar { //put this whole thing in "not mobile" to make sure it doesn't make a big gap above and below in mobile mode)
+    @media all and not ($mobile) {
       gap: 2rem;
       top: 0;
       box-sizing: border-box;
@@ -213,6 +214,7 @@ a {
       display: flex;
       min-height: 100vh;
       position: sticky;
+    }
     }
 
     & .sidebar.left {

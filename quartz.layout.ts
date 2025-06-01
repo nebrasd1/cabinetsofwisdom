@@ -25,8 +25,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.ConditionalRender({
-      component: Component.Properties(), //right now using this as epistemic disclosure box.. if i need it for something else, might need to make an offshoot of it.
+      component: Component.Epistemic(),
       condition: (page) => page.fileData.slug.startsWith("Output/Writings"),
+    }),
+    Component.ConditionalRender({
+      component: Component.Properties(),
+      condition: (page) => page.fileData.slug.startsWith("Information/References"),
     }),
     Component.TagList(),
   ],
@@ -40,7 +44,6 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
       ],
     }),
     Component.DesktopOnly(
@@ -64,8 +67,8 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     //Component.Graph(),
-    Component.Backlinks(),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
   ],
 }
 
