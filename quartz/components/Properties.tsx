@@ -4,7 +4,14 @@ import  style from "./styles/properties.scss"
 
 var disablePropertiesComponent = false // enable/disable here
 var propertiesExcluded: string [] = [] // Blacklisted properties
-var propertiesIncluded: string [] = ["📚source", "📶certainty", "⚖️bias", "🎯purpose", ] // Whitelisted properties
+var propertiesIncluded: string [] = ["author", "url", "datePublished", "date", "type", "source", "lenses"] // Whitelisted properties
+
+// Mapping property names to look nicer in the website
+const displayNameMap: Record<string, string> = {
+  datePublished: "Date Published",
+  url: "Original Link",
+  date: "Date Last Highlighted"
+}
 
 function createLinkedElement(fileData: any, opts : any, value: string) {
   let cleanedValue = value.replace(/['"\[\]]+/g, '')
@@ -16,10 +23,23 @@ function createLinkedElement(fileData: any, opts : any, value: string) {
 }
 
 function createPropertyElement(key: string, value: any) {
+ const displayName = displayNameMap[key] || key //this is needed for the property name mapping we did way above (also adjusts key to DisplayName three lines below)
+
+ // If it's a URL property and a valid URL, create a clickable link
+  if (key === "url" && typeof value === "string" && value.startsWith("http")) {
+    return (
+      <li>
+        <span class="property">{displayName}</span>:{" "}
+        <a href={value} target="_blank" rel="noopener noreferrer" class="external">
+          {value}
+        </a>
+      </li>
+    )
+  }
 
   return(
     <li>
-      <span class="property">{key}</span>: <span class="value">{value}</span>
+      <span class="property">{displayName}</span>: <span class="value">{value}</span>
     </li>
   )
 }
@@ -60,6 +80,7 @@ export default (() => {
         var keyIsIncluded = propertiesIncluded.includes(key)
 
         // Choose whitelist or blacklist filtering of properties (changed below to only show whitelisted properties and assume all others are blacklisted)
+        // Added a whole section in here to make it so url property shows up as a proper clickable link.
 //        if(!keyIsExcluded){
           if((useWhitelist && keyIsIncluded) || (!useWhitelist && !keyIsExcluded)) {
           var linkedElements = []
@@ -72,8 +93,16 @@ export default (() => {
                   linkedElements.push(", ")
                 }
                 linkedElements.push(createLinkedElement(fileData, opts, valueStringArray[i]))
-              }
-              else{
+              } else if (key === "url" && valueStringArray[i].startsWith("http")) {
+                if (i > 0) {
+                  linkedElements.push(", ")
+                }
+                linkedElements.push(
+                  <a href={valueStringArray[i]} target="_blank" rel="noopener noreferrer" class="external">
+                    {valueStringArray[i]}
+                  </a>
+                )
+              } else{
                 linkedElements.push(valueStringArray[i])
               }
             }
@@ -95,13 +124,8 @@ export default (() => {
     else{
       return (
         <div class="properties">
-          <h3>ℹ️Epistemic Disclosure</h3>
+          <h3>ℹ️Properties</h3>
           <ul>{propertiesElements}</ul>
-          <small className="properties__more">
-            <a href="/Output/Writings/Epistemic-Disclosure">
-              Learn more about this box ↗
-            </a>
-          </small>
         </div>
       )
     }
