@@ -1,8 +1,8 @@
 ---
 title: The Serviceberry
 author: Robin Wall Kimmerer and John Burgoyne
-url: 
-published: 
+url:
+published:
 date: 2025-03-18
 modified: 2025-05-10T14:55:44+03:00
 type:
@@ -12,6 +12,7 @@ source:
 lenses:
   - "[[Community]]"
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
