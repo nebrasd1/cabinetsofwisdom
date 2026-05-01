@@ -1,14 +1,15 @@
 ---
-title: "Favorite Folktales From Around the World"
-author: "Jane Yolen"
-url: 
-published: 
+title: Favorite Folktales From Around the World
+author: Jane Yolen
+url:
+published:
 date: 2019-12-06
-modified:
+modified: 2026-04-27T13:34:32+03:00
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
