@@ -1,12 +1,12 @@
 ---
-title: "The History of Timekeeping"
+title: The History of Timekeeping
 date: 2024-02-05
-datePublished: 
+datePublished:
 type: podcasts
 source: snipd
 url: https://share.snipd.com/episode/bcd32252-7f99-411f-9dad-9b320a199e38
-author: "You're Dead to Me"
-lenses: 
+author: You're Dead to Me
+lenses:
 publish: true
 ---
 > [!note]+ Basic Info
