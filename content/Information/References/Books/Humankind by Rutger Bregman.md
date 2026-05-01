@@ -1,14 +1,15 @@
 ---
-title: "Humankind"
-author: "Rutger Bregman"
-url: 
-published: 
+title: Humankind
+author: Rutger Bregman
+url:
+published:
 date: 2023-11-21
 modified:
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
