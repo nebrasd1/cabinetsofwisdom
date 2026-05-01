@@ -1,14 +1,17 @@
 ---
-title: "Capitalist Realism"
+title: Capitalist Realism
 date: 2023-09-23
-datePublished: 
+datePublished:
 type: books
 source: manual
-url: 
-author: "Mark Fisher"
-lenses: 
-  - "[[capitalism]]" 
+url:
+author: Mark Fisher
+lenses:
+  - "[[capitalism]]"
 publish: true
+consumed: true
+purchased: true
+modified: 2026-04-29T10:04:17+03:00
 ---
 > [!note]+ Basic Info
 > 
@@ -42,7 +45,7 @@ publish: true
 ✏️ Making me think about Saudi "preserving" the traditions of the flower men. Are they being preserved for their sake first? Or is it for the sake of tourism and needs to be preserved with that lens in mind?
  If a tourist came and the flower men weren't wearing their wreaths, would that be okay? For a day? A week? A month? If tourists complained, who would the government side with?
 
-👓 [[ksa]]  [[colonization]] 
+👓 [[ksa|ksa]]  [[colonization|colonization]] 
 📖 (Page 4)
 
 
@@ -51,7 +54,7 @@ publish: true
 > Quote by Marx and Engel in Communist Manifesto
 
 
-👓 [[quote]] 
+👓 [[quote|quote]] 
 📖 (Page 4)
 
 
@@ -77,7 +80,7 @@ publish: true
 > Needless to say, what counts as 'realistic', what seems possible at any point in the social field, is defined by a series of political determinations. An ideological position can never be really successful until it is naturalized, and it cannot be naturalized while it is still thought of as a value rather than a fact.
 > Accordingly, neoliberalism has sought to eliminate the very category of value in the ethical sense. Over the past thirty years, capitalist realism has successfully installed a 'business ontology' in which it is simply obvious that everything in society, including healthcare and education, should be run as a business. As any number of radical theorists from Brecht through to Foucault and Badiou have maintained, emancipatory politics must always destroy the appearance of a 'natural order', must reveal what is presented as necessary and inevitable to be a mere contingency, just as it must make what was previously deemed to be impossible seem attainable
 
-✏️ Need to digest this more #followu
+✏️ Need to digest this more #followup 
 
 📖 (Page 16)
 
@@ -87,7 +90,7 @@ publish: true
 
 ✏️ Think about things like the electric trolleys throughout the US, etc. For sure there are more examples.. Rise of privatization was this way from pre to post 70s apparently.
 
-👓 [[quote]] 
+👓 [[quote|quote]] 
 📖 (Page 17)
 
 
@@ -142,7 +145,7 @@ publish: true
 
 ✏️ Just as with kpis and targets being all that matters regardless of the original purpose, data becomes meaningless except in terms of serving the performance.
 
-👓 [[hypocrisy]] 
+👓 [[hypocrisy|hypocrisy]] 
 📖 (Page 51)
 
 
@@ -159,7 +162,7 @@ publish: true
 
 ✏️ The meaningless of self surveillance
 
-👓 [[hypocrisy]] 
+👓 [[hypocrisy|hypocrisy]] 
 📖 (Page 52)
 
 
@@ -169,7 +172,7 @@ publish: true
 ✏️ An example of what it looks like when a regulator utilizes an entity's self surveillance for its auditing.
  One won't trust that the self assessment system is working properly unless you look appropriately self critical.. You have to perform again, regardless of the truth.. Because the "truth" of a good organization doesn't seem realistic enough.
 
-👓 [[hypocrisy]] 
+👓 [[hypocrisy|hypocrisy]] 
 📖 (Page 52)
 
 
