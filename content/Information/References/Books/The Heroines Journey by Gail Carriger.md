@@ -1,14 +1,15 @@
 ---
-title: "The Heroine's Journey"
-author: "Gail Carriger"
-url: 
-published: 
+title: The Heroine's Journey
+author: Gail Carriger
+url:
+published:
 date: 2020-11-13
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
