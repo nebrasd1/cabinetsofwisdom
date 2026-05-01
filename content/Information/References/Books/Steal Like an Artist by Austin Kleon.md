@@ -1,14 +1,15 @@
 ---
-title: "Steal Like an Artist"
-author: "Austin Kleon"
-url: 
-published: 
+title: Steal Like an Artist
+author: Austin Kleon
+url:
+published:
 date: 2017-07-15
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
