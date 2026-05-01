@@ -37,7 +37,7 @@ cssclasses:
 > | -------------- | ------------------------- |------------------------- |
 > | **Highlights**              | Done      | See section below |
 > | **Claims**                    | Not yet  |   |
-> | **Related Lenses**      | Processing   | <li>[[Capitalism]]</li><li>[[History]]</li><li>[[Politics]]</li><li>[[Socialism]]</li>  |
+> | **Related Lenses**      | Processing   | <li>[[Capitalism|Capitalism]]</li><li>[[History|History]]</li><li>[[Politics|Politics]]</li><li>[[Socialism|Socialism]]</li>  |
 > | **Related Questions** | Not yet  |  |
 > | **Output**                   | Not yet  |   |
 > 
