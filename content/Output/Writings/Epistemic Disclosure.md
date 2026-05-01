@@ -5,8 +5,8 @@ modified: 2025-01-20
 description: Figuring out "nutrition labels" for my articles.
 📚source:
   - Casual Research
-📶certainty: 
-⚖️bias: 
+📶certainty:
+⚖️bias:
 🎯purpose:
   - Spitballing
 ---
@@ -32,7 +32,7 @@ It's not always clear to me the boundaries between one or the other. Still strug
 #### Level of Certainty
 * "Level of Certainty" is crucial for honesty and responsible knowledge sharing. It's about acknowledging how sure you are about the information you're presenting. Are you completely certain, or is there some room for doubt? Maybe you're just exploring an idea and want to signal that you're not fully convinced yet.
 * e.g. Predicting the future is inherently uncertain, but it's crucial to analyze current developments and consider ethical implications.
-* ![[Hunston's Scale of Certainty.png]]
+* ![[Hunston's Scale of Certainty.png|Hunston's Scale of Certainty.png]]
 	* These I suppose are similar to the [confidence tags from gwern](https://gwern.net/about#confidence-tags): certain - highly likely - likely - possible - unlikely - highly unlikely - remote - impossible
 	* A combo? Known - Certain - Likely - Possible - Unlikely - Remote - Unknown?
 #### Potential Biases
