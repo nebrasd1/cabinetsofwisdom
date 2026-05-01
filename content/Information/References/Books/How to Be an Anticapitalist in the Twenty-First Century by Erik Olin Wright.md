@@ -1,15 +1,16 @@
 ---
-title: "How to Be an Anticapitalist in the Twenty-First Century"
-author: "Erik Olin Wright"
-url: 
-published: 
+title: How to Be an Anticapitalist in the Twenty-First Century
+author: Erik Olin Wright
+url:
+published:
 date: 2023-05-24
 modified:
 type: books
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
