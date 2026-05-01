@@ -1,14 +1,15 @@
 ---
-title: "Ina May's Guide to Childbirth"
-author: "Ina May Gaskin"
-url: 
-published: 
+title: Ina May's Guide to Childbirth
+author: Ina May Gaskin
+url:
+published:
 date: 2017-04-25
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
