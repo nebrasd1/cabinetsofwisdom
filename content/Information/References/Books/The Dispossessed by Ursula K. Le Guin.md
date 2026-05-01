@@ -1,14 +1,15 @@
 ---
-title: "The Dispossessed"
-author: "Ursula K. Le Guin"
-url: 
-published: 
+title: The Dispossessed
+author: Ursula K. Le Guin
+url:
+published:
 date: 2024-11-12
 modified:
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
