@@ -1,14 +1,16 @@
 ---
-title: "Leviathan Wakes"
-author: "James S. A. Corey"
-url: 
-published: 
+title: Leviathan Wakes
+author: James S. A. Corey
+url:
+published:
 date: 2017-01-23
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+consumed: true
+purchased:
 ---
 > [!example]- Process
 > 
