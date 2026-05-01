@@ -2,7 +2,7 @@
 title: Welcome to my Cabinets of Wisdom and Curiosity
 publish: true
 date: 2025-01-01
-modified: 
+modified:
 noRSS: true
 index: true
 cssclasses:
@@ -16,9 +16,9 @@ Yes, if you're aware of the original [House of Wisdom](https://en.wikipedia.org/
 True to form, the House of Wisdom [did have many imitators](https://en.wikipedia.org/wiki/House_of_Wisdom#Other_%22Houses_of_Wisdom%22), so, nothing wrong with adding to that.
 
 ## Links to Check Out / Start Here!
-- [[About Me]]
-- [[Website Intentions]]
-- [[Disclaimers]]
+- [[About Me|About Me]]
+- [[Website Intentions|Website Intentions]]
+- [[Disclaimers|Disclaimers]]
 
 ## RSS Feeds
 - [Everything](https://cabinetsofwisdom.com/index.xml)
