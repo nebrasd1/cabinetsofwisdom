@@ -1,14 +1,15 @@
 ---
-title: "When God Was a Woman"
-author: "Merlin Stone"
-url: 
-published: 
+title: When God Was a Woman
+author: Merlin Stone
+url:
+published:
 date: 2021-02-04
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
