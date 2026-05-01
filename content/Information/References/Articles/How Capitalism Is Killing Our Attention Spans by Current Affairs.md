@@ -1,12 +1,12 @@
 ---
-title: "How Capitalism Is Killing Our Attention Spans"
+title: How Capitalism Is Killing Our Attention Spans
 date: 2023-04-30
 datePublished: 2023-03-11
 type: articles
 source: reader
 url: https://www.currentaffairs.org/2023/03/how-capitalism-is-killing-our-attention-spans/
-author: "Current Affairs"
-lenses: 
+author: Current Affairs
+lenses:
 publish: true
 ---
 > [!note]+ Basic Info
