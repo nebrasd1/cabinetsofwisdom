@@ -1,18 +1,19 @@
 ---
-title: "The Patriarchs"
-author: "Angela Saini;"
-url: 
+title: The Patriarchs
+author: Angela Saini
+url:
 published: 2023-05-25
 date: 2023-06-16
 modified:
 type: books
 source: reader
-lenses: 
-  - "[[Exploitation]]" 
-  - "[[History]]" 
-  - "[[Injustice]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Exploitation]]"
+  - "[[History]]"
+  - "[[Injustice]]"
+  - "[[Women]]"
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

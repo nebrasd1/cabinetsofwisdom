@@ -1,14 +1,16 @@
 ---
 title: How to Take Smart Notes
 author: Sönke Ahrens
-url: 
-published: 
+url:
+published:
 date: 2021-08-15
 modified: 2025-05-05T18:04:04+03:00
 type: books
 source: clippings_html
-lenses: 
+lenses:
 publish: true
+consumed: true
+purchased:
 ---
 > [!example]- Process
 > 

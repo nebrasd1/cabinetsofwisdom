@@ -1,14 +1,16 @@
 ---
-title: "Save the Cat"
-author: "Blake Snyder"
-url: 
-published: 
+title: Save the Cat
+author: Blake Snyder
+url:
+published:
 date: 2012-05-18
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+consumed: true
+purchased:
 ---
 > [!example]- Process
 > 

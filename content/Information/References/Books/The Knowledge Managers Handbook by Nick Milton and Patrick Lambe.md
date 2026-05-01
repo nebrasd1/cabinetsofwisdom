@@ -1,14 +1,15 @@
 ---
-title: "The Knowledge Manager's Handbook"
-author: "Nick Milton and Patrick Lambe"
-url: 
-published: 
+title: The Knowledge Manager's Handbook
+author: Nick Milton and Patrick Lambe
+url:
+published:
 date: 2021-05-03
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

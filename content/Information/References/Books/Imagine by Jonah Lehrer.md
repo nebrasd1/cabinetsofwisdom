@@ -1,14 +1,15 @@
 ---
-title: "Imagine"
-author: "Jonah Lehrer"
-url: 
-published: 
+title: Imagine
+author: Jonah Lehrer
+url:
+published:
 date: 2012-05-30
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

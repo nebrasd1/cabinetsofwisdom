@@ -1,14 +1,15 @@
 ---
-title: "How to Start a Home-Based Editorial Services Business"
-author: "Barbara Fuller"
-url: 
-published: 
+title: How to Start a Home-Based Editorial Services Business
+author: Barbara Fuller
+url:
+published:
 date: 2016-07-19
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

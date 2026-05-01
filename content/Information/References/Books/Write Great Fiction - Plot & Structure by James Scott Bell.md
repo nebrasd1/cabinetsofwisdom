@@ -1,14 +1,15 @@
 ---
-title: "Write Great Fiction - Plot & Structure"
-author: "James Scott Bell"
-url: 
-published: 
+title: Write Great Fiction - Plot & Structure
+author: James Scott Bell
+url:
+published:
 date: 2016-09-07
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

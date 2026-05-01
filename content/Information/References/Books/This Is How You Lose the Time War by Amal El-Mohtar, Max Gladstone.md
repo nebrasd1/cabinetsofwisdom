@@ -1,14 +1,15 @@
 ---
-title: "This Is How You Lose the Time War"
-author: "Amal El-Mohtar, Max Gladstone"
-url: 
-published: 
+title: This Is How You Lose the Time War
+author: Amal El-Mohtar, Max Gladstone
+url:
+published:
 date: 2020-12-20
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

@@ -1,12 +1,12 @@
 ---
-title: "Alien"
+title: Alien
 date: 2024-02-05
-datePublished: 
+datePublished:
 type: podcasts
 source: snipd
 url: https://share.snipd.com/episode/8a1e238c-af74-4e1b-9a9f-b19e0526d5c3
-author: "Movies vs. Capitalism"
-lenses: 
+author: Movies vs. Capitalism
+lenses:
 publish: true
 ---
 > [!note]+ Basic Info

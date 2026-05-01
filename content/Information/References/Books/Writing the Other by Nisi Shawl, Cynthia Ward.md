@@ -1,14 +1,15 @@
 ---
-title: "Writing the Other"
-author: "Nisi Shawl, Cynthia Ward"
-url: 
-published: 
+title: Writing the Other
+author: Nisi Shawl, Cynthia Ward
+url:
+published:
 date: 2020-12-02
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

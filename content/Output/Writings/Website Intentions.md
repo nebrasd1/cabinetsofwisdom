@@ -7,11 +7,11 @@ publish: true
 date: 2025-01-04
 modified: 2025-04-01
 description: What it says on the tin.. what I want out of this whole thing.
-lenses: 
-📚source: 
+lenses:
+📚source:
   - Deep Thought
-📶certainty: 
-⚖️bias: 
+📶certainty:
+⚖️bias:
 🎯purpose:
 ---
 ## What is this website for?

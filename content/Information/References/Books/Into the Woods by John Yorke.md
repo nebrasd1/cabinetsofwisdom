@@ -1,14 +1,17 @@
 ---
-title: "Into the Woods"
-author: "John Yorke"
-url: 
-published: 
+title: Into the Woods
+author: John Yorke
+url:
+published:
 date: 2018-08-01
-modified:
+modified: 2026-04-19T17:08:11+03:00
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
+aliases:
+  - Into the Woods
 ---
 > [!example]- Process
 > 

@@ -1,14 +1,15 @@
 ---
-title: "The Antidote"
-author: "Oliver Burkeman"
-url: 
-published: 
+title: The Antidote
+author: Oliver Burkeman
+url:
+published:
 date: 2018-09-27
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

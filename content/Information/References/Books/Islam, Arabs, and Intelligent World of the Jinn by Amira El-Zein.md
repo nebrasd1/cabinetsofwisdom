@@ -1,14 +1,15 @@
 ---
-title: "Islam, Arabs, and Intelligent World of the Jinn"
-author: "Amira El-Zein"
-url: 
-published: 
+title: Islam, Arabs, and Intelligent World of the Jinn
+author: Amira El-Zein
+url:
+published:
 date: 2019-06-04
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
@@ -33,7 +34,7 @@ publish: true
 ### Location 121
 > Generally speaking, it is difficult for westerners to understand how one can be monotheist and still believe in spiritual beings such as the jinn. Some westerners summarize this issue as follows: either you are polytheist and you believe in spirits, or you are monotheist and you believe only in God, angels, and the devil.
 
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 121](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=121)
 
 ### Location 224
@@ -62,7 +63,7 @@ publish: true
 > Suhrawardi’s tale, by the symbol of the drop of balm exposed in the hollow of the hand to the sun, it is a matter of entering, passing into the interior and, in passing into the interior, of finding oneself, paradoxically, outside, or, in the language of our authors, ‘on the convex surface’ of the ninth sphere—in other words ‘beyond the mountain of Qaf.’
 
 ✏️ Something a mentor or crazy wise figure would do and talk about
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 515](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=515)
 
 ### Location 530
@@ -78,33 +79,33 @@ publish: true
 ### Location 551
 > Qur’anic example of what imagination really means. “And abounding fruit, not picked nor forbidden” (Qur’an 56:32*). He elaborates on this verse, “You look at the fruit and see it not picked and you look at your hand and you see that it is in your hand and you are eating it; and you realize without any doubt that the fruit you are eating is on the tree and hasn’t been picked up.”
 
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 551](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=551)
 
 ### Location 554
 > imagination is viewed as a synthesis, a realization of an ambiguous power or a faculty of the mind, a medium that reverses the situation we have on Earth because it “brings about the embodiment of immaterial things, even though they do not gain all the attributes of corporeality, remaining both/and.”
 
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 554](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=554)
 
 ### Location 580
 > The new physics established that the human and the cosmos are significantly interconnected in such a way that the consciousness of the human seems to affect the thing he/she is observing in the cosmos. In such a perspective, obviously, the cosmos is not seen as dead matter that the human controls, as Cartesians willed it. It is rather perceived as a living being that is aware and has its own consciousness. The new physics unraveled a web of interconnections and interdependencies in which humans and everything in the three planes of the cosmos exchange powers. “Their argument ([Albert] Einstein and [Niels] Bohr) had to do with the nature of observation. It seems a quantum mechanical system such as an atom or a subatomic system undergoes a rapid and unpredictable change whenever it is observed. This rapid change cannot be encompassed within the equations that describe quantum systems. It lies embarrassingly outside of the domain of mathematical representation. Somehow the very act of observing something causes an irreversible and uncontrollable change in the system, and this change effects and, for that matter, affects the relationship that exists between the observer and the observed.”51 The new physics disclosed a new vision of the universe where matter is the exception and the major component is energy, which obviously changes the conventional perception of microcosm (reason) controlling matter (macrocosm). The result is an open field of energy overflowing with infinite potentialities in which we and all the beings of the three realms participate, whether we are aware of it or not.
 
 ✏️ good topic to discuss and build up lore, mystique.
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 580](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=580)
 
 ### Location 598
 > “Know that the soul, the devil, the angel are not realities outside of you: you are they.”
 
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 598](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=598)
 
 ### Location 607
 > Islam advocates a path called “knowledge by presence” in which knowledge coincides with life itself. One is invited to utterly live one’s knowledge. This notion, however, requires that one lifts him/herself to a different mode of apprehension, which involves passing beyond the discursive pattern of thinking. The expression al-‘ilm al-huduri (knowledge by presence or presential knowledge), was coined by al-Suhrawardi, who founded the school of Ishraq (Illumination), which states intuitive knowledge apprehends reality better than discursive philosophy. The expression “presential knowledge” is in contrast to al-‘ilm al-husuli (conceptual knowledge). As contemporary Muslim scholar Seyyed Hossein Nasr expounds, “Man can know through intuition and revelation not because he is a thinking being who imposes the categories of his thought upon what he perceives but because knowledge is being. The nature of reality is none other than consciousness which, needless to say, cannot be limited to only its individual human mode.”54 Presential knowledge involves unity between knowledge, subject, and object, the three referring to the same reality. Knower relates to known as the created relates to the creator. This resembles the relation established between subject and object in the Quantum physics’ perspective, with the exception that the “sacred” dimension or/and the transcendental is not always present in the texts of quantum theorists. It is possible to understand the multiple worlds and access them if one’s life is in agreement and harmony with the existence of these worlds. According to Corbin, “What distinguishes the traditional cosmology of the theosophers in Islam, for example, is that its structure—where the worlds and interworlds beyond the mountain of Qaf, that is, beyond the physical universes, are arranged in levels—is intelligible only for an existence in which the act of being is in accordance with its presence in those worlds, for reciprocally, it is in accordance with this act of being that these worlds are present in it.”55 Through presential knowledge, one could undertake the journey to the imaginal realm of the jinn without recourse to a polytheist view of things as Hillman suggests. It should be noted here that when Muslim theosophists say knowledge coincides with life, they don’t mean one is invited to a literal interpretation of this hierarchical universe with its beings. On the contrary, when one succeeds to live the inseparability of natural conscience and human conscience, one experiences the most stunning openness of mind, heart, and spirit, which allows him/her to comprehend these most complex and intriguing correspondences between humans and jinn
 
 ✏️ Need to read this more to understand if I can use it.
-👓 [[pink]]
+👓 [[pink|pink]]
 🔗 [Location 607](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=607)
 
 ### Location 664
@@ -112,7 +113,7 @@ publish: true
 
 ✏️ This would be great if I can come up with a good argument as to why the Quran doesn't mention jinn messengers.
  Cuz the line does imply that they came from "among you".. so why not from the jinn?
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 664](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=664)
 
 ### Location 794
@@ -120,13 +121,13 @@ publish: true
 
 ✏️ Racist guy against jinn.. Wants them segregated from humans in paradise, says they become ugly there, says bad humans become him as a firm of degradation.. Etc.
  Negative character
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 794](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=794)
 
 ### Location 847
 > Badr al-din al-Shibli (d. 1312), gives the following analogy regarding the invisible and manifest realms: “We don’t see the wind as long as it is thin and light but when it gets mixed with dust, we can see it moving.”
 
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 847](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=847)
 
 ### Location 854
@@ -137,7 +138,7 @@ publish: true
 ### Location 885
 > ibn ‘Arabi maintains imagination allows humans to be superior to jinn.
 
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 885](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=885)
 
 ### Location 941
@@ -146,25 +147,25 @@ publish: true
 ✏️ Humans made of mud beat jinn made of fire.
  Think of how that affects a hybrid
  Think of scorpius too
-👓 [[pink]]
+👓 [[pink|pink]]
 🔗 [Location 941](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=941)
 
 ### Location 947
 > water and fire are two elements in conflict. They represent all the opposites in the elemental world. Together, they give heat and humidity necessary to the creation of life. In a sense, the burning water becomes the unity of opposites.
 
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 947](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=947)
 
 ### Location 951
 > jinn possessed the art of working metals. It was a common belief among the pre-Islamic Arabs that jinn craft powerful swords.
 
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 951](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=951)
 
 ### Location 961
 > oases full of orchards and palm trees are the work of jinn who jealously defend them;
 
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 961](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=961)
 
 ### Location 1038
@@ -176,7 +177,7 @@ publish: true
 > Islam thus closed the higher realm to jinn who, before its advent, constantly visited angels and engaged in dialogue with them.
 
 ✏️ Good conflict idea.. Jinn who resent human for leading to closing of the doors to heaven
-👓 [[pink]]
+👓 [[pink|pink]]
 🔗 [Location 1046](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=1046)
 
 ### Location 1050
@@ -217,13 +218,13 @@ publish: true
  Jinn existing forever before they become wayward and corrupt.. God sending angels and some form of jinn support to battle the jinn on earth.
  Variations say iblis was head of angels in lower heavens, then is rewarded as being vice regent.. Or iblis was a captured jinn from these wars.
  Also, hidden jinn from these times that escaped till now.
-👓 [[pink]]
+👓 [[pink|pink]]
 🔗 [Location 1204](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=1204)
 
 ### Location 1232
 > Were all the jinn killed in these battles? If some of them did survive the fierce battles with the angels, where did they hide? How long?
 
-👓 [[pink]]
+👓 [[pink|pink]]
 🔗 [Location 1232](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=1232)
 
 ### Location 1275
@@ -232,7 +233,7 @@ publish: true
 ✏️ Are angels practicing blind faith? It's said they have no will but to obey God right?
  They do question him about humans betraying and being corrupt.
  But humans are given knowledge beyond what they have.
-👓 [[pink]]
+👓 [[pink|pink]]
 🔗 [Location 1275](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=1275)
 
 ### Location 1282
@@ -255,7 +256,7 @@ publish: true
  Is not about fighting the devil per se. God gives us all the tools and awareness about Good and evil.. Then holds us and only us accountable.
  The devil doesn't convince good people to do bad things.. People do that on their own.. He just sways the ones that are already considering it and leaning down that path.
  There's a verse about him saying as much.. I shall trick and sway the humans except the ones devoted to you.
-👓 [[pink]]
+👓 [[pink|pink]]
 🔗 [Location 1330](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=1330)
 
 ### Location 1449
@@ -401,7 +402,7 @@ publish: true
  Exorcist wasn’t rebuked but rather had to be very pious to do his work.
  Medicine was never pushed away.. Islam advocated for science and medicine to cure as well.
  There was always a seeking of concordance and harmony between mind, body, spirit and so on.
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 2200](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=2200)
 
 ### Location 2296
@@ -569,13 +570,13 @@ publish: true
 ### Location 3430
 > “God takes into account from the cosmos only the human species and the jinn. He appointed manifestation for the human beings, from His name the Manifest, and He appointed nonmanifestation for the jinn, from his Name the Nonmanifest.”
 
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 3430](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=3430)
 
 ### Location 3441
 > “O people of jinn and men, if you are able to pass through the confines of heaven and earth, pass through them! You shall not pass through except with an authority.” Thus, humans and jinn could explore all things in the heavens and on Earth with an authority from God.
 
-👓 [[blue]]
+👓 [[blue|blue]]
 🔗 [Location 3441](https://readwise.io/to_kindle?action=open&asin=B004E0Z3YU&location=3441)
 
 ### Location 3932

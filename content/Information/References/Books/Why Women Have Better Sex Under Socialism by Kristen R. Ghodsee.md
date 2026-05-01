@@ -1,14 +1,15 @@
 ---
-title: "Why Women Have Better Sex Under Socialism"
-author: "Kristen R. Ghodsee"
-url: 
-published: 
+title: Why Women Have Better Sex Under Socialism
+author: Kristen R. Ghodsee
+url:
+published:
 date: 2023-11-06
 modified:
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
@@ -185,7 +186,7 @@ publish: true
 > In the 1820s and 1830s, the utopian socialist SaintSimonians organized themselves into small religious communities in Paris, pooling their incomes and living collectively. An early leader, Prosper Enfantin, served as the community's "pope"; he proposed to share his position of authority with a woman who would serve as a "popesse." Unlike Mary Wollstonecraft and John Stuart Mill, who based their arguments for sexual equality on men's and women's innate rationality, the Saint-Simonians believed that men and women had different but complementary natures and that both spiritual and political authority required representation from each half of humanity. After internal debates, Enfantin's views prevailed, and the larger Saint-Simonian community was to be ruled by a couple-pope who served as the living representatives of God's masculine and feminine attributes. All positions of power were to be shared by a representative from each sex: each smaller community was headed by a male-female couple, their collective homes were led by a "brother" and "sister" pair, and each of their work syndicates was governed by a "director" and a "directress."
 
 ✏️ What an awesome concept of a faction that has shared leadership between men and women
-👓 [[swn]] [[ttrpg]]
+👓 [[swn|swn]] [[ttrpg|ttrpg]]
 📖 (Page 84)
 
 ### Page 87

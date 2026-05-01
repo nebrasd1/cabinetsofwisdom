@@ -1,14 +1,15 @@
 ---
-title: "The Capital Order"
-author: "Clara E. Mattei"
-url: 
-published: 
+title: The Capital Order
+author: Clara E. Mattei
+url:
+published:
 date: 2025-03-19
 modified:
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

@@ -1,14 +1,15 @@
 ---
-title: "Turn This World Inside Out"
-author: "Nora Samaran"
-url: 
-published: 
+title: Turn This World Inside Out
+author: Nora Samaran
+url:
+published:
 date: 2020-12-28
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

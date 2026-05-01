@@ -1,16 +1,16 @@
 ---
-title: "The Rise of the Meritocratic Elite"
-author: "Sam Friedman"
+title: The Rise of the Meritocratic Elite
+author: Sam Friedman
 url: https://jacobin.com/2025/01/british-elites-inequality-meritocracy-education/
 published: 2025-01-08
 date: 2025-01-28
-modified:
+modified: 2026-04-29T10:06:20+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
-  - "[[Systems]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
+  - "[[Systems]]"
 publish: true
 ---
 > [!example]- Process
@@ -32,14 +32,14 @@ It's not about individuals.. it's about systems.
 
 ✏️ The trend of showcasing the ultra wealthy in tv shows and movies. 
  This is my issue with it. It's sometimes critical, but mostly it's reveling in their wealth and spectacle.
-👓 [[storytelling]] [[propaganda]]
+👓 [[storytelling|storytelling]] [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01jjp8zdy6rn8jrppghvzjha2k)
 
 ### id844783284
 > What often is missing is a structural critique. It tends to be more of a “these people are individually flawed, rather than the processes that have brought them to those positions.”
 
 ✏️ This is the essential issue.. they're right. It's still character-focused, but never looking at the system that put them in place, let alone criticizing it and pointing out the problems there.
-👓 [[propaganda]] [[systems]] [[storytelling]]
+👓 [[propaganda|propaganda]] [[systems|systems]] [[storytelling|storytelling]]
 🔗 [View Highlight](https://read.readwise.io/read/01jjp91mg1xe3jgjx3xqngxeha)
 
 ### id844783908
@@ -57,7 +57,7 @@ It's not about individuals.. it's about systems.
 ### id844783949
 > social structure that not only undermines elites’ capacity to influence but eliminates the existence of elites altogether?
 
-✏️ #addtoquestions
+✏️ #addto/questions 
  Can you make society work without needing individuals with authority and responsibility that inevitably gives them too much power, and creates an elite class eventually?
 🔗 [View Highlight](https://read.readwise.io/read/01jjp983fbvjwh75953d3hw0r7)
 

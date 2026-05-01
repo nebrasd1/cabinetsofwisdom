@@ -1,14 +1,15 @@
 ---
-title: "The Patriarchs"
-author: "Angela Saini"
-url: 
-published: 
+title: The Patriarchs
+author: Angela Saini
+url:
+published:
 date: 2023-10-06
 modified:
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
@@ -93,7 +94,7 @@ publish: true
 
 ✏️ A topic and statement all on its own. #potentialpiece
  Think about where the burden of proof lies whenever they find stuff. If a man is buried with a royal seal, it's accepted as common sense, but if a woman has one, it must be that it belongs to her husband. It's not common sense for her to be a king or leader, so you have to prove it instead.
-👓 [[hypocrisy]] [[gender]]
+👓 [[hypocrisy|hypocrisy]] [[gender|gender]]
 📖 (Page 117)
 
 ### Page 118
@@ -195,7 +196,7 @@ publish: true
 
 ✏️ More about the previous highlight.
  Key sentence is how those rights were ultimately the gift of the shah rather than the product of a just society. #followup
-👓 [[ksa]]
+👓 [[ksa|ksa]]
 📖 (Page 185)
 
 ### Page 190

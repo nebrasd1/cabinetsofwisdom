@@ -1,14 +1,16 @@
 ---
-title: "Circles of Men"
-author: "Clay Boykin"
-url: 
-published: 
+title: Circles of Men
+author: Clay Boykin
+url:
+published:
 date: 2022-07-04
-modified:
+modified: 2026-04-19T17:04:53+03:00
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+consumed: true
+purchased:
 ---
 > [!example]- Process
 > 

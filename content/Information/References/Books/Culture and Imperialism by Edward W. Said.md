@@ -1,14 +1,15 @@
 ---
-title: "Culture and Imperialism"
-author: "Edward W. Said"
-url: 
+title: Culture and Imperialism
+author: Edward W. Said
+url:
 published: 2012-10-24
 date: 2023-05-05
-modified:
+modified: 2026-04-20T11:25:10+03:00
 type: books
 source: reader
-lenses: 
+lenses:
 publish: true
+purchased: true
 ---
 > [!example]- Process
 > 

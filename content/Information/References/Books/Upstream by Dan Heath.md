@@ -1,14 +1,15 @@
 ---
-title: "Upstream"
-author: "Dan Heath"
-url: 
-published: 
+title: Upstream
+author: Dan Heath
+url:
+published:
 date: 2021-03-29
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

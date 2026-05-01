@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 type:
   - posts
 postType:
@@ -8,10 +8,10 @@ publish: true
 date: ""
 modified: ""
 description: Quick "bio" of sorts, covering some basic stats and biases for now.
-lenses: 
-📚source: 
-📶certainty: 
-⚖️bias: 
+lenses:
+📚source:
+📶certainty:
+⚖️bias:
 🎯purpose:
 ---
 Not sure what I'm supposed to put here, especially if I'm trying to maintain a modicum of anonymity. 

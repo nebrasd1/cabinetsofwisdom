@@ -1,14 +1,15 @@
 ---
-title: "The New York Times Manual of Style and Usage"
-author: "Allan M. Siegal, William Connolly"
-url: 
-published: 
+title: The New York Times Manual of Style and Usage
+author: Allan M. Siegal, William Connolly
+url:
+published:
 date: 2020-09-04
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

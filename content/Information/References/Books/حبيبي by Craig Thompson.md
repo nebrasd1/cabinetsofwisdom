@@ -1,14 +1,15 @@
 ---
-title: "حبيبي"
-author: "Craig Thompson"
-url: 
-published: 
+title: حبيبي
+author: Craig Thompson
+url:
+published:
 date: 2022-07-12
 modified:
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

@@ -1,14 +1,17 @@
 ---
 title: Blood in the Machine
 author: Brian Merchant
-url: 
-published: 
+url:
+published:
 date: 2024-10-05
-modified: 2025-05-10T14:54:51+03:00
+modified: 2026-04-20T11:24:57+03:00
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+consumed: true
+consuming:
+purchased: true
 ---
 > [!example]- Process
 > 
@@ -296,14 +299,14 @@ publish: true
 
 ✏️ Simple but powerful quote by George Mellor, one of the General Ludds of the movement and his death making the peak of it passing.
  Deserves to be captured.
-👓 [[quote]]
+👓 [[quote|quote]]
 📖 (Page 312)
 
 ### Page 313
 > In a sense, it was not the machinery they were defending - it was the factory owner's prerogative to employ boys like Robert for next to nothing, instead of skilled men like George Mellor for a full wage.
 
 ✏️ True. They distract us by focusing on the economic growth and the"awesome" tech, but really what the titans are actually defending is their ability to exploit workers (like boys) at criminally lower wages.
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 📖 (Page 313)
 
 ### Page 314

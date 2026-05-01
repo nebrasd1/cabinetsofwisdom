@@ -1,14 +1,15 @@
 ---
-title: "Write Great Fiction - Characters, Emotion & Viewpoint"
-author: "Nancy Kress"
-url: 
-published: 
+title: Write Great Fiction - Characters, Emotion & Viewpoint
+author: Nancy Kress
+url:
+published:
 date: 2016-09-05
-modified:
+modified: 2026-04-19T17:03:51+03:00
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

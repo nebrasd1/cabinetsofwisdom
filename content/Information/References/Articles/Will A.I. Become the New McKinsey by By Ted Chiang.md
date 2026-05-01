@@ -1,14 +1,14 @@
 ---
-title: "Will A.I. Become the New McKinsey?"
+title: Will A.I. Become the New McKinsey?
 date: 2023-05-06
 datePublished: 2023-05-05
 type: articles
 source: reader
 url: https://12ft.io/proxy?q=https%3A%2F%2Fwww.newyorker.com%2Fscience%2Fannals-of-artificial-intelligence%2Fwill-ai-become-the-new-mckinsey
-author: "By Ted Chiang"
-lenses: 
-  - "[[ai]]" 
-  - "[[capitalism]]" 
+author: By Ted Chiang
+lenses:
+  - "[[ai]]"
+  - "[[capitalism]]"
 publish: true
 ---
 > [!note]+ Basic Info

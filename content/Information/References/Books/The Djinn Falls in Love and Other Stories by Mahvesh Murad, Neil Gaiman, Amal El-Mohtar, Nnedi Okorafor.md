@@ -1,14 +1,15 @@
 ---
-title: "The Djinn Falls in Love and Other Stories"
-author: "Mahvesh Murad, Neil Gaiman, Amal El-Mohtar, Nnedi Okorafor"
-url: 
-published: 
+title: The Djinn Falls in Love and Other Stories
+author: Mahvesh Murad, Neil Gaiman, Amal El-Mohtar, Nnedi Okorafor
+url:
+published:
 date: 2021-04-12
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

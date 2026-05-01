@@ -1,14 +1,15 @@
 ---
-title: "Mutual Aid; An Illustrated Factor of Evolution"
-author: "Peter Kropotkin"
-url: 
-published: 
+title: Mutual Aid; An Illustrated Factor of Evolution
+author: Peter Kropotkin
+url:
+published:
 date: 2025-04-25
 modified:
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

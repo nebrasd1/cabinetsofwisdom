@@ -1,14 +1,15 @@
 ---
-title: "The Tyranny of Merit"
-author: "Michael J. Sandel"
-url: 
-published: 
+title: The Tyranny of Merit
+author: Michael J. Sandel
+url:
+published:
 date: 2024-10-11
 modified:
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 

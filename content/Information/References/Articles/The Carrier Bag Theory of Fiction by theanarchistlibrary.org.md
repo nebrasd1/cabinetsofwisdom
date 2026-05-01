@@ -1,13 +1,13 @@
 ---
-title: "The Carrier Bag Theory of Fiction"
-author: "theanarchistlibrary.org"
-url: https://theanarchistlibrary.org/library/ursula-k-le-guin-the-carrier-bag-theory-of-fiction
-published: 
+title: The Carrier Bag Theory of Fiction
+author: theanarchistlibrary.org
+url: https://theanarchistlibrary.org/mirror/u/uk/ursula-k-le-guin-the-carrier-bag-theory-of-fiction.pdf
+published:
 date: 2021-09-27
-modified:
+modified: 2025-09-02T13:02:56+03:00
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
