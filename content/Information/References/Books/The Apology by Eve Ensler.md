@@ -1,14 +1,15 @@
 ---
-title: "The Apology"
-author: "Eve Ensler"
-url: 
-published: 
+title: The Apology
+author: Eve Ensler
+url:
+published:
 date: 2019-07-28
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
