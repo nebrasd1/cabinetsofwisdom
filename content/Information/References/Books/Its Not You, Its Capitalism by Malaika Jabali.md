@@ -1,14 +1,16 @@
 ---
 title: It's Not You, It's Capitalism
 author: Malaika Jabali
-url: 
-published: 
+url:
+published:
 date: 2024-12-21
 modified: 2025-05-10T08:34:51+03:00
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+consumed: true
+purchased:
 ---
 > [!example]- Process
 > 
