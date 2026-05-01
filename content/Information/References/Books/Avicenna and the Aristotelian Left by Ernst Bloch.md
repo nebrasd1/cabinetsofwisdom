@@ -1,14 +1,18 @@
 ---
-title: "Avicenna and the Aristotelian Left"
-author: "Ernst Bloch"
-url: 
-published: 
+title: Avicenna and the Aristotelian Left
+author: Ernst Bloch
+url:
+published:
 date: 2024-02-10
-modified:
+modified: 2026-04-19T16:54:02+03:00
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+consuming: false
+aliases:
+  - Avicenna and the Aristotelian Left
+purchased: true
 ---
 > [!example]- Process
 > 
