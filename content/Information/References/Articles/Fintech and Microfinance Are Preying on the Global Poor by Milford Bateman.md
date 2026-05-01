@@ -33,7 +33,7 @@ publish: true
 > | -------------- | ------------------------- |------------------------- |
 > | **Highlights**        | Done     | See section below |
 > | **Claims**            | Not yet  |   |
-> | **Related Lenses**    | Processing  | <li>[[Capitalism]]</li><li>[[Socialism]]</li> |
+> | **Related Lenses**    | Processing  | <li>[[Capitalism|Capitalism]]</li><li>[[Socialism|Socialism]]</li> |
 > | **Related Questions** | Not yet  |  |
 > | **Output**            | Not yet  |  |
 >
