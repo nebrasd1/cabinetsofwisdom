@@ -1,14 +1,16 @@
 ---
-title: "No More Mr. Nice Guy"
-author: "Robert Glover"
-url: 
-published: 
+title: No More Mr. Nice Guy
+author: Robert Glover
+url:
+published:
 date: 2016-06-23
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+consumed: true
+purchased:
 ---
 > [!example]- Process
 > 
