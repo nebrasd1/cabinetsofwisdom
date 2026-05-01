@@ -1,14 +1,15 @@
 ---
-title: "Caste"
-author: "Isabel Wilkerson"
-url: 
-published: 
+title: Caste
+author: Isabel Wilkerson
+url:
+published:
 date: 2020-08-04
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
