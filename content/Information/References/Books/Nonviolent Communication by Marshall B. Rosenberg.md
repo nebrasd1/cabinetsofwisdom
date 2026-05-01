@@ -1,14 +1,15 @@
 ---
-title: "Nonviolent Communication"
-author: "Marshall B. Rosenberg"
-url: 
-published: 
+title: Nonviolent Communication
+author: Marshall B. Rosenberg
+url:
+published:
 date: 2022-07-14
 modified:
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
