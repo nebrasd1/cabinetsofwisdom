@@ -1,14 +1,15 @@
 ---
-title: "The Will to Change"
-author: "bell hooks"
-url: 
-published: 
+title: The Will to Change
+author: bell hooks
+url:
+published:
 date: 2021-08-16
 modified:
 type: books
 source: clippings_html
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
