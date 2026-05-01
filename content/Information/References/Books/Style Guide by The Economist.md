@@ -1,14 +1,15 @@
 ---
-title: "Style Guide"
-author: "The Economist"
-url: 
-published: 
+title: Style Guide
+author: The Economist
+url:
+published:
 date: 2020-08-05
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
