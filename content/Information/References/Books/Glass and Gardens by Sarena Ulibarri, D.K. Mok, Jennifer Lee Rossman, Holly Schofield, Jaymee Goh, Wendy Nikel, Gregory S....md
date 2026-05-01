@@ -1,14 +1,15 @@
 ---
-title: "Glass and Gardens"
-author: "Sarena Ulibarri, D.K. Mok, Jennifer Lee Rossman, Holly Schofield, Jaymee Goh, Wendy Nikel, Gregory S..."
-url: 
-published: 
+title: Glass and Gardens
+author: Sarena Ulibarri, D.K. Mok, Jennifer Lee Rossman, Holly Schofield, Jaymee Goh, Wendy Nikel, Gregory S...
+url:
+published:
 date: 2020-12-20
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
