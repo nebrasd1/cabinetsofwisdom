@@ -1,14 +1,15 @@
 ---
-title: "Marketing for Solos"
-author: "Jeanna Pool"
-url: 
-published: 
+title: Marketing for Solos
+author: Jeanna Pool
+url:
+published:
 date: 2012-09-07
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
