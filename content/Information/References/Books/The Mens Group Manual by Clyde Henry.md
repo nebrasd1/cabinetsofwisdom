@@ -1,14 +1,15 @@
 ---
-title: "The Men's Group Manual"
-author: "Clyde Henry"
-url: 
-published: 
+title: The Men's Group Manual
+author: Clyde Henry
+url:
+published:
 date: 2022-07-05
 modified:
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
