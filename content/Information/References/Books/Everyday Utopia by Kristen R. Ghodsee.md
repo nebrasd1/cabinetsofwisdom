@@ -1,14 +1,16 @@
 ---
 title: Everyday Utopia
 author: Kristen R. Ghodsee
-url: 
-published: 
+url:
+published:
 date: 2023-11-06
-modified: 2025-05-10T14:52:28+03:00
+modified: 2026-04-20T11:25:16+03:00
 type: books
 source: manual
-lenses: 
+lenses:
 publish: true
+consumed: true
+purchased: true
 ---
 > [!example]- Process
 > 
@@ -157,7 +159,7 @@ publish: true
 > Plato divided his society into three groups: the philosopher-kings, the auxiliaries, and the producers. When Plato first speaks of "the Guardians," he means both the philosopher-kings and the auxiliaries, but then makes a distinction between the two: the auxiliaries are warriors who protect and ensure order in the Republic, while the philosopher-kings (and queens) are those deemed wise enough to rule it. The producers grow the food and practice the trades to support everyday life in Kallipolis. Scholars still debate whether Plato meant all children in his ideal society should be raised collectively or whether he meant this only for the offspring of the Guardians, but it is clear that any child could end up in any one of the three groups depending on their innate abilities. "I think it makes more sense for all kids to be raised communally given his goals, which include discovering true talent," a professor emerita of philosophy, Sarah Conly, explained to me in an email in March 2022. "[But] it is more important for the Guardians because they have power and must be prevented from trying to amass more to pass onto their families."
 
 ✏️ A tactic to prevent the thought of power inheritance and nepotism. You can't horde power for your kids if you don't know who your kids are. It's extreme, and one has to wonder the negatives to such a scenario.
-👓 [[swn]]
+👓 [[swn|swn]]
 📖 (Page 77)
 
 ### Page 94
@@ -346,7 +348,7 @@ publish: true
 > the Yamagishi Association is a federation of more than thirty different leaderless, income-sharing communities across the archipelago that began in the 1950s, including many that incorporate spiritual aspects of traditional Japanese Shintoism into their collective pursuits.
 
 ✏️ Long lasting utopian community in Japan that's giving me strong rpg vibes for a faction
-👓 [[swn]]
+👓 [[swn|swn]]
 📖 (Page 162)
 
 ### Page 179
@@ -410,7 +412,7 @@ publish: true
 > In a similar way to how we collectively believe in paper money, many of us also embrace the fiction that the way we organize our private lives is the only way available to us. Even if we understand in the abstract about the pressures parents face, the strain that child-rearing places on romantic relationships, the high divorce rate, the prevalence of child abuse and intimate partner violence, and the very real possibilities of our own or our partner's long-term unemployment, disability, or death, we replicate the domestic form that makes us the most vulnerable to these problems because it is convenient and because that's what everyone expects of us. Just as our entire economy rests on the fiction of what economists call a fiat currency, it also rests on a particular notion of the family, one that is often viewed as either natural or divinely mandated, but which acts to uphold a specific set of social and economic relations
 
 ✏️ Convenience and "the way things are" trump all else. We perpetuate the same systems and methods, even if they illicit so many damaging outputs.
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 📖 (Page 236)
 
 ### Page 237
@@ -423,14 +425,14 @@ publish: true
 > In terms of the architecture of our minds, hope is to the future what memory is to the past.
 
 ✏️ Great quote and very evocative.
-👓 [[quote]] [[swn]]
+👓 [[quote|quote]] [[swn|swn]]
 📖 (Page 239)
 
 ### Page 240
 > If utopian visions exist to inspire this more emotional sense of hope, then dystopian worlds prey on our fears and anxieties, forcing us to stay in our unhappy relationship with the present. Similarly, if utopianism stimulates our cognitive capacities to imagine living in a different and better future and helps us find the will to effect the social changes necessary to realize that future, then dystopianism constantly reminds us of the failed social experiments of the past, especially those that have gone tragically and horribly wrong. By forcing us to look back rather than forward, by privileging memory over hope, the ubiquity of dystopian thinking browbeats us into accepting the status quo.
 
 ✏️ Yup. Dystopian stories might have their value, but they're very good in immersing is in a sense of dread, fear and anxiety. It makes us feel hopeless in the face of all these things. Sure, maybe you'll feel motivated to stop such a terrible outcome, but hopeful stories can be much more encouraging and inviting and hope-inducing, without any of the fear or anxiety.
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 📖 (Page 240)
 
 ### Page 241
@@ -495,7 +497,7 @@ publish: true
 
 ✏️ Saudi is chasing being a growth obsessed economy. That means intense consumer spending, status markers, traditional forms of marriage and family and housing.
  Doing alternatives to those traditions means resisting that kind of economy. That's how you fight back. #followup
-👓 [[ksa]]
+👓 [[ksa|ksa]]
 📖 (Page 257)
 
 ### Page 259
@@ -503,6 +505,6 @@ publish: true
 > To be hopeful in bad times is not just foolishly romantic. It is based on the fact that human history is a history not only of cruelty, but also of compassion, sacrifice, courage, kindness. What we choose to emphasize in this complex history will determine our lives. If we see only the worst, it destroys our capacity to do something. If we remember those times and places and there are so many where people have behaved magnificently, this gives us the energy to act, and at least the possibility of sending this spinning top of a world in a different direction
 
 ✏️ The stories we tell ourselves about the past determine the possibilities for our future.
-👓 [[quote]] [[storytelling]]
+👓 [[quote|quote]] [[storytelling|storytelling]]
 📖 (Page 259)
 
