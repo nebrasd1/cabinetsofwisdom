@@ -1,14 +1,15 @@
 ---
-title: "Elements of Fiction Writing - Characters & Viewpoint"
-author: "Orson Scott Card"
-url: 
-published: 
+title: Elements of Fiction Writing - Characters & Viewpoint
+author: Orson Scott Card
+url:
+published:
 date: 2014-02-08
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
