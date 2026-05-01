@@ -1,14 +1,15 @@
 ---
-title: "Tales of the Marvellous and News of the Strange"
-author: "Malcolm C Lyons"
-url: 
-published: 
+title: Tales of the Marvellous and News of the Strange
+author: Malcolm C Lyons
+url:
+published:
 date: 2018-12-15
 modified:
 type: books
 source: kindle
-lenses: 
+lenses:
 publish: true
+purchased:
 ---
 > [!example]- Process
 > 
