@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 type:
   - posts
 postType:
@@ -8,10 +8,10 @@ publish: true
 date: 2025-05-01
 modified: ""
 description: Thoughts on digital gardening, what it means, etc.
-lenses: 
-📚source: 
-📶certainty: 
-⚖️bias: 
+lenses:
+📚source:
+📶certainty:
+⚖️bias:
 🎯purpose:
 ---
 By the very nature of having read about digital gardening a lot, I feel weird and slightly pretentious trying to regurgitate and add my own spin to what it all means. Many others have already described and explained what this is all about, a lot more cogently and informatively.
