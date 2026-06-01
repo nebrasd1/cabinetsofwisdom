@@ -1,16 +1,16 @@
 ---
-title: "Raise Wages? No Need — McDonald’s Is Hiring Inmates Instead"
-author: "Alex Park"
+title: Raise Wages? No Need — McDonald’s Is Hiring Inmates Instead
+author: Alex Park
 url: https://jacobin.com/2024/09/alabama-convict-labor-fast-food/
 published: 2024-09-17
 date: 2024-10-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
