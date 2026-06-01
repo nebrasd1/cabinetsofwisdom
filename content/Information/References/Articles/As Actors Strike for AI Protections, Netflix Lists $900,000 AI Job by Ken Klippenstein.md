@@ -1,14 +1,14 @@
 ---
-title: "As Actors Strike for AI Protections, Netflix Lists $900,000 AI Job"
-author: "Ken Klippenstein"
+title: As Actors Strike for AI Protections, Netflix Lists $900,000 AI Job
+author: Ken Klippenstein
 url: https://theintercept.com/2023/07/25/strike-hollywood-ai-disney-netflix/
 published: 2023-07-25
 date: 2023-07-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process
@@ -30,6 +30,6 @@ publish: true
 > “AI isn’t bad, it’s just that the workers (me) need to own and control the means of production!” said Delaney. “My melodious voice? My broad shoulders and dancer’s undulating buttocks? I decide how those are used! Not a board of VC angel investor scumbags meeting in a Sun Valley conference room between niacin IV cocktails or whatever they do.”
 
 ✏️ AI creative work issue does hit smack dab into the core struggle of capitalism... Who owns the means of production?
-👓 [[capitalism]]
+👓 [[capitalism|capitalism]]
 🔗 [View Highlight](https://read.readwise.io/read/01h671xe6ks20n3z641crkrtav)
 
