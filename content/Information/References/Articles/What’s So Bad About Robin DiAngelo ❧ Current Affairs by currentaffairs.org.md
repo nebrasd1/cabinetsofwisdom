@@ -1,13 +1,13 @@
 ---
-title: "What’s So Bad About Robin DiAngelo ❧ Current Affairs"
-author: "currentaffairs.org"
+title: What’s So Bad About Robin DiAngelo ❧ Current Affairs
+author: currentaffairs.org
 url: https://www.currentaffairs.org/2021/07/whats-so-bad-about-robin-diangelo/
-published: 
+published:
 date: 2021-07-20
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
