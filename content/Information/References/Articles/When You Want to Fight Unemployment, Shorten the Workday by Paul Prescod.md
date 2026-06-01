@@ -1,18 +1,18 @@
 ---
-title: "When You Want to Fight Unemployment, Shorten the Workday"
-author: "Paul Prescod"
+title: When You Want to Fight Unemployment, Shorten the Workday
+author: Paul Prescod
 url: https://jacobin.com/2023/12/harry-van-arsdale-unemployment-shorten-workday-four-day-workweek-union-organizing/
 published: 2023-12-15
 date: 2024-11-19
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[History]]" 
-  - "[[Hope]]" 
-  - "[[Leadership]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[History]]"
+  - "[[Hope]]"
+  - "[[Leadership]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
@@ -35,7 +35,7 @@ publish: true
 
 ✏️ Insane and amazing. Where is this now? 
  It was actually doable.
-👓 [[hope]]
+👓 [[hope|hope]]
 🔗 [View Highlight](https://read.readwise.io/read/01jd1q29qkczwrfhhzbp5px2qm)
 
 ### id814185313
