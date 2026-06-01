@@ -1,13 +1,13 @@
 ---
-title: "Automaker CEO Elon Musk Strips UAW Twitter Verification as Union Strikes Against Big Three"
-author: "Ken Klippenstein"
+title: Automaker CEO Elon Musk Strips UAW Twitter Verification as Union Strikes Against Big Three
+author: Ken Klippenstein
 url: https://theintercept.com/2023/09/15/uaw-strike-twitter-verification-elon-musk/
 published: 2023-09-15
 date: 2023-09-17
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -25,6 +25,6 @@ publish: true
 > Barra responded to the unusually pointed line of questioning with typical platitudes: “When the company does well, everyone does well.”
 
 ✏️ PR-speak and platitudes means you have no real answer. There is no justification for the pay disparity other than "we can do it".
-👓 [[capitalism]]
+👓 [[capitalism|capitalism]]
 🔗 [View Highlight](https://read.readwise.io/read/01hah0h95q0ngq5ysd708z9888)
 
