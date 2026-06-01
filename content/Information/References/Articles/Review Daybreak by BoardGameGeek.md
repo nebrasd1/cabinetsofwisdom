@@ -1,18 +1,18 @@
 ---
 title: "Review: Daybreak"
-author: "BoardGameGeek"
+author: BoardGameGeek
 url: https://boardgamegeek.com/thread/3213700/review-daybreak
 published: 2023-12-26
 date: 2025-01-27
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[Environment]]" 
-  - "[[Game Design]]" 
-  - "[[Hope]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[Environment]]"
+  - "[[Game Design]]"
+  - "[[Hope]]"
 publish: true
 ---
 > [!example]- Process
