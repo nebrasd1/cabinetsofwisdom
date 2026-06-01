@@ -1,13 +1,13 @@
 ---
-title: "WHO SAYS I HAVE TO DO IT THAT WAY? | Dave Trott's Blog"
-author: "davetrott.co.uk"
+title: WHO SAYS I HAVE TO DO IT THAT WAY? | Dave Trott's Blog
+author: davetrott.co.uk
 url: https://davetrott.co.uk/2022/07/who-says-i-have-to-do-it-that-way/?utm_source=pocket_mylist
-published: 
+published:
 date: 2022-08-06
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
