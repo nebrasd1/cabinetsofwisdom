@@ -1,13 +1,13 @@
 ---
-title: "He Couldn’t Get Over His Fiancee’s Death. So He Brought Her Back as an A.I. Chatbot"
-author: "sfchronicle.com"
+title: He Couldn’t Get Over His Fiancee’s Death. So He Brought Her Back as an A.I. Chatbot
+author: sfchronicle.com
 url: https://www.sfchronicle.com/projects/2021/jessica-simulation-artificial-intelligence/
-published: 
+published:
 date: 2021-07-26
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
