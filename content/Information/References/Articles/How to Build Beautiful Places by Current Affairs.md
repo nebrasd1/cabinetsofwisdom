@@ -1,13 +1,13 @@
 ---
-title: "How to Build Beautiful Places"
-author: "Current Affairs"
+title: How to Build Beautiful Places
+author: Current Affairs
 url: https://www.inoreader.com/article/3a9c6e7a0fc9cd6d-how-to-build-beautiful-places
-published: 
+published:
 date: 2022-05-20
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
