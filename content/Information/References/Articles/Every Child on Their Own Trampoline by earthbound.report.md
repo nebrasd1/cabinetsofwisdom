@@ -1,13 +1,13 @@
 ---
-title: "Every Child on Their Own Trampoline"
-author: "earthbound.report"
+title: Every Child on Their Own Trampoline
+author: earthbound.report
 url: https://earthbound.report/2021/04/08/every-child-on-their-own-trampoline/
 published: 2021-04-08
 date: 2021-07-05
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
