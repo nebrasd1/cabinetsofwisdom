@@ -1,18 +1,18 @@
 ---
-title: "Who’s Afraid of Mexican Democracy?"
-author: "Kurt Hackbarth"
+title: Who’s Afraid of Mexican Democracy?
+author: Kurt Hackbarth
 url: https://jacobin.com/2024/09/sheinbaum-amlo-judicial-reform-us/
 published: 2024-09-08
 date: 2024-09-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Hope]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Hope]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
@@ -69,6 +69,6 @@ publish: true
 ### id783468574
 > “[The fear of a good example](https://youtu.be/Ukd1wLqwpmQ?si=LVWTA2BtJ_BX7saa&t=755),” as journalist and activist Eugene Puryear puts it, indeed.
 
-👓 [[quote]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01j7bs2jhg98w3gejh3wanxbtk)
 
