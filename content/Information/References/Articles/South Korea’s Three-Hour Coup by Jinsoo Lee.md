@@ -1,13 +1,13 @@
 ---
-title: "South Korea’s Three-Hour Coup"
-author: "Jinsoo Lee"
+title: South Korea’s Three-Hour Coup
+author: Jinsoo Lee
 url: https://jacobin.com/2024/12/yoon-suk-yeol-korea-coup/
 published: 2024-12-03
 date: 2024-12-04
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -25,6 +25,6 @@ publish: true
 
 ✏️ Swift democratic action? Looks like it at face value.
  Very impressive use of collective power to overturn and stand up against authoritarian power.
-👓 [[hope]] [[community]]
+👓 [[hope|hope]] [[community|community]]
 🔗 [View Highlight](https://read.readwise.io/read/01je8pb4f4mhc40qavrdgrd91z)
 
