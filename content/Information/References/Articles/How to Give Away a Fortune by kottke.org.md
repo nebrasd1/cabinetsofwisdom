@@ -1,16 +1,16 @@
 ---
-title: "How to Give Away a Fortune"
-author: "kottke.org"
+title: How to Give Away a Fortune
+author: kottke.org
 url: https://kottke.org/24/06/how-to-give-away-a-fortune
 published: 2024-06-24
 date: 2024-06-25
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Hope]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
