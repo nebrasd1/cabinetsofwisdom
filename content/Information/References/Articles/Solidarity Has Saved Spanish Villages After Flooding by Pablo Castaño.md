@@ -1,16 +1,16 @@
 ---
-title: "Solidarity Has Saved Spanish Villages After Flooding"
-author: "Pablo Castaño"
+title: Solidarity Has Saved Spanish Villages After Flooding
+author: Pablo Castaño
 url: https://jacobin.com/2024/11/solidarity-spain-floods-far-right/
 published: 2024-11-19
 date: 2025-01-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[Hope]]"
 publish: true
 ---
 > [!example]- Process
