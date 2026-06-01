@@ -1,16 +1,16 @@
 ---
-title: "The UAW Strike Matters for the Entire US Working Class"
-author: "Alex N. Press"
+title: The UAW Strike Matters for the Entire US Working Class
+author: Alex N. Press
 url: https://jacobin.com/2023/09/the-uaw-strike-matters-for-the-entire-us-working-class/
 published: 2023-09-14
 date: 2023-09-15
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
