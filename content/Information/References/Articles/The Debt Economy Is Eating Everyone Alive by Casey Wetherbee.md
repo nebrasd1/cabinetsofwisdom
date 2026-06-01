@@ -4,7 +4,7 @@ author: Casey Wetherbee
 url: https://jacobin.com/2025/05/bnpl-loans-debt-regulation-klarna/
 published: 2025-05-31
 date: 2025-06-22
-modified:
+modified: 2026-05-31T20:56:25+03:00
 type: articles
 source: reader
 lenses:
