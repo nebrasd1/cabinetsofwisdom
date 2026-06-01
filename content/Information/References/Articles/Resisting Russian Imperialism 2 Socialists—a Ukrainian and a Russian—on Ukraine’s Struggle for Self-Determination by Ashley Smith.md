@@ -1,15 +1,15 @@
 ---
 title: "Resisting Russian Imperialism: 2 Socialists—a Ukrainian and a Russian—on Ukraine’s Struggle for Self-Determination"
-author: "Ashley Smith"
+author: Ashley Smith
 url: https://www.thenation.com/article/archive/resisting-russian-imperialism-2-socialists-a-ukrainian-and-a-russian-on-ukraines-struggle-for-self-determination/
 published: 2023-09-07
 date: 2023-09-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
@@ -35,6 +35,6 @@ publish: true
 
 ✏️ Why Putin is adamant about Ukraine.
  Why a dictator would quash things happening outside his country.. it provides an alternative to his rule and gives ideas that can't be tolerated or allowed to foment.
-👓 [[politics]] [[character]]
+👓 [[politics|politics]] [[character|character]]
 🔗 [View Highlight](https://read.readwise.io/read/01h9szq3wmtthtjad5vhzpvy15)
 
