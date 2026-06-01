@@ -1,16 +1,16 @@
 ---
-title: "No Matter How Rich You Are, You Can’t Own the Sea"
-author: "Nicholas Boni"
+title: No Matter How Rich You Are, You Can’t Own the Sea
+author: Nicholas Boni
 url: https://jacobin.com/2023/06/titan-submersible-implosion-search-media-wealth-inequality/
 published: 2023-06-23
 date: 2023-06-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Hypocrisy]]" 
-  - "[[Hypocrisy ]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Hypocrisy]]"
+  - "[[Hypocrisy ]]"
 publish: true
 ---
 > [!example]- Process
