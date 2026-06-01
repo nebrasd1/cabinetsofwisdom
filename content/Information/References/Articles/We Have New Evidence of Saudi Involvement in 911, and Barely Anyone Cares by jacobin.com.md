@@ -1,17 +1,17 @@
 ---
-title: "We Have New Evidence of Saudi Involvement in 9/11, and Barely Anyone Cares"
-author: "jacobin.com"
+title: We Have New Evidence of Saudi Involvement in 9/11, and Barely Anyone Cares
+author: jacobin.com
 url: https://jacobin.com/2022/03/911-revelations-saudi-arabia-al-bayoumi-bandar-bush
 published: 2022-03-25
 date: 2023-08-03
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
-  - "[[Ksa]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
+  - "[[Ksa]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
