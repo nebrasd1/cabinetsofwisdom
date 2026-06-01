@@ -1,14 +1,14 @@
 ---
-title: "The Supreme Court Just Legalized Bribery"
-author: "Katya Schwenk"
+title: The Supreme Court Just Legalized Bribery
+author: Katya Schwenk
 url: https://jacobin.com/2024/06/supreme-court-corruption-thomas-kavanaugh/
 published: 2024-06-29
 date: 2024-07-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
