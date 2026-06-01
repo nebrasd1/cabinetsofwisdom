@@ -1,15 +1,15 @@
 ---
-title: "What Is Policing For?"
-author: "Michael Friedrich"
+title: What Is Policing For?
+author: Michael Friedrich
 url: https://www.thenation.com/article/culture/michael-sierra-arevalo-police-danger/
 published: 2024-08-12
 date: 2024-11-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
