@@ -1,15 +1,15 @@
 ---
 title: "D&D 5e Social Encounter Statblocks: How to Run NPCs Like a Pro"
-author: "DragnaCarta"
+author: DragnaCarta
 url: https://www.flutesloot.com/social-encounter-statblocks-dnd-5e/
 published: 2021-05-21
 date: 2023-09-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Gmstuff]]" 
-  - "[[Ttrpg]]" 
+lenses:
+  - "[[Gmstuff]]"
+  - "[[Ttrpg]]"
 publish: true
 ---
 > [!example]- Process
