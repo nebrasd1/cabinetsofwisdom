@@ -1,13 +1,13 @@
 ---
-title: "Tweets From Jonathan McIntosh"
+title: Tweets From Jonathan McIntosh
 author: "@radicalbytes on Twitter"
 url: https://twitter.com/radicalbytes
-published: 
+published:
 date: 2021-10-07
 modified:
 type: tweets
 source: twitter
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
