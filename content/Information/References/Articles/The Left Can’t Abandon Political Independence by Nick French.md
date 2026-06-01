@@ -1,16 +1,16 @@
 ---
-title: "The Left Can’t Abandon Political Independence"
-author: "Nick French"
+title: The Left Can’t Abandon Political Independence
+author: Nick French
 url: https://jacobin.com/2023/09/left-electoral-strategy-democratic-party-independent-organization-dsa/
 published: 2023-09-01
 date: 2023-09-03
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
