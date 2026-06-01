@@ -1,18 +1,18 @@
 ---
-title: "Art for Art’s Sake"
-author: "Alex Louis"
+title: Art for Art’s Sake
+author: Alex Louis
 url: https://proteanmag.com/2018/10/24/art-for-arts-sake/
 published: 2018-10-24
 date: 2025-01-22
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
