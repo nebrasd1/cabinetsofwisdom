@@ -1,13 +1,13 @@
 ---
-title: "Exposing the Many Layers of Injustice in the US Criminal Punishment System"
-author: "Current Affairs"
+title: Exposing the Many Layers of Injustice in the US Criminal Punishment System
+author: Current Affairs
 url: https://www.currentaffairs.org/2023/09/exposing-the-many-layers-of-injustice-in-the-us-criminal-punishment-system/
 published: 2023-09-14
 date: 2023-09-17
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -26,6 +26,6 @@ publish: true
 ✏️ This quickly speaks to how ingrained systemic racism is in the US. 
  The Supreme Court disregards racial concerns in death penalty cases because it would mean having to consider racial disparities in all crimes, not just death penalty ones.
  A fear of too much justice.
-👓 [[injustice]] [[racism]]
+👓 [[injustice|injustice]] [[racism|racism]]
 🔗 [View Highlight](https://read.readwise.io/read/01hahg83s2kb1z6kyc2y29xv6q)
 
