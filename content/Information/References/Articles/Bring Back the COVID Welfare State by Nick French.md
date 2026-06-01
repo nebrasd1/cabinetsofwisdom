@@ -1,15 +1,15 @@
 ---
-title: "Bring Back the COVID Welfare State"
-author: "Nick French"
+title: Bring Back the COVID Welfare State
+author: Nick French
 url: https://jacobin.com/2023/09/democrats-covid-welfare-state-joe-biden-economy-bidenomics/
 published: 2023-09-12
 date: 2023-09-13
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
