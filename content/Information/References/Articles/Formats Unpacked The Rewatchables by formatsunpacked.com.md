@@ -1,13 +1,13 @@
 ---
 title: "Formats Unpacked: The Rewatchables"
-author: "formatsunpacked.com"
+author: formatsunpacked.com
 url: https://www.formatsunpacked.com/p/formats-unpacked-the-rewatchables
-published: 
+published:
 date: 2022-03-28
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
