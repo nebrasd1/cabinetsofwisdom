@@ -1,16 +1,16 @@
 ---
-title: "The Big Myth About “Free” Markets That Justified History’s Greatest Heist"
-author: "Jon Schwarz"
+title: The Big Myth About “Free” Markets That Justified History’s Greatest Heist
+author: Jon Schwarz
 url: https://theintercept.com/2023/08/04/big-myth-book-free-market-oreskes-conway/
 published: 2023-08-04
 date: 2023-08-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
@@ -75,6 +75,6 @@ publish: true
 ### id576824192
 > “Ideas do not exist *ex nihilo.* They are developed, sustained, and promoted by people and institutions. [This] is the history of the construction of a myth.”
 
-👓 [[quote]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01h7a9dhnpk9rafww6afrdvf63)
 
