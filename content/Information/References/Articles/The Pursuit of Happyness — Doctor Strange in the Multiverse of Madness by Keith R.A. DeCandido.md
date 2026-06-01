@@ -1,13 +1,13 @@
 ---
-title: "The Pursuit of Happyness — Doctor Strange in the Multiverse of Madness"
-author: "Keith R.A. DeCandido"
+title: The Pursuit of Happyness — Doctor Strange in the Multiverse of Madness
+author: Keith R.A. DeCandido
 url: https://www.inoreader.com/article/3a9c6e7a49c5e775-the-pursuit-of-happyness-doctor-strange-in-the-multiverse-of-madness
-published: 
+published:
 date: 2022-08-11
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
