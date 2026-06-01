@@ -1,15 +1,15 @@
 ---
-title: "We Have the Solution to Child Poverty. Republicans Are Blocking It."
-author: "Bryce Covert"
+title: We Have the Solution to Child Poverty. Republicans Are Blocking It.
+author: Bryce Covert
 url: https://www.thenation.com/article/economy/child-tax-credit-poverty/
 published: 2023-09-01
 date: 2023-09-01
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Hope]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Hope]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
