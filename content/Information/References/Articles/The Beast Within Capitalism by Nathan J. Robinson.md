@@ -1,13 +1,13 @@
 ---
-title: "The Beast Within Capitalism"
-author: "Nathan J. Robinson"
+title: The Beast Within Capitalism
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/02/the-beast-within-capitalism/
 published: 2023-02-27
 date: 2023-03-25
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
