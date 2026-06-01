@@ -1,16 +1,16 @@
 ---
-title: "Are You an Anarchist? The Answer May Surprise You!"
-author: "David Graeber"
+title: Are You an Anarchist? The Answer May Surprise You!
+author: David Graeber
 url: https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you
 published: 2009-11-09
 date: 2025-04-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Anarchy]]" 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
+lenses:
+  - "[[Anarchy]]"
+  - "[[Empowerment]]"
+  - "[[Hope]]"
 publish: true
 ---
 > [!example]- Process
