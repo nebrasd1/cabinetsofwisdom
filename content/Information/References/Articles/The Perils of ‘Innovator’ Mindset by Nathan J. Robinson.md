@@ -1,13 +1,13 @@
 ---
-title: "The Perils of ‘Innovator’ Mindset"
-author: "Nathan J. Robinson"
+title: The Perils of ‘Innovator’ Mindset
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/06/the-perils-of-innovator-mindset/
 published: 2023-06-26
 date: 2023-07-04
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
