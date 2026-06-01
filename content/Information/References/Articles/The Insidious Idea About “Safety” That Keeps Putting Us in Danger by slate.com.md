@@ -1,13 +1,13 @@
 ---
-title: "The Insidious Idea About “Safety” That Keeps Putting Us in Danger"
-author: "slate.com"
+title: The Insidious Idea About “Safety” That Keeps Putting Us in Danger
+author: slate.com
 url: https://slate.com/technology/2021/11/risk-compensation-debunked-masks-rapid-tests-vaccines-safety.html
-published: 
+published:
 date: 2021-11-11
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
