@@ -1,13 +1,13 @@
 ---
-title: "It’s Pronounced “Neft”"
-author: "Corin Faife"
+title: It’s Pronounced “Neft”
+author: Corin Faife
 url: https://www.inoreader.com/article/3a9c6e7ad3973c14-its-pronounced-neft
-published: 
+published:
 date: 2022-02-02
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
