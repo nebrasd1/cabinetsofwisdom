@@ -1,15 +1,15 @@
 ---
-title: "Inflation Is Falling. So Why Are the Fiscal Austerians Back in the Headlines?"
-author: "Marshall Auerback"
+title: Inflation Is Falling. So Why Are the Fiscal Austerians Back in the Headlines?
+author: Marshall Auerback
 url: https://www.thenation.com/article/politics/social-security-austerity-inflation/
 published: 2023-08-16
 date: 2023-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
