@@ -1,15 +1,15 @@
 ---
-title: "We Shouldn’t Have to Work This Hard"
-author: "Meagan Day"
+title: We Shouldn’t Have to Work This Hard
+author: Meagan Day
 url: https://jacobin.com/2025/03/work-keynes-scandinavia-class-leisure/
 published: 2025-03-23
 date: 2025-04-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
