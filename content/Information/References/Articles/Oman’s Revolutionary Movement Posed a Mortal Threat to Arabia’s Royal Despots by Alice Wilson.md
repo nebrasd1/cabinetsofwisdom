@@ -1,18 +1,18 @@
 ---
-title: "Oman’s Revolutionary Movement Posed a Mortal Threat to Arabia’s Royal Despots"
-author: "Alice Wilson"
+title: Oman’s Revolutionary Movement Posed a Mortal Threat to Arabia’s Royal Despots
+author: Alice Wilson
 url: https://jacobin.com/2023/09/oman-dhufar-anticolonial-revolution-60s-70s-british-imperialism-history/
 published: 2023-09-17
 date: 2025-02-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
-  - "[[Community]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Colonialism]]"
+  - "[[Community]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
