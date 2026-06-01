@@ -1,13 +1,13 @@
 ---
 title: "Pick Up What They Put Down: The Ultimate Hack for Learning in Public ∊ swyx.io"
-author: "swyx.io"
+author: swyx.io
 url: https://www.swyx.io/PUWTPD
-published: 
+published:
 date: 2021-07-06
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
