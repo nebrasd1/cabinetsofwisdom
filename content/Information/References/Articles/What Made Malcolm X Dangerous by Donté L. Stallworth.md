@@ -1,17 +1,17 @@
 ---
-title: "What Made Malcolm X Dangerous"
-author: "Donté L. Stallworth"
+title: What Made Malcolm X Dangerous
+author: Donté L. Stallworth
 url: https://jacobin.com/2025/05/malcolm-x-colonialism-radical-internationalism/
 published: 2025-05-21
 date: 2025-05-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Racism]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Racism]]"
 publish: true
 ---
 > [!example]- Process
