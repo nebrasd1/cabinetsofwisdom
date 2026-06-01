@@ -1,15 +1,15 @@
 ---
-title: "Artificial Intelligence Is Driving Discrimination in the Housing Market"
-author: "Rebecca Burns"
+title: Artificial Intelligence Is Driving Discrimination in the Housing Market
+author: Rebecca Burns
 url: https://jacobin.com/2023/06/artificial-intelligence-corporate-landlords-tenants-screening-crime-racism/
 published: 2023-06-27
 date: 2023-06-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Ai]]" 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Ai]]"
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process
