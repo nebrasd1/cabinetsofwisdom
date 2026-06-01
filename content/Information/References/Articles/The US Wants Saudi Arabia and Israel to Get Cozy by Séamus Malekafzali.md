@@ -1,15 +1,15 @@
 ---
-title: "The US Wants Saudi Arabia and Israel to Get Cozy"
-author: "Séamus Malekafzali"
+title: The US Wants Saudi Arabia and Israel to Get Cozy
+author: Séamus Malekafzali
 url: https://jacobin.com/2023/09/saudi-arabia-israel-deal-united-states-foreign-policy-defense-pact/
 published: 2023-09-30
 date: 2024-08-16
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Ksa]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Ksa]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
