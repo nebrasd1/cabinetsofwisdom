@@ -1,16 +1,16 @@
 ---
-title: "These New Alzheimer’s Drugs Are a Travesty"
-author: "Gregg Gonsalves"
+title: These New Alzheimer’s Drugs Are a Travesty
+author: Gregg Gonsalves
 url: https://www.thenation.com/article/society/alzheimers-drugs/
 published: 2023-07-27
 date: 2023-08-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
