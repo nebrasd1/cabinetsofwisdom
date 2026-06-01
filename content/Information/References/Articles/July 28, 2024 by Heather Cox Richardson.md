@@ -1,17 +1,17 @@
 ---
-title: "July 28, 2024"
-author: "Heather Cox Richardson"
+title: July 28, 2024
+author: Heather Cox Richardson
 url: https://heathercoxrichardson.substack.com/p/july-28-2024
 published: 2024-07-29
 date: 2024-08-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[History]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
@@ -65,12 +65,12 @@ publish: true
 ### id757155735
 > Lenin put it well in 1917: "Sometimes decades happen in weeks."
 
-👓 [[quote]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01j52z08ynzwwx8q46bf1jx0b9)
 
 ### id757155734
 > French politician Alexandre Auguste Ledru-Rollin once said: "There go the people. I must follow them, for I am their leader."
 
-👓 [[quote]] [[leadership]]
+#addto/quote [[leadership|leadership]]
 🔗 [View Highlight](https://read.readwise.io/read/01j52yzsy93wrcpa5s9sqpr31x)
 
