@@ -1,17 +1,17 @@
 ---
-title: "Economic Overlords Are Destroying Democracy — And Our Lives"
-author: "Peter Phillips"
+title: Economic Overlords Are Destroying Democracy — And Our Lives
+author: Peter Phillips
 url: https://jacobin.com/2024/08/finance-titans-democracy-climate-davos/
 published: 2024-08-11
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
