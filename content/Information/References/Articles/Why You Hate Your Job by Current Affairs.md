@@ -1,15 +1,15 @@
 ---
-title: "Why You Hate Your Job"
-author: "Current Affairs"
+title: Why You Hate Your Job
+author: Current Affairs
 url: https://www.currentaffairs.org/2022/09/why-you-hate-your-job/
 published: 2022-09-25
 date: 2023-06-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
