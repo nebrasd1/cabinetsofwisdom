@@ -1,13 +1,13 @@
 ---
 title: "Say Yes: Mel Brooks at 95"
-author: "Tim Carmody"
+author: Tim Carmody
 url: https://www.inoreader.com/article/3a9c6e7afaeeeaee-say-yes-mel-brooks-at-95
-published: 
+published:
 date: 2021-12-14
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
