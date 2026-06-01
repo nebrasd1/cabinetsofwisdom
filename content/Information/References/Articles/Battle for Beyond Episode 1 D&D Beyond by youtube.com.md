@@ -1,13 +1,13 @@
 ---
 title: "Battle for Beyond: Episode 1 | D&D Beyond"
-author: "youtube.com"
+author: youtube.com
 url: https://www.youtube.com/watch?v=KtLcWpD16Uo
-published: 
+published:
 date: 2022-03-30
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
