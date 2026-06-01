@@ -1,13 +1,13 @@
 ---
-title: "Digital Garden Terms of Service ∊ swyx.io"
-author: "swyx.io"
+title: Digital Garden Terms of Service ∊ swyx.io
+author: swyx.io
 url: https://www.swyx.io/writing/digital-garden-tos
-published: 
+published:
 date: 2021-07-06
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
