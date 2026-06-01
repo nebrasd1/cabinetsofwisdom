@@ -1,16 +1,16 @@
 ---
-title: "The British Establishment Has Always Demonized Protesters"
-author: "Dan Hancox"
+title: The British Establishment Has Always Demonized Protesters
+author: Dan Hancox
 url: https://jacobin.com/2024/10/blm-protests-media-uk-palestine/
 published: 2024-10-19
 date: 2024-10-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
@@ -26,7 +26,7 @@ publish: true
 ### id800924749
 > What appears as an expression of “people power” to crowd members and supporters will be dismissed as shallow groupthink and thuggery by their enemies. To be a protester is to be smug and self-righteous, and uninterested in the serious business of political power.
 
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01jamv6vkee2n106jf93g840q7)
 
 ### id800925166
