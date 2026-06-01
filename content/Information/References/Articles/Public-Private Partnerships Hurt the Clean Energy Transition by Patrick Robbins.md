@@ -1,15 +1,15 @@
 ---
-title: "Public-Private Partnerships Hurt the Clean Energy Transition"
-author: "Patrick Robbins"
+title: Public-Private Partnerships Hurt the Clean Energy Transition
+author: Patrick Robbins
 url: https://jacobin.com/2024/08/public-private-climate-electric-energy/
 published: 2024-08-28
 date: 2024-11-03
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
