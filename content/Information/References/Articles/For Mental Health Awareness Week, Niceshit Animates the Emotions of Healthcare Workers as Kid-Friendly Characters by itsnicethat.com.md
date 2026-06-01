@@ -1,13 +1,13 @@
 ---
-title: "For Mental Health Awareness Week, Niceshit Animates the Emotions of Healthcare Workers as Kid-Friendly Characters"
-author: "itsnicethat.com"
+title: For Mental Health Awareness Week, Niceshit Animates the Emotions of Healthcare Workers as Kid-Friendly Characters
+author: itsnicethat.com
 url: https://www.itsnicethat.com/news/niceshit-the-feelings-animation-130522
-published: 
+published:
 date: 2022-05-16
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
