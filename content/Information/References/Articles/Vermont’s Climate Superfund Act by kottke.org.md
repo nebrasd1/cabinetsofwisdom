@@ -1,13 +1,13 @@
 ---
-title: "Vermont’s Climate Superfund Act"
-author: "kottke.org"
+title: Vermont’s Climate Superfund Act
+author: kottke.org
 url: https://kottke.org/24/06/0044723-a-first-in-the-nation
 published: 2024-06-03
 date: 2024-06-17
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
