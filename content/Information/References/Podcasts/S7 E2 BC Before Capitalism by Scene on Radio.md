@@ -1,13 +1,13 @@
 ---
 title: "S7 E2: BC: Before Capitalism"
-author: "Scene on Radio"
+author: Scene on Radio
 url: https://share.snipd.com/episode/d6f9d5eb-ad20-486d-9f60-4dbe247e3711
-published: 
+published:
 date: 2024-10-07
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
