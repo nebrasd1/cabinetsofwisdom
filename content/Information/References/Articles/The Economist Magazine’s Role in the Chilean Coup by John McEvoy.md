@@ -1,16 +1,16 @@
 ---
-title: "The Economist Magazine’s Role in the Chilean Coup"
-author: "John McEvoy"
+title: The Economist Magazine’s Role in the Chilean Coup
+author: John McEvoy
 url: https://jacobin.com/2023/09/the-economist-uk-foreign-office-chile-coup-pinochet-salvador-allende/
 published: 2023-09-27
 date: 2024-11-18
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
