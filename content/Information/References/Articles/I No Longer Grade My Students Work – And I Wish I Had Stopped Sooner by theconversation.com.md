@@ -1,13 +1,13 @@
 ---
-title: "I No Longer Grade My Students' Work – And I Wish I Had Stopped Sooner"
-author: "theconversation.com"
+title: I No Longer Grade My Students' Work – And I Wish I Had Stopped Sooner
+author: theconversation.com
 url: https://theconversation.com/i-no-longer-grade-my-students-work-and-i-wish-i-had-stopped-sooner-179617
-published: 
+published:
 date: 2022-04-18
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
