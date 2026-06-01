@@ -1,16 +1,16 @@
 ---
-title: "The Norwegian Route Out of Tradwife Hell"
-author: "Meagan Day"
+title: The Norwegian Route Out of Tradwife Hell
+author: Meagan Day
 url: https://jacobin.com/2025/04/norway-trad-pappaperm-paternity-leave/
 published: 2025-04-01
 date: 2025-04-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Hope]]" 
-  - "[[Masculinity]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Hope]]"
+  - "[[Masculinity]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
