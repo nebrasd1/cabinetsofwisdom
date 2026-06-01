@@ -1,17 +1,17 @@
 ---
-title: "These Are Words Scholars Should No Longer Use to Describe Slavery and the Civil War"
-author: "Michael Todd Landis"
+title: These Are Words Scholars Should No Longer Use to Describe Slavery and the Civil War
+author: Michael Todd Landis
 url: https://www.historynewsnetwork.org/article/these-are-words-scholars-should-no-longer-use-to-d
 published: 2015-09-04
 date: 2025-02-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Racism]]" 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Racism]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process
