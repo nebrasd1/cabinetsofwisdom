@@ -1,13 +1,13 @@
 ---
 title: "Act of Grace: Masculinity, Monstrosity, and Queer Catharsis in Our Flag Means Death"
-author: "tor.com"
+author: tor.com
 url: https://www.tor.com/2022/04/25/act-of-grace-masculinity-monstrosity-and-queer-catharsis-in-our-flag-means-death/
-published: 
+published:
 date: 2022-05-19
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
