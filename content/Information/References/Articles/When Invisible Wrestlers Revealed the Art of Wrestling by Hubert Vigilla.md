@@ -1,13 +1,13 @@
 ---
-title: "When Invisible Wrestlers Revealed the Art of Wrestling"
-author: "Hubert Vigilla"
+title: When Invisible Wrestlers Revealed the Art of Wrestling
+author: Hubert Vigilla
 url: https://www.inoreader.com/article/3a9c6e7a7fa46431-when-invisible-wrestlers-revealed-the-art-of-wrestling
-published: 
+published:
 date: 2022-06-14
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
