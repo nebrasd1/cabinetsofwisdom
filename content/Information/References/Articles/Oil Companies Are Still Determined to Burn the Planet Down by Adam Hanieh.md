@@ -1,17 +1,17 @@
 ---
-title: "Oil Companies Are Still Determined to Burn the Planet Down"
-author: "Adam Hanieh"
+title: Oil Companies Are Still Determined to Burn the Planet Down
+author: Adam Hanieh
 url: https://jacobin.com/2024/10/fossil-fuels-net-zero-climate/
 published: 2024-10-19
 date: 2024-10-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Environment]]" 
-  - "[[Exploitation]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Environment]]"
+  - "[[Exploitation]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
