@@ -1,15 +1,15 @@
 ---
-title: "Guess Who Profits From Trump’s Deportation Plan? Private Equity Firms."
-author: "Matt Sledge"
+title: Guess Who Profits From Trump’s Deportation Plan? Private Equity Firms.
+author: Matt Sledge
 url: https://theintercept.com/2024/12/04/trump-mass-deportation-private-equity-prisons/
 published: 2024-12-04
 date: 2024-12-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
