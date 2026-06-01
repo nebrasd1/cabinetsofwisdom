@@ -1,13 +1,13 @@
 ---
 title: "'Embrace the Foolish'"
-author: "askpolly.substack.com"
+author: askpolly.substack.com
 url: https://askpolly.substack.com/p/embrace-the-foolish
-published: 
+published:
 date: 2022-03-07
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
