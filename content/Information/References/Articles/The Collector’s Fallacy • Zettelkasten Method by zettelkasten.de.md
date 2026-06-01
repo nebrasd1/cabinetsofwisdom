@@ -1,13 +1,13 @@
 ---
-title: "The Collector’s Fallacy • Zettelkasten Method"
-author: "zettelkasten.de"
+title: The Collector’s Fallacy • Zettelkasten Method
+author: zettelkasten.de
 url: https://zettelkasten.de/posts/collectors-fallacy/
 published: 2014-01-20
 date: 2021-06-28
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
