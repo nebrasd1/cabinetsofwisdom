@@ -1,15 +1,15 @@
 ---
-title: "Austerity Has Always Been a Project to Empower Capital at the Expense of Workers"
-author: "Gary Mongiovi"
+title: Austerity Has Always Been a Project to Empower Capital at the Expense of Workers
+author: Gary Mongiovi
 url: https://jacobin.com/2024/01/austerity-world-war-i-economic-policy-worker-power-capital/
 published: 2024-01-08
 date: 2024-11-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
