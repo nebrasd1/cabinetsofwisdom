@@ -1,15 +1,15 @@
 ---
-title: "AI News That's Fit to Print"
-author: "https://www.facebook.com/zseward"
+title: AI News That's Fit to Print
+author: https://www.facebook.com/zseward
 url: https://www.zachseward.com/ai-news-thats-fit-to-print-sxsw-2024/
 published: 2024-03-11
 date: 2024-06-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Ai]]" 
-  - "[[Writing]]" 
+lenses:
+  - "[[Ai]]"
+  - "[[Writing]]"
 publish: true
 ---
 > [!example]- Process
