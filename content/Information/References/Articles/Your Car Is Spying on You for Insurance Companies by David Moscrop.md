@@ -1,14 +1,14 @@
 ---
-title: "Your Car Is Spying on You for Insurance Companies"
-author: "David Moscrop"
+title: Your Car Is Spying on You for Insurance Companies
+author: David Moscrop
 url: https://jacobin.com/2024/03/car-spying-insurance-surveillance-data/
 published: 2024-03-21
 date: 2024-07-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process
