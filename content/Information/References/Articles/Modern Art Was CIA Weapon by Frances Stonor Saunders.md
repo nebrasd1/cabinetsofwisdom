@@ -1,18 +1,18 @@
 ---
-title: "Modern Art Was CIA 'Weapon'"
-author: "Frances Stonor Saunders"
+title: Modern Art Was CIA 'Weapon'
+author: Frances Stonor Saunders
 url: https://www.independent.co.uk/news/world/modern-art-was-cia-weapon-1578808.html
 published: 2013-06-14
 date: 2025-01-22
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
