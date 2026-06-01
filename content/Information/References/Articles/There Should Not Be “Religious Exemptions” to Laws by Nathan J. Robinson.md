@@ -1,16 +1,16 @@
 ---
-title: "There Should Not Be “Religious Exemptions” to Laws"
-author: "Nathan J. Robinson"
+title: There Should Not Be “Religious Exemptions” to Laws
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/08/there-should-not-be-religious-exemptions-to-laws/
 published: 2023-08-22
 date: 2023-08-30
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
