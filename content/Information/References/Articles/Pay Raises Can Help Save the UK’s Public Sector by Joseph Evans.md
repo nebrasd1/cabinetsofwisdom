@@ -1,15 +1,15 @@
 ---
-title: "Pay Raises Can Help Save the UK’s Public Sector"
-author: "Joseph Evans"
+title: Pay Raises Can Help Save the UK’s Public Sector
+author: Joseph Evans
 url: https://jacobin.com/2023/08/uk-nhs-austerity-managed-decline-austerity-sunak-wages-strikes/
 published: 2023-08-19
 date: 2023-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
