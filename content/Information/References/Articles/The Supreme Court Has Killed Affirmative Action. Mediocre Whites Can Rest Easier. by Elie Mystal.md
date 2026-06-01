@@ -1,15 +1,15 @@
 ---
-title: "The Supreme Court Has Killed Affirmative Action. Mediocre Whites Can Rest Easier."
-author: "Elie Mystal"
+title: The Supreme Court Has Killed Affirmative Action. Mediocre Whites Can Rest Easier.
+author: Elie Mystal
 url: https://www.thenation.com/article/society/supreme-court-killed-affirmative-action/
 published: 2023-06-30
 date: 2023-06-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Racism]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Racism]]"
 publish: true
 ---
 > [!example]- Process
