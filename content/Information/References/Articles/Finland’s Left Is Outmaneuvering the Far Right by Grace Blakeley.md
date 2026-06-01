@@ -1,14 +1,14 @@
 ---
-title: "Finland’s Left Is Outmaneuvering the Far Right"
-author: "Grace Blakeley"
+title: Finland’s Left Is Outmaneuvering the Far Right
+author: Grace Blakeley
 url: https://jacobin.com/2025/02/li-andersson-finland-left-alliance/
 published: 2025-02-03
 date: 2025-02-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
+lenses:
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
