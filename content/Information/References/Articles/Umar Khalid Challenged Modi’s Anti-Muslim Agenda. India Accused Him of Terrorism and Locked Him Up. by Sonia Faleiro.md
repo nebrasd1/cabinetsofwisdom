@@ -1,19 +1,19 @@
 ---
-title: "Umar Khalid Challenged Modi’s Anti-Muslim Agenda. India Accused Him of Terrorism and Locked Him Up."
-author: "Sonia Faleiro"
+title: Umar Khalid Challenged Modi’s Anti-Muslim Agenda. India Accused Him of Terrorism and Locked Him Up.
+author: Sonia Faleiro
 url: https://theintercept.com/2023/08/06/umar-khalid-india-modi/
-published: 
+published:
 date: 2023-08-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
-  - "[[Fascism]]" 
-  - "[[Injustice]]" 
-  - "[[Leadership]]" 
-  - "[[Politics]]" 
-  - "[[Racism]]" 
+lenses:
+  - "[[Colonialism]]"
+  - "[[Fascism]]"
+  - "[[Injustice]]"
+  - "[[Leadership]]"
+  - "[[Politics]]"
+  - "[[Racism]]"
 publish: true
 ---
 > [!example]- Process
