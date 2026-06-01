@@ -1,16 +1,16 @@
 ---
-title: "How Amsterdam’s Early Social Housing Failed Workers"
-author: "Tim Brinkhof"
+title: How Amsterdam’s Early Social Housing Failed Workers
+author: Tim Brinkhof
 url: https://jacobin.com/2025/02/amsterdam-social-housing-architecture-workers/
 published: 2025-02-02
 date: 2025-02-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Psychology]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[History]]"
+  - "[[Psychology]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
