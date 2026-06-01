@@ -1,13 +1,13 @@
 ---
-title: "The Frustration With Productivity Culture"
-author: "newyorker.com"
+title: The Frustration With Productivity Culture
+author: newyorker.com
 url: https://www.newyorker.com/culture/office-space/the-frustration-with-productivity-culture
-published: 
+published:
 date: 2021-09-16
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
