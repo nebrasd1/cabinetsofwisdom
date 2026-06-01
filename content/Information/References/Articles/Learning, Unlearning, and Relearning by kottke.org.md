@@ -1,16 +1,17 @@
 ---
-title: "Learning, Unlearning, and Relearning"
-author: "kottke.org"
+title: Learning, Unlearning, and Relearning
+author: kottke.org
 url: https://kottke.org/23/12/learning-unlearning-and-relearning
 published: 2023-12-18
 date: 2024-06-17
-modified:
+modified: 2026-05-31T21:34:11+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Psychology]]" 
-  - "[[Quote]]" 
+lenses:
+  - "[[Psychology]]"
 publish: true
+tags:
+  - addto/quote
 ---
 > [!example]- Process
 > 
