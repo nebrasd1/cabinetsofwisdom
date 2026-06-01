@@ -1,16 +1,16 @@
 ---
-title: "How the Kurds of Rojava Embraced Revolutionary New Ideas of Social Organization"
-author: "Adam Rivera and Sean Lambert"
+title: How the Kurds of Rojava Embraced Revolutionary New Ideas of Social Organization
+author: Adam Rivera and Sean Lambert
 url: https://www.currentaffairs.org/2023/06/how-the-kurds-of-rojava-embraced-revolutionary-new-ideas-of-social-organization/
 published: 2023-06-09
 date: 2023-06-10
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Socialism]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Socialism]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process
