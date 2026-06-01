@@ -1,13 +1,13 @@
 ---
-title: "On Experiencing Joe Rogan"
-author: "Nathan J. Robinson"
+title: On Experiencing Joe Rogan
+author: Nathan J. Robinson
 url: https://www.inoreader.com/article/3a9c6e7acb3ac198-on-experiencing-joe-rogan
-published: 
+published:
 date: 2022-02-12
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
