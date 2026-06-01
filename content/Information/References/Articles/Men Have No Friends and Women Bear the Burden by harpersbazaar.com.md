@@ -1,13 +1,13 @@
 ---
-title: "Men Have No Friends and Women Bear the Burden"
-author: "harpersbazaar.com"
+title: Men Have No Friends and Women Bear the Burden
+author: harpersbazaar.com
 url: https://www.harpersbazaar.com/culture/features/a27259689/toxic-masculinity-male-friendships-emotional-labor-men-rely-on-women/
 published: 2019-05-02
 date: 2022-03-28
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
