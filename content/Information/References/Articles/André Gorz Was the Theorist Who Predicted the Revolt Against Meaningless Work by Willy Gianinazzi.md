@@ -1,17 +1,18 @@
 ---
-title: "André Gorz Was the Theorist Who Predicted the Revolt Against Meaningless Work"
-author: "Willy Gianinazzi"
+title: André Gorz Was the Theorist Who Predicted the Revolt Against Meaningless Work
+author: Willy Gianinazzi
 url: https://jacobin.com/2023/07/andre-gorz-great-resignation-post-work-socialism-farewell-to-the-working-class/
 published: 2023-07-18
 date: 2023-08-06
-modified:
+modified: 2026-05-31T21:32:25+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Quote]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Socialism]]"
 publish: true
+tags:
+  - addto/quote
 ---
 > [!example]- Process
 > 
