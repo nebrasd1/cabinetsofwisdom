@@ -1,18 +1,18 @@
 ---
-title: "The UK’s Anti-Trans Ruling Is a Defeat for All Women"
-author: "Sophie Lewis"
+title: The UK’s Anti-Trans Ruling Is a Defeat for All Women
+author: Sophie Lewis
 url: https://www.thenation.com/article/society/supreme-court-trans-ruling-analysis-uk/
 published: 2025-04-23
 date: 2025-04-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Gender]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
-  - "[[Queer]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Gender]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
+  - "[[Queer]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process
