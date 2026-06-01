@@ -1,13 +1,13 @@
 ---
-title: "The Right Wins Because They Understand Power"
-author: "Nathan J. Robinson"
+title: The Right Wins Because They Understand Power
+author: Nathan J. Robinson
 url: https://www.inoreader.com/article/3a9c6e7a699eaeb6-the-right-wins-because-they-understand-power
-published: 
+published:
 date: 2022-07-04
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
