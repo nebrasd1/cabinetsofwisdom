@@ -1,16 +1,16 @@
 ---
-title: "Silicon Valley’s Quest to Build God and Control Humanity"
-author: "Edward Ongweso Jr."
+title: Silicon Valley’s Quest to Build God and Control Humanity
+author: Edward Ongweso Jr.
 url: https://www.thenation.com/article/economy/silicon-valley-artificial-intelligence/
 published: 2023-07-13
 date: 2023-08-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Ai]]" 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Ai]]"
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
