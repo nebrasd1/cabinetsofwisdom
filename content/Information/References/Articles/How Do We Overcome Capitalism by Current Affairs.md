@@ -1,13 +1,13 @@
 ---
-title: "How Do We Overcome Capitalism?"
-author: "Current Affairs"
+title: How Do We Overcome Capitalism?
+author: Current Affairs
 url: https://www.inoreader.com/article/3a9c6e75a09c6b2a-how-do-we-overcome-capitalism
-published: 
+published:
 date: 2022-10-16
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
