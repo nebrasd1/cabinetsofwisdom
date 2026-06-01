@@ -1,17 +1,17 @@
 ---
-title: "The California Job-Killer That Wasn’t"
-author: "Rogé Karma"
+title: The California Job-Killer That Wasn’t
+author: Rogé Karma
 url: https://www.theatlantic.com/ideas/archive/2024/12/california-minimum-wage-myth/681145/?gift=j9r7avb6p-KY8zdjhsiSZ1F3acvbaMPr0GUdVl-FcX4
 published: 2024-12-22
 date: 2025-01-30
-modified:
+modified: 2026-05-31T21:19:45+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Empowerment]]" 
-  - "[[Narrative]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Empowerment]]"
+  - "[[Propaganda]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process
