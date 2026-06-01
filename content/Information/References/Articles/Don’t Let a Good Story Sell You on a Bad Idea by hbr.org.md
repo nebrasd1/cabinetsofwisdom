@@ -1,13 +1,13 @@
 ---
-title: "Don’t Let a Good Story Sell You on a Bad Idea"
-author: "hbr.org"
+title: Don’t Let a Good Story Sell You on a Bad Idea
+author: hbr.org
 url: https://hbr.org/2020/12/dont-let-a-good-story-sell-you-on-a-bad-idea
-published: 
+published:
 date: 2020-12-23
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
