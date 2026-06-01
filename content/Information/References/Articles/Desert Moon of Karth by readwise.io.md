@@ -1,15 +1,15 @@
 ---
-title: "Desert Moon of Karth"
-author: "readwise.io"
+title: Desert Moon of Karth
+author: readwise.io
 url: https://readwise.io/reader/document_raw_content/51818943
 published: 2022-02-25
 date: 2024-09-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Swn]]" 
-  - "[[Ttrpg]]" 
+lenses:
+  - "[[Swn]]"
+  - "[[Ttrpg]]"
 publish: true
 ---
 > [!example]- Process
