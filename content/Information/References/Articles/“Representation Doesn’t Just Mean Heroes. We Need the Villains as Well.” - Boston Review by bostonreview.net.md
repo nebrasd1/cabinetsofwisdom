@@ -1,13 +1,13 @@
 ---
-title: "“Representation Doesn’t Just Mean Heroes. We Need the Villains as Well.” - Boston Review"
-author: "bostonreview.net"
+title: “Representation Doesn’t Just Mean Heroes. We Need the Villains as Well.” - Boston Review
+author: bostonreview.net
 url: https://bostonreview.net/articles/representation-doesnt-just-mean-heroes-we-need-the-villains-as-well/
-published: 
+published:
 date: 2022-03-07
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
