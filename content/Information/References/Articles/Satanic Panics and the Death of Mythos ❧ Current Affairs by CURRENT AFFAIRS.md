@@ -1,13 +1,13 @@
 ---
-title: "Satanic Panics and the Death of Mythos ❧ Current Affairs"
-author: "CURRENT AFFAIRS"
+title: Satanic Panics and the Death of Mythos ❧ Current Affairs
+author: CURRENT AFFAIRS
 url: https://www.currentaffairs.org/2021/02/satanic-panics-and-the-death-of-mythos
-published: 
+published:
 date: 2021-03-27
 modified:
 type: articles
 source: pocket
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
