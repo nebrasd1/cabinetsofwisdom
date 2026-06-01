@@ -1,13 +1,13 @@
 ---
 title: "Harry Potter and the Conspiracy of Queers: Discovering Myself in Fandom and Roleplay"
-author: "Victoria Lee"
+author: Victoria Lee
 url: https://www.tor.com/2019/10/14/harry-potter-and-the-conspiracy-of-queers-discovering-myself-in-fandom-and-roleplay/
-published: 
+published:
 date: 2020-05-28
 modified:
 type: articles
 source: pocket
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
