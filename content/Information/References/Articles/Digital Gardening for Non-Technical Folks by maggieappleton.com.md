@@ -1,13 +1,13 @@
 ---
-title: "Digital Gardening for Non-Technical Folks"
-author: "maggieappleton.com"
+title: Digital Gardening for Non-Technical Folks
+author: maggieappleton.com
 url: https://maggieappleton.com/nontechnical-gardening
 published: 2021-06-11
 date: 2021-06-27
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
