@@ -1,17 +1,17 @@
 ---
-title: "When South African Unionists Struck for US Workers"
-author: "Jeff Schuhrke"
+title: When South African Unionists Struck for US Workers
+author: Jeff Schuhrke
 url: https://jacobin.com/2025/05/south-african-unionists-international-solidarity/
 published: 2025-05-20
 date: 2025-05-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[History]]" 
-  - "[[Hope]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Community]]"
+  - "[[History]]"
+  - "[[Hope]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
