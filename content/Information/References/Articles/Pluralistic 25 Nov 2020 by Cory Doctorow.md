@@ -1,14 +1,14 @@
 ---
 title: "Pluralistic: 25 Nov 2020"
-author: "Cory Doctorow"
+author: Cory Doctorow
 url: https://pluralistic.net/2020/11/25/the-peoples-amazon/#clippys-revenge
 published: 2020-11-25
 date: 2023-05-23
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process
