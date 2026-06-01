@@ -425,7 +425,7 @@ purchased: true
 > In terms of the architecture of our minds, hope is to the future what memory is to the past.
 
 ✏️ Great quote and very evocative.
-👓 [[quote|quote]] [[swn|swn]]
+#addto/quote[[swn|swn]]
 📖 (Page 239)
 
 ### Page 240
@@ -505,6 +505,6 @@ purchased: true
 > To be hopeful in bad times is not just foolishly romantic. It is based on the fact that human history is a history not only of cruelty, but also of compassion, sacrifice, courage, kindness. What we choose to emphasize in this complex history will determine our lives. If we see only the worst, it destroys our capacity to do something. If we remember those times and places and there are so many where people have behaved magnificently, this gives us the energy to act, and at least the possibility of sending this spinning top of a world in a different direction
 
 ✏️ The stories we tell ourselves about the past determine the possibilities for our future.
-👓 [[quote|quote]] [[storytelling|storytelling]]
+#addto/quote[[storytelling|storytelling]]
 📖 (Page 259)
 
