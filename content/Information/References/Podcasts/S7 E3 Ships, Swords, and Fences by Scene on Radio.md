@@ -1,13 +1,13 @@
 ---
 title: "S7 E3: Ships, Swords, and Fences"
-author: "Scene on Radio"
+author: Scene on Radio
 url: https://share.snipd.com/episode/01012ba7-fe7c-4a0e-8940-4b52379b0751
-published: 
+published:
 date: 2024-10-16
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
