@@ -1,15 +1,15 @@
 ---
-title: "USAID Is Not Worth Blindly Defending"
-author: "Aída Chávez"
+title: USAID Is Not Worth Blindly Defending
+author: Aída Chávez
 url: https://www.thenation.com/article/politics/usaid-trump-musk-history-controversies/
 published: 2025-02-17
 date: 2025-02-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
