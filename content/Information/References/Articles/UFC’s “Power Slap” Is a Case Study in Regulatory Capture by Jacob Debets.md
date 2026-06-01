@@ -1,15 +1,15 @@
 ---
-title: "UFC’s “Power Slap” Is a Case Study in Regulatory Capture"
-author: "Jacob Debets"
+title: UFC’s “Power Slap” Is a Case Study in Regulatory Capture
+author: Jacob Debets
 url: https://jacobin.com/2023/08/ufc-power-slap-regulatory-capture-monopoly-labor-sports-dana-white/
 published: 2023-08-12
 date: 2023-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
