@@ -1,15 +1,15 @@
 ---
-title: "Half a Century After His Death, Salvador Allende Is Still Present Among Us"
-author: "Victor Figueroa"
+title: Half a Century After His Death, Salvador Allende Is Still Present Among Us
+author: Victor Figueroa
 url: https://jacobin.com/2023/09/salvador-allende-chile-coup-fiftieth-anniversary-politics-socialism-anti-imperialism-legacy-memory/
 published: 2023-09-10
 date: 2023-09-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[History]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
@@ -33,7 +33,7 @@ publish: true
 > socialist countries, visiting the Soviet Union, China, Vietnam, North Korea, and Yugoslavia, as well as Cuba
 
 ✏️ List of socialist countries to study #followup
-👓 [[socialism]]
+👓 [[socialism|socialism]]
 🔗 [View Highlight](https://read.readwise.io/read/01ha4kcyn400ejkcx5edkbzg5c)
 
 ### id594816035
