@@ -1,16 +1,16 @@
 ---
-title: "Will the Next President Help Banks Trap Customers?"
-author: "Katya Schwenk"
+title: Will the Next President Help Banks Trap Customers?
+author: Katya Schwenk
 url: https://jacobin.com/2024/11/cfpb-antitrust-dimon-trump-harris/
 published: 2024-11-03
 date: 2024-11-04
-modified:
+modified: 2026-05-31T21:23:28+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
@@ -59,6 +59,6 @@ publish: true
 > “It’s a sign, when people in power get upset like this, that policies are working — that the economy is changing, and it’s changing for the better.”
 
 ✏️ said by Emily Peterson-Cassin, the director of corporate power at Demand Progress, a progressive nonprofit.
-👓 [[quote]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01jbv04a4z2xjkarq2nzfsspyy)
 
