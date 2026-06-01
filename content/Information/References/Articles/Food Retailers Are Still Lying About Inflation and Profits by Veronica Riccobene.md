@@ -1,16 +1,16 @@
 ---
-title: "Food Retailers Are Still Lying About Inflation and Profits"
-author: "Veronica Riccobene"
+title: Food Retailers Are Still Lying About Inflation and Profits
+author: Veronica Riccobene
 url: https://jacobin.com/2024/06/food-prices-profits-greedflation-buybacks/
 published: 2024-06-03
 date: 2024-11-03
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
