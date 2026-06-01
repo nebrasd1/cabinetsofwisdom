@@ -1,16 +1,16 @@
 ---
 title: "JFK Assassination: The Final Secrets"
-author: "Peter Kornbluh"
+author: Peter Kornbluh
 url: https://www.thenation.com/article/society/jfk-assassination-files-final-release/
 published: 2025-03-21
 date: 2025-03-22
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
