@@ -1,16 +1,16 @@
 ---
-title: "Imran Khan’s Ouster Is a Story of US Power and Propaganda"
-author: "Branko Marcetic"
+title: Imran Khan’s Ouster Is a Story of US Power and Propaganda
+author: Branko Marcetic
 url: https://jacobin.com/2023/08/imran-khan-pakistan-ouster-us-power-media-propaganda/
 published: 2023-08-21
 date: 2023-08-23
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
