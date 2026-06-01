@@ -1,13 +1,13 @@
 ---
-title: "Wednesday Forgets Why We Fell in Love With the Addams Family"
-author: "Emmet Asher-Perrin"
+title: Wednesday Forgets Why We Fell in Love With the Addams Family
+author: Emmet Asher-Perrin
 url: https://www.tor.com/2022/12/13/wednesday-forgets-why-we-fell-in-love-with-the-addams-family/
 published: 2022-12-13
 date: 2022-12-14
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
