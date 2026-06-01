@@ -1,17 +1,17 @@
 ---
-title: "Opinion | to Obey Trump or Not to Obey - The New York Times"
-author: "M. Gessen"
+title: Opinion | to Obey Trump or Not to Obey - The New York Times
+author: M. Gessen
 url: https://www.nytimes.com/2025/02/08/opinion/trump-power-surrender.html?unlocked_article_code=1.vk4.lTq6.jnjeOn4lO9Ep
 published: 2025-02-08
 date: 2025-02-14
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Fascism]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Psychology]]" 
+lenses:
+  - "[[Fascism]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Psychology]]"
 publish: true
 ---
 > [!example]- Process
