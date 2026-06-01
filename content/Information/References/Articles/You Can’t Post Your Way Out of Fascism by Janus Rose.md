@@ -1,16 +1,16 @@
 ---
-title: "You Can’t Post Your Way Out of Fascism"
-author: "Janus Rose"
-url: 
+title: You Can’t Post Your Way Out of Fascism
+author: Janus Rose
+url:
 published: 2025-02-09
 date: 2025-02-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Politics]]" 
-  - "[[Psychology]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Politics]]"
+  - "[[Psychology]]"
 publish: true
 ---
 > [!example]- Process
