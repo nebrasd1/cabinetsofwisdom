@@ -1,13 +1,13 @@
 ---
 title: "Finding Balance: Cultural Preservation and Tourism"
-author: "chemonics.com"
+author: chemonics.com
 url: https://www.chemonics.com/blog/finding-balance-cultural-preservation-tourism/
-published: 
+published:
 date: 2021-01-02
 modified:
 type: articles
 source: pocket
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
