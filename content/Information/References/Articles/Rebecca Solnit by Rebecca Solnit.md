@@ -1,15 +1,15 @@
 ---
-title: "Rebecca Solnit"
-author: "Rebecca Solnit"
+title: Rebecca Solnit
+author: Rebecca Solnit
 url: https://lithub.com/rebecca-solnit-on-not-meeting-nazis-halfway/
 published: 2020-11-19
 date: 2024-08-17
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
