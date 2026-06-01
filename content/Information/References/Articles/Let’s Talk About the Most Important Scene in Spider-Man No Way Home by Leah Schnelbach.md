@@ -1,13 +1,13 @@
 ---
 title: "Let’s Talk About the Most Important Scene in Spider-Man: No Way Home"
-author: "Leah Schnelbach"
+author: Leah Schnelbach
 url: https://www.inoreader.com/article/3a9c6e7af20d2fbe-lets-talk-about-the-most-important-scene-in-spider-man-no-way-home
-published: 
+published:
 date: 2021-12-20
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
