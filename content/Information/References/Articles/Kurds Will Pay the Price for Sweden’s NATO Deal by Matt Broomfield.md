@@ -1,17 +1,17 @@
 ---
-title: "Kurds Will Pay the Price for Sweden’s NATO Deal"
-author: "Matt Broomfield"
+title: Kurds Will Pay the Price for Sweden’s NATO Deal
+author: Matt Broomfield
 url: https://jacobin.com/2023/07/nato-turkey-sweden-finland-kurds-erdogan-repression/
 published: 2023-07-20
 date: 2023-08-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
-  - "[[Exploitation]]" 
-  - "[[Hypocrisy ]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Colonialism]]"
+  - "[[Exploitation]]"
+  - "[[Hypocrisy ]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
