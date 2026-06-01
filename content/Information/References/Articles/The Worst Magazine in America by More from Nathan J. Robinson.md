@@ -1,16 +1,15 @@
 ---
-title: "The Worst Magazine in America"
-author: "More from Nathan J. Robinson"
+title: The Worst Magazine in America
+author: More from Nathan J. Robinson
 url: https://www.currentaffairs.org/news/the-worst-magazine-in-america
 published: 2024-09-13
 date: 2024-10-13
-modified:
+modified: 2026-05-31T21:20:26+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Narrative]]" 
-  - "[[Propaganda]]" 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[Propaganda]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process
@@ -49,7 +48,7 @@ publish: true
 
 ✏️ This seems to be the name of the game when it comes to most Atlantic articles, and what is performatively effective, regardless of substantially effective.
  Who needs data when you have a good story? It works just as well for people over and over again, as we've seen in my burgeoning propaganda pile.
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01ja2s77890m33s4rmch0jzbx2)
 
 ### id797997961
