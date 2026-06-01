@@ -1,14 +1,14 @@
 ---
-title: "The Press Has the Trump Campaign’s E-Mails. Why Haven’t We Seen Them?"
-author: "Chris Lehmann"
+title: The Press Has the Trump Campaign’s E-Mails. Why Haven’t We Seen Them?
+author: Chris Lehmann
 url: https://www.thenation.com/article/politics/trump-campaign-email-leak/
 published: 2024-08-14
 date: 2024-08-14
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
+lenses:
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
