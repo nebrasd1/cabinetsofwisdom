@@ -1,18 +1,18 @@
 ---
-title: "Democracy Is Not a Customer Loyalty Program"
-author: "Joseph Gubbels"
+title: Democracy Is Not a Customer Loyalty Program
+author: Joseph Gubbels
 url: https://jacobin.com/2024/11/political-parties-schumpeter-democracy-liberalism/
 published: 2024-11-24
 date: 2025-01-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
