@@ -1,16 +1,16 @@
 ---
-title: "Where Did Our Public Toilets Go?"
-author: "Katrina vanden Heuvel"
+title: Where Did Our Public Toilets Go?
+author: Katrina vanden Heuvel
 url: https://www.thenation.com/article/society/urban-planning-public-services-socialism/
 published: 2023-08-29
 date: 2023-08-30
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Propaganda]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Propaganda]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
