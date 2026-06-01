@@ -1,17 +1,17 @@
 ---
-title: "The Tesla Takedown Shows How We Can Make Oligarchs Feel the Pain"
-author: "Sunjeev Bery"
+title: The Tesla Takedown Shows How We Can Make Oligarchs Feel the Pain
+author: Sunjeev Bery
 url: https://theintercept.com/2025/04/13/elon-musk-tesla-takedown-protests/
 published: 2025-04-13
 date: 2025-04-21
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[Hope]]"
 publish: true
 ---
 > [!example]- Process
