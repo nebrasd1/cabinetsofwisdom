@@ -1,15 +1,15 @@
 ---
 title: "“I Fly the Ship” — Star Trek: Strange New Worlds: “Among the Lotus Eaters”"
-author: "Liz Bourke"
+author: Liz Bourke
 url: https://www.tor.com/2023/07/06/i-fly-the-ship-star-trek-strange-new-worlds-among-the-lotus-eaters/
 published: 2023-07-06
 date: 2023-07-30
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Swn]]" 
-  - "[[Worldbuilding]]" 
+lenses:
+  - "[[Swn]]"
+  - "[[Worldbuilding]]"
 publish: true
 ---
 > [!example]- Process
