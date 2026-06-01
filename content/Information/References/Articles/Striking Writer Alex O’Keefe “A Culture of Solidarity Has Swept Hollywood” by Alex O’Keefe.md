@@ -1,14 +1,14 @@
 ---
 title: "Striking Writer Alex O’Keefe: “A Culture of Solidarity Has Swept Hollywood”"
-author: "Alex O’Keefe"
+author: Alex O’Keefe
 url: https://jacobin.com/2023/09/alex-okeefe-the-bear-wga-strike-solidarity-union-movement-building-hollywood/
 published: 2023-09-12
 date: 2023-09-13
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Hope]]" 
+lenses:
+  - "[[Hope]]"
 publish: true
 ---
 > [!example]- Process
