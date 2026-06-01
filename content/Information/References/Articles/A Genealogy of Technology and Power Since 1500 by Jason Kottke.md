@@ -1,19 +1,19 @@
 ---
-title: "A Genealogy of Technology and Power Since 1500"
-author: "Jason Kottke"
+title: A Genealogy of Technology and Power Since 1500
+author: Jason Kottke
 url: https://kottke.org/24/06/a-genealogy-of-technology-and-power-since-1500
 published: 2024-06-24
 date: 2024-06-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Colonialism]]" 
-  - "[[History]]" 
-  - "[[Maps]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Colonialism]]"
+  - "[[History]]"
+  - "[[Maps]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
