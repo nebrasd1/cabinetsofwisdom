@@ -2,5 +2,8 @@
 publish: true
 aliases:
   - technology
-modified: 2025-05-07T13:12:52+03:00
+  - tech
+modified: 2026-05-31T21:43:23+03:00
 ---
+# Technology
+## Personal Definition
