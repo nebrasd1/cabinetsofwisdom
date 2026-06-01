@@ -1,16 +1,16 @@
 ---
-title: "Enough About Harvard. Let’s Talk About CUNY."
-author: "Liza Featherstone"
+title: Enough About Harvard. Let’s Talk About CUNY.
+author: Liza Featherstone
 url: https://jacobin.com/2023/09/harvard-ivy-league-legacies-city-university-of-new-york-public-colleges/
 published: 2023-09-18
 date: 2024-07-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Hope]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
