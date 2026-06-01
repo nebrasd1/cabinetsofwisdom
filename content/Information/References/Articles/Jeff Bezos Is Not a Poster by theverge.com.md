@@ -1,13 +1,13 @@
 ---
-title: "Jeff Bezos Is Not a Poster"
-author: "theverge.com"
+title: Jeff Bezos Is Not a Poster
+author: theverge.com
 url: https://www.theverge.com/2022/5/16/23075683/jeff-bezos-twitter-elon-musk-posting-troll
-published: 
+published:
 date: 2022-05-17
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
