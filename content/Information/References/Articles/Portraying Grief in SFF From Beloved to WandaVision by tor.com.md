@@ -1,13 +1,13 @@
 ---
 title: "Portraying Grief in SFF: From Beloved to WandaVision"
-author: "tor.com"
+author: tor.com
 url: https://www.tor.com/2021/03/10/grief-and-mourning-in-science-fiction-fantasy-wandavision/
-published: 
+published:
 date: 2021-04-08
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
