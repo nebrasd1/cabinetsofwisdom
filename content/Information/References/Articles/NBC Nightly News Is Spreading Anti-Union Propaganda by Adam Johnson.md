@@ -1,15 +1,15 @@
 ---
-title: "NBC Nightly News Is Spreading Anti-Union Propaganda"
-author: "Adam Johnson"
+title: NBC Nightly News Is Spreading Anti-Union Propaganda
+author: Adam Johnson
 url: https://jacobin.com/2023/09/anti-union-propaganda-media-nbc-strike-uaw-consumerism/
 published: 2023-09-12
 date: 2023-09-13
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
@@ -44,7 +44,7 @@ publish: true
 > Ah, see, the Big Three are making obscene profits — not for their own benefit, but to reinvest in saving Mother Nature. LeBeau doesn’t mention that Ford, according to the UAW, has [paid out](https://uaw.org/president-fains-big-three-contract-update-ford-proposal-insults-worth/) $5 billion to shareholders in dividends this year alone, up $2 billion since last year. Le Beau doesn’t offer any evidence that a significant percentage of profits are funding infrastructure investments in electric cars — it’s just a vibe.
 
 ✏️ Making specious claims without any evidence, about "needing" profits in order to contribute to R&D for electric vehicles... for the environment.
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01ha6rsvg491j155d30nej30er)
 
 ### id595155713
@@ -56,13 +56,13 @@ publish: true
 > NBC Nightly News has zero interest in interviewing any actual workers, only wealthy car dealers, and part suppliers, and echoes the talking points of Detroit C-suiters.
 
 ✏️ Either they're bad at their jobs as journalists, or, more likely, they're biased in favor of their corporate partners.
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01ha6rr972x7fk9s9dbqjz19dz)
 
 ### id595155647
 > where unions have the numbers, management has a well-funded PR team, with ready-made talking points about greedy union workers shutting down the economy, wanting to cut hours, and preventing Ma and Pa America from getting a cheap car quickly.
 
 ✏️ Propaganda tactics by the capitalists
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01ha6rqnrswke5tzmfrf76fncj)
 
