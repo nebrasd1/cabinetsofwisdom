@@ -1,13 +1,13 @@
 ---
-title: "Learning From Italian Antifascism"
-author: "Marco Bresciani"
+title: Learning From Italian Antifascism
+author: Marco Bresciani
 url: https://jacobin.com/2024/09/italy-antifascism-rosselli-mussolini-risorgimento/
 published: 2024-09-01
 date: 2024-09-03
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
