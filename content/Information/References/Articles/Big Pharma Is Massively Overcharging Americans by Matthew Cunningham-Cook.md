@@ -1,15 +1,15 @@
 ---
-title: "Big Pharma Is Massively Overcharging Americans"
-author: "Matthew Cunningham-Cook"
+title: Big Pharma Is Massively Overcharging Americans
+author: Matthew Cunningham-Cook
 url: https://jacobin.com/2023/09/drug-prices-profiteering-medicare-negotiation-inflation-reducation-act-big-pharma/
 published: 2023-09-02
 date: 2023-09-03
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
 publish: true
 ---
 > [!example]- Process
