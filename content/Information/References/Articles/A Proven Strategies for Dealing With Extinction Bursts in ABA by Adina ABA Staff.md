@@ -1,14 +1,14 @@
 ---
-title: "A Proven Strategies for Dealing With Extinction Bursts in ABA"
-author: "Adina ABA Staff"
+title: A Proven Strategies for Dealing With Extinction Bursts in ABA
+author: Adina ABA Staff
 url: https://www.adinaaba.com/post/extinction-bursts-in-aba
 published: 2024-05-28
 date: 2025-02-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Psychology]]" 
+lenses:
+  - "[[Psychology]]"
 publish: true
 ---
 > [!example]- Process
