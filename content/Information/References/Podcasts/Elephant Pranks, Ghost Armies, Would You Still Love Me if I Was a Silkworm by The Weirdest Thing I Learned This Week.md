@@ -1,13 +1,13 @@
 ---
-title: "Elephant Pranks, Ghost Armies, Would You Still Love Me if I Was a Silkworm"
-author: "The Weirdest Thing I Learned This Week"
+title: Elephant Pranks, Ghost Armies, Would You Still Love Me if I Was a Silkworm
+author: The Weirdest Thing I Learned This Week
 url: https://share.snipd.com/episode/8f5e9f37-24e2-436a-affa-4fab01a52aba
-published: 
+published:
 date: 2024-12-21
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
