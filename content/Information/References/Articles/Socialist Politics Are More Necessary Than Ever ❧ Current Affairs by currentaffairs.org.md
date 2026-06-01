@@ -1,13 +1,13 @@
 ---
-title: "Socialist Politics Are More Necessary Than Ever  ❧ Current Affairs"
-author: "currentaffairs.org"
+title: Socialist Politics Are More Necessary Than Ever  ❧ Current Affairs
+author: currentaffairs.org
 url: https://www.currentaffairs.org/2022/04/socialist-politics-are-more-necessary-than-ever/
-published: 
+published:
 date: 2022-05-21
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
