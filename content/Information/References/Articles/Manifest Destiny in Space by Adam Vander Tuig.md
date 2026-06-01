@@ -1,13 +1,13 @@
 ---
-title: "Manifest Destiny in Space"
-author: "Adam Vander Tuig"
+title: Manifest Destiny in Space
+author: Adam Vander Tuig
 url: https://www.currentaffairs.org/2023/03/manifest-destiny-in-space/
 published: 2023-03-31
 date: 2023-04-02
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
