@@ -18,14 +18,14 @@ publish: true
 > | -------------- | ------------------------- |------------------------- |
 > | **Output**            | Done  | See section below |
 > | **Questions** | None  |  |
-> | **Claims**            | Done  | [[‘An Overwhelmingly Negative and Demoralizing Force’ What It’s Like Working for a Company That’s Forcing AI on Its Developers by aftermath.site#Outline of Claims]] |
-> | **Highlights**        | Done     | [[‘An Overwhelmingly Negative and Demoralizing Force’ What It’s Like Working for a Company That’s Forcing AI on Its Developers by aftermath.site#Highlights]] |
+> | **Claims**            | Done  | [[‘An Overwhelmingly Negative and Demoralizing Force’ What It’s Like Working for a Company That’s Forcing AI on Its Developers by aftermath.site#Outline of Claims|‘An Overwhelmingly Negative and Demoralizing Force’ What It’s Like Working for a Company That’s Forcing AI on Its Developers by aftermath.site > Outline of Claims]] |
+> | **Highlights**        | Done     | [[‘An Overwhelmingly Negative and Demoralizing Force’ What It’s Like Working for a Company That’s Forcing AI on Its Developers by aftermath.site#Highlights|‘An Overwhelmingly Negative and Demoralizing Force’ What It’s Like Working for a Company That’s Forcing AI on Its Developers by aftermath.site > Highlights]] |
 ## Document Notes
 Good point about how AI is sometimes being pushed like snake oil... solving problems that aren't really there in first place, but propaganda and marketing is doing all the work to make the problems appear in the first place.
 
 ## Outline of Claims 
-- [[AI tries to solve problems that are not actually problems]]
-- [[AI propaganda is akin to snake oil salesmen tactics]]
+- [[AI tries to solve problems that are not actually problems|AI tries to solve problems that are not actually problems]]
+- [[AI propaganda is akin to snake oil salesmen tactics|AI propaganda is akin to snake oil salesmen tactics]]
 
 ## Highlights
 ### id880158572 AI tries to solve problems that are not actually problems
