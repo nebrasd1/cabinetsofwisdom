@@ -1,16 +1,16 @@
 ---
-title: "Potlatch - Wikipedia"
-author: "wikipedia.org"
+title: Potlatch - Wikipedia
+author: wikipedia.org
 url: https://en.wikipedia.org/wiki/Potlatch
 published: 2003-03-06
 date: 2025-02-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
-  - "[[Community]]" 
-  - "[[History]]" 
+lenses:
+  - "[[Colonialism]]"
+  - "[[Community]]"
+  - "[[History]]"
 publish: true
 ---
 > [!example]- Process
@@ -27,7 +27,7 @@ Form of gift economy.
 
 ## Highlights
 ### id856418639
-> gift-giving feast practiced by [Indigenous peoples of the Pacific Northwest Coast](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Pacific_Northwest_Coast) of [Canada](https://en.wikipedia.org/wiki/Canada) and the [United States](https://en.wikipedia.org/wiki/United_States),[[1]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-oed-1) among whom it is traditionally the primary governmental institution, legislative body, and [economic system](https://en.wikipedia.org/wiki/Gift_economy).[*[clarification needed](https://en.wikipedia.org/wiki/Wikipedia:Please_clarify)*][[2]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-Aldona_Jonaitis_1991-2) This includes the [Heiltsuk](https://en.wikipedia.org/wiki/Heiltsuk_Nation), [Haida](https://en.wikipedia.org/wiki/Haida_people), [Nuxalk](https://en.wikipedia.org/wiki/Nuxalk_Nation), [Tlingit](https://en.wikipedia.org/wiki/Tlingit_people),[[3]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-:0-3) [Makah](https://en.wikipedia.org/wiki/Makah_people), [Tsimshian](https://en.wikipedia.org/wiki/Tsimshian),[[4]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-4) [Nuu-chah-nulth](https://en.wikipedia.org/wiki/Nuu-chah-nulth_people),[[5]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-5) [Kwakwaka'wakw](https://en.wikipedia.org/wiki/Kwakwaka%27wakw),[[2]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-Aldona_Jonaitis_1991-2) and [Coast Salish](https://en.wikipedia.org/wiki/Coast_Salish_peoples) cultures
+> gift-giving feast practiced by [Indigenous peoples of the Pacific Northwest Coast](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Pacific_Northwest_Coast) of [Canada](https://en.wikipedia.org/wiki/Canada) and the [United States](https://en.wikipedia.org/wiki/United_States),[[1|1]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-oed-1) among whom it is traditionally the primary governmental institution, legislative body, and [economic system](https://en.wikipedia.org/wiki/Gift_economy).[*[clarification needed](https://en.wikipedia.org/wiki/Wikipedia:Please_clarify)*][[2|2]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-Aldona_Jonaitis_1991-2) This includes the [Heiltsuk](https://en.wikipedia.org/wiki/Heiltsuk_Nation), [Haida](https://en.wikipedia.org/wiki/Haida_people), [Nuxalk](https://en.wikipedia.org/wiki/Nuxalk_Nation), [Tlingit](https://en.wikipedia.org/wiki/Tlingit_people),[[3|3]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-:0-3) [Makah](https://en.wikipedia.org/wiki/Makah_people), [Tsimshian](https://en.wikipedia.org/wiki/Tsimshian),[[4|4]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-4) [Nuu-chah-nulth](https://en.wikipedia.org/wiki/Nuu-chah-nulth_people),[[5|5]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-5) [Kwakwaka'wakw](https://en.wikipedia.org/wiki/Kwakwaka%27wakw),[[2|2]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-Aldona_Jonaitis_1991-2) and [Coast Salish](https://en.wikipedia.org/wiki/Coast_Salish_peoples) cultures
 
 🔗 [View Highlight](https://read.readwise.io/read/01jmvwnmkwdkdtvcsjneqj5ewf)
 
@@ -79,7 +79,7 @@ Form of gift economy.
 🔗 [View Highlight](https://read.readwise.io/read/01jmvtv3dfd11fsdvs3n8rs7d5)
 
 ### id856414069
-> Potlatching was made illegal in Canada in 1884 in an amendment to the *[Indian Act](https://en.wikipedia.org/wiki/Indian_Act)*,[[21]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-21). To some extent, this was at the urging of missionaries and government agents who considered it "a worse than useless custom" that was seen as wasteful, unproductive, and contrary to 'civilized values' of accumulation.[[22]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-22) The Potlatch was seen as a key target in assimilation policies and agendas. Missionary [William Duncan](https://en.wikipedia.org/wiki/William_Duncan_(missionary)) wrote in 1875 that the potlatch was "by far the most formidable of all obstacles in the way of Indians becoming Christians, or even civilized"
+> Potlatching was made illegal in Canada in 1884 in an amendment to the *[Indian Act](https://en.wikipedia.org/wiki/Indian_Act)*,[[21|21]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-21). To some extent, this was at the urging of missionaries and government agents who considered it "a worse than useless custom" that was seen as wasteful, unproductive, and contrary to 'civilized values' of accumulation.[[22|22]](https://en.wikipedia.org/wiki/Potlatch/#cite_note-22) The Potlatch was seen as a key target in assimilation policies and agendas. Missionary [William Duncan](https://en.wikipedia.org/wiki/William_Duncan_(missionary)) wrote in 1875 that the potlatch was "by far the most formidable of all obstacles in the way of Indians becoming Christians, or even civilized"
 
 ✏️ Less than subtle subtext: This is not how capitalism works, and that's the law of the land now.
 🔗 [View Highlight](https://read.readwise.io/read/01jmvtyh3n3q3srbnsmagk2b8g)
