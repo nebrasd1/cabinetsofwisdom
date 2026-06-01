@@ -1,18 +1,18 @@
 ---
-title: "The Origins of the 'Socialist' Slur - The Atlantic"
-author: "archive.is"
+title: The Origins of the 'Socialist' Slur - The Atlantic
+author: archive.is
 url: https://archive.is/i1eJJ
 published: 2024-01-04
 date: 2024-11-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
-  - "[[Racism]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
+  - "[[Racism]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
