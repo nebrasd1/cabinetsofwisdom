@@ -2,14 +2,14 @@
 title: Stop Giving af and Start Writing More
 author: joelhooks.com
 url: https://joelhooks.com/on-writing-more
-published: 
+published:
 date: 2021-07-15
 modified: 2025-05-06T08:16:59+03:00
 type:
   - articles
 source:
   - hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
