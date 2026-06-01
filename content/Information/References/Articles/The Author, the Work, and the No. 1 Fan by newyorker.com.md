@@ -1,13 +1,13 @@
 ---
-title: "The Author, the Work, and the No. 1 Fan"
-author: "newyorker.com"
+title: The Author, the Work, and the No. 1 Fan
+author: newyorker.com
 url: https://www.newyorker.com/culture/personal-history/the-author-the-work-and-the-no-1-fan
-published: 
+published:
 date: 2021-08-11
 modified:
 type: articles
 source: pocket
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
