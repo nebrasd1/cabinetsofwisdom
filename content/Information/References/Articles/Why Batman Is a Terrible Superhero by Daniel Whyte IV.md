@@ -1,13 +1,13 @@
 ---
-title: "Why Batman Is a Terrible Superhero"
-author: "Daniel Whyte IV"
+title: Why Batman Is a Terrible Superhero
+author: Daniel Whyte IV
 url: https://www.tor.com/2020/09/28/why-batman-is-a-terrible-superhero-or-why-our-present-social-crises-demand-a-different-class-of-hero/
-published: 
+published:
 date: 2020-12-20
 modified:
 type: articles
 source: pocket
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
