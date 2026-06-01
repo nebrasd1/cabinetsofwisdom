@@ -1,16 +1,16 @@
 ---
-title: "Hollywood’s New Sex Worker Roles Are Girlboss Heroines"
-author: "Emma Paling"
+title: Hollywood’s New Sex Worker Roles Are Girlboss Heroines
+author: Emma Paling
 url: https://jacobin.com/2024/10/sex-work-popular-culture-kirshner-review/
 published: 2024-10-05
 date: 2024-10-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process
