@@ -1,13 +1,13 @@
 ---
-title: "How Gossip Girl Broke the Fantasy of Being the World’s Most Special Girl"
-author: "Constance Grady"
+title: How Gossip Girl Broke the Fantasy of Being the World’s Most Special Girl
+author: Constance Grady
 url: https://www.inoreader.com/article/3a9c6e7b5ce7057c-how-gossip-girl-broke-the-fantasy-of-being-the-worlds-most-special-girl
-published: 
+published:
 date: 2021-08-10
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
