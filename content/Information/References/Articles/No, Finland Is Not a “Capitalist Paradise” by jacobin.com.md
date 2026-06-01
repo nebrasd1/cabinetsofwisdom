@@ -1,15 +1,15 @@
 ---
-title: "No, Finland Is Not a “Capitalist Paradise”"
-author: "jacobin.com"
+title: No, Finland Is Not a “Capitalist Paradise”
+author: jacobin.com
 url: https://jacobin.com/2019/12/finland-socialism-capitalism-welfare-state
 published: 2019-12-09
 date: 2024-07-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
