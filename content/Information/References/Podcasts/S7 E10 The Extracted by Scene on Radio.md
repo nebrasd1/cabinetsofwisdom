@@ -1,13 +1,13 @@
 ---
 title: "S7 E10: The Extracted"
-author: "Scene on Radio"
+author: Scene on Radio
 url: https://share.snipd.com/episode/e7b56d02-d403-4795-b8d8-9b0409f71795
-published: 
+published:
 date: 2024-11-28
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
