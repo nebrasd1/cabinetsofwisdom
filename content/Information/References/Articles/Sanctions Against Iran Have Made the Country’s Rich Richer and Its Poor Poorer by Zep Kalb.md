@@ -1,16 +1,16 @@
 ---
-title: "Sanctions Against Iran Have Made the Country’s Rich Richer and Its Poor Poorer"
-author: "Zep Kalb"
+title: Sanctions Against Iran Have Made the Country’s Rich Richer and Its Poor Poorer
+author: Zep Kalb
 url: https://jacobin.com/2023/08/iran-sanctions-inequality-income-wealth-poor/
 published: 2023-08-28
 date: 2023-08-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
@@ -48,7 +48,7 @@ publish: true
 > Iranian politicians, pundits, and the public often blame corruption for the growing gap between rich and poor. But not everyone who is getting richer is engaged in corruption
 
 ✏️ The true culprit is the structural transformation of the economy, spurred by sanctions, and enacted/favored by the elite.
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01h903gec7t6pevydq85684pax)
 
 ### id588094641
