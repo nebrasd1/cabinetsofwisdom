@@ -1,13 +1,13 @@
 ---
-title: "The War in Gaza Is a Predictable Result of Decades of Extreme Israeli Policy"
-author: "Daniel Bessner"
+title: The War in Gaza Is a Predictable Result of Decades of Extreme Israeli Policy
+author: Daniel Bessner
 url: https://jacobin.com/2023/10/gaza-israel-palestine-history-geopolitics-interview-hamas/
 published: 2023-10-14
 date: 2023-10-16
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -25,6 +25,6 @@ publish: true
 
 ✏️ Words matter.
  A lot is inferred from people assuming state to state interaction, when it's really state to divided people.
-👓 [[history]] [[propaganda]] [[politics]]
+👓 [[history|history]] [[propaganda|propaganda]] [[politics|politics]]
 🔗 [View Highlight](https://read.readwise.io/read/01hcwg5zhxfzxbr6tdyg53nvtc)
 
