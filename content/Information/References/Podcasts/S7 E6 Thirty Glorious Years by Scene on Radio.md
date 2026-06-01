@@ -1,13 +1,13 @@
 ---
 title: "S7 E6: Thirty Glorious Years"
-author: "Scene on Radio"
+author: Scene on Radio
 url: https://share.snipd.com/episode/7f0e39bb-bb1f-4af8-a833-9bf2f432c899
-published: 
+published:
 date: 2024-11-18
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
