@@ -1,15 +1,15 @@
 ---
-title: "Understanding Fascism Requires Understanding Economic Forces"
-author: "Taylor Dorrell"
+title: Understanding Fascism Requires Understanding Economic Forces
+author: Taylor Dorrell
 url: https://jacobin.com/2024/12/fascism-marxism-history-capitalists-trump/
 published: 2024-12-14
 date: 2025-01-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Fascism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Fascism]]"
 publish: true
 ---
 > [!example]- Process
