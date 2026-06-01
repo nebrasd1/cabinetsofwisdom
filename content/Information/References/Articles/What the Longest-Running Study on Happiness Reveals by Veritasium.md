@@ -1,15 +1,15 @@
 ---
-title: "What the Longest-Running Study on Happiness Reveals"
-author: "Veritasium"
+title: What the Longest-Running Study on Happiness Reveals
+author: Veritasium
 url: https://www.youtube.com/watch?v=vSQjk9jKarg&list=WL&index=4
 published: 2023-11-15
 date: 2023-12-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Psychology]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Psychology]]"
 publish: true
 ---
 > [!example]- Process
