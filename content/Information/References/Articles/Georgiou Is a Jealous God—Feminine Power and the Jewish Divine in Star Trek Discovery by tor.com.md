@@ -1,13 +1,13 @@
 ---
 title: "Georgiou Is a Jealous God—Feminine Power and the Jewish Divine in Star Trek: Discovery"
-author: "tor.com"
+author: tor.com
 url: https://www.tor.com/2022/04/21/feminine-power-jewish-divine-star-trek-discovery-2/
-published: 
+published:
 date: 2022-05-22
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
