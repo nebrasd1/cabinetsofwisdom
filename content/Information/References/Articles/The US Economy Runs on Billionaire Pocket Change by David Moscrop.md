@@ -1,15 +1,15 @@
 ---
-title: "The US Economy Runs on Billionaire Pocket Change"
-author: "David Moscrop"
+title: The US Economy Runs on Billionaire Pocket Change
+author: David Moscrop
 url: https://jacobin.com/2025/02/trump-tariffs-inequality-assets-consumption/
 published: 2025-02-28
 date: 2025-04-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
