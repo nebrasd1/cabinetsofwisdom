@@ -1,13 +1,13 @@
 ---
-title: "Understanding What Trans Justice Means"
-author: "Current Affairs"
+title: Understanding What Trans Justice Means
+author: Current Affairs
 url: https://www.currentaffairs.org/2023/01/understanding-what-trans-justice-means/
 published: 2023-01-26
 date: 2023-02-11
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
