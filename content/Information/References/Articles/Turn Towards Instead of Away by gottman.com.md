@@ -1,13 +1,13 @@
 ---
-title: "Turn Towards Instead of Away"
-author: "gottman.com"
+title: Turn Towards Instead of Away
+author: gottman.com
 url: https://www.gottman.com/blog/turn-toward-instead-of-away/
-published: 
+published:
 date: 2020-12-24
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
