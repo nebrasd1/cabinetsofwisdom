@@ -1,16 +1,16 @@
 ---
-title: "Landlords Are Pushing the Supreme Court to End Rent Control"
-author: "Julia Rock"
+title: Landlords Are Pushing the Supreme Court to End Rent Control
+author: Julia Rock
 url: https://jacobin.com/2023/08/supreme-court-landlords-rent-control-harlan-crow-clarence-thomas/
 published: 2023-08-16
 date: 2023-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
