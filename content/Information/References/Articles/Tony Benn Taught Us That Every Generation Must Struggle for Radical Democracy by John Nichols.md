@@ -1,15 +1,15 @@
 ---
-title: "Tony Benn Taught Us That Every Generation Must Struggle for Radical Democracy"
-author: "John Nichols"
+title: Tony Benn Taught Us That Every Generation Must Struggle for Radical Democracy
+author: John Nichols
 url: https://www.thenation.com/article/activism/tony-benn-at-100/
 published: 2025-04-03
 date: 2025-04-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Hope]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Hope]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
