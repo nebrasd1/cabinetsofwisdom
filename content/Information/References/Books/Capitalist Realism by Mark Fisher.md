@@ -11,7 +11,7 @@ lenses:
 publish: true
 consumed: true
 purchased: true
-modified: 2026-04-29T10:04:17+03:00
+modified: 2026-05-31T21:30:37+03:00
 ---
 > [!note]+ Basic Info
 > 
@@ -54,7 +54,7 @@ modified: 2026-04-29T10:04:17+03:00
 > Quote by Marx and Engel in Communist Manifesto
 
 
-👓 [[quote|quote]] 
+#addto/quote
 📖 (Page 4)
 
 
@@ -90,7 +90,7 @@ modified: 2026-04-29T10:04:17+03:00
 
 ✏️ Think about things like the electric trolleys throughout the US, etc. For sure there are more examples.. Rise of privatization was this way from pre to post 70s apparently.
 
-👓 [[quote|quote]] 
+#addto/quote
 📖 (Page 17)
 
 
