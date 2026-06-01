@@ -1,13 +1,13 @@
 ---
-title: "<em>The People’s Joker</Em> Re-Mixes and Re-Mx-Es Our Modern Myths With Sheer Trans Joy"
-author: "Leah Schnelbach"
+title: <em>The People’s Joker</Em> Re-Mixes and Re-Mx-Es Our Modern Myths With Sheer Trans Joy
+author: Leah Schnelbach
 url: https://reactormag.com/the-peoples-joker-re-mixes-and-re-mx-es-our-modern-myths-with-sheer-trans-joy/#ac61d5d5-53d6-4e08-8f24-b808352a116b
 published: 2024-04-29
 date: 2024-06-22
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
