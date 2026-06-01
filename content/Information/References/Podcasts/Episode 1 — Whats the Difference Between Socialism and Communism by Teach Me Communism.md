@@ -1,13 +1,13 @@
 ---
-title: "Episode 1 —  What's the Difference Between Socialism and Communism?"
-author: "Teach Me Communism"
+title: Episode 1 —  What's the Difference Between Socialism and Communism?
+author: Teach Me Communism
 url: https://share.snipd.com/episode/045241c1-8e85-4c79-a617-d980c9c50c8c
-published: 
+published:
 date: 2023-10-30
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
