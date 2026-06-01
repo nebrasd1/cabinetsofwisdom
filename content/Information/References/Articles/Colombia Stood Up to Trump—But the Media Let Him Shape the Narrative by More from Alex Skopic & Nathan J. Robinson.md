@@ -1,16 +1,16 @@
 ---
-title: "Colombia Stood Up to Trump—But the Media Let Him Shape the Narrative"
-author: "More from Alex Skopic & Nathan J. Robinson"
+title: Colombia Stood Up to Trump—But the Media Let Him Shape the Narrative
+author: More from Alex Skopic & Nathan J. Robinson
 url: https://www.currentaffairs.org/news/colombia-stood-up-to-trump-but-the-media-let-him-shape-the-narrative
 published: 2025-02-01
 date: 2025-02-02
-modified:
+modified: 2026-05-31T21:18:39+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Narrative]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Propaganda]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process
