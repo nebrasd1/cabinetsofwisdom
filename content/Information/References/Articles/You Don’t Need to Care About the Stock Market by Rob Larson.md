@@ -1,15 +1,15 @@
 ---
-title: "You Don’t Need to Care About the Stock Market"
-author: "Rob Larson"
+title: You Don’t Need to Care About the Stock Market
+author: Rob Larson
 url: https://www.currentaffairs.org/2023/06/you-dont-need-to-care-about-the-stock-market/
 published: 2023-06-21
 date: 2023-07-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
