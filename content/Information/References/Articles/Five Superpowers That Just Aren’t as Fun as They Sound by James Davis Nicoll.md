@@ -1,13 +1,13 @@
 ---
-title: "Five Superpowers That Just Aren’t as Fun as They Sound"
-author: "James Davis Nicoll"
+title: Five Superpowers That Just Aren’t as Fun as They Sound
+author: James Davis Nicoll
 url: https://www.inoreader.com/article/3a9c6e7ab360c481-five-superpowers-that-just-arent-as-fun-as-they-sound
-published: 
+published:
 date: 2021-09-25
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
