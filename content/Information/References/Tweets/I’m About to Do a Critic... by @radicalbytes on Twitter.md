@@ -1,13 +1,13 @@
 ---
-title: "I’m About to Do a Critic..."
+title: I’m About to Do a Critic...
 author: "@radicalbytes on Twitter"
 url: https://twitter.com/radicalbytes/status/1337955128092086272
-published: 
+published:
 date: 2021-10-07
 modified:
 type: tweets
 source: twitter
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
