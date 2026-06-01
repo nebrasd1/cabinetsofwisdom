@@ -1,13 +1,13 @@
 ---
-title: "Unfortunately We Are Not Living in a “Simulation”"
-author: "Nathan J. Robinson"
+title: Unfortunately We Are Not Living in a “Simulation”
+author: Nathan J. Robinson
 url: https://www.inoreader.com/article/3a9c6e7ad250e9b8-unfortunately-we-are-not-living-in-a-ldquosimulationrdquo
-published: 
+published:
 date: 2022-02-03
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
