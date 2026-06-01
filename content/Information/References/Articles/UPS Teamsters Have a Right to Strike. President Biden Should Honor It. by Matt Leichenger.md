@@ -1,15 +1,15 @@
 ---
-title: "UPS Teamsters Have a Right to Strike. President Biden Should Honor It."
-author: "Matt Leichenger"
+title: UPS Teamsters Have a Right to Strike. President Biden Should Honor It.
+author: Matt Leichenger
 url: https://jacobin.com/2023/07/ups-teamsters-biden-administration-strike-breaking/
 published: 2023-07-25
 date: 2023-07-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
 publish: true
 ---
 > [!example]- Process
