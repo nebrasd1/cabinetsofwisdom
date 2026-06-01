@@ -1,15 +1,15 @@
 ---
-title: "Wall Street Embraces MBS’s Money Man"
-author: "Jonathan Guyer"
+title: Wall Street Embraces MBS’s Money Man
+author: Jonathan Guyer
 url: https://www.thenation.com/article/society/wall-street-mbs-saudi-al-rumayyan/
 published: 2024-11-25
 date: 2024-11-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Ksa]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Ksa]]"
 publish: true
 ---
 > [!example]- Process
