@@ -1,16 +1,16 @@
 ---
 title: "Canadian Socialist Ed Broadbent: Real Democracy Requires Industrial Democracy"
-author: "Luke Savage"
+author: Luke Savage
 url: https://jacobin.com/2023/10/canada-socialism-ed-broadbent-industrial-democracy-economic-rights/
 published: 2023-10-17
 date: 2025-02-10
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[History]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[History]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
