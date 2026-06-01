@@ -1,15 +1,15 @@
 ---
-title: "Keir Starmer Will Always Side With Capital Against Workers"
-author: "Jonny Jones"
+title: Keir Starmer Will Always Side With Capital Against Workers
+author: Jonny Jones
 url: https://jacobin.com/2024/10/labour-starmer-infrastructure-workers-rights/
 published: 2024-10-31
 date: 2024-11-03
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
