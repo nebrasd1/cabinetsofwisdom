@@ -1,13 +1,13 @@
 ---
-title: "Commodification – Subcultures and Sociology"
-author: "haenfler.sites.grinnell.edu"
+title: Commodification – Subcultures and Sociology
+author: haenfler.sites.grinnell.edu
 url: https://haenfler.sites.grinnell.edu/subcultural-theory-and-theorists/commodification/
-published: 
+published:
 date: 2021-02-01
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
