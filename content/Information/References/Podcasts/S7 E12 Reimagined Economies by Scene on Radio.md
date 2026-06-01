@@ -2,12 +2,12 @@
 title: "S7 E12: Reimagined Economies"
 author: Scene on Radio
 url: https://share.snipd.com/episode/d48ab7aa-2aa8-47a9-bd40-bb3a6edab9b5
-published: 
+published:
 date: 2024-12-19
 modified: 2025-05-05T22:10:22+03:00
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
