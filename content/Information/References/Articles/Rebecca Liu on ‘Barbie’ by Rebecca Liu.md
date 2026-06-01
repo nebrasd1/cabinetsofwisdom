@@ -1,17 +1,17 @@
 ---
-title: "Rebecca Liu on ‘Barbie’"
-author: "Rebecca Liu"
+title: Rebecca Liu on ‘Barbie’
+author: Rebecca Liu
 url: https://www.anothergaze.com/rebecca-liu-barbie/
 published: 2023-08-01
 date: 2023-08-21
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Hypocrisy ]]" 
-  - "[[Storytelling]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Hypocrisy ]]"
+  - "[[Storytelling]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process
