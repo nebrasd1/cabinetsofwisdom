@@ -1,16 +1,16 @@
 ---
-title: "The Secret History of How the Super-Rich Have Kept the Working Class Out of Work"
-author: "Jon Schwarz"
+title: The Secret History of How the Super-Rich Have Kept the Working Class Out of Work
+author: Jon Schwarz
 url: https://theintercept.com/2023/09/23/tim-gurner-speech-unemployment/
 published: 2023-09-23
 date: 2024-09-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
