@@ -1,16 +1,16 @@
 ---
-title: "Norfolk Southern Spent $1.9 Million in Washington as Congress Weakened Rail Safety Bill"
-author: "Prem Thakker"
+title: Norfolk Southern Spent $1.9 Million in Washington as Congress Weakened Rail Safety Bill
+author: Prem Thakker
 url: https://theintercept.com/2023/08/18/norfolk-southern-rail-safety-lobby-congress/
 published: 2023-08-18
 date: 2023-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
