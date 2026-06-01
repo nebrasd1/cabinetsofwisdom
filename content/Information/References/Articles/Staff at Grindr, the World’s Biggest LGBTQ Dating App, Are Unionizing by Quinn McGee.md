@@ -1,16 +1,16 @@
 ---
-title: "Staff at Grindr, the World’s Biggest LGBTQ Dating App, Are Unionizing"
-author: "Quinn McGee"
+title: Staff at Grindr, the World’s Biggest LGBTQ Dating App, Are Unionizing
+author: Quinn McGee
 url: https://jacobin.com/2023/07/grindr-union-tech-job-security-lgbtq-rights-cwa/
 published: 2023-07-29
 date: 2023-07-30
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Empowerment]]" 
-  - "[[Queer]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Empowerment]]"
+  - "[[Queer]]"
 publish: true
 ---
 > [!example]- Process
