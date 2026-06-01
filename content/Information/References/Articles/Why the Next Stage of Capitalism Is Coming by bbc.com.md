@@ -1,13 +1,13 @@
 ---
-title: "Why the Next Stage of Capitalism Is Coming"
-author: "bbc.com"
+title: Why the Next Stage of Capitalism Is Coming
+author: bbc.com
 url: https://www.bbc.com/future/article/20210525-why-the-next-stage-of-capitalism-is-coming
 published: 2021-05-27
 date: 2021-06-07
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
