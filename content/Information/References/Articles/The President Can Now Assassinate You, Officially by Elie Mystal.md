@@ -1,16 +1,16 @@
 ---
-title: "The President Can Now Assassinate You, Officially"
-author: "Elie Mystal"
+title: The President Can Now Assassinate You, Officially
+author: Elie Mystal
 url: https://www.thenation.com/article/society/trump-immunity-supreme-court/
 published: 2024-07-01
 date: 2024-07-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Fascism]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Fascism]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
