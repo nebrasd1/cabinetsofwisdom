@@ -1,13 +1,13 @@
 ---
-title: "Rat Sommeliers, Pneumatic Tube Flirting, Why Periods Hurt"
-author: "The Weirdest Thing I Learned This Week"
+title: Rat Sommeliers, Pneumatic Tube Flirting, Why Periods Hurt
+author: The Weirdest Thing I Learned This Week
 url: https://share.snipd.com/episode/3cd7ae71-c861-44be-851a-9ac6d8689f63
-published: 
+published:
 date: 2025-04-30
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
