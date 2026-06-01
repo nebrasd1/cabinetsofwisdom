@@ -1,16 +1,16 @@
 ---
-title: "Rightwing Populists Will Keep Winning Until We Grasp This Truth About Human Nature"
-author: "George Monbiot"
+title: Rightwing Populists Will Keep Winning Until We Grasp This Truth About Human Nature
+author: George Monbiot
 url: https://www.theguardian.com/commentisfree/2025/apr/13/trump-populists-human-nature-economic-growth
 published: 2025-04-13
 date: 2025-04-21
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Psychology]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Psychology]]"
 publish: true
 ---
 > [!example]- Process
