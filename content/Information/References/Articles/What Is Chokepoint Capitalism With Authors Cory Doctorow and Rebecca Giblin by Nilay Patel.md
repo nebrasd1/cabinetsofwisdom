@@ -1,13 +1,13 @@
 ---
-title: "What Is Chokepoint Capitalism With Authors Cory Doctorow and Rebecca Giblin"
-author: "Nilay Patel"
+title: What Is Chokepoint Capitalism With Authors Cory Doctorow and Rebecca Giblin
+author: Nilay Patel
 url: https://www.theverge.com/23547877/decoder-chokepoint-capitalism-cory-doctorow-rebecca-giblin-spotify-ticketmaster-antitrust
 published: 2023-01-10
 date: 2023-01-14
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
