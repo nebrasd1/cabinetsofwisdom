@@ -1,13 +1,13 @@
 ---
-title: "Zoolander"
-author: "Movies vs. Capitalism"
+title: Zoolander
+author: Movies vs. Capitalism
 url: https://share.snipd.com/episode/e5de4cab-952a-4363-b940-4b13fc4bdff7
-published: 
+published:
 date: 2024-11-28
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
