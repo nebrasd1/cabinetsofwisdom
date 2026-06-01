@@ -1,15 +1,15 @@
 ---
-title: "Lawsuits Have Become the Weapon of Choice Against Activists"
-author: "Katie Redford"
+title: Lawsuits Have Become the Weapon of Choice Against Activists
+author: Katie Redford
 url: https://www.thenation.com/article/activism/slapp-legal-intimidation-activists/
 published: 2023-07-17
 date: 2023-07-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

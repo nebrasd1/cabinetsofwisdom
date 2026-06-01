@@ -1,16 +1,16 @@
 ---
-title: "Before They Vowed to Annihilate Hamas, Israeli Officials Considered It an Asset"
-author: "Alice Speri"
+title: Before They Vowed to Annihilate Hamas, Israeli Officials Considered It an Asset
+author: Alice Speri
 url: https://theintercept.com/2023/10/14/hamas-israel-palestinian-authority/
 published: 2023-10-14
 date: 2023-10-14
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[History]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
@@ -26,7 +26,7 @@ publish: true
 ### id610348163
 > Israel has illegally occupied Gaza, the West Bank, and East Jerusalem since 1967. For decades, it maintained both settlements and a regular military presence inside Gaza, as it continues to do in the other territories it occupies. That changed in 2005, when Israel dismantled the settlements in Gaza, withdrew the military, and embarked on what it called a policy of “disengagement.” Since then, Israel has often argued that it is no longer occupying the strip — even as it controls virtually all access of people and goods in and out of it
 
-👓 [[history]]
+👓 [[history|history]]
 🔗 [View Highlight](https://read.readwise.io/read/01hcq2dxtept0f2yxpr4zt72xp)
 
 ### id610348333

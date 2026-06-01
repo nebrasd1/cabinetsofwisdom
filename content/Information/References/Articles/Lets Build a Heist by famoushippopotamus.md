@@ -1,15 +1,15 @@
 ---
-title: "Let's Build a Heist"
-author: "famoushippopotamus"
+title: Let's Build a Heist
+author: famoushippopotamus
 url: https://www.reddit.com/r/DnDBehindTheScreen/comments/3emivn/lets_build_a_heist/
 published: 2015-07-26
 date: 2023-05-11
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Swn]]" 
-  - "[[Ttrpg]]" 
+lenses:
+  - "[[Swn]]"
+  - "[[Ttrpg]]"
 publish: true
 ---
 > [!example]- Process

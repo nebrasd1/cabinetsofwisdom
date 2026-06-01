@@ -4,12 +4,12 @@ author: Jason Kottke
 url: https://kottke.org/99/03/the-new-zodiac
 published: 1999-03-11
 date: 2025-09-18
-modified: 2026-04-29T10:05:41+03:00
+modified: 2026-05-31T21:20:06+03:00
 type: articles
 source: reader
 lenses:
-  - "[[Narrative]]"
   - "[[Psychology]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,16 +1,16 @@
 ---
-title: "Today’s Hollywood Strikes Are Fights for Workplace Democracy"
-author: "Nick French"
+title: Today’s Hollywood Strikes Are Fights for Workplace Democracy
+author: Nick French
 url: https://jacobin.com/2023/08/wga-sag-strike-workplace-democracy-control-uaw-teamsters/
 published: 2023-08-04
 date: 2023-08-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Empowerment]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Empowerment]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

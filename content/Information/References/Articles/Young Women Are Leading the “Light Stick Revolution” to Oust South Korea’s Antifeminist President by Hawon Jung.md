@@ -1,16 +1,16 @@
 ---
-title: "Young Women Are Leading the “Light Stick Revolution” to Oust South Korea’s Antifeminist President"
-author: "Hawon Jung"
+title: Young Women Are Leading the “Light Stick Revolution” to Oust South Korea’s Antifeminist President
+author: Hawon Jung
 url: https://www.thenation.com/article/world/south-korea-feminist-movement-light-stick-revolution-yoon-suk-yeol/
 published: 2024-12-27
 date: 2024-12-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

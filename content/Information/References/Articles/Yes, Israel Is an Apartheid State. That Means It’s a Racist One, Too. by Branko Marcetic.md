@@ -1,17 +1,17 @@
 ---
-title: "Yes, Israel Is an Apartheid State. That Means It’s a Racist One, Too."
-author: "Branko Marcetic"
+title: Yes, Israel Is an Apartheid State. That Means It’s a Racist One, Too.
+author: Branko Marcetic
 url: https://jacobin.com/2023/07/israel-palestine-herzog-jayapal-apartheid-racism/
 published: 2023-07-19
 date: 2023-07-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
-  - "[[Swn]]" 
+lenses:
+  - "[[Colonialism]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
+  - "[[Swn]]"
 publish: true
 ---
 > [!example]- Process

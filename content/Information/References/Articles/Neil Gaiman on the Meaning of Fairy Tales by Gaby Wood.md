@@ -1,16 +1,16 @@
 ---
-title: "Neil Gaiman on the Meaning of Fairy Tales"
-author: "Gaby Wood"
+title: Neil Gaiman on the Meaning of Fairy Tales
+author: Gaby Wood
 url: https://www.telegraph.co.uk/culture/books/11243761/Neil-Gaiman-Disneys-Sleeping-Beauty.html
 published: 2014-11-20
 date: 2024-08-15
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Propaganda]]" 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[History]]"
+  - "[[Propaganda]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,16 +1,16 @@
 ---
-title: "Austerity Is a Choice"
-author: "Grace Blakeley"
+title: Austerity Is a Choice
+author: Grace Blakeley
 url: https://jacobin.com/2024/08/austerity-labour-keir-starmer-economy/
 published: 2024-08-29
 date: 2024-09-03
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
@@ -85,14 +85,14 @@ Some truths behind austerity and how it's always a choice.
 ✏️ Here's the truth. It's not powerless. It's just in the hands of the few vs the hands of the many.
  Capitalism/neoliberalism is not about free market.. not only that anyways. A key component is having the state in the hands of the few. 
  #followup This is a key part of defining capitalism and neoliberalism I think.
-👓 [[capitalism]]
+👓 [[capitalism|capitalism]]
 🔗 [View Highlight](https://read.readwise.io/read/01j6vrhh8ack7g0kthcye71gr7)
 
 ### id767100874
 > The idea that the state is powerless nonetheless allows politicians to publicly justify their failure to address deep-seated economic and social problems, while using every mechanism at their disposal to satisfy the interests of their allies and donors behind the scenes.
 
 ✏️ All the while, it's doubly useful as a propaganda technique to pacify the masses.
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01j6vrn7dmtydwke4ax58t8cen)
 
 ### id767100903

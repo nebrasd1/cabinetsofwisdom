@@ -1,13 +1,13 @@
 ---
-title: "What Happens When Abortion Is Criminalized"
-author: "Current Affairs"
+title: What Happens When Abortion Is Criminalized
+author: Current Affairs
 url: https://www.inoreader.com/article/3a9c6e7a608f6b1f-what-happens-when-abortion-is-criminalized
-published: 
+published:
 date: 2022-07-09
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

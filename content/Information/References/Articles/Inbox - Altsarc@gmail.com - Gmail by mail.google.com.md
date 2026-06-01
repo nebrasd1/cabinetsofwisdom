@@ -1,13 +1,13 @@
 ---
-title: "Inbox - Altsarc@gmail.com - Gmail"
-author: "mail.google.com"
+title: Inbox - Altsarc@gmail.com - Gmail
+author: mail.google.com
 url: https://mail.google.com/mail/u/0/?q=anaa+ssn&zx=fq4s80afuml0#inbox
-published: 
+published:
 date: 2020-12-19
 modified:
 type: articles
 source: web_clipper
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

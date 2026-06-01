@@ -1,16 +1,16 @@
 ---
-title: "Young Workers Can Provide the Organizing Energy That Unions Desperately Need"
-author: "Eric Blanc"
+title: Young Workers Can Provide the Organizing Energy That Unions Desperately Need
+author: Eric Blanc
 url: https://jacobin.com/2023/09/young-workers-radical-organizing-starbucks-amazon-afl-cio-unions/
 published: 2023-09-04
 date: 2023-09-05
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Hope]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

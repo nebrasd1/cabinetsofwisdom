@@ -1,13 +1,13 @@
 ---
-title: "Ask a Marxist - Part I"
-author: "Movies vs. Capitalism"
+title: Ask a Marxist - Part I
+author: Movies vs. Capitalism
 url: https://share.snipd.com/episode/885458a5-c9ca-4ace-89d2-297e02454a1b
-published: 
+published:
 date: 2025-01-21
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

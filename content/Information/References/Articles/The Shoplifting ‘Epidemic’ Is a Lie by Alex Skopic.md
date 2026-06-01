@@ -1,15 +1,15 @@
 ---
-title: "The Shoplifting ‘Epidemic’ Is a Lie"
-author: "Alex Skopic"
+title: The Shoplifting ‘Epidemic’ Is a Lie
+author: Alex Skopic
 url: https://www.currentaffairs.org/2024/01/the-shoplifting-epidemic-is-a-lie/
 published: 2024-01-10
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

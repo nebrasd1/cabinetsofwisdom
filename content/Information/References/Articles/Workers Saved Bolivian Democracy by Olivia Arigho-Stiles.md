@@ -1,16 +1,16 @@
 ---
-title: "Workers Saved Bolivian Democracy"
-author: "Olivia Arigho-Stiles"
+title: Workers Saved Bolivian Democracy
+author: Olivia Arigho-Stiles
 url: https://jacobin.com/2024/12/bolivia-mas-morales-coup-workers/
 published: 2024-12-14
 date: 2025-01-30
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

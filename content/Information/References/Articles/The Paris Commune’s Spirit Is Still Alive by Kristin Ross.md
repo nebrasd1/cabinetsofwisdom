@@ -1,16 +1,16 @@
 ---
-title: "The Paris Commune’s Spirit Is Still Alive"
-author: "Kristin Ross"
+title: The Paris Commune’s Spirit Is Still Alive
+author: Kristin Ross
 url: https://jacobin.com/2024/09/paris-commune-form-marx-politics/
 published: 2024-09-26
 date: 2024-11-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[History]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Community]]"
+  - "[[History]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

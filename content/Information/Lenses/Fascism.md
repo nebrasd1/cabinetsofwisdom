@@ -2,5 +2,13 @@
 publish: true
 aliases:
   - fascism
-modified: 2025-05-07T13:09:08+03:00
+  - fascist
+modified: 2026-05-31T21:16:19+03:00
 ---
+# Fascism
+## Personal Definition
+Authoritarian nationalism that usually focuses on two specific subsets of the society, one of which to prop up as the default society, and one to exclude and suppress through all manners of violence.
+
+Patterns within it include stuff like propaganda-centric mythologizing of the default people, (add more patterns as we come across them).
+
+Need to work on understanding this, authoritarianism, nationalism, totalitarianism, and how they all exist as labels.

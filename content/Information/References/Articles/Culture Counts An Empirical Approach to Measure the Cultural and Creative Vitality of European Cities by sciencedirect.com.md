@@ -1,13 +1,13 @@
 ---
 title: "Culture Counts: An Empirical Approach to Measure the Cultural and Creative Vitality of European Cities"
-author: "sciencedirect.com"
+author: sciencedirect.com
 url: https://www.sciencedirect.com/science/article/pii/S0264275118303640
-published: 
+published:
 date: 2021-03-24
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

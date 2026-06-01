@@ -1,15 +1,15 @@
 ---
 title: "Finding Balance: Cultural Preservation and Tourism"
-author: "Rachel Caldwell"
+author: Rachel Caldwell
 url: https://chemonics.com/blog/finding-balance-cultural-preservation-tourism/
 published: 2017-11-28
 date: 2023-05-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
-  - "[[Empowerment]]" 
+lenses:
+  - "[[Colonialism]]"
+  - "[[Empowerment]]"
 publish: true
 ---
 > [!example]- Process

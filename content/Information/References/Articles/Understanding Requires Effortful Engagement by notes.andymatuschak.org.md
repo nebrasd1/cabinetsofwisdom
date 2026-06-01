@@ -1,13 +1,13 @@
 ---
-title: "Understanding Requires Effortful Engagement"
-author: "notes.andymatuschak.org"
+title: Understanding Requires Effortful Engagement
+author: notes.andymatuschak.org
 url: https://notes.andymatuschak.org/Understanding_requires_effortful_engagement
-published: 
+published:
 date: 2021-07-15
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

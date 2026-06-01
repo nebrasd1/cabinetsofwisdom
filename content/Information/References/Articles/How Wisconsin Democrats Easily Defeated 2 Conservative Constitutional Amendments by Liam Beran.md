@@ -1,15 +1,15 @@
 ---
-title: "How Wisconsin Democrats Easily Defeated 2 Conservative Constitutional Amendments"
-author: "Liam Beran"
+title: How Wisconsin Democrats Easily Defeated 2 Conservative Constitutional Amendments
+author: Liam Beran
 url: https://www.thenation.com/article/politics/wisconsin-constitutional-amendment-defeat-election-2024/
 published: 2024-09-06
 date: 2024-09-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

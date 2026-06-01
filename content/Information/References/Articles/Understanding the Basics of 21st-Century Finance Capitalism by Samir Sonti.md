@@ -1,14 +1,14 @@
 ---
-title: "Understanding the Basics of 21st-Century Finance Capitalism"
-author: "Samir Sonti"
+title: Understanding the Basics of 21st-Century Finance Capitalism
+author: Samir Sonti
 url: https://jacobin.com/2025/04/21st-century-finance-capitalism-basics/
 published: 2025-04-11
 date: 2025-04-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process

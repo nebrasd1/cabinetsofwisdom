@@ -1,13 +1,13 @@
 ---
-title: "A Bug’s Life"
-author: "MVC PATREON"
+title: A Bug’s Life
+author: MVC PATREON
 url: https://share.snipd.com/episode/985cfd1f-3aa6-4e65-87fb-286aa45d80fd
-published: 
+published:
 date: 2025-05-05
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

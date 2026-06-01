@@ -1,13 +1,13 @@
 ---
-title: "Sober-Minded Socialism ❧ Current Affairs"
-author: "currentaffairs.org"
+title: Sober-Minded Socialism ❧ Current Affairs
+author: currentaffairs.org
 url: https://www.currentaffairs.org/2021/05/sober-minded-socialism/
-published: 
+published:
 date: 2021-06-09
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

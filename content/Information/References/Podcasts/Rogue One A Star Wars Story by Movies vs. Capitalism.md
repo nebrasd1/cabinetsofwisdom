@@ -1,13 +1,13 @@
 ---
 title: "Rogue One: A Star Wars Story"
-author: "Movies vs. Capitalism"
+author: Movies vs. Capitalism
 url: https://share.snipd.com/episode/8f98e179-87f5-40c3-9f18-5896cb542e75
-published: 
+published:
 date: 2025-01-15
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

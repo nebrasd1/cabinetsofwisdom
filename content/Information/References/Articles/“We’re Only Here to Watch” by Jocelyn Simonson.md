@@ -1,15 +1,15 @@
 ---
-title: "“We’re Only Here to Watch”"
-author: "Jocelyn Simonson"
+title: “We’re Only Here to Watch”
+author: Jocelyn Simonson
 url: https://www.thenation.com/article/society/radical-acts-justice-courtwatching/
 published: 2023-08-15
 date: 2023-08-21
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

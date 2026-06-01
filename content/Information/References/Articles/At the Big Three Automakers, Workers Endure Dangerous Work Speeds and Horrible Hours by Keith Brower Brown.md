@@ -1,15 +1,15 @@
 ---
-title: "At the Big Three Automakers, Workers Endure Dangerous Work Speeds and Horrible Hours"
-author: "Keith Brower Brown"
+title: At the Big Three Automakers, Workers Endure Dangerous Work Speeds and Horrible Hours
+author: Keith Brower Brown
 url: https://jacobin.com/2023/07/uaw-speedup-big-three-hours-benefits-strike/
 published: 2023-07-30
 date: 2023-07-30
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
 publish: true
 ---
 > [!example]- Process

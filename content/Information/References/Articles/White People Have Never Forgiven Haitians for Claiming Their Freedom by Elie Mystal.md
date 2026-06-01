@@ -1,17 +1,17 @@
 ---
-title: "White People Have Never Forgiven Haitians for Claiming Their Freedom"
-author: "Elie Mystal"
+title: White People Have Never Forgiven Haitians for Claiming Their Freedom
+author: Elie Mystal
 url: https://www.thenation.com/article/society/racist-cat-attacks-against-haitian-immigrants/
 published: 2024-09-13
 date: 2024-10-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Exploitation]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Exploitation]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

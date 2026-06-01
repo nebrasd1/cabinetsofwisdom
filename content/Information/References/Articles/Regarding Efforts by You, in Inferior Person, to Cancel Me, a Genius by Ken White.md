@@ -1,13 +1,13 @@
 ---
-title: "Regarding Efforts by You, in Inferior Person, to Cancel Me, a Genius"
-author: "Ken White"
+title: Regarding Efforts by You, in Inferior Person, to Cancel Me, a Genius
+author: Ken White
 url: https://post.news/@/popehat/2MQJ4k9HJnheREhy6iguOZmsbhT
 published: 2023-03-01
 date: 2023-03-02
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

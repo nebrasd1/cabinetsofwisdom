@@ -1,17 +1,17 @@
 ---
-title: "Chicago Is Considering Opening a Municipal Grocery Store. It’s a Good Idea."
-author: "Matt Bruenig"
+title: Chicago Is Considering Opening a Municipal Grocery Store. It’s a Good Idea.
+author: Matt Bruenig
 url: https://jacobin.com/2023/10/chicago-municipal-grocery-store-publicly-state-owned/
 published: 2023-10-28
 date: 2024-07-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Community]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Community]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

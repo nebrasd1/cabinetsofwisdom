@@ -1,14 +1,14 @@
 ---
-title: "Canada Is Banning “Wage Fixing” — Unless It’s Necessary to Boost Profits"
-author: "Mitchell Thompson"
+title: Canada Is Banning “Wage Fixing” — Unless It’s Necessary to Boost Profits
+author: Mitchell Thompson
 url: https://jacobin.com/2023/07/canada-wage-fixing-law-corporate-profits-exploitation/
 published: 2023-07-28
 date: 2023-07-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
-title: "Eight Twitter Finance Gurus Charged With Criminal Pump-and-Dump Scheme"
-author: "Adi Robertson"
+title: Eight Twitter Finance Gurus Charged With Criminal Pump-and-Dump Scheme
+author: Adi Robertson
 url: https://www.theverge.com/2022/12/14/23508963/twitter-atlas-trading-discord-pump-and-dump-sec-doj-lawsuit-criminal-charges
 published: 2022-12-14
 date: 2022-12-15
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -23,7 +23,7 @@ publish: true
 ### id433726139
 > promote stocks they’d purchased in large quantities, making misleading statements about the stocks’ value and their intent to hold it. Once followers had driven up the price, the group allegedly secretly sold off the stock to maximize their profits.
 
-👓 [[swn]]
+👓 [[swn|swn]]
 🔗 [View Highlight](https://read.readwise.io/read/01gmbaejqdsv7qqxbtdt1a4y2t)
 
 ### id433725951

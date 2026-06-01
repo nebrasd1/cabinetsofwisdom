@@ -1,15 +1,15 @@
 ---
-title: "A Cooler Future Means a World With Less Pavement"
-author: "Lucy Sherriff"
+title: A Cooler Future Means a World With Less Pavement
+author: Lucy Sherriff
 url: https://www.thenation.com/article/environment/asphalt-pavement-climate-cities/
 published: 2023-08-31
 date: 2023-09-01
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Environment]]" 
-  - "[[Hope]]" 
+lenses:
+  - "[[Environment]]"
+  - "[[Hope]]"
 publish: true
 ---
 > [!example]- Process

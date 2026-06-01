@@ -1,16 +1,16 @@
 ---
-title: "The Idea of the Nation-State Is Synonymous With Genocide"
-author: "Francis Wade"
+title: The Idea of the Nation-State Is Synonymous With Genocide
+author: Francis Wade
 url: https://www.thenation.com/article/culture/mahmood-mamdani-nation-state-interview/
 published: 2024-01-09
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Colonialism]]"
+  - "[[History]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

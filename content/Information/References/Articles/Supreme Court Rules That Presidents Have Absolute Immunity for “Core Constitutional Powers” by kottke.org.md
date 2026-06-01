@@ -1,16 +1,16 @@
 ---
-title: "Supreme Court Rules That Presidents Have Absolute Immunity for “Core Constitutional Powers”"
-author: "kottke.org"
+title: Supreme Court Rules That Presidents Have Absolute Immunity for “Core Constitutional Powers”
+author: kottke.org
 url: https://kottke.org/24/07/supreme-court-rules-that-presidents-have-absolute-immunity-for-core-constitutional-powers
 published: 2024-07-01
 date: 2024-07-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Fascism]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Fascism]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

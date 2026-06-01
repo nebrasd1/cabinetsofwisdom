@@ -1,15 +1,15 @@
 ---
-title: "Against the Odds, Gustavo Petro Has Implemented Ambitious Left Policies in His First Year"
-author: "Carlos Cruz Mosquera"
+title: Against the Odds, Gustavo Petro Has Implemented Ambitious Left Policies in His First Year
+author: Carlos Cruz Mosquera
 url: https://jacobin.com/2023/09/gustavo-petro-colombia-farc-pacto-historico-environment-inequality/
 published: 2023-09-16
 date: 2023-09-17
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
@@ -33,7 +33,7 @@ publish: true
 ✏️ The power of propaganda and controlling the narrative.
  Ruling class don't want him, and it's hard to tell if "opinion" polls can be trusted when the elite/corps control the media.
  Mix in the fact that 90% of those that voted for him approve his mandate so far.
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01hah1th4m3jt5bf218zr7tx0m)
 
 ### id596941765

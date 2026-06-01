@@ -4,13 +4,12 @@ author: Denise Petski
 url: https://deadline.com/2025/05/king-of-the-hill-revival-hulu-release-date-1236414324/
 published: 2025-05-30
 date: 2025-06-04
-modified: 2026-04-29T11:11:44+03:00
+modified: 2026-05-31T21:17:56+03:00
 type: articles
 source: reader
 lenses:
   - "[[Colonialism]]"
   - "[[Ksa]]"
-  - "[[Narrative]]"
 publish: true
 ---
 > [!example]- Process

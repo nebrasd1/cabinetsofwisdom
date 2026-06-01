@@ -1,15 +1,15 @@
 ---
-title: "The Right Hates Environment, Social, Governance (ESG) Investing. The Left Should, Too."
-author: "Brad Swanson"
+title: The Right Hates Environment, Social, Governance (ESG) Investing. The Left Should, Too.
+author: Brad Swanson
 url: https://www.thenation.com/article/economy/ethical-social-governance-esg/
 published: 2023-06-29
 date: 2023-07-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

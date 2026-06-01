@@ -1,13 +1,13 @@
 ---
-title: "🌲 Secondary Sources Are Pretty Great, Actually"
-author: "eleanorkonik.com"
+title: 🌲 Secondary Sources Are Pretty Great, Actually
+author: eleanorkonik.com
 url: https://www.eleanorkonik.com/p/secondary-sources-are-pretty-great?publication_id=1974188&post_id=140631018&isFreemail=true&r=azhd&triedRedirect=true
-published: 
+published:
 date: 2024-10-09
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

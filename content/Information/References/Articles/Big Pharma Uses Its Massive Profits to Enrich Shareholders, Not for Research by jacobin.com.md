@@ -1,16 +1,16 @@
 ---
-title: "Big Pharma Uses Its Massive Profits to Enrich Shareholders, Not for Research"
-author: "jacobin.com"
+title: Big Pharma Uses Its Massive Profits to Enrich Shareholders, Not for Research
+author: jacobin.com
 url: https://jacobin.com/2023/01/big-pharma-stock-buybacks-dividends-profits-study/
 published: 2023-01-06
 date: 2023-09-03
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

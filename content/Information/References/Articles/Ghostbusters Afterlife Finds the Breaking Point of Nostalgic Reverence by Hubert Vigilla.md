@@ -1,13 +1,13 @@
 ---
 title: "Ghostbusters: Afterlife Finds the Breaking Point of Nostalgic Reverence"
-author: "Hubert Vigilla"
+author: Hubert Vigilla
 url: https://www.inoreader.com/article/3a9c6e7a8e0007bc-ghostbusters-afterlife-finds-the-breaking-point-of-nostalgic-reverence
-published: 
+published:
 date: 2021-11-28
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

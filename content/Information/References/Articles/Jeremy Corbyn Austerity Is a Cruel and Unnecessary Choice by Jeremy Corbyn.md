@@ -1,16 +1,16 @@
 ---
 title: "Jeremy Corbyn: Austerity Is a Cruel and Unnecessary Choice"
-author: "Jeremy Corbyn"
+author: Jeremy Corbyn
 url: https://jacobin.com/2024/09/jeremy-corbyn-labour-austerity-poverty/
 published: 2024-09-15
 date: 2024-10-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

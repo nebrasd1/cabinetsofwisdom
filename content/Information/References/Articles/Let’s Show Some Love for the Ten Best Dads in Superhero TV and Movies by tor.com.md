@@ -1,13 +1,13 @@
 ---
-title: "Let’s Show Some Love for the Ten Best Dads in Superhero TV and Movies"
-author: "tor.com"
+title: Let’s Show Some Love for the Ten Best Dads in Superhero TV and Movies
+author: tor.com
 url: https://www.tor.com/2021/06/16/lets-show-some-love-for-the-ten-best-dads-in-superhero-tv-and-movies/
-published: 
+published:
 date: 2021-06-23
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

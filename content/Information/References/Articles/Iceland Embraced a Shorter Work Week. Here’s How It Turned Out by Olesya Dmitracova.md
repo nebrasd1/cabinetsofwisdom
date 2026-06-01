@@ -1,15 +1,15 @@
 ---
-title: "Iceland Embraced a Shorter Work Week. Here’s How It Turned Out"
-author: "Olesya Dmitracova"
+title: Iceland Embraced a Shorter Work Week. Here’s How It Turned Out
+author: Olesya Dmitracova
 url: https://www.cnn.com/2024/10/25/business/iceland-shorter-working-week-economy/index.html
 published: 2024-10-25
 date: 2024-11-03
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Hope]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Hope]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

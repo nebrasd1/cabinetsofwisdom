@@ -1,13 +1,13 @@
 ---
 title: "Agile vs. Waterfall: Which Project Management Methodology Should I Use?"
-author: "forbes.com"
+author: forbes.com
 url: https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/
-published: 
+published:
 date: 2022-01-25
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

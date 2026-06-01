@@ -1,17 +1,17 @@
 ---
 title: "Fighting Authoritarianism: 20 Lessons From the 20th Century"
-author: "kottke.org"
+author: kottke.org
 url: https://kottke.org/16/11/fighting-authoritarianism-20-lessons-from-the-20th-century
 published: 2016-11-29
 date: 2024-08-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Fascism]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Fascism]]"
+  - "[[History]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

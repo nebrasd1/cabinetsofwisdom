@@ -1,16 +1,16 @@
 ---
-title: "Elon Musk Is Union-Busting in Sweden Because He’s Afraid of Worker Power"
-author: "Pelle Dragsted"
+title: Elon Musk Is Union-Busting in Sweden Because He’s Afraid of Worker Power
+author: Pelle Dragsted
 url: https://jacobin.com/2024/01/elon-musk-union-busting-nordic-labor-model-tech-globalization-worker-solidarity/
 published: 2024-01-08
 date: 2024-01-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Community]]"
+  - "[[Empowerment]]"
 publish: true
 ---
 > [!example]- Process

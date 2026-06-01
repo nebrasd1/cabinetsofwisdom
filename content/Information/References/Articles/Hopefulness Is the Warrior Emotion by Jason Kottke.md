@@ -1,16 +1,17 @@
 ---
-title: "Hopefulness Is the Warrior Emotion"
-author: "Jason Kottke"
+title: Hopefulness Is the Warrior Emotion
+author: Jason Kottke
 url: https://kottke.org/24/08/hopefulness-is-the-warrior-emotion
 published: 2024-08-16
 date: 2024-08-20
-modified:
+modified: 2026-05-31T21:33:37+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Hope]]" 
-  - "[[Quote]]" 
+lenses:
+  - "[[Hope]]"
 publish: true
+tags:
+  - addto/quote
 ---
 > [!example]- Process
 > 

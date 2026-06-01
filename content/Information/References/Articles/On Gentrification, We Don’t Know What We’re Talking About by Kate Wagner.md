@@ -1,16 +1,16 @@
 ---
-title: "On Gentrification, We Don’t Know What We’re Talking About"
-author: "Kate Wagner"
+title: On Gentrification, We Don’t Know What We’re Talking About
+author: Kate Wagner
 url: https://www.thenation.com/article/society/gentrification-rhetorical-weapon-systemic-issue/
 published: 2023-09-05
 date: 2023-09-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

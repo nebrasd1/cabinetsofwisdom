@@ -1,17 +1,17 @@
 ---
-title: "We Should Look to Vienna for Answers to Our Housing Crisis"
-author: "Fran Quigley"
+title: We Should Look to Vienna for Answers to Our Housing Crisis
+author: Fran Quigley
 url: https://jacobin.com/2023/10/red-vienna-public-affordable-housing-homelessness-matthew-yglesias/
 published: 2023-10-29
 date: 2024-11-18
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Hope]]" 
-  - "[[Propaganda]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Hope]]"
+  - "[[Propaganda]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
@@ -29,7 +29,7 @@ publish: true
 
 ✏️ What a fascinating model.
  Limited-profit, government support, tight rent control, profits going into more social housing construction, operated by labor unions.
-👓 [[socialism]] [[empowerment]]
+👓 [[socialism|socialism]] [[empowerment|empowerment]]
 🔗 [View Highlight](https://read.readwise.io/read/01jcz1v3s9xdbbq1hppmprkxbs)
 
 ### id813706093

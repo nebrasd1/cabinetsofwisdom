@@ -1,13 +1,13 @@
 ---
-title: "Building a Digital Garden"
-author: "tomcritchlow.com"
+title: Building a Digital Garden
+author: tomcritchlow.com
 url: https://tomcritchlow.com/2019/02/17/building-digital-garden/
 published: 2019-02-17
 date: 2021-06-27
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -24,7 +24,7 @@ publish: true
 > And the real magic trick is to put them both together. To keep the ball bouncing with your flow—to maintain that open channel of communication—while you work on some kick-ass stock in the background. Sacrifice neither. The hybrid strategy.
 
 ✏️ I don't do either, but I definitely ignore flow. It runs too fast and I just need to find a flow and community whose speed I match.
-👓 [[digital garden]]
+👓 [[digital garden|digital garden]]
 
 ### None
 > collect raw material, then think about it. From this process comes pattern recognition and eventually the insights that form the basis of novel ideas.

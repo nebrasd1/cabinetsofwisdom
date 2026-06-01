@@ -1,13 +1,13 @@
 ---
-title: "The Memex Method"
-author: "doctorow.medium.com"
+title: The Memex Method
+author: doctorow.medium.com
 url: https://doctorow.medium.com/the-memex-method-238c71f2fb46
-published: 
+published:
 date: 2021-06-10
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

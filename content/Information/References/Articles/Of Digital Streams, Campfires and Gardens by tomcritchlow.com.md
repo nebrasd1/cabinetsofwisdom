@@ -1,13 +1,13 @@
 ---
-title: "Of Digital Streams, Campfires and Gardens"
-author: "tomcritchlow.com"
+title: Of Digital Streams, Campfires and Gardens
+author: tomcritchlow.com
 url: https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/
 published: 2018-10-10
 date: 2021-06-27
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -27,5 +27,5 @@ publish: true
 > Gardens - This is the wiki layer Michael references above and I don’t think I have any real solution here. Where is the tool to curate, connect and explore information? Where is my personal learning curriculum? This decades-spanning project of information sensemaking is missing for me but seems appealing. Are.na, Pinboard, Evernote and Pocket all fill some portion of this gap for me but none of them are building a garden I can maintain…
 
 ✏️ need to think of how this applies to me
-👓 [[digital garden]]
+👓 [[digital garden|digital garden]]
 

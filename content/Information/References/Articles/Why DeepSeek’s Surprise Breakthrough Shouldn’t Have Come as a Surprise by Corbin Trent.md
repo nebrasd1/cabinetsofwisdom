@@ -1,15 +1,15 @@
 ---
-title: "Why DeepSeek’s Surprise Breakthrough Shouldn’t Have Come as a Surprise"
-author: "Corbin Trent"
+title: Why DeepSeek’s Surprise Breakthrough Shouldn’t Have Come as a Surprise
+author: Corbin Trent
 url: https://www.thenation.com/article/economy/china-deepseek-industrial-policy-ai/
 published: 2025-01-30
 date: 2025-02-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

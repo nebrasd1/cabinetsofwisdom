@@ -1,17 +1,17 @@
 ---
-title: "We Should All Be Working Part Time for Full-Time Pay"
-author: "Tom Malleson"
+title: We Should All Be Working Part Time for Full-Time Pay
+author: Tom Malleson
 url: https://jacobin.com/2023/11/part-time-work-full-time-pay-wages-overwork-climate-emissions/
 published: 2023-11-22
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Empowerment]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Empowerment]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

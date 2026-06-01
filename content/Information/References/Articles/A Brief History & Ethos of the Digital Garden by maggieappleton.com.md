@@ -1,13 +1,13 @@
 ---
-title: "A Brief History & Ethos of the Digital Garden"
-author: "maggieappleton.com"
+title: A Brief History & Ethos of the Digital Garden
+author: maggieappleton.com
 url: https://maggieappleton.com/garden-history
 published: 2021-05-28
 date: 2021-07-06
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

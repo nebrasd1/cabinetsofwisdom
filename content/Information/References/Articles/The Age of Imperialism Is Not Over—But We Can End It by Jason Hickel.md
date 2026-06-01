@@ -1,13 +1,13 @@
 ---
-title: "The Age of Imperialism Is Not Over—But We Can End It"
-author: "Jason Hickel"
+title: The Age of Imperialism Is Not Over—But We Can End It
+author: Jason Hickel
 url: https://www.inoreader.com/article/3a9c6e7a852ca715-the-age-of-imperialism-is-not-overmdashbut-we-can-end-it
-published: 
+published:
 date: 2022-07-02
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

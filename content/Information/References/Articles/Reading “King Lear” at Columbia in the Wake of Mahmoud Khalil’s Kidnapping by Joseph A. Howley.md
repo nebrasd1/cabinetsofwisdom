@@ -1,16 +1,16 @@
 ---
-title: "Reading “King Lear” at Columbia in the Wake of Mahmoud Khalil’s Kidnapping"
-author: "Joseph A. Howley"
+title: Reading “King Lear” at Columbia in the Wake of Mahmoud Khalil’s Kidnapping
+author: Joseph A. Howley
 url: https://www.thenation.com/article/society/columbia-trump-king-lear-mahmoud-khalil/
 published: 2025-03-24
 date: 2025-03-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Politics]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process
@@ -27,7 +27,7 @@ publish: true
 > My favorite thing about *King Lear*, as someone who is hardly an expert in Shakespeare but has taught it for years, is that it has neither villains and nor heroes. Edmund gives a classic and compelling “I’m a villain” speech, but his plan could not succeed without Gloucester’s gullibility. Regan and Goneril connive and instigate, but they would be powerless without the fecklessness and complicity of their ambitious but morally weak husbands Cornwall and Albany. Only this year did *Lear* snap into clarify for me as a political caution not about bad actors, but about those who fail to stop them.
 
 ✏️ Thinking about the idea of a story exploring how people could act villainous, but aren't truly villains insomuch that what matters are the people that fall to stand up to them.
-👓 [[storytelling]] [[politics]]
+👓 [[storytelling|storytelling]] [[politics|politics]]
 🔗 [View Highlight](https://read.readwise.io/read/01jq4z95691d0t3188qr64k94s)
 
 ### id867561076

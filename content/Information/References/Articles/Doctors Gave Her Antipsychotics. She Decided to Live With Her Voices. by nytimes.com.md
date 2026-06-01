@@ -1,13 +1,13 @@
 ---
-title: "Doctors Gave Her Antipsychotics. She Decided to Live With Her Voices."
-author: "nytimes.com"
+title: Doctors Gave Her Antipsychotics. She Decided to Live With Her Voices.
+author: nytimes.com
 url: https://www.nytimes.com/2022/05/17/magazine/antipsychotic-medications-mental-health.html
-published: 
+published:
 date: 2022-05-24
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,18 +1,18 @@
 ---
-title: "The Bread and Roses Strike Was an Epic Labor Action for Workers’ Dignity"
-author: "Liza Featherstone"
+title: The Bread and Roses Strike Was an Epic Labor Action for Workers’ Dignity
+author: Liza Featherstone
 url: https://jacobin.com/2024/01/bread-and-roses-strike-lawrence-massachusetts-1912/
 published: 2024-01-11
 date: 2024-08-13
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[History]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[History]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

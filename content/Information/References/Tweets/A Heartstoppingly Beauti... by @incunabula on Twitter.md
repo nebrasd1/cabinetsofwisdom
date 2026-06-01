@@ -1,13 +1,13 @@
 ---
-title: "A Heartstoppingly Beauti..."
+title: A Heartstoppingly Beauti...
 author: "@incunabula on Twitter"
 url: https://twitter.com/incunabula/status/1271430163645988864
-published: 
+published:
 date: 2021-01-02
 modified:
 type: tweets
 source: twitter
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

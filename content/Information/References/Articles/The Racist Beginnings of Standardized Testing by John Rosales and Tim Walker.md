@@ -1,14 +1,14 @@
 ---
-title: "The Racist Beginnings of Standardized Testing"
-author: "John Rosales and Tim Walker"
+title: The Racist Beginnings of Standardized Testing
+author: John Rosales and Tim Walker
 url: https://www.nea.org/advocating-for-change/new-from-nea/racist-beginnings-standardized-testing
 published: 2021-03-20
 date: 2023-07-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Racism]]" 
+lenses:
+  - "[[Racism]]"
 publish: true
 ---
 > [!example]- Process

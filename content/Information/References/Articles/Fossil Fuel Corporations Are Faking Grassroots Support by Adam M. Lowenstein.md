@@ -1,15 +1,15 @@
 ---
-title: "Fossil Fuel Corporations Are Faking Grassroots Support"
-author: "Adam M. Lowenstein"
+title: Fossil Fuel Corporations Are Faking Grassroots Support
+author: Adam M. Lowenstein
 url: https://jacobin.com/2024/01/edelman-wef-fossil-fuel-advertising-pr/
 published: 2024-01-16
 date: 2025-01-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,15 +1,15 @@
 ---
-title: "Ellen Meiksins Wood Showed Us the Irrationality of the Capitalist Market"
-author: "Xavier Lafrance"
+title: Ellen Meiksins Wood Showed Us the Irrationality of the Capitalist Market
+author: Xavier Lafrance
 url: https://jacobin.com/2023/08/ellen-meiksins-wood-john-roemer-historical-materialism-analytical-marxism-exploitation-coercion/
 published: 2023-08-07
 date: 2023-08-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

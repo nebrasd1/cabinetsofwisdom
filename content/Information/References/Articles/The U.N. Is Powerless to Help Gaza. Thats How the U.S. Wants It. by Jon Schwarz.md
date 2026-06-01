@@ -1,13 +1,13 @@
 ---
-title: "The U.N. Is Powerless to Help Gaza. That's How the U.S. Wants It."
-author: "Jon Schwarz"
+title: The U.N. Is Powerless to Help Gaza. That's How the U.S. Wants It.
+author: Jon Schwarz
 url: https://theintercept.com/2023/10/21/security-council-veto-united-nations/
 published: 2023-10-21
 date: 2023-10-21
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -23,14 +23,14 @@ publish: true
 ### id613918792
 > Five are permanent members: the U.S., Russia, China, France, and the U.K. If any of the permanent members vetoes a resolution, it will not pass, no matter how many votes are in favor. This means that any of the permanent members can veto any action by the Security Council.
 
-👓 [[injustice]] [[exploitation]] [[politics]]
+👓 [[injustice|injustice]] [[exploitation|exploitation]] [[politics|politics]]
 🔗 [View Highlight](https://read.readwise.io/read/01hd9bmsy6k59m21a9xx3xtdt1)
 
 ### id613918553
 > he also does not have any principled objection to a nation invading and occupying other people’s land, as illustrated by his unqualified support for Israel since the October 7 attacks by Hamas. Like most world leaders, he’s a hilarious, garden-variety hypocrite who wants different rules for himself and his allies of the moment.
 
 ✏️ Zelensky actually has no issue with Israel and Palestine? God, you couldn't write this kind of hypocrisy.
-👓 [[injustice]] [[hypocrisy]] [[politics]]
+👓 [[injustice|injustice]] [[hypocrisy|hypocrisy]] [[politics|politics]]
 🔗 [View Highlight](https://read.readwise.io/read/01hd9bgg6sdedndsw2wxth5ega)
 
 ### id613918626

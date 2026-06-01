@@ -1,14 +1,14 @@
 ---
-title: "Why We Need Rent Control"
-author: "Fran Quigley"
+title: Why We Need Rent Control
+author: Fran Quigley
 url: https://jacobin.com/2023/07/rent-control-arguments-myths-housing-real-estate/
 published: 2023-07-20
 date: 2023-07-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process

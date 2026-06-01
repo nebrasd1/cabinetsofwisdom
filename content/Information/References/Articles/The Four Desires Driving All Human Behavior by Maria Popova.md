@@ -1,13 +1,13 @@
 ---
-title: "The Four Desires Driving All Human Behavior"
-author: "Maria Popova"
+title: The Four Desires Driving All Human Behavior
+author: Maria Popova
 url: https://getpocket.com/explore/item/the-four-desires-driving-all-human-behavior-bertrand-russell-s-magnificent-nobel-prize-acceptance
-published: 
+published:
 date: 2023-05-23
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

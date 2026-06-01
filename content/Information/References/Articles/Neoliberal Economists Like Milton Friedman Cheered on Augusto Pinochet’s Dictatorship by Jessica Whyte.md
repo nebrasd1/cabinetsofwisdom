@@ -1,18 +1,18 @@
 ---
-title: "Neoliberal Economists Like Milton Friedman Cheered on Augusto Pinochet’s Dictatorship"
-author: "Jessica Whyte"
+title: Neoliberal Economists Like Milton Friedman Cheered on Augusto Pinochet’s Dictatorship
+author: Jessica Whyte
 url: https://jacobin.com/2023/09/neoliberalism-human-rights-democracy-dictatorship-chile-chicago-hayek-friedman-pinochet/
 published: 2023-09-11
 date: 2023-09-17
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

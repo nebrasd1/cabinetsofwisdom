@@ -1,13 +1,13 @@
 ---
-title: "The Arguments Against Trans Athletes Are Bigoted and Irrational ❧ Current Affairs"
-author: "currentaffairs.org"
+title: The Arguments Against Trans Athletes Are Bigoted and Irrational ❧ Current Affairs
+author: currentaffairs.org
 url: https://www.currentaffairs.org/2021/05/the-arguments-against-trans-athletes-are-bigoted-and-irrational/
-published: 
+published:
 date: 2021-06-04
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

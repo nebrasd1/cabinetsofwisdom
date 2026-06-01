@@ -1,16 +1,16 @@
 ---
-title: "New Group Attacking iPhone Encryption Backed by U.S. Political Dark-Money Network"
-author: "Sam Biddle"
+title: New Group Attacking iPhone Encryption Backed by U.S. Political Dark-Money Network
+author: Sam Biddle
 url: https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/
 published: 2023-10-01
 date: 2023-10-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

@@ -4,12 +4,12 @@ author: Verge Staff
 url: https://www.theverge.com/24188365/chevron-scotus-net-neutrality-dmca-visa-fcc-ftc-epa
 published: 2024-06-28
 date: 2024-06-29
-modified: 
+modified:
 type: articles
 source: reader
 lenses:
   - "[[Politics]]"
-  - "[[Regulations]]"
+  - "[[Regulation]]"
 publish: true
 ---
 > [!example]- Process

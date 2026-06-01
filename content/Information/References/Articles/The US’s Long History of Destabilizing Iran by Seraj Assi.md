@@ -1,17 +1,17 @@
 ---
-title: "The US’s Long History of Destabilizing Iran"
-author: "Seraj Assi"
+title: The US’s Long History of Destabilizing Iran
+author: Seraj Assi
 url: https://jacobin.com/2024/10/destabilizing-iran-history-kamala-harris/
 published: 2024-10-09
 date: 2024-11-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
-  - "[[History]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Colonialism]]"
+  - "[[History]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
-title: "Can Music Theory Education Overcome Its Whiteness Problem?"
-author: "Jeff Williams"
+title: Can Music Theory Education Overcome Its Whiteness Problem?
+author: Jeff Williams
 url: https://www.inoreader.com/article/3a9c6e7a32b462e5-can-music-theory-education-overcome-its-whiteness-problem
-published: 
+published:
 date: 2022-03-22
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

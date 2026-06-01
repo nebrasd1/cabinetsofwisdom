@@ -1,13 +1,13 @@
 ---
-title: "Opinion | Why People Are So Awful Online"
-author: "nytimes.com"
+title: Opinion | Why People Are So Awful Online
+author: nytimes.com
 url: https://www.nytimes.com/2021/07/17/opinion/culture/social-media-cancel-culture-roxane-gay.html
-published: 
+published:
 date: 2021-07-19
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

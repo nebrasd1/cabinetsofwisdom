@@ -1,13 +1,13 @@
 ---
-title: "Who Framed Roger Rabbit"
-author: "Movies vs. Capitalism"
+title: Who Framed Roger Rabbit
+author: Movies vs. Capitalism
 url: https://share.snipd.com/episode/63e93631-e198-41ce-b68d-1ba7d6920646
-published: 
+published:
 date: 2024-11-18
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

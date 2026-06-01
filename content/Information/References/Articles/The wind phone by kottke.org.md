@@ -1,13 +1,13 @@
 ---
-title: "The wind phone"
-author: "kottke.org"
+title: The wind phone
+author: kottke.org
 url: https://kottke.org/24/05/0044665-the-wind-phone-is-an
 published: 2024-05-22
 date: 2024-06-17
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
-title: "Men Explain Toxic Masculinity to Me, a Man Writing About Toxic Masculinity"
-author: "Timothy J. Hillegonds"
+title: Men Explain Toxic Masculinity to Me, a Man Writing About Toxic Masculinity
+author: Timothy J. Hillegonds
 url: https://www.salon.com/2019/10/01/men-explain-toxic-masculinity-to-me-a-man-writing-about-toxic-masculinity/
-published: 
+published:
 date: 2020-12-29
 modified:
 type: articles
 source: pocket
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

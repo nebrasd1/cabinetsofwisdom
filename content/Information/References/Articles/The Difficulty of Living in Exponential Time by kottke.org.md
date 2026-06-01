@@ -1,13 +1,13 @@
 ---
-title: "The Difficulty of Living in Exponential Time"
-author: "kottke.org"
+title: The Difficulty of Living in Exponential Time
+author: kottke.org
 url: https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time
 published: 2023-03-15
 date: 2023-03-19
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

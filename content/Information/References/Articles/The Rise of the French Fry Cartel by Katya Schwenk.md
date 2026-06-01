@@ -1,16 +1,16 @@
 ---
-title: "The Rise of the French Fry Cartel"
-author: "Katya Schwenk"
+title: The Rise of the French Fry Cartel
+author: Katya Schwenk
 url: https://jacobin.com/2025/01/french-fry-price-fixing-antitrust/
 published: 2025-01-03
 date: 2025-01-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Hypocrisy]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Hypocrisy]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

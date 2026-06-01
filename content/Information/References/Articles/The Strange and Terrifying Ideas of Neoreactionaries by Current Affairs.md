@@ -1,13 +1,13 @@
 ---
-title: "The Strange and Terrifying Ideas of Neoreactionaries"
-author: "Current Affairs"
+title: The Strange and Terrifying Ideas of Neoreactionaries
+author: Current Affairs
 url: https://www.inoreader.com/article/3a9c6e7a04096989-the-strange-and-terrifying-ideas-of-neoreactionaries
-published: 
+published:
 date: 2022-06-03
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

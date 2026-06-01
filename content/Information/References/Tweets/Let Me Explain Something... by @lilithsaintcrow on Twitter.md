@@ -1,13 +1,13 @@
 ---
-title: "Let Me Explain Something..."
+title: Let Me Explain Something...
 author: "@lilithsaintcrow on Twitter"
 url: https://twitter.com/lilithsaintcrow/status/1347293759155838976
-published: 
+published:
 date: 2021-01-16
 modified:
 type: tweets
 source: twitter
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

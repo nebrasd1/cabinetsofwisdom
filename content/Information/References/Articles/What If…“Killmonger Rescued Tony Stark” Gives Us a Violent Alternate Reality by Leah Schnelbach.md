@@ -1,13 +1,13 @@
 ---
-title: "What If…“Killmonger Rescued Tony Stark?” Gives Us a Violent Alternate Reality"
-author: "Leah Schnelbach"
+title: What If…“Killmonger Rescued Tony Stark?” Gives Us a Violent Alternate Reality
+author: Leah Schnelbach
 url: https://www.inoreader.com/article/3a9c6e7ab89d9f77-what-ifkillmonger-rescued-tony-stark-gives-us-a-violent-alternate-reality
-published: 
+published:
 date: 2021-09-16
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

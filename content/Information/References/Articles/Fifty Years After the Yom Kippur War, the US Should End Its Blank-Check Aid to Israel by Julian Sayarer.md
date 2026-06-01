@@ -1,16 +1,16 @@
 ---
-title: "Fifty Years After the Yom Kippur War, the US Should End Its Blank-Check Aid to Israel"
-author: "Julian Sayarer"
+title: Fifty Years After the Yom Kippur War, the US Should End Its Blank-Check Aid to Israel
+author: Julian Sayarer
 url: https://jacobin.com/2023/10/yom-kippur-war-fiftieth-anniversary-israel-egypt-us-aid/
 published: 2023-10-06
 date: 2023-10-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[History]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

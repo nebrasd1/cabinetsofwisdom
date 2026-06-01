@@ -1,13 +1,13 @@
 ---
 title: "Middle East Trade Routes: A History of Saudi Arabia’s Economy"
-author: "visitsaudi.com"
+author: visitsaudi.com
 url: https://www.visitsaudi.com/en/do/culture/the-history-of-saudi-s-trade-routes
-published: 
+published:
 date: 2021-01-08
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

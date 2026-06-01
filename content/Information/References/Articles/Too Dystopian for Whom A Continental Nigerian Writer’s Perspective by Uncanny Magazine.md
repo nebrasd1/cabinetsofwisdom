@@ -1,18 +1,18 @@
 ---
-title: "Too Dystopian for Whom? A Continental Nigerian Writer’s Perspective"
-author: "Uncanny Magazine"
+title: Too Dystopian for Whom? A Continental Nigerian Writer’s Perspective
+author: Uncanny Magazine
 url: https://www.uncannymagazine.com/article/too-dystopian-for-whom-a-continental-nigerian-writers-perspective/
-published: 
+published:
 date: 2024-06-24
-modified:
+modified: 2026-05-31T21:41:24+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Hypocrisy]]" 
-  - "[[Injustice]]" 
-  - "[[Psychology]]" 
-  - "[[Storytelling]]" 
-  - "[[Writing]]" 
+lenses:
+  - "[[Hypocrisy]]"
+  - "[[Injustice]]"
+  - "[[Psychology]]"
+  - "[[Storytelling]]"
+  - "[[Writing]]"
 publish: true
 ---
 > [!example]- Process
@@ -28,7 +28,7 @@ publish: true
 ### id734820207
 > “Dystopian fiction is when you take things that happen in real life to marginalized populations and apply them to people with privilege.”
 
-👓 [[quote]] [[science fiction]] [[storytelling]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01j0jwzb1267b67m7q27b3wgsk)
 
 ### id737693728
@@ -46,7 +46,7 @@ publish: true
 > This is why when people from certain regions that have been dubbed Third World or developing, marginalized people, write dystopias, even non-dystopias, any kind of reflection of their reality which is flavoured with a certain harshness, it’s considered too unpalatable, unbelievable, too dystopian, especially at the moment, by the global publishing machinery which is largely Western. The question we should be asking though is too dystopian for whom?
 
 ✏️ "Too dystopian for whom?" is such a powerful quote.
-👓 [[quote]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01j14xhmv0zyhh6vh2yv1y6dx7)
 
 ### id737695076

@@ -1,16 +1,16 @@
 ---
-title: "Democratic Socialism Can Make Liberal Rights Real"
-author: "Matt McManus"
+title: Democratic Socialism Can Make Liberal Rights Real
+author: Matt McManus
 url: https://jacobin.com/2023/08/socialism-law-rights-legal-theory/
 published: 2023-08-14
 date: 2023-08-21
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Injustice]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Injustice]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

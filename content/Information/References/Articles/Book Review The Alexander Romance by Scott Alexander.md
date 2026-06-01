@@ -1,15 +1,15 @@
 ---
 title: "Book Review: The Alexander Romance"
-author: "Scott Alexander"
+author: Scott Alexander
 url: https://www.astralcodexten.com/p/book-review-the-alexander-romance
 published: 2023-09-19
 date: 2024-10-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[History]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process
@@ -27,7 +27,7 @@ publish: true
 
 ✏️ Beyond just the insanity that is this book, the takeaway from this is that literary criticism is kinda pointless, or at least, should never be held up as some objective truth.
  Critics and historians are making stuff up just like the rest of us.
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01j9rhbynq0httexwcj4r96hk0)
 
 ### id796525950

@@ -1,13 +1,13 @@
 ---
-title: "“Roads of Arabia” Presents Hundreds of Recent Finds That Recast the Region’s History"
-author: "smithsonianmag.com"
+title: “Roads of Arabia” Presents Hundreds of Recent Finds That Recast the Region’s History
+author: smithsonianmag.com
 url: https://www.smithsonianmag.com/smithsonian-institution/roads-of-arabia-presents-hundreds-of-recent-finds-that-recast-the-regions-history-127324646/
-published: 
+published:
 date: 2021-01-09
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

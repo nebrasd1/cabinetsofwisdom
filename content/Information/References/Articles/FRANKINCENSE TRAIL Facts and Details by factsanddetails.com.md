@@ -1,13 +1,13 @@
 ---
-title: "FRANKINCENSE TRAIL | Facts and Details"
-author: "factsanddetails.com"
+title: FRANKINCENSE TRAIL | Facts and Details
+author: factsanddetails.com
 url: http://factsanddetails.com/world/cat56/sub371/item1968.html
-published: 
+published:
 date: 2021-01-09
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

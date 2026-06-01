@@ -1,15 +1,15 @@
 ---
-title: "Navigating Discontent in the Age of the Internet"
-author: "Mark Kingwell"
+title: Navigating Discontent in the Age of the Internet
+author: Mark Kingwell
 url: https://jacobin.com/2024/11/politics-dialogue-trust-speech-philosophy/
 published: 2024-11-22
 date: 2024-11-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Psychology]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Psychology]]"
 publish: true
 ---
 > [!example]- Process

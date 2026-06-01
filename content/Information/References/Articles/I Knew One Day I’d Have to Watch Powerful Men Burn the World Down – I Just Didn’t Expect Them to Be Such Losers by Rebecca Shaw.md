@@ -1,17 +1,16 @@
 ---
-title: "I Knew One Day I’d Have to Watch Powerful Men Burn the World Down – I Just Didn’t Expect Them to Be Such Losers"
-author: "Rebecca Shaw"
+title: I Knew One Day I’d Have to Watch Powerful Men Burn the World Down – I Just Didn’t Expect Them to Be Such Losers
+author: Rebecca Shaw
 url: https://www.theguardian.com/commentisfree/2025/jan/16/i-knew-one-day-id-have-to-watch-powerful-men-burn-the-world-down-i-just-didnt-expect-them-to-be-such-losers
 published: 2025-01-16
 date: 2025-01-23
-modified:
+modified: 2026-05-31T21:19:27+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Masculinity]]" 
-  - "[[Narrative]]" 
-  - "[[Toxic]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Masculinity]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process

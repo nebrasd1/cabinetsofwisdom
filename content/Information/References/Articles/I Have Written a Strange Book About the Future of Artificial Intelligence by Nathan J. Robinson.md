@@ -1,13 +1,13 @@
 ---
-title: "I Have Written a Strange Book About the Future of Artificial Intelligence"
-author: "Nathan J. Robinson"
+title: I Have Written a Strange Book About the Future of Artificial Intelligence
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/04/i-have-written-a-strange-book-about-the-future-of-artificial-intelligence/
 published: 2023-04-25
 date: 2023-04-26
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,16 +1,16 @@
 ---
-title: "Billionaires Are Using an Abusive Farmworker Scam to Rake in More Profits"
-author: "Sam Knight"
+title: Billionaires Are Using an Abusive Farmworker Scam to Rake in More Profits
+author: Sam Knight
 url: https://jacobin.com/2023/09/billionaires-farm-owners-bill-gates-workers-rights-wage-suppression-human-trafficking/
 published: 2023-09-13
 date: 2023-09-17
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

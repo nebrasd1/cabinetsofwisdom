@@ -1,17 +1,17 @@
 ---
-title: "Trans Sports Bans Have Reached Peak Stupidity"
-author: "Frankie de la Cretaz"
+title: Trans Sports Bans Have Reached Peak Stupidity
+author: Frankie de la Cretaz
 url: https://www.thenation.com/article/society/trans-chess-ban-explainer/
 published: 2023-08-25
 date: 2023-08-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Gender]]" 
-  - "[[Injustice]]" 
-  - "[[Propaganda]]" 
-  - "[[Queer]]" 
+lenses:
+  - "[[Gender]]"
+  - "[[Injustice]]"
+  - "[[Propaganda]]"
+  - "[[Queer]]"
 publish: true
 ---
 > [!example]- Process

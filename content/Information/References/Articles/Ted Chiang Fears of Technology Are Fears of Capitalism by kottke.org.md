@@ -1,13 +1,13 @@
 ---
 title: "Ted Chiang: Fears of Technology Are Fears of Capitalism"
-author: "kottke.org"
+author: kottke.org
 url: https://kottke.org/21/04/ted-chiang-fears-of-technology-are-fears-of-capitalism
 published: 2021-04-02
 date: 2023-04-27
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

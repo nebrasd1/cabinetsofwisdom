@@ -1,15 +1,15 @@
 ---
-title: "Inside the U.S. Government-Bought Tool That Can Track Phones at Abortion Clinics"
-author: "Joseph Cox"
+title: Inside the U.S. Government-Bought Tool That Can Track Phones at Abortion Clinics
+author: Joseph Cox
 url: https://www.404media.co/email/a400f89b-10e8-4910-9ee3-ac83b70020aa/?ref=daily-stories-newsletter
 published: 2024-10-23
 date: 2024-11-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

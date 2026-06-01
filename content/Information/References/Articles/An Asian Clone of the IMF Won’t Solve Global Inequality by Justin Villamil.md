@@ -1,16 +1,16 @@
 ---
-title: "An Asian Clone of the IMF Won’t Solve Global Inequality"
-author: "Justin Villamil"
+title: An Asian Clone of the IMF Won’t Solve Global Inequality
+author: Justin Villamil
 url: https://jacobin.com/2023/07/asian-monetary-fund-imf-china-us-global-inequality-neoliberalism/
 published: 2023-07-10
 date: 2023-08-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

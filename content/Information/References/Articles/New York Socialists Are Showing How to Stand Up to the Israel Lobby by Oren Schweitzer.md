@@ -1,13 +1,13 @@
 ---
-title: "New York Socialists Are Showing How to Stand Up to the Israel Lobby"
-author: "Oren Schweitzer"
+title: New York Socialists Are Showing How to Stand Up to the Israel Lobby
+author: Oren Schweitzer
 url: https://jacobin.com/2023/08/zohran-mamdani-not-on-our-dime-new-york-state-zionism-nonprofits/
 published: 2023-08-14
 date: 2023-08-21
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

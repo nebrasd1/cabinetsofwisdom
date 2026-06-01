@@ -1,13 +1,13 @@
 ---
-title: "TV’s White Guys Are in Crisis"
-author: "vulture.com"
+title: TV’s White Guys Are in Crisis
+author: vulture.com
 url: https://www.vulture.com/2021/08/tv-white-men-the-white-lotus-ted-lasso.html
-published: 
+published:
 date: 2021-08-15
 modified:
 type: articles
 source: pocket
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

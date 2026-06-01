@@ -4,14 +4,15 @@ author: Emmet Asher-Perrin
 url: https://reactormag.com/the-worldbuilding-in-andor-speaks-volumes/
 published: 2025-05-06
 date: 2025-06-23
-modified:
+modified: 2026-05-31T21:41:12+03:00
 type: articles
 source: reader
 lenses:
   - "[[Propaganda]]"
-  - "[[Science Fiction]]"
   - "[[Storytelling]]"
 publish: true
+topics:
+  - scifi
 ---
 > [!example]- Process
 > 

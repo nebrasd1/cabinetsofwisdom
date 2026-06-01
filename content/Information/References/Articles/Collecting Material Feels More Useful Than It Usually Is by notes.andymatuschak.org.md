@@ -1,13 +1,13 @@
 ---
-title: "Collecting Material Feels More Useful Than It Usually Is"
-author: "notes.andymatuschak.org"
+title: Collecting Material Feels More Useful Than It Usually Is
+author: notes.andymatuschak.org
 url: https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8
-published: 
+published:
 date: 2021-07-15
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

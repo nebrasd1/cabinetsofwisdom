@@ -1,15 +1,15 @@
 ---
-title: "Moneyball Made Sports Worse"
-author: "Benjamin Charles Germain Lee"
+title: Moneyball Made Sports Worse
+author: Benjamin Charles Germain Lee
 url: https://jacobin.com/2023/08/moneyball-baseball-financialization-quantification/
 published: 2023-08-15
 date: 2023-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

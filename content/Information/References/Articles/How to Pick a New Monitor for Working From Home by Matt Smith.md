@@ -1,13 +1,13 @@
 ---
-title: "How to Pick a New Monitor for Working From Home"
-author: "Matt Smith"
+title: How to Pick a New Monitor for Working From Home
+author: Matt Smith
 url: https://www.inoreader.com/article/3a9c6e7ae7ce1b33-how-to-pick-a-new-monitor-for-working-from-home
-published: 
+published:
 date: 2022-01-18
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
-title: "Nurturance Is About More Than ‘Tasks’"
-author: "norasamaran.com"
+title: Nurturance Is About More Than ‘Tasks’
+author: norasamaran.com
 url: https://norasamaran.com/2016/05/19/send-yours-nurturance-culture-in-mass-media/
 published: 2016-05-19
 date: 2020-12-23
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

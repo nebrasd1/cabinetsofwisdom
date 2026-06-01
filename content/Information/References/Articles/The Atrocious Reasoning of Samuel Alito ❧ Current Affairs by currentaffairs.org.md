@@ -1,13 +1,13 @@
 ---
-title: "The Atrocious Reasoning of Samuel Alito  ❧ Current Affairs"
-author: "currentaffairs.org"
+title: The Atrocious Reasoning of Samuel Alito  ❧ Current Affairs
+author: currentaffairs.org
 url: https://www.currentaffairs.org/2022/05/the-atrocious-reasoning-of-samuel-alito/
-published: 
+published:
 date: 2022-05-10
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

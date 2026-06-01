@@ -1,13 +1,13 @@
 ---
 title: "Neither Princess Nor Bride: Why Buttercup Is the Hero of Her Own Story"
-author: "Rachel Ayers"
+author: Rachel Ayers
 url: https://www.inoreader.com/article/3a9c6e7a2b8a64ff-neither-princess-nor-bride-why-buttercup-is-the-hero-of-her-own-story
-published: 
+published:
 date: 2022-04-27
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

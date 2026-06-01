@@ -1,16 +1,15 @@
 ---
-title: "Capitalism Is Draining the Life From Our Culture Industries"
-author: "Dean Van Nguyen"
+title: Capitalism Is Draining the Life From Our Culture Industries
+author: Dean Van Nguyen
 url: https://jacobin.com/2024/12/capitalism-culture-film-music-creativity/
 published: 2024-12-22
 date: 2025-01-28
-modified:
+modified: 2026-05-31T21:15:14+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Culture]]" 
-  - "[[Exploitation]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
 publish: true
 ---
 > [!example]- Process
@@ -26,7 +25,7 @@ publish: true
 ### id844786215
 > there are a small number of mammoth companies hegemonizing the entertainment industry.
 
-✏️ Just as with tech, and xref the french fries cartel article as well.
+✏️ Just as with tech, and #xref the french fries cartel article as well.
 🔗 [View Highlight](https://read.readwise.io/read/01jjpa6hxs7pq4bc30sh40s8w8)
 
 ### id844786401

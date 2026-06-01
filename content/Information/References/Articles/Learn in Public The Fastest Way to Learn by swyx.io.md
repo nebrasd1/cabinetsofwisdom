@@ -1,13 +1,13 @@
 ---
 title: "Learn in Public: The Fastest Way to Learn"
-author: "swyx.io"
+author: swyx.io
 url: https://www.swyx.io/learn-in-public
 published: 2018-06-18
 date: 2021-07-06
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

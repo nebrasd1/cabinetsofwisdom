@@ -1,13 +1,13 @@
 ---
-title: "Why the Panic Over Trans Kids? ❧ Current Affairs"
-author: "currentaffairs.org"
+title: Why the Panic Over Trans Kids? ❧ Current Affairs
+author: currentaffairs.org
 url: https://www.currentaffairs.org/2021/04/why-the-panic-over-trans-kids/
-published: 
+published:
 date: 2021-05-04
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

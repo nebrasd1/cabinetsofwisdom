@@ -1,16 +1,16 @@
 ---
-title: "Study details ‘transformative’ results from L.A. pilot that guaranteed families $1,000 a month"
-author: "Rebecca Plevin"
+title: Study details ‘transformative’ results from L.A. pilot that guaranteed families $1,000 a month
+author: Rebecca Plevin
 url: https://www.latimes.com/california/story/2024-07-31/study-details-what-happened-when-la-residents-were-guaranteed-1000-dollars-a-month
 published: 2024-07-31
 date: 2024-08-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
@@ -80,6 +80,6 @@ publish: true
 ✏️ Complaints about using tax money to give to others.. but honestly, this makes the most sense. Why rely on voluntary charity when wealth can be properly distributed as we're seeing here?
  The money is getting taxed for one reason or another.. isn't it better served going to people that need it, than to the police that would just buy more guns?
  #followup
-👓 [[socialism]]
+👓 [[socialism|socialism]]
 🔗 [View Highlight](https://read.readwise.io/read/01j52y5vjfx216rpm1b73hj4ka)
 

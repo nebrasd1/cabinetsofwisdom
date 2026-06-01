@@ -1,15 +1,15 @@
 ---
 title: "Supreme Court: Zero Days Since Last Incident"
-author: "kottke.org"
+author: kottke.org
 url: https://kottke.org/24/07/supreme-court-zero-days-since-last-incident
 published: 2024-07-02
 date: 2024-07-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

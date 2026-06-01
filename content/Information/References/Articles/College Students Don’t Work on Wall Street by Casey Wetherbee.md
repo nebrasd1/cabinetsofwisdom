@@ -1,16 +1,16 @@
 ---
 title: "College Students: Don’t Work on Wall Street"
-author: "Casey Wetherbee"
+author: Casey Wetherbee
 url: https://jacobin.com/2024/09/finance-wall-street-college-students/
 published: 2024-09-23
 date: 2024-10-17
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

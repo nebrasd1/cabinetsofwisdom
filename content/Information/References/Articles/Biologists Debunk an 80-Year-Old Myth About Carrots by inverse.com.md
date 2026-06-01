@@ -1,13 +1,13 @@
 ---
-title: "Biologists Debunk an 80-Year-Old Myth About Carrots"
-author: "inverse.com"
+title: Biologists Debunk an 80-Year-Old Myth About Carrots
+author: inverse.com
 url: https://www.inverse.com/science/scientists-debunk-myth-about-carrots
-published: 
+published:
 date: 2021-05-02
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

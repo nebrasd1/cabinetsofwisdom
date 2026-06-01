@@ -1,13 +1,13 @@
 ---
-title: "Private Equity Is Coming for Your Pets"
-author: "Alice Teller"
+title: Private Equity Is Coming for Your Pets
+author: Alice Teller
 url: https://jacobin.com/2024/12/veterinary-care-workers-private-equity/
 published: 2024-12-15
 date: 2024-12-15
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -24,7 +24,7 @@ publish: true
 > As economist [Brett Christophers](https://jacobin.com/2023/05/our-lives-in-their-portfolios-interview-asset-management-society-infrastructure) has contended:
 > > [Asset managers] own, and extract income from, things — schools, bridges, wind farms and homes — that are nothing less than foundational to our daily being. . . . Asset managers increasingly own and control our most essential physical frameworks, providing the most basic means of social functioning and reproduction.
 
-👓 [[exploitation]] [[capitalism]]
+👓 [[exploitation|exploitation]] [[capitalism|capitalism]]
 🔗 [View Highlight](https://read.readwise.io/read/01jf5awrp02v9n9cqr14qttth1)
 
 ### id824764310

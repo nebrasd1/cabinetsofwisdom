@@ -1,16 +1,16 @@
 ---
-title: "Drug Decriminalization Policies Work — With Properly Funded Treatment Services"
-author: "Jordan Bollag"
+title: Drug Decriminalization Policies Work — With Properly Funded Treatment Services
+author: Jordan Bollag
 url: https://jacobin.com/2023/08/drug-decriminalization-policies-work-with-properly-funded-treatment-services/
 published: 2023-08-12
 date: 2023-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Empowerment]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Empowerment]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
@@ -56,7 +56,7 @@ publish: true
 > the situation went from improving to deteriorating right after neoliberal austerity programs cut treatment funding and contracted out formerly state-run services to private nongovernmental organizations (NGOs).
 
 ✏️ Reason two.. the cutting of treatment funding and shifting from public to private.
-👓 [[capitalism]]
+👓 [[capitalism|capitalism]]
 🔗 [View Highlight](https://read.readwise.io/read/01h88wwgcvxb8hazvtmnrtacvb)
 
 ### id583088427
@@ -67,7 +67,7 @@ publish: true
  TWO very simple values to have that shift entire narratives and processes:
  1. It treated addiction as a health issue and not a criminal one. 
  2. It saw health care as a right for every individual.
-👓 [[socialism]]
+👓 [[socialism|socialism]]
 🔗 [View Highlight](https://read.readwise.io/read/01h88wyav7wxrvynnh9t7r24wr)
 
 ### id583089297

@@ -1,13 +1,13 @@
 ---
-title: "Banks Are Using High Interest Rates to Rip Off Depositors"
-author: "David Sirota"
+title: Banks Are Using High Interest Rates to Rip Off Depositors
+author: David Sirota
 url: https://jacobin.com/2023/06/big-banks-federal-reserve-interest-rates-depositor-yield-net-interest-income/
 published: 2023-06-14
 date: 2023-06-15
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

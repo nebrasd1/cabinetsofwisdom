@@ -1,14 +1,14 @@
 ---
-title: "Disney Is Purging Content to Avoid Paying Workers and Evade Taxes"
-author: "Julia Rock"
+title: Disney Is Purging Content to Avoid Paying Workers and Evade Taxes
+author: Julia Rock
 url: https://jacobin.com/2023/07/disney-content-purge-streaming-worker-pay-tax-evasion/
 published: 2023-07-25
 date: 2023-07-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process

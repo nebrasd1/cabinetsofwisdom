@@ -1,13 +1,13 @@
 ---
-title: "What Board Games Can Teach Us About Politics and Power"
-author: "Nathan J. Robinson"
+title: What Board Games Can Teach Us About Politics and Power
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/06/what-board-games-can-teach-us-about-politics-and-power/
 published: 2023-06-19
 date: 2023-07-07
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

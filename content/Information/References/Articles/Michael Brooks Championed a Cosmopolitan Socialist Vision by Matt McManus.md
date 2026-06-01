@@ -1,14 +1,14 @@
 ---
-title: "Michael Brooks Championed a Cosmopolitan Socialist Vision"
-author: "Matt McManus"
+title: Michael Brooks Championed a Cosmopolitan Socialist Vision
+author: Matt McManus
 url: https://jacobin.com/2023/12/michael-brooks-socialism-cosmopolitanism-philosophy/
 published: 2023-12-09
 date: 2024-11-18
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

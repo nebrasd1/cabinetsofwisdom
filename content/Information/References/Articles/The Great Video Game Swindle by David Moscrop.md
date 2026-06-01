@@ -1,16 +1,16 @@
 ---
-title: "The Great Video Game Swindle"
-author: "David Moscrop"
+title: The Great Video Game Swindle
+author: David Moscrop
 url: https://jacobin.com/2024/06/video-games-exploitation-unionize/
 published: 2024-06-13
 date: 2024-06-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

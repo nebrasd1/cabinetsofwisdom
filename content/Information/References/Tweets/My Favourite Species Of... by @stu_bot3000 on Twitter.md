@@ -1,13 +1,13 @@
 ---
-title: "My Favourite Species Of..."
+title: My Favourite Species Of...
 author: "@stu_bot3000 on Twitter"
 url: https://twitter.com/stu_bot3000/status/1356921656946679810
-published: 
+published:
 date: 2021-02-04
 modified:
 type: tweets
 source: twitter
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

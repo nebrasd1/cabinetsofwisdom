@@ -1,13 +1,13 @@
 ---
 title: "S7 E5: A New Thing in Human History"
-author: "Scene on Radio"
+author: Scene on Radio
 url: https://share.snipd.com/episode/2b8159f5-509a-4e94-bef0-b0b1e9b37c21
-published: 
+published:
 date: 2024-11-05
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

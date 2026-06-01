@@ -1,15 +1,15 @@
 ---
-title: "Hedge Fund Billionaire Ray Dalio Has Perfected the Art of Self-Aggrandizing Bullshit"
-author: "Adam M. Lowenstein"
+title: Hedge Fund Billionaire Ray Dalio Has Perfected the Art of Self-Aggrandizing Bullshit
+author: Adam M. Lowenstein
 url: https://jacobin.com/2023/11/ray-dalio-hedge-funds-wall-street-billionaires-bullshit-profit/
 published: 2023-11-28
 date: 2024-11-19
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

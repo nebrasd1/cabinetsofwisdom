@@ -1,16 +1,16 @@
 ---
-title: "Blue-Collar Workers Deserve Six-Figure Salaries Too"
-author: "Scott Jenkins"
+title: Blue-Collar Workers Deserve Six-Figure Salaries Too
+author: Scott Jenkins
 url: https://jacobin.com/2024/10/ila-longshore-workers-strike-salaries/
 published: 2024-10-10
 date: 2024-10-11
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

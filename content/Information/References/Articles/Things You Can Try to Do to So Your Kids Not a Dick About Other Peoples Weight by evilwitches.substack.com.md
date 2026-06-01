@@ -1,13 +1,13 @@
 ---
-title: "Things You Can Try to Do to So Your Kid's Not a Dick About Other People's Weight"
-author: "evilwitches.substack.com"
+title: Things You Can Try to Do to So Your Kid's Not a Dick About Other People's Weight
+author: evilwitches.substack.com
 url: https://evilwitches.substack.com/p/things-you-can-try-to-do-to-so-your
-published: 
+published:
 date: 2021-06-23
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

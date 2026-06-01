@@ -4,14 +4,14 @@ author: Angela Saini
 url:
 published: 2023-05-25
 date: 2023-06-16
-modified:
+modified: 2026-05-31T21:45:20+03:00
 type: books
 source: reader
 lenses:
   - "[[Exploitation]]"
   - "[[History]]"
   - "[[Injustice]]"
-  - "[[Women]]"
+  - "[[Gender]]"
 publish: true
 purchased:
 ---

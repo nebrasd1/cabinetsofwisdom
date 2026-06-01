@@ -1,13 +1,13 @@
 ---
-title: "Douglas Adams Eats Biscuits on Cambridge Station"
-author: "markmeynell.wordpress.com"
+title: Douglas Adams Eats Biscuits on Cambridge Station
+author: markmeynell.wordpress.com
 url: https://markmeynell.wordpress.com/2013/07/25/douglas-adams-eats-biscuits-on-cambridge-station/
-published: 
+published:
 date: 2021-08-09
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -24,5 +24,5 @@ publish: true
 > Cookies by Douglas Adams
 
 ✏️ This super short and sweet tale is just an encapsulation of brilliant, comedic writing. The punchline is sublime and oh so subtle (chef's kiss).
-👓 [[storytelling]]
+👓 [[storytelling|storytelling]]
 

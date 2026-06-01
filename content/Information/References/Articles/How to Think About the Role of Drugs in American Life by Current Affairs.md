@@ -1,13 +1,13 @@
 ---
-title: "How to Think About the Role of Drugs in American Life"
-author: "Current Affairs"
+title: How to Think About the Role of Drugs in American Life
+author: Current Affairs
 url: https://www.currentaffairs.org/2023/10/how-to-think-about-the-role-of-drugs-in-american-life/
 published: 2023-10-18
 date: 2023-10-19
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

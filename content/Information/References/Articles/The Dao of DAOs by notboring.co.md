@@ -1,13 +1,13 @@
 ---
-title: "The Dao of DAOs"
-author: "notboring.co"
+title: The Dao of DAOs
+author: notboring.co
 url: https://www.notboring.co/p/the-dao-of-daos
-published: 
+published:
 date: 2021-06-07
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

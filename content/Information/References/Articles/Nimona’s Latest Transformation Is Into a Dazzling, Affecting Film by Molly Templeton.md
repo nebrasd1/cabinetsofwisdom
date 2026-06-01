@@ -1,13 +1,13 @@
 ---
-title: "Nimona’s Latest Transformation Is Into a Dazzling, Affecting Film"
-author: "Molly Templeton"
+title: Nimona’s Latest Transformation Is Into a Dazzling, Affecting Film
+author: Molly Templeton
 url: https://www.tor.com/2023/07/05/nimonas-latest-transformation-is-into-a-dazzling-affecting-film/
 published: 2023-07-05
 date: 2023-07-06
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -23,7 +23,7 @@ publish: true
 ### id559352306
 > The way we tell a story isn’t neutral. Good and evil are a matter of perspective. And when one story has been told, over and over, for a very long time, it’s probably a good idea to question it. Does anyone really know what a monster is?
 
-👓 [[propaganda]] [[storytelling]]
+👓 [[propaganda|propaganda]] [[storytelling|storytelling]]
 🔗 [View Highlight](https://read.readwise.io/read/01h4n6zpqp5tdf2mygs3m9ecaz)
 
 ### id559352310

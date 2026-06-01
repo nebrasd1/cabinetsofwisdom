@@ -1,16 +1,16 @@
 ---
-title: "With Newsom’s Veto, Big Tech Beats Democracy"
-author: "Garrison Lovely"
+title: With Newsom’s Veto, Big Tech Beats Democracy
+author: Garrison Lovely
 url: https://jacobin.com/2024/09/gavin-newsom-ai-tech-bill-sb-1047/
 published: 2024-09-30
 date: 2024-10-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Ai]]" 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Ai]]"
+  - "[[Capitalism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

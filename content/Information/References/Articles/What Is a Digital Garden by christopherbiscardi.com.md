@@ -1,13 +1,13 @@
 ---
-title: "What Is a Digital Garden?"
-author: "christopherbiscardi.com"
+title: What Is a Digital Garden?
+author: christopherbiscardi.com
 url: https://www.christopherbiscardi.com/what-is-a-digital-garden
-published: 
+published:
 date: 2021-07-15
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

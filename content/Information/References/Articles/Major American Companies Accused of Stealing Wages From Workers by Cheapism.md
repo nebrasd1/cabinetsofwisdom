@@ -1,15 +1,15 @@
 ---
-title: "Major American Companies Accused of Stealing Wages From Workers"
-author: "Cheapism"
+title: Major American Companies Accused of Stealing Wages From Workers
+author: Cheapism
 url: https://blog.cheapism.com/wage-theft/#slide=8
 published: 2023-03-06
 date: 2023-09-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,16 +1,16 @@
 ---
-title: "How Inequality Was Redefined as “Poverty”—Letting Capitalism Off the Hook"
-author: "Adolph Reed Jr."
+title: How Inequality Was Redefined as “Poverty”—Letting Capitalism Off the Hook
+author: Adolph Reed Jr.
 url: https://www.thenation.com/article/society/inequality-poverty-unemployment-johnson/
 published: 2023-09-05
 date: 2023-09-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
@@ -63,7 +63,7 @@ publish: true
 ### id591960090
 > Defining poverty as a cultural rather than an economic problem comported with the Cold War propaganda that extolled an American way of life in which the promise of endless growth had supposedly overcome class tensions by providing access to a steadily improving standard of living for all who were not hampered by idiosyncratic limitations.
 
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01h9n002atzb1fd65k0tfjg9e6)
 
 ### id591960278

@@ -1,14 +1,14 @@
 ---
-title: "How America’s Wars Become “Invisible”"
-author: "Current Affairs"
+title: How America’s Wars Become “Invisible”
+author: Current Affairs
 url: https://www.currentaffairs.org/2023/06/how-americas-wars-become-invisible/
 published: 2023-06-23
 date: 2023-07-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
@@ -24,7 +24,7 @@ publish: true
 ### id559478374
 > Aldous Huxley: ***“The propagandist’s purpose is to make one set of people forget that certain other sets of people are human.”***
 
-👓 [[quote]] [[propaganda]]
+#addto/quote [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01h4nrtpe8zhwrscv9118mfj55)
 
 ### id559481065

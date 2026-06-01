@@ -1,15 +1,15 @@
 ---
-title: "The Bangladesh Protest Movement Won Out Against Repression"
-author: "Sushovan Dhar"
+title: The Bangladesh Protest Movement Won Out Against Repression
+author: Sushovan Dhar
 url: https://jacobin.com/2024/08/bangladesh-protest-movement-hasina-yunus/
 published: 2024-08-14
 date: 2024-08-27
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,16 +1,16 @@
 ---
-title: "Most Large US Public Charities Are Now Dark-Money Funds"
-author: "Freddy Brewster"
+title: Most Large US Public Charities Are Now Dark-Money Funds
+author: Freddy Brewster
 url: https://jacobin.com/2024/07/dark-money-donor-advised-funds/
 published: 2024-07-18
 date: 2024-09-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
-title: "How a Musical Indie Game Went Against the Grain to Explore the Deaf Experience"
-author: "Ash Parrish"
+title: How a Musical Indie Game Went Against the Grain to Explore the Deaf Experience
+author: Ash Parrish
 url: https://www.theverge.com/24190846/harmonium-the-musical-developer-interview-deaf-culture-experience
 published: 2024-07-03
 date: 2024-07-03
-modified:
+modified: 2026-05-31T21:18:50+03:00
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -25,7 +25,7 @@ publish: true
 
 ✏️ A reminder that people don't always want to be represented by setting only their struggles and issues. (makes me think of trans stories focusing on the trials or the problems and just turning it into torture porn or whatever the term is about just showing their agony)
  There is value in showing the good things.. Showing the living of life.. The aspirational.. The benefits even.
-👓 [[narrative]] [[empowerment]] [[storytelling]]
+👓 [[empowerment|empowerment]] [[storytelling|storytelling]]
 🔗 [View Highlight](https://read.readwise.io/read/01j1wgjtjv1czsgh31cc2mhzm2)
 
 ### id741437581

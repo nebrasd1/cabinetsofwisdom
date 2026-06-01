@@ -1,13 +1,13 @@
 ---
 title: "“A Tragedy for Us All”: Justice Ketanji Brown Jackson’s Dissent"
-author: "Ketanji Brown Jackson"
+author: Ketanji Brown Jackson
 url: https://www.thenation.com/article/society/kbj-dissent-affirmative-action/
 published: 2023-06-29
 date: 2023-07-11
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

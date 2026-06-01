@@ -1,14 +1,14 @@
 ---
-title: "How Knowledge About Different Cultures Is Shaking the Foundations of Psychology"
-author: "Nicolas Geeraert"
+title: How Knowledge About Different Cultures Is Shaking the Foundations of Psychology
+author: Nicolas Geeraert
 url: https://getpocket.com/explore/item/how-knowledge-about-different-cultures-is-shaking-the-foundations-of-psychology
-published: 
+published:
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Psychology]]" 
+lenses:
+  - "[[Psychology]]"
 publish: true
 ---
 > [!example]- Process

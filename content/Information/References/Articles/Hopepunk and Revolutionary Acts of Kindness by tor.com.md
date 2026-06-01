@@ -1,13 +1,13 @@
 ---
-title: "Hopepunk and Revolutionary Acts of Kindness"
-author: "tor.com"
+title: Hopepunk and Revolutionary Acts of Kindness
+author: tor.com
 url: https://www.tor.com/2020/11/23/hopepunk-and-revolutionary-acts-of-kindness/
-published: 
+published:
 date: 2020-12-22
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,5 +1,5 @@
 ---
-title: "You Want to Know Somethi..."
+title: You Want to Know Somethi...
 author: "@Foone on Twitter"
 url: https://twitter.com/Foone/status/1014267515696922624
 published: 2018-07-03
@@ -7,7 +7,7 @@ date: 2020-12-14
 modified:
 type: tweets
 source: twitter
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

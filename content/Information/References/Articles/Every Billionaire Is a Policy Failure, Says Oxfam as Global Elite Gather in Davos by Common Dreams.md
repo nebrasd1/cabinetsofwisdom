@@ -1,14 +1,14 @@
 ---
 title: "'Every Billionaire Is a Policy Failure,' Says Oxfam as Global Elite Gather in Davos"
-author: "Common Dreams"
+author: Common Dreams
 url: https://www.commondreams.org/news/billionaires-policy-failure-oxfam
 published: 2023-01-16
 date: 2023-09-18
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process
@@ -39,7 +39,7 @@ publish: true
 ### id597591578
 > "Every billionaire is a policy failure," the report says. "The very existence of booming billionaires and record profits, while most people face austerity, rising poverty, and a cost-of-living crisis, is evidence of an economic system that fails to deliver for humanity.
 
-👓 [[quote]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01hamhc1h1g47013cxy78k0wkg)
 
 ### id597591603

@@ -1,16 +1,16 @@
 ---
 title: "After the Deluge: Turkey Extends Recep Tayyip Erdoğan’s Rule"
-author: "Kaya Genç"
+author: Kaya Genç
 url: https://www.thenation.com/article/world/turkish-politics-erdogan-victory/
 published: 2023-06-28
 date: 2023-06-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Hypocrisy]]" 
-  - "[[Hypocrisy ]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Hypocrisy]]"
+  - "[[Hypocrisy ]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

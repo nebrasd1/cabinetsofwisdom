@@ -1,15 +1,15 @@
 ---
 title: "'Reboot' Revealed: Elon Musk's CEO-Dictator Playbook"
-author: "The Nerd Reich"
+author: The Nerd Reich
 url: https://www.thenerdreich.com/reboot-elon-musk-ceo-dictator-doge/
 published: 2025-02-05
 date: 2025-02-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Fascism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Fascism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

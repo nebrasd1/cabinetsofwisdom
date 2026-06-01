@@ -1,14 +1,14 @@
 ---
-title: "Millionaires Tax Revenue Reaches $1.8 Billion, on Pace to Double Estimates"
-author: "Chris Lisinski | State House News Service"
+title: Millionaires Tax Revenue Reaches $1.8 Billion, on Pace to Double Estimates
+author: Chris Lisinski | State House News Service
 url: https://www.wgbh.org/news/politics/2024-05-21/millionaires-tax-revenue-reaches-1-8-billion-on-pace-to-double-estimates
 published: 2024-05-21
 date: 2024-06-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Hope]]" 
+lenses:
+  - "[[Hope]]"
 publish: true
 ---
 > [!example]- Process

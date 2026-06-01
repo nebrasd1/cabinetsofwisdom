@@ -1,18 +1,18 @@
 ---
-title: "Everyone Needs to Disavow Neom"
-author: "Kate Wagner"
+title: Everyone Needs to Disavow Neom
+author: Kate Wagner
 url: https://www.thenation.com/article/society/neom-deaths-saudi-the-line/
 published: 2024-11-07
 date: 2024-11-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
-  - "[[Ksa]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
+  - "[[Ksa]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

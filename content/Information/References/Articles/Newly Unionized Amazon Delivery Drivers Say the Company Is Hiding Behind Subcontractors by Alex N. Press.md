@@ -1,16 +1,16 @@
 ---
-title: "Newly Unionized Amazon Delivery Drivers Say the Company Is Hiding Behind Subcontractors"
-author: "Alex N. Press"
+title: Newly Unionized Amazon Delivery Drivers Say the Company Is Hiding Behind Subcontractors
+author: Alex N. Press
 url: https://jacobin.com/2023/08/unionized-amazon-delivery-drivers-subcontractors-service-partner-working-conditions/
 published: 2023-08-07
 date: 2023-08-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
-title: "When Socialists Put an End to Pasta Inflation"
-author: "Brian Callaci"
+title: When Socialists Put an End to Pasta Inflation
+author: Brian Callaci
 url: https://jacobin.com/2023/06/providence-macaroni-riots-inflation-profiteering-moral-economy-protest/
 published: 2023-06-11
 date: 2023-06-14
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

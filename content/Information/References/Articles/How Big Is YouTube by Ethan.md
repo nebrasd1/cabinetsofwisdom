@@ -10,11 +10,13 @@ author: Ethan
 lenses:
   - "[[community]]"
   - "[[propaganda]]"
-  - "[[systems]]"
 publish: true
 cssclasses:
   - grid
 description: Fascinating attempt at measuring YouTube itself.
+topics:
+  - systems
+modified: 2026-05-31T21:42:57+03:00
 ---
 > [!note]+ Basic Info
 >
@@ -34,7 +36,7 @@ description: Fascinating attempt at measuring YouTube itself.
 > | -------------- |------------------------- |
 > | **Highlights**        | See section below |
 > | **Claims**            | Not yet |
-> | **Related Lenses**    |[[community]]</br>[[propaganda]]</br>[[systems]]|
+> | **Related Lenses**    |[[community]]</br>[[propaganda]]|
 > | **Related Questions** | Not yet  |
 > | **Output**            | Not yet  |
 >

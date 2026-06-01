@@ -1,13 +1,13 @@
 ---
 title: "Progressive Summarization: A Practical Technique for Designing Discoverable Notes"
-author: "fortelabs.co"
+author: fortelabs.co
 url: https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/
-published: 
+published:
 date: 2021-06-28
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

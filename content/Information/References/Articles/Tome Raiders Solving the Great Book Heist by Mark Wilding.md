@@ -1,13 +1,13 @@
 ---
 title: "Tome Raiders: Solving the Great Book Heist"
-author: "Mark Wilding"
+author: Mark Wilding
 url: https://www.theguardian.com/books/2020/dec/13/tome-raiders-solving-the-great-book-heist
-published: 
+published:
 date: 2020-12-20
 modified:
 type: articles
 source: pocket
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
-title: "John Q"
-author: "Movies vs. Capitalism"
+title: John Q
+author: Movies vs. Capitalism
 url: https://share.snipd.com/episode/8e009c45-2501-48f1-bdf6-c43a93c8b49b
-published: 
+published:
 date: 2025-01-07
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

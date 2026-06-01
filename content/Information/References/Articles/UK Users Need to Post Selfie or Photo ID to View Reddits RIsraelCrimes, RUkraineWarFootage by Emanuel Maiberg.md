@@ -4,12 +4,12 @@ author: Emanuel Maiberg
 url: https://www.404media.co/uk-users-need-to-post-selfie-or-photo-id-to-view-reddits-r-israelcrimes-r-ukrainewarfootage/
 published: 2025-07-29
 date: 2025-09-07
-modified: 2026-04-29T10:06:41+03:00
+modified: 2026-05-31T21:20:34+03:00
 type: articles
 source: reader
 lenses:
-  - "[[Narrative]]"
   - "[[Politics]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process

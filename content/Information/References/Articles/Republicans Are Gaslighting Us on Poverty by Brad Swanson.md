@@ -1,14 +1,14 @@
 ---
-title: "Republicans Are Gaslighting Us on Poverty"
-author: "Brad Swanson"
+title: Republicans Are Gaslighting Us on Poverty
+author: Brad Swanson
 url: https://www.thenation.com/article/economy/republicans-gaslighting-poverty-gramm/
 published: 2023-08-21
 date: 2023-08-23
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

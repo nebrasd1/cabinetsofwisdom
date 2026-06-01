@@ -1,13 +1,13 @@
 ---
-title: "Sapphics Being Oblivious..."
+title: Sapphics Being Oblivious...
 author: "@gayvillanelles on Twitter"
 url: https://twitter.com/gayvillanelles/status/1333645402478788608
-published: 
+published:
 date: 2020-12-15
 modified:
 type: tweets
 source: twitter
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

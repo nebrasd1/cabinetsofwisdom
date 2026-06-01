@@ -1,13 +1,13 @@
 ---
-title: "What Has Socialism Ever Done for Women? W/ Julia Mead"
-author: "Actually Existing Socialism"
+title: What Has Socialism Ever Done for Women? W/ Julia Mead
+author: Actually Existing Socialism
 url: https://share.snipd.com/episode/12eee0b0-dd72-4ad7-bf04-7bd8717b8fec
-published: 
+published:
 date: 2023-10-03
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

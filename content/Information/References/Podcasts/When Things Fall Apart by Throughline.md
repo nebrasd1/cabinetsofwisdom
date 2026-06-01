@@ -1,13 +1,13 @@
 ---
-title: "When Things Fall Apart"
-author: "Throughline"
+title: When Things Fall Apart
+author: Throughline
 url: https://share.snipd.com/episode/05df5dbe-5b4d-4c8c-b26e-ec41f84267c7
-published: 
+published:
 date: 2023-08-16
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

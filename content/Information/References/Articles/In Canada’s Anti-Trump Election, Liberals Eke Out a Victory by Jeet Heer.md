@@ -1,13 +1,13 @@
 ---
-title: "In Canada’s Anti-Trump Election, Liberals Eke Out a Victory"
-author: "Jeet Heer"
+title: In Canada’s Anti-Trump Election, Liberals Eke Out a Victory
+author: Jeet Heer
 url: https://www.thenation.com/article/world/canada-liberals-mark-carney-trump/
 published: 2025-04-29
 date: 2025-04-30
-modified:
+modified: 2026-05-31T21:33:46+03:00
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -25,6 +25,7 @@ publish: true
 
 ✏️ #addto/quote
  Just an excellent quote about being partnered with a very powerful person. Good or bad, kind or selfish, every motion is concerning.
-👓 [[politics]] [[quote]]
+👓 [[politics|politics]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01jt2weh2panqw1bbdyedat9gv)
 

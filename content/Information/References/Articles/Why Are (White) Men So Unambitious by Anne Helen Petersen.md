@@ -1,13 +1,13 @@
 ---
-title: "Why Are (White) Men So Unambitious?"
-author: "Anne Helen Petersen"
+title: Why Are (White) Men So Unambitious?
+author: Anne Helen Petersen
 url: https://annehelen.substack.com/p/why-are-white-men-so-unambitious
 published: 2023-03-29
 date: 2023-04-29
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,16 +1,16 @@
 ---
-title: "Bail Bond Insurers Are Lobbying to Keep People in Jail"
-author: "Katya Schwenk"
+title: Bail Bond Insurers Are Lobbying to Keep People in Jail
+author: Katya Schwenk
 url: https://jacobin.com/2024/10/bail-bonds-lobbyists-insurers-reform/
 published: 2024-10-17
 date: 2024-10-17
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

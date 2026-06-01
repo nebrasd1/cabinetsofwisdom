@@ -1,13 +1,13 @@
 ---
-title: "The Boring Conservatism of Elon Musk"
-author: "kottke.org"
+title: The Boring Conservatism of Elon Musk
+author: kottke.org
 url: https://kottke.org/22/12/the-boring-conservatism-of-elon-musk
 published: 2022-12-14
 date: 2022-12-15
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

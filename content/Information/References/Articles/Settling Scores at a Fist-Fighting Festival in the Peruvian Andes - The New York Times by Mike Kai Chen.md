@@ -1,15 +1,15 @@
 ---
-title: "Settling Scores at a Fist-Fighting Festival in the Peruvian Andes - The New York Times"
-author: "Mike Kai Chen"
+title: Settling Scores at a Fist-Fighting Festival in the Peruvian Andes - The New York Times
+author: Mike Kai Chen
 url: https://www.nytimes.com/2021/08/09/travel/takanakuy-fighting-festival-peru.html
 published: 2021-08-09
 date: 2023-05-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Swn]]" 
-  - "[[Ttrpg]]" 
+lenses:
+  - "[[Swn]]"
+  - "[[Ttrpg]]"
 publish: true
 ---
 > [!example]- Process

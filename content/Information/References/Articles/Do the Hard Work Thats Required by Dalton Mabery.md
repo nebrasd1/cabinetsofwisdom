@@ -1,14 +1,14 @@
 ---
-title: "Do the Hard Work That's Required"
-author: "Dalton Mabery"
+title: Do the Hard Work That's Required
+author: Dalton Mabery
 url: https://www.dltn.io/posts/hard-work-ai?utm_source=substack&utm_medium=email
 published: 2024-07-22
 date: 2024-10-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Ai]]" 
+lenses:
+  - "[[Ai]]"
 publish: true
 ---
 > [!example]- Process

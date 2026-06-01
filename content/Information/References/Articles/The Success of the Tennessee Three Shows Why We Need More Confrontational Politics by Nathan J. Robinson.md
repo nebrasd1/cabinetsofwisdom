@@ -1,13 +1,13 @@
 ---
-title: "The Success of the Tennessee Three Shows Why We Need More Confrontational Politics"
-author: "Nathan J. Robinson"
+title: The Success of the Tennessee Three Shows Why We Need More Confrontational Politics
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/04/the-success-of-the-tennessee-three-shows-why-we-need-more-confrontational-politics/
 published: 2023-04-16
 date: 2023-04-17
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

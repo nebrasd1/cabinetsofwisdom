@@ -1,15 +1,15 @@
 ---
 title: "Distant Worlds 2 Review: A Troubled but Brilliant 4X That Sets Its Own Terms"
-author: "Rock Paper Shotgun"
+author: Rock Paper Shotgun
 url: https://www.rockpapershotgun.com/distant-worlds-2-review
 published: 2022-03-25
 date: 2024-10-15
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Game Design]]" 
-  - "[[Leadership]]" 
+lenses:
+  - "[[Game Design]]"
+  - "[[Leadership]]"
 publish: true
 ---
 > [!example]- Process

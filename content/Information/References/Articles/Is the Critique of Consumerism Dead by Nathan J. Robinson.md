@@ -1,16 +1,16 @@
 ---
-title: "Is the Critique of Consumerism Dead?"
-author: "Nathan J. Robinson"
+title: Is the Critique of Consumerism Dead?
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/08/is-the-critique-of-consumerism-dead/
 published: 2023-08-02
 date: 2023-08-03
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
@@ -90,7 +90,7 @@ publish: true
 > Become too critical, and you become like the World Socialist Website, [scolding *Jacobin* as](https://www.wsws.org/en/articles/2023/07/29/isjr-j29.html) “the voice of the affluent, complacent ‘left’ petty bourgeoisie” for enjoying *Barbie.*
 
 ✏️ Such a fine line to tow.. we have to examine everything, including product, consumption, owners, systems; critique the biggest and the smallest/trivial things; but not to the point of being so serious and un-fun and telling people they can't just enjoy things.
- Reminds me of what I just heard in the [[Movies Vs Capitalism]] podcast about not wanting to overexamine everything and come off as saying that one shouldn't enjoy a movie or like it. It's more about being aware of what a movie might be doing (even when the creator wasn't intending it, but reflecting something all the same). Art has power to influence greatly, and it needs to be examined, else we're just being controlled and acting with zero agency.
+ Reminds me of what I just heard in the [[Movies Vs Capitalism|Movies Vs Capitalism]] podcast about not wanting to overexamine everything and come off as saying that one shouldn't enjoy a movie or like it. It's more about being aware of what a movie might be doing (even when the creator wasn't intending it, but reflecting something all the same). Art has power to influence greatly, and it needs to be examined, else we're just being controlled and acting with zero agency.
  #insight
 🔗 [View Highlight](https://read.readwise.io/read/01h6xfcw56ncrwrpakk3dcajnw)
 

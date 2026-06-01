@@ -1,15 +1,15 @@
 ---
-title: "What Happens When You Give New Parents Cash Aid?"
-author: "Lizzie Tribone"
+title: What Happens When You Give New Parents Cash Aid?
+author: Lizzie Tribone
 url: https://www.thenation.com/article/society/cash-transfer-programs-pregnant-postpartum/
 published: 2023-08-30
 date: 2023-08-31
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Hope]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Hope]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

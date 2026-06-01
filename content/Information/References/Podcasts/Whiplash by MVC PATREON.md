@@ -1,13 +1,13 @@
 ---
-title: "Whiplash"
-author: "MVC PATREON"
+title: Whiplash
+author: MVC PATREON
 url: https://share.snipd.com/episode/73369de3-0f1f-4d9f-bc8c-71ab97bb01ae
-published: 
+published:
 date: 2025-01-29
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

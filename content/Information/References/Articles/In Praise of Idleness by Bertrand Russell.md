@@ -1,13 +1,13 @@
 ---
-title: "In Praise of Idleness"
-author: "Bertrand Russell"
+title: In Praise of Idleness
+author: Bertrand Russell
 url: https://libcom.org/files/Bertrand%20Russell%20-%20In%20Praise%20of%20Idleness.pdf
 published: 2003-04-29
 date: 2023-05-23
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

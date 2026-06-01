@@ -1,13 +1,13 @@
 ---
-title: "Back to the Future"
-author: "Movies vs. Capitalism"
+title: Back to the Future
+author: Movies vs. Capitalism
 url: https://share.snipd.com/episode/c0f22d07-1187-400a-99a2-d1dfb21250bb
-published: 
+published:
 date: 2025-01-10
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

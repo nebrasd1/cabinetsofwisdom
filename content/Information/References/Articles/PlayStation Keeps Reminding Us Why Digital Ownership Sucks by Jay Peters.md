@@ -1,15 +1,14 @@
 ---
-title: "PlayStation Keeps Reminding Us Why Digital Ownership Sucks"
-author: "Jay Peters"
+title: PlayStation Keeps Reminding Us Why Digital Ownership Sucks
+author: Jay Peters
 url: https://www.theverge.com/2023/12/5/23989290/playstation-digital-ownership-sucks
 published: 2023-12-05
 date: 2023-12-06
-modified:
+modified: 2026-05-31T20:55:15+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Digital]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process

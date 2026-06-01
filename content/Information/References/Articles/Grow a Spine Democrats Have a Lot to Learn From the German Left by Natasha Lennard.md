@@ -1,14 +1,14 @@
 ---
 title: "Grow a Spine: Democrats Have a Lot to Learn From the German Left"
-author: "Natasha Lennard"
+author: Natasha Lennard
 url: https://theintercept.com/2025/02/25/german-election-die-linke-democrats-left/
 published: 2025-02-25
 date: 2025-02-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
+lenses:
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
@@ -43,6 +43,6 @@ You have to stand your ground. You have to oppose fascism.
 ### id857116992
 > We don’t need to moderate fascism, we need to oppose it.
 
-👓 [[quote]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01jn0kh84v81671hc3wj1pffnt)
 

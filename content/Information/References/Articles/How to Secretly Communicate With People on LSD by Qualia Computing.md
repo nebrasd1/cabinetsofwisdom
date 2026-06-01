@@ -1,16 +1,17 @@
 ---
-title: "How to Secretly Communicate With People on LSD"
-author: "Qualia  Computing"
+title: How to Secretly Communicate With People on LSD
+author: Qualia  Computing
 url: https://qualiacomputing.com/2015/05/22/how-to-secretly-communicate-with-people-on-lsd/
 published: 2015-05-22
 date: 2024-06-27
-modified:
+modified: 2026-05-31T21:40:01+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Science Fiction]]" 
-  - "[[Ttrpg]]" 
+lenses:
 publish: true
+topics:
+  - scifi
+  - ttrpg
 ---
 > [!example]- Process
 > 

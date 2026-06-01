@@ -1,13 +1,13 @@
 ---
-title: "In ‘The Big Wait,’ a Couple Readies a Remote Australian Town for Visitors Who Might Never Arrive"
-author: "Grace Ebert"
+title: In ‘The Big Wait,’ a Couple Readies a Remote Australian Town for Visitors Who Might Never Arrive
+author: Grace Ebert
 url: https://www.thisiscolossal.com/2024/11/the-big-wait/
 published: 2024-11-05
 date: 2024-11-12
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,17 +1,17 @@
 ---
-title: "Union Density Lowers the Income Share Going to the Top 1%"
-author: "Jim Stanford"
+title: Union Density Lowers the Income Share Going to the Top 1%
+author: Jim Stanford
 url: https://jacobin.com/2023/10/union-density-wealth-income-inequality-collective-bargaining/
 published: 2023-10-16
 date: 2023-10-16
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[History]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[History]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

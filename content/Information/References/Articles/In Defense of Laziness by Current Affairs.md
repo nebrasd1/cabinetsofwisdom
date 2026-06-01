@@ -1,14 +1,14 @@
 ---
-title: "In Defense of Laziness"
-author: "Current Affairs"
+title: In Defense of Laziness
+author: Current Affairs
 url: https://www.currentaffairs.org/2020/06/in-defense-of-laziness
 published: 2020-06-18
 date: 2023-05-16
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process

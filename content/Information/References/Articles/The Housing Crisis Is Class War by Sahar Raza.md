@@ -1,13 +1,13 @@
 ---
-title: "The Housing Crisis Is Class War"
-author: "Sahar Raza"
+title: The Housing Crisis Is Class War
+author: Sahar Raza
 url: https://jacobin.com/2023/06/the-tenant-class-ricardo-tranjan-book-review-housing-crisis-class-conflict-organizing/
 published: 2023-06-18
 date: 2023-06-19
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

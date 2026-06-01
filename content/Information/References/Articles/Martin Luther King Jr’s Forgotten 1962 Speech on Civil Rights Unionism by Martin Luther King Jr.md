@@ -1,16 +1,16 @@
 ---
-title: "Martin Luther King Jr’s Forgotten 1962 Speech on Civil Rights Unionism"
-author: "Martin Luther King Jr"
+title: Martin Luther King Jr’s Forgotten 1962 Speech on Civil Rights Unionism
+author: Martin Luther King Jr
 url: https://jacobin.com/2023/09/martin-luther-king-jr-civil-rights-unionism-maritime-workers-eugene-debs/
 published: 2023-09-04
 date: 2023-09-05
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Exploitation]]" 
-  - "[[History]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Exploitation]]"
+  - "[[History]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

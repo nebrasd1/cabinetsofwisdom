@@ -1,15 +1,15 @@
 ---
-title: "It’s Easy to Dramatically Cut Poverty. US Policymakers Just Don’t Want To."
-author: "Matt Bruenig"
+title: It’s Easy to Dramatically Cut Poverty. US Policymakers Just Don’t Want To.
+author: Matt Bruenig
 url: https://jacobin.com/2023/09/poverty-child-tax-credit-pandemic-era-welfare-policy-poor/
 published: 2023-09-20
 date: 2024-07-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

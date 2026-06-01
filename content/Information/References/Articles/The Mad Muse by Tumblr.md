@@ -12,7 +12,7 @@ lenses:
   - "[[Propaganda]]"
   - "[[Psychology]]"
   - "[[Queer]]"
-  - "[[Women]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process

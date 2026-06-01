@@ -1,13 +1,13 @@
 ---
-title: "The Spectre of Orientalism in Craig Thompson’s Habibi"
-author: "hoodedutilitarian.com"
+title: The Spectre of Orientalism in Craig Thompson’s Habibi
+author: hoodedutilitarian.com
 url: http://www.hoodedutilitarian.com/2011/10/can-the-subaltern-draw-the-spectre-of-orientalism-in-craig-thompsons-habibi/
-published: 
+published:
 date: 2022-07-09
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

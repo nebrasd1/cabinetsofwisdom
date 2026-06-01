@@ -1,17 +1,17 @@
 ---
-title: "Why Musk and Trump Really Want to Gut the Government"
-author: "Kali Holloway"
+title: Why Musk and Trump Really Want to Gut the Government
+author: Kali Holloway
 url: https://www.thenation.com/article/politics/doge-white-supremacy-racism/
 published: 2025-04-01
 date: 2025-04-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
-  - "[[Racism]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
+  - "[[Racism]]"
 publish: true
 ---
 > [!example]- Process

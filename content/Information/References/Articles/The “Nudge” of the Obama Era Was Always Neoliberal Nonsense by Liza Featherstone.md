@@ -1,16 +1,16 @@
 ---
-title: "The “Nudge” of the Obama Era Was Always Neoliberal Nonsense"
-author: "Liza Featherstone"
+title: The “Nudge” of the Obama Era Was Always Neoliberal Nonsense
+author: Liza Featherstone
 url: https://jacobin.com/2023/10/nudge-barack-obama-administration-neoliberalism-behavioral-science-fake-data/
 published: 2023-10-10
 date: 2023-10-11
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

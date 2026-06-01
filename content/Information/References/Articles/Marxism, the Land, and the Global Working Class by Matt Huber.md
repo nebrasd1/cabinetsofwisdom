@@ -1,17 +1,17 @@
 ---
-title: "Marxism, the Land, and the Global Working Class"
-author: "Matt Huber"
+title: Marxism, the Land, and the Global Working Class
+author: Matt Huber
 url: https://jacobin.com/2024/06/marxism-land-working-class-ecosocialism/
 published: 2024-06-09
 date: 2024-11-11
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Environment]]" 
-  - "[[History]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Environment]]"
+  - "[[History]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

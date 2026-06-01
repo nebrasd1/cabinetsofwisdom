@@ -1,19 +1,19 @@
 ---
-title: "Unproven “Advanced Recycling” Facilities Have Received Millions in Public Subsidies"
-author: "Schuyler Mitchell"
+title: Unproven “Advanced Recycling” Facilities Have Received Millions in Public Subsidies
+author: Schuyler Mitchell
 url: https://theintercept.com/2023/10/31/plastics-pollution-advanced-recycling/
 published: 2023-10-31
 date: 2024-08-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Colonialism]]" 
-  - "[[Environment]]" 
-  - "[[Exploitation]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Colonialism]]"
+  - "[[Environment]]"
+  - "[[Exploitation]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

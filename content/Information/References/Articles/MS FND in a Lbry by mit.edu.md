@@ -1,17 +1,18 @@
 ---
-title: "MS FND in a Lbry"
-author: "mit.edu"
+title: MS FND in a Lbry
+author: mit.edu
 url: https://trillian.mit.edu/~jc/humor/Ms_fnd_in_a_Lbry.html
-published: 
+published:
 date: 2024-07-03
-modified:
+modified: 2026-05-31T21:40:31+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Science Fiction]]" 
-  - "[[Storytelling]]" 
-  - "[[Systems]]" 
+lenses:
+  - "[[Storytelling]]"
 publish: true
+topics:
+  - scifi
+  - systems
 ---
 > [!example]- Process
 > 
@@ -26,6 +27,6 @@ publish: true
 ### id741316138
 > it was a source of great pride to him that although hardly anybody knew anything any longer, everybody now knew how to find out everything.
 
-👓 [[quote]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01j1vr0tamde3twvx8z0bvn349)
 

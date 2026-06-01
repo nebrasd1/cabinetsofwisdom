@@ -1,16 +1,16 @@
 ---
-title: "How Black People Won the Battle of Montgomery"
-author: "Elie Mystal"
+title: How Black People Won the Battle of Montgomery
+author: Elie Mystal
 url: https://www.thenation.com/article/society/how-black-people-won-the-battle-of-montgomery/
 published: 2023-08-10
 date: 2023-08-21
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Injustice]]" 
-  - "[[Racism]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Injustice]]"
+  - "[[Racism]]"
 publish: true
 ---
 > [!example]- Process

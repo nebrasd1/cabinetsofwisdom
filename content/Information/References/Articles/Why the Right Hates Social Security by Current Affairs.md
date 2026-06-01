@@ -1,13 +1,13 @@
 ---
-title: "Why the Right Hates Social Security"
-author: "Current Affairs"
+title: Why the Right Hates Social Security
+author: Current Affairs
 url: https://www.currentaffairs.org/2023/02/why-the-right-hates-social-security-and-how-they-plan-to-destroy-it/
 published: 2023-02-23
 date: 2023-02-25
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
-title: "Triangle of Sadness"
-author: "Movies vs. Capitalism"
+title: Triangle of Sadness
+author: Movies vs. Capitalism
 url: https://share.snipd.com/episode/6aedd66b-b2af-4cc7-8d36-aa55602c714f
-published: 
+published:
 date: 2023-09-05
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

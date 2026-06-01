@@ -1,13 +1,13 @@
 ---
-title: "It’s Long Past Time to End the Tyranny of High-Stakes Testing in Public Education"
-author: "Nora De La Cour"
+title: It’s Long Past Time to End the Tyranny of High-Stakes Testing in Public Education
+author: Nora De La Cour
 url: https://jacobin.com/2023/06/high-stakes-standardized-testing-public-education-reform/
 published: 2023-06-09
 date: 2023-06-14
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

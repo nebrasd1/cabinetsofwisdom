@@ -1,14 +1,14 @@
 ---
-title: "The GOP’s Nazi Problem Has Deep Roots"
-author: "Jeet Heer"
+title: The GOP’s Nazi Problem Has Deep Roots
+author: Jeet Heer
 url: https://www.thenation.com/article/politics/gop-popular-front-white-nationalism/
 published: 2023-07-31
 date: 2023-08-01
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
+lenses:
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

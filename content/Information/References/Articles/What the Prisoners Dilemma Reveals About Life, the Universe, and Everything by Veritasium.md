@@ -1,15 +1,15 @@
 ---
-title: "What the Prisoner's Dilemma Reveals About Life, the Universe, and Everything"
-author: "Veritasium"
+title: What the Prisoner's Dilemma Reveals About Life, the Universe, and Everything
+author: Veritasium
 url: https://www.youtube.com/watch?v=mScpHTIi-kM
 published: 2023-12-23
 date: 2023-12-31
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Psychology]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Psychology]]"
 publish: true
 ---
 > [!example]- Process

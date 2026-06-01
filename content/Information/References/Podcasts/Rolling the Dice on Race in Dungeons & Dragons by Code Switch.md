@@ -1,13 +1,13 @@
 ---
-title: "Rolling the Dice on Race in Dungeons & Dragons"
-author: "Code Switch"
+title: Rolling the Dice on Race in Dungeons & Dragons
+author: Code Switch
 url: https://share.snipd.com/episode/e7992fc5-72d6-461b-b9e1-df6356cb3378
-published: 
+published:
 date: 2023-08-16
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

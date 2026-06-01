@@ -1,15 +1,15 @@
 ---
-title: "Corporate Lobbyists Are Fighting Heat and Wildfire Protections for Workers"
-author: "Rebecca Burns"
+title: Corporate Lobbyists Are Fighting Heat and Wildfire Protections for Workers
+author: Rebecca Burns
 url: https://jacobin.com/2023/08/fossil-fuel-corporations-lobbying-climate-change-working-conditions-heat-wildfire-protections/
 published: 2023-08-10
 date: 2023-08-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
-title: "Thinking More Clearly About the Idea of “Rights”"
-author: "Benjamin M. Studebaker"
+title: Thinking More Clearly About the Idea of “Rights”
+author: Benjamin M. Studebaker
 url: https://www.inoreader.com/article/3a9c6e7a0aeb52c2-thinking-more-clearly-about-the-idea-of-ldquorightsrdquo
-published: 
+published:
 date: 2022-05-15
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

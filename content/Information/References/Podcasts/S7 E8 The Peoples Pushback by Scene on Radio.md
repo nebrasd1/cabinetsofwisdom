@@ -1,13 +1,13 @@
 ---
 title: "S7 E8: The People's Pushback"
-author: "Scene on Radio"
+author: Scene on Radio
 url: https://share.snipd.com/episode/7e441c32-96bd-419b-be4a-3761fe33021c
-published: 
+published:
 date: 2024-11-21
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

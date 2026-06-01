@@ -1,14 +1,14 @@
 ---
-title: "The Rich Are Hoarding Their Wealth Using Charity Funds"
-author: "Helen Santoro"
+title: The Rich Are Hoarding Their Wealth Using Charity Funds
+author: Helen Santoro
 url: https://jacobin.com/2024/12/ultrawealthy-charity-funds-dark-money/
 published: 2024-12-03
 date: 2024-12-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process

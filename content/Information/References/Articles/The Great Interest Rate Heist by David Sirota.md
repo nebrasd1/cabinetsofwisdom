@@ -1,15 +1,15 @@
 ---
-title: "The Great Interest Rate Heist"
-author: "David Sirota"
+title: The Great Interest Rate Heist
+author: David Sirota
 url: https://jacobin.com/2025/03/federal-reserve-banks-interest-rates/
 published: 2025-03-08
 date: 2025-03-10
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

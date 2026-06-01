@@ -1,15 +1,15 @@
 ---
-title: "T-Mobile’s Charging an Extra $5 Plus Tax for Paying Your Phone Bill in-Store"
-author: "Sheena Vasani"
+title: T-Mobile’s Charging an Extra $5 Plus Tax for Paying Your Phone Bill in-Store
+author: Sheena Vasani
 url: https://www.theverge.com/2023/7/21/23802986/t-mobile-in-store-bill-payment-fee-wireless-carrier
 published: 2023-07-21
 date: 2023-07-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
 publish: true
 ---
 > [!example]- Process

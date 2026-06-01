@@ -1,16 +1,16 @@
 ---
-title: "For Truly Radical Filmmaking, Look to Third Cinema"
-author: "Michael Galant"
+title: For Truly Radical Filmmaking, Look to Third Cinema
+author: Michael Galant
 url: https://jacobin.com/2023/08/third-cinema-global-south-film-anti-imperialism-decolonization/
 published: 2023-08-13
 date: 2023-08-21
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Socialism]]" 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Socialism]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process

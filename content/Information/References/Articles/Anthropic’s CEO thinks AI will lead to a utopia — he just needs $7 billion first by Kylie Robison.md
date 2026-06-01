@@ -1,16 +1,16 @@
 ---
-title: "Anthropic’s CEO thinks AI will lead to a utopia — he just needs $7 billion first"
-author: "Kylie Robison"
+title: Anthropic’s CEO thinks AI will lead to a utopia — he just needs $7 billion first
+author: Kylie Robison
 url: https://www.theverge.com/2024/10/16/24268209/anthropic-ai-dario-amodei-agi-funding-blog
 published: 2024-10-16
 date: 2024-10-17
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Ai]]" 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Ai]]"
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

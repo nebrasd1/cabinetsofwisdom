@@ -2,12 +2,12 @@
 title: Why Hammerheads Are Like That, Cartoon Crush Psychology, Entering the Vulture Dimension
 author: The Weirdest Thing I Learned This Week
 url: https://share.snipd.com/episode/18c83b29-6dfc-46f2-b427-ae05b0f600d2
-published: 
+published:
 date: 2024-10-18
 modified: 2025-05-06T12:18:37+03:00
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

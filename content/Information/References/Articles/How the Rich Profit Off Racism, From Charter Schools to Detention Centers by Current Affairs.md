@@ -1,13 +1,13 @@
 ---
-title: "How the Rich Profit Off Racism, From Charter Schools to Detention Centers"
-author: "Current Affairs"
+title: How the Rich Profit Off Racism, From Charter Schools to Detention Centers
+author: Current Affairs
 url: https://www.inoreader.com/article/3a9c6e7ab4dcd46b-how-the-rich-profit-off-racism-from-charter-schools-to-detention-centers
-published: 
+published:
 date: 2021-10-03
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

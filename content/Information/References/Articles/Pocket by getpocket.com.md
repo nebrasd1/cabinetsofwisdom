@@ -1,13 +1,13 @@
 ---
-title: "Pocket"
-author: "getpocket.com"
+title: Pocket
+author: getpocket.com
 url: https://getpocket.com/read/3245249189
-published: 
+published:
 date: 2021-02-01
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,14 +1,14 @@
 ---
-title: "This bookshop in Fort Collins is paying people to sit down and read quietly"
-author: "Parker Yamasaki"
+title: This bookshop in Fort Collins is paying people to sit down and read quietly
+author: Parker Yamasaki
 url: https://coloradosun.com/2024/02/28/perelandra-bookshop-reader-in-residence/
 published: 2024-02-28
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
+lenses:
+  - "[[Community]]"
 publish: true
 ---
 > [!example]- Process

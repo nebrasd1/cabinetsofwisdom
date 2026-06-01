@@ -4,16 +4,17 @@ author: Simon Tyrie
 url: https://jacobin.com/2023/08/star-trek-solidarity-utopianism-technology-postcapitalism/
 published: 2023-08-16
 date: 2023-08-21
-modified: 2025-05-10T14:51:59+03:00
+modified: 2026-05-31T21:41:00+03:00
 type: articles
 source: reader
 lenses:
   - "[[Capitalism]]"
   - "[[Empowerment]]"
   - "[[Injustice]]"
-  - "[[Science Fiction]]"
   - "[[Socialism]]"
 publish: true
+topics:
+  - scifi
 ---
 > [!example]- Process
 > 

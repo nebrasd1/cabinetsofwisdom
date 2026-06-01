@@ -1,16 +1,16 @@
 ---
-title: "What Happens When Bereaved Israelis and Palestinians Share Their Pain?"
-author: "Helen Benedict"
+title: What Happens When Bereaved Israelis and Palestinians Share Their Pain?
+author: Helen Benedict
 url: https://www.thenation.com/article/world/israel-palestine-reconciliation-columbia/
 published: 2024-10-08
 date: 2024-10-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Hope]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Hope]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
@@ -40,7 +40,7 @@ publish: true
 ✏️ Powerful quote. Protests in and of themselves are nothing if you're just rehashing the same conflict over.
  It's not about one side or the other. It's about peace and humanity.
  Flags, borders.. these just create division.
-👓 [[quote]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01j9r0nv7eafb5pj29vrv7e0f0)
 
 ### id796468383

@@ -1,13 +1,13 @@
 ---
-title: "Have Any of Karl Marx’s Critics Today Actually Read Him?"
-author: "Ben Burgis"
+title: Have Any of Karl Marx’s Critics Today Actually Read Him?
+author: Ben Burgis
 url: https://jacobin.com/2023/05/marxism-right-wing-critics-jordan-peterson-james-lindsay/
 published: 2023-05-31
 date: 2023-05-31
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

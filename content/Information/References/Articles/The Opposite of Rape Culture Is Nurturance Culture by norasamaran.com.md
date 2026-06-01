@@ -1,13 +1,13 @@
 ---
-title: "The Opposite of Rape Culture Is Nurturance Culture"
-author: "norasamaran.com"
+title: The Opposite of Rape Culture Is Nurturance Culture
+author: norasamaran.com
 url: https://norasamaran.com/2016/02/11/the-opposite-of-rape-culture-is-nurturance-culture-2/
-published: 
+published:
 date: 2020-12-24
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

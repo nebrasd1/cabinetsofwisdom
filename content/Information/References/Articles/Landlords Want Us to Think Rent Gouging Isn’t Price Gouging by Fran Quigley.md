@@ -1,16 +1,16 @@
 ---
-title: "Landlords Want Us to Think Rent Gouging Isn’t Price Gouging"
-author: "Fran Quigley"
+title: Landlords Want Us to Think Rent Gouging Isn’t Price Gouging
+author: Fran Quigley
 url: https://jacobin.com/2025/03/rent-control-price-gouging-landlords/
 published: 2025-03-16
 date: 2025-03-22
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

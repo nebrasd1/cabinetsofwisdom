@@ -1,18 +1,18 @@
 ---
-title: "Sri Lanka Has a Proud Tradition of Revolt Against Leaders Who Trample on Its People"
-author: "B. Skanthakumar"
+title: Sri Lanka Has a Proud Tradition of Revolt Against Leaders Who Trample on Its People
+author: B. Skanthakumar
 url: https://jacobin.com/2023/08/sri-lanka-hartal-aragalaya-protest-history-left/
 published: 2023-08-29
 date: 2023-08-30
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Colonialism]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Colonialism]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

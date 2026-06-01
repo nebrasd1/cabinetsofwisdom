@@ -1,13 +1,13 @@
 ---
-title: "Notes on Saudi Arabia"
-author: "Published"
+title: Notes on Saudi Arabia
+author: Published
 url: https://mattlakeman.org/2022/11/22/notes-on-saudi-arabia/
 published: 2022-11-22
 date: 2023-07-30
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

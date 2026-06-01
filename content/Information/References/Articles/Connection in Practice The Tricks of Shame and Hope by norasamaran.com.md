@@ -1,13 +1,13 @@
 ---
 title: "Connection in Practice: The Tricks of Shame and Hope"
-author: "norasamaran.com"
+author: norasamaran.com
 url: https://norasamaran.com/2016/07/30/cognitive-distortions/
-published: 
+published:
 date: 2020-12-24
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

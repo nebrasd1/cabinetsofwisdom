@@ -1,15 +1,15 @@
 ---
-title: "The Socialist Case Against the SAT"
-author: "jacobin.com"
+title: The Socialist Case Against the SAT
+author: jacobin.com
 url: https://jacobin.com/2018/04/against-the-sat-testing-meritocracy-race-class
-published: 
+published:
 date: 2023-07-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Racism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Racism]]"
 publish: true
 ---
 > [!example]- Process

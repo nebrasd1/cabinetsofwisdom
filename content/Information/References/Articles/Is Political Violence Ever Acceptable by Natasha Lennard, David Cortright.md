@@ -1,15 +1,15 @@
 ---
-title: "Is Political Violence Ever Acceptable?"
-author: "Natasha Lennard, David Cortright"
+title: Is Political Violence Ever Acceptable?
+author: Natasha Lennard, David Cortright
 url: https://www.thenation.com/article/politics/political-violence-debate/
 published: 2025-03-14
 date: 2025-04-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

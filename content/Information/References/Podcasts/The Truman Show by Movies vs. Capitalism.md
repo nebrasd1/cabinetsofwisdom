@@ -1,13 +1,13 @@
 ---
-title: "The Truman Show"
-author: "Movies vs. Capitalism"
+title: The Truman Show
+author: Movies vs. Capitalism
 url: https://share.snipd.com/episode/2f924cda-3627-4da6-838c-f6f4332e4433
-published: 
+published:
 date: 2024-11-13
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

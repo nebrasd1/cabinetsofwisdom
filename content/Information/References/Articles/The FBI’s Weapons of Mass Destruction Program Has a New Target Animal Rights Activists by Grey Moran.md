@@ -1,14 +1,14 @@
 ---
 title: "The FBI’s Weapons of Mass Destruction Program Has a New Target: Animal Rights Activists"
-author: "Grey Moran"
+author: Grey Moran
 url: https://theintercept.com/2024/10/19/fbi-meat-industry-animal-rights-activists-weapons-mass-destruction/
 published: 2024-10-19
 date: 2024-10-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

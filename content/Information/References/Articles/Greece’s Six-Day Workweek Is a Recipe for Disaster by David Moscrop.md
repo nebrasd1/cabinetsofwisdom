@@ -1,16 +1,16 @@
 ---
-title: "Greece’s Six-Day Workweek Is a Recipe for Disaster"
-author: "David Moscrop"
+title: Greece’s Six-Day Workweek Is a Recipe for Disaster
+author: David Moscrop
 url: https://jacobin.com/2024/07/greece-six-day-workweek-mitsotakis/
 published: 2024-07-28
 date: 2024-08-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
-title: "A Short Thread of Articl..."
+title: A Short Thread of Articl...
 author: "@waxpancake on Twitter"
 url: https://twitter.com/waxpancake/status/1393630514469244929
-published: 
+published:
 date: 2021-06-06
 modified:
 type: tweets
 source: twitter
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

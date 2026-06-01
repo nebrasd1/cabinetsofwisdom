@@ -1,15 +1,15 @@
 ---
-title: "ChatGPT Is a Blurry JPEG of the Web | The New Yorker"
-author: "By Ted Chiang"
+title: ChatGPT Is a Blurry JPEG of the Web | The New Yorker
+author: By Ted Chiang
 url: https://archive.ph/VbwGB
 published: 2023-02-09
 date: 2023-09-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Ai]]" 
-  - "[[Writing]]" 
+lenses:
+  - "[[Ai]]"
+  - "[[Writing]]"
 publish: true
 ---
 > [!example]- Process

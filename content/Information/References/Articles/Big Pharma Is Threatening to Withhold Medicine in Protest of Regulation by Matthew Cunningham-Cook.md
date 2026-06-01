@@ -1,16 +1,16 @@
 ---
-title: "Big Pharma Is Threatening to Withhold Medicine in Protest of Regulation"
-author: "Matthew Cunningham-Cook"
+title: Big Pharma Is Threatening to Withhold Medicine in Protest of Regulation
+author: Matthew Cunningham-Cook
 url: https://jacobin.com/2023/08/ira-drug-prices-big-pharma-genentech-opposition/
 published: 2023-08-24
 date: 2023-08-30
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Hypocrisy ]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Hypocrisy ]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

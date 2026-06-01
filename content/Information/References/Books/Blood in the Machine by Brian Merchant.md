@@ -4,7 +4,7 @@ author: Brian Merchant
 url:
 published:
 date: 2024-10-05
-modified: 2026-04-20T11:24:57+03:00
+modified: 2026-05-31T21:31:48+03:00
 type: books
 source: manual
 lenses:
@@ -299,7 +299,7 @@ purchased: true
 
 ✏️ Simple but powerful quote by George Mellor, one of the General Ludds of the movement and his death making the peak of it passing.
  Deserves to be captured.
-👓 [[quote|quote]]
+#addto/quote
 📖 (Page 312)
 
 ### Page 313

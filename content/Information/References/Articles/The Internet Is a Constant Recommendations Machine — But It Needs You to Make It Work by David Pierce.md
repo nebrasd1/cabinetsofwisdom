@@ -1,13 +1,13 @@
 ---
-title: "The Internet Is a Constant Recommendations Machine — But It Needs You to Make It Work"
-author: "David Pierce"
+title: The Internet Is a Constant Recommendations Machine — But It Needs You to Make It Work
+author: David Pierce
 url: https://www.inoreader.com/article/3a9c6e7a6fb6265e-the-internet-is-a-constant-recommendations-machine-but-it-needs-you-to-make-it-work
-published: 
+published:
 date: 2022-07-03
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

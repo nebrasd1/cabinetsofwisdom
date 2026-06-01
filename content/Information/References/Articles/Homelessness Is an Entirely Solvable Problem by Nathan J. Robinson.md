@@ -1,13 +1,13 @@
 ---
-title: "Homelessness Is an Entirely Solvable Problem"
-author: "Nathan J. Robinson"
+title: Homelessness Is an Entirely Solvable Problem
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/04/homelessness-is-an-entirely-solvable-problem/
 published: 2023-04-19
 date: 2023-04-21
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

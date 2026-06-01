@@ -1,16 +1,16 @@
 ---
-title: "How Exxon Captured a Country Without Firing a Shot"
-author: "Amy Westervelt"
+title: How Exxon Captured a Country Without Firing a Shot
+author: Amy Westervelt
 url: https://theintercept.com/2023/06/18/guyana-exxon-mobil-oil-drilling/
 published: 2023-06-18
 date: 2023-06-18
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Colonialism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Colonialism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

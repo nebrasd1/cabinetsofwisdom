@@ -1,15 +1,15 @@
 ---
-title: "Social Democracy and Social Conservatism Aren’t Compatible"
-author: "Matt McManus"
+title: Social Democracy and Social Conservatism Aren’t Compatible
+author: Matt McManus
 url: https://jacobin.com/2023/08/sohrab-ahmari-tyranny-inc-book-review-conservatism-anti-capitalism-social-domination-conservatism/
 published: 2023-08-22
 date: 2023-08-31
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

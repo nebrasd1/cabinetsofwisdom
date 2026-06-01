@@ -1,17 +1,17 @@
 ---
 title: "“No Tariffs on Sharing”: Tool Libraries Offer Resilience Amid Federal Chaos"
-author: "Ella Fassler"
+author: Ella Fassler
 url: https://truthout.org/articles/no-tariffs-on-sharing-tool-libraries-offer-resilience-amid-federal-chaos/
 published: 2025-04-19
 date: 2025-04-27
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[Hope]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

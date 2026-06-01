@@ -1,15 +1,15 @@
 ---
-title: "The food industry pays ‘influencer’ dietitians to shape your eating h…"
-author: "Sasha Chavkin"
+title: The food industry pays ‘influencer’ dietitians to shape your eating h…
+author: Sasha Chavkin
 url: https://archive.is/tkjyP#selection-977.0-1025.423
 published: 2023-10-04
 date: 2023-12-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,16 +1,16 @@
 ---
-title: "Opinion | the Assault on DEI Is Really Aimed at Resegregation - The W…"
-author: "Karen Attiah"
+title: Opinion | the Assault on DEI Is Really Aimed at Resegregation - The W…
+author: Karen Attiah
 url: https://archive.is/2025.02.06-180216/https://www.washingtonpost.com/opinions/2025/02/06/dei-gop-segregation/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzM4ODE4MDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzQwMjAwMzk5LCJpYXQiOjE3Mzg4MTgwMDAsImp0aSI6ImEyYmIxZWNkLTY2OGItNDg4NC05ZDYwLTQyNmIyMGExYjE3NSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDI1LzAyLzA2L2RlaS1nb3Atc2VncmVnYXRpb24vIn0.soBWMJQFNZeqCAvMXYoFMDb4n5Lnqy_s7xEPYvcNVW4
 published: 2025-02-06
 date: 2025-02-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Racism]]" 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Racism]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process

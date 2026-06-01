@@ -1,14 +1,14 @@
 ---
-title: "Let’s Build a Fleet and Change the World"
-author: "Adam Mastroianni"
+title: Let’s Build a Fleet and Change the World
+author: Adam Mastroianni
 url: https://www.experimental-history.com/p/lets-build-a-fleet-and-change-the
 published: 2023-09-12
 date: 2025-04-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
+lenses:
+  - "[[Empowerment]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,15 +1,15 @@
 ---
-title: "A New History Changes the Balance of Power Between Ethiopia and Medieval Europe"
-author: "Matthew Gabriele"
+title: A New History Changes the Balance of Power Between Ethiopia and Medieval Europe
+author: Matthew Gabriele
 url: https://www.smithsonianmag.com/history/new-history-changes-balance-power-between-ethiopia-and-medieval-europe-180978084/?is_pocket=1
 published: 2021-06-29
 date: 2023-05-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
-  - "[[Empowerment]]" 
+lenses:
+  - "[[Colonialism]]"
+  - "[[Empowerment]]"
 publish: true
 ---
 > [!example]- Process

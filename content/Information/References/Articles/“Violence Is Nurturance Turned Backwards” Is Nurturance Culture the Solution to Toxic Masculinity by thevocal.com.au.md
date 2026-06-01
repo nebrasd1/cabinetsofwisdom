@@ -1,13 +1,13 @@
 ---
 title: "“Violence Is Nurturance Turned Backwards”: Is Nurturance Culture the Solution to Toxic Masculinity?"
-author: "thevocal.com.au"
+author: thevocal.com.au
 url: http://www.thevocal.com.au/violence-nurturance-turned-backwards-nurturance-culture-solution-toxic-masculinity/
-published: 
+published:
 date: 2020-12-23
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

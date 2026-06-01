@@ -1,13 +1,13 @@
 ---
-title: "Why Effective Altruism and “Longtermism” Are Toxic Ideologies"
-author: "Nathan J. Robinson"
+title: Why Effective Altruism and “Longtermism” Are Toxic Ideologies
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/05/why-effective-altruism-and-longtermism-are-toxic-ideologies/
 published: 2023-05-07
 date: 2023-05-10
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

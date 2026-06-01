@@ -1,15 +1,15 @@
 ---
-title: "Nationalism Isn’t Patriotism"
-author: "kottke.org"
+title: Nationalism Isn’t Patriotism
+author: kottke.org
 url: https://kottke.org/18/10/nationalism-isnt-patriotism
 published: 2018-10-15
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

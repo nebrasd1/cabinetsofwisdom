@@ -1,13 +1,13 @@
 ---
-title: "Thread by @Radicalbytes on Thread Reader App"
-author: "threadreaderapp.com"
+title: Thread by @Radicalbytes on Thread Reader App
+author: threadreaderapp.com
 url: https://threadreaderapp.com/thread/1440582152047906816.html
-published: 
+published:
 date: 2022-05-29
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

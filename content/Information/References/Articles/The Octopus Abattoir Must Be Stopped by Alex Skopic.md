@@ -1,14 +1,14 @@
 ---
-title: "The Octopus Abattoir Must Be Stopped"
-author: "Alex Skopic"
+title: The Octopus Abattoir Must Be Stopped
+author: Alex Skopic
 url: https://www.currentaffairs.org/2023/09/the-octopus-abattoir-must-be-stopped/
-published: 
+published:
 date: 2023-09-17
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process

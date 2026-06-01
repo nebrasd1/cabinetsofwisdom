@@ -1,13 +1,13 @@
 ---
-title: "Hook"
-author: "Movies vs. Capitalism"
+title: Hook
+author: Movies vs. Capitalism
 url: https://share.snipd.com/episode/5c0d60a8-77e5-45ec-835d-44274913a64e
-published: 
+published:
 date: 2024-10-28
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

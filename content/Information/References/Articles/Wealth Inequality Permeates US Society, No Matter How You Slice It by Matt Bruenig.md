@@ -1,16 +1,16 @@
 ---
-title: "Wealth Inequality Permeates US Society, No Matter How You Slice It"
-author: "Matt Bruenig"
+title: Wealth Inequality Permeates US Society, No Matter How You Slice It
+author: Matt Bruenig
 url: https://jacobin.com/2023/10/wealth-inequality-us-demographics-survey-of-consumer-finances/
 published: 2023-10-24
 date: 2023-10-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

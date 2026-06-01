@@ -1,0 +1,11 @@
+---
+created: 2026-05-06
+modified: 2026-05-07T11:24:08+03:00
+source: "[[Artificial Intelligence Is Driving Discrimination in the Housing Market by Rebecca Burns|Artificial Intelligence Is Driving Discrimination in the Housing Market by Rebecca Burns]]"
+type: claim
+publish: true
+noRSS: true
+reviewed: true
+---
+
+![[Artificial Intelligence Is Driving Discrimination in the Housing Market by Rebecca Burns#id554926759|Industry Lobbies Against Tenant Screening Regulation as Overreach]]

@@ -1,15 +1,15 @@
 ---
-title: "Elon Musk Is a Threat to Democracy"
-author: "Jeet Heer"
+title: Elon Musk Is a Threat to Democracy
+author: Jeet Heer
 url: https://www.thenation.com/article/society/elon-musk-threat-democracy/
 published: 2023-09-08
 date: 2023-09-11
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

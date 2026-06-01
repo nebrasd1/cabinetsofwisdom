@@ -1,16 +1,16 @@
 ---
-title: "What the World Looks Like to the Super-Wealthy"
-author: "Current Affairs"
+title: What the World Looks Like to the Super-Wealthy
+author: Current Affairs
 url: https://www.currentaffairs.org/2023/09/what-the-world-looks-like-to-the-super-wealthy/
 published: 2023-09-03
 date: 2023-09-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

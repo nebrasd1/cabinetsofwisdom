@@ -2,9 +2,9 @@
 title: Escaping a Hostage Situation
 author: Five Good Hours
 url: https://fivegoodhours.substack.com/p/escaping-a-hostage-situation?utm_source=substack&utm_medium=email
-published: 
+published:
 date: 2024-09-09
-modified: 
+modified:
 type: articles
 source: reader
 lenses:

@@ -1,15 +1,15 @@
 ---
-title: "On These Questions, Smarter People Do Worse"
-author: "Veritasium"
+title: On These Questions, Smarter People Do Worse
+author: Veritasium
 url: https://www.youtube.com/watch?v=zB_OApdxcno
 published: 2024-11-04
 date: 2024-11-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Psychology]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Psychology]]"
 publish: true
 ---
 > [!example]- Process

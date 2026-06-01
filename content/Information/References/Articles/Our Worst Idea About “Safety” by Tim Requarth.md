@@ -1,13 +1,13 @@
 ---
-title: "Our Worst Idea About “Safety”"
-author: "Tim Requarth"
+title: Our Worst Idea About “Safety”
+author: Tim Requarth
 url: https://slate.com/technology/2021/11/risk-compensation-debunked-masks-rapid-tests-vaccines-safety.html
 published: 2021-11-08
 date: 2021-11-11
 modified:
 type: articles
 source: pocket
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

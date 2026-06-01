@@ -1,13 +1,13 @@
 ---
-title: "Taming the Greedocracy"
-author: "Jag Bhalla"
+title: Taming the Greedocracy
+author: Jag Bhalla
 url: https://www.inoreader.com/article/3a9c6e7b5c1f1f2d-taming-the-greedocracy
-published: 
+published:
 date: 2021-08-10
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

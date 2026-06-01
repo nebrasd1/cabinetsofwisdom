@@ -1,13 +1,13 @@
 ---
-title: "a crowd of people jumping, dancing, chanting, and pulsing in Pamplona, Spain"
-author: "kottke.org"
+title: a crowd of people jumping, dancing, chanting, and pulsing in Pamplona, Spain
+author: kottke.org
 url: https://kottke.org/24/05/0044682-this-is-absolutely-mesmer
 published: 2024-05-24
 date: 2024-06-17
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

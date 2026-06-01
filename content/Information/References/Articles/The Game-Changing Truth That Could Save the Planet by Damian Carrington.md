@@ -1,19 +1,19 @@
 ---
-title: "The Game-Changing Truth That Could Save the Planet"
-author: "Damian Carrington"
+title: The Game-Changing Truth That Could Save the Planet
+author: Damian Carrington
 url: https://www.thenation.com/article/environment/climate-change-89-percent-project/
 published: 2025-04-22
 date: 2025-04-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[Environment]]" 
-  - "[[Hope]]" 
-  - "[[Propaganda]]" 
-  - "[[Psychology]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[Environment]]"
+  - "[[Hope]]"
+  - "[[Propaganda]]"
+  - "[[Psychology]]"
 publish: true
 ---
 > [!example]- Process

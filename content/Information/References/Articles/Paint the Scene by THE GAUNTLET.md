@@ -1,15 +1,15 @@
 ---
-title: "Paint the Scene"
-author: "THE GAUNTLET"
+title: Paint the Scene
+author: THE GAUNTLET
 url: https://www.gauntlet-rpg.com/blog/paint-the-scene
 published: 2018-07-25
 date: 2023-06-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Swn]]" 
-  - "[[Ttrpg]]" 
+lenses:
+  - "[[Swn]]"
+  - "[[Ttrpg]]"
 publish: true
 ---
 > [!example]- Process

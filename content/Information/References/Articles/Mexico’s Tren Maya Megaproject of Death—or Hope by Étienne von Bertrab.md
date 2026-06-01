@@ -1,18 +1,18 @@
 ---
 title: "Mexico’s Tren Maya: Megaproject of Death—or Hope?"
-author: "Étienne von Bertrab"
+author: Étienne von Bertrab
 url: https://www.thenation.com/article/world/mexico-tren-maya-amlo/
 published: 2023-08-04
 date: 2023-08-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Hope]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Hope]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

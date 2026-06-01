@@ -1,13 +1,13 @@
 ---
-title: "Aliens Wouldn't Need Warp Drives to Take Over an Entire Galaxy, Simulation Suggests"
-author: "gizmodo.com"
+title: Aliens Wouldn't Need Warp Drives to Take Over an Entire Galaxy, Simulation Suggests
+author: gizmodo.com
 url: https://gizmodo.com/aliens-wouldnt-need-warp-drives-to-take-over-an-entire-1847101242
-published: 
+published:
 date: 2021-07-05
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

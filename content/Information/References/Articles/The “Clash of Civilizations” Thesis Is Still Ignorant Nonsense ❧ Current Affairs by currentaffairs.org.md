@@ -1,13 +1,13 @@
 ---
-title: "The “Clash of Civilizations” Thesis Is Still Ignorant Nonsense ❧ Current Affairs"
-author: "currentaffairs.org"
+title: The “Clash of Civilizations” Thesis Is Still Ignorant Nonsense ❧ Current Affairs
+author: currentaffairs.org
 url: https://www.currentaffairs.org/2022/03/the-clash-of-civilizations-thesis-is-still-ignorant-nonsense/
-published: 
+published:
 date: 2022-05-29
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

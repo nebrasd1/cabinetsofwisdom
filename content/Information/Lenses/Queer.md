@@ -2,5 +2,9 @@
 publish: true
 aliases:
   - queer
-modified: 2025-05-07T13:10:52+03:00
+  - gay
+  - bisexual
+modified: 2026-05-31T21:22:30+03:00
 ---
+# Queer
+## Personal Definition

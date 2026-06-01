@@ -1,13 +1,13 @@
 ---
-title: "The Deeply Personal Art of Organizing Your Books"
-author: "Molly Templeton"
+title: The Deeply Personal Art of Organizing Your Books
+author: Molly Templeton
 url: https://www.inoreader.com/article/3a9c6e7ae46b8e27-the-deeply-personal-art-of-organizing-your-books
-published: 
+published:
 date: 2022-01-31
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

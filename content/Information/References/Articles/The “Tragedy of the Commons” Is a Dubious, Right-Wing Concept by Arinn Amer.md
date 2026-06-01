@@ -1,17 +1,17 @@
 ---
-title: "The “Tragedy of the Commons” Is a Dubious, Right-Wing Concept"
-author: "Arinn Amer"
+title: The “Tragedy of the Commons” Is a Dubious, Right-Wing Concept
+author: Arinn Amer
 url: https://jacobin.com/2023/10/tragedy-of-the-commons-garrett-hardin-white-supremacy-enclosure-privatization-history/
 published: 2023-10-20
 date: 2023-10-21
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

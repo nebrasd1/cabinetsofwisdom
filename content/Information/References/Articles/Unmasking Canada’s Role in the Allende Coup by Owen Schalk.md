@@ -1,17 +1,17 @@
 ---
-title: "Unmasking Canada’s Role in the Allende Coup"
-author: "Owen Schalk"
+title: Unmasking Canada’s Role in the Allende Coup
+author: Owen Schalk
 url: https://jacobin.com/2023/09/canada-chile-allende-pinochet-coup-trudeau-neoliberalism/
 published: 2023-09-10
 date: 2023-09-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

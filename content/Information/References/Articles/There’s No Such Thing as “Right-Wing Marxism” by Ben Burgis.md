@@ -1,14 +1,14 @@
 ---
-title: "There’s No Such Thing as “Right-Wing Marxism”"
-author: "Ben Burgis"
+title: There’s No Such Thing as “Right-Wing Marxism”
+author: Ben Burgis
 url: https://jacobin.com/2023/06/right-wing-marxism-natcons-paleoconservatives-working-class/
 published: 2023-06-28
 date: 2023-07-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

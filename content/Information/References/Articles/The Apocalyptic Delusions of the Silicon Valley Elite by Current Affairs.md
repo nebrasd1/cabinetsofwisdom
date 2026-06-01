@@ -1,13 +1,13 @@
 ---
-title: "The Apocalyptic Delusions of the Silicon Valley Elite"
-author: "Current Affairs"
+title: The Apocalyptic Delusions of the Silicon Valley Elite
+author: Current Affairs
 url: https://www.currentaffairs.org/2023/02/the-apocalyptic-delusions-of-the-silicon-valley-elite/
 published: 2023-02-16
 date: 2023-02-20
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

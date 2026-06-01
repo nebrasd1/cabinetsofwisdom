@@ -1,14 +1,14 @@
 ---
-title: "My Approach to Running a Link Blog"
-author: "Simon Willison"
+title: My Approach to Running a Link Blog
+author: Simon Willison
 url: https://simonwillison.net/2024/Dec/22/link-blog/
 published: 2024-12-22
 date: 2025-01-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Writing]]" 
+lenses:
+  - "[[Writing]]"
 publish: true
 ---
 > [!example]- Process

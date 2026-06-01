@@ -1,16 +1,16 @@
 ---
-title: "If the first solar entrepreneur hadn’t been kidnapped, would fossil fuels have dominated the 20th century the way they did?"
-author: "Sugandha Srivastav"
+title: If the first solar entrepreneur hadn’t been kidnapped, would fossil fuels have dominated the 20th century the way they did?
+author: Sugandha Srivastav
 url: https://theconversation.com/if-the-first-solar-entrepreneur-hadnt-been-kidnapped-would-fossil-fuels-have-dominated-the-20th-century-the-way-they-did-215300
 published: 2023-10-12
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[History]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[History]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

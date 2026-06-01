@@ -1,15 +1,15 @@
 ---
 title: "The Thing: Have a Shot of Whisky With Your Existential Terror"
-author: "Sarah"
+author: Sarah
 url: https://reactormag.com/the-thing-have-a-shot-of-whisky-with-your-existential-terror/
 published: 2024-10-09
 date: 2024-10-11
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Propaganda]]" 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[Propaganda]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process

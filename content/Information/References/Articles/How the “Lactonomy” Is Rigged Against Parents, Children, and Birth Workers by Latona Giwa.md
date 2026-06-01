@@ -1,17 +1,17 @@
 ---
-title: "How the “Lactonomy” Is Rigged Against Parents, Children, and Birth Workers"
-author: "Latona Giwa"
+title: How the “Lactonomy” Is Rigged Against Parents, Children, and Birth Workers
+author: Latona Giwa
 url: https://www.thenation.com/article/society/lactonomy-is-rigged-birth-workers/
 published: 2023-08-07
 date: 2023-08-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process

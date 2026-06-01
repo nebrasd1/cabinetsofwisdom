@@ -1,15 +1,15 @@
 ---
-title: "Rising GDP Lifts Only the Boats of the Wealthy Few"
-author: "Silas Xuereb"
+title: Rising GDP Lifts Only the Boats of the Wealthy Few
+author: Silas Xuereb
 url: https://jacobin.com/2025/03/gdp-wealth-inequality-neoliberal-policy/
 published: 2025-03-20
 date: 2025-04-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
 publish: true
 ---
 > [!example]- Process

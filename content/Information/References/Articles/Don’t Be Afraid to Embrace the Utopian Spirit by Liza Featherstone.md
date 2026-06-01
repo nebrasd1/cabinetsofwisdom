@@ -1,15 +1,15 @@
 ---
-title: "Don’t Be Afraid to Embrace the Utopian Spirit"
-author: "Liza Featherstone"
+title: Don’t Be Afraid to Embrace the Utopian Spirit
+author: Liza Featherstone
 url: https://jacobin.com/2023/06/kristen-ghodsee-everyday-utopia-review-socialism-patriarchy-family/
 published: 2023-06-12
 date: 2023-06-14
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,16 +1,16 @@
 ---
 title: "We Only Have Ourselves: The How-Tos and DOs and DON’Ts of Mutual Aid"
-author: "Kim Kelly, January 21"
+author: Kim Kelly, January 21
 url: https://lithub.com/we-only-have-ourselves-the-how-tos-and-dos-and-donts-of-mutual-aid/
 published: 2025-01-21
 date: 2025-01-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[Hope]]"
 publish: true
 ---
 > [!example]- Process

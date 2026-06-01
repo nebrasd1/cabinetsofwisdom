@@ -1,15 +1,15 @@
 ---
-title: "In the 1960s, the World Bank Created a Mechanism That Allows Corporations to Sue States"
-author: "Matt Kennard"
+title: In the 1960s, the World Bank Created a Mechanism That Allows Corporations to Sue States
+author: Matt Kennard
 url: https://jacobin.com/2023/10/1960s-world-bank-corporations-sovereignty-global-south/
 published: 2023-10-29
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Colonialism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

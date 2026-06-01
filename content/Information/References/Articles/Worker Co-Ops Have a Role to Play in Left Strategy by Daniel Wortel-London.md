@@ -1,18 +1,18 @@
 ---
-title: "Worker Co-Ops Have a Role to Play in Left Strategy"
-author: "Daniel Wortel-London"
+title: Worker Co-Ops Have a Role to Play in Left Strategy
+author: Daniel Wortel-London
 url: https://jacobin.com/2024/05/cooperatives-dsa-left-strategy-solidarity/
 published: 2024-05-19
 date: 2025-02-10
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[History]]" 
-  - "[[Hope]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[History]]"
+  - "[[Hope]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

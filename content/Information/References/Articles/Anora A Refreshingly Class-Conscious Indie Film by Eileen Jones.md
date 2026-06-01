@@ -1,13 +1,13 @@
 ---
 title: "Anora: A Refreshingly Class-Conscious Indie Film"
-author: "Eileen Jones"
+author: Eileen Jones
 url: https://jacobin.com/2024/11/anora-baker-class-conscious-film/
 published: 2024-11-20
 date: 2024-11-22
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

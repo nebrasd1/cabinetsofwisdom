@@ -1,13 +1,13 @@
 ---
-title: "Building a Second Brain + Smart Notes"
-author: "jamesstuber.com"
+title: Building a Second Brain + Smart Notes
+author: jamesstuber.com
 url: https://jamesstuber.com/basb-vs-smart-notes/
-published: 
+published:
 date: 2021-06-28
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

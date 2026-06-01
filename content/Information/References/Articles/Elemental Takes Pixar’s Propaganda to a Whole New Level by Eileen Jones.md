@@ -1,16 +1,16 @@
 ---
-title: "Elemental Takes Pixar’s Propaganda to a Whole New Level"
-author: "Eileen Jones"
+title: Elemental Takes Pixar’s Propaganda to a Whole New Level
+author: Eileen Jones
 url: https://jacobin.com/2023/06/elemental-pixar-propaganda-work-film-review/
 published: 2023-06-29
 date: 2023-06-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,15 +1,15 @@
 ---
-title: "You Either See Everyone Else as a Human Being or You Don’t"
-author: "Nathan J. Robinson"
+title: You Either See Everyone Else as a Human Being or You Don’t
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/08/you-either-see-everyone-else-as-a-human-being-or-you-dont/
 published: 2023-08-11
 date: 2023-08-21
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

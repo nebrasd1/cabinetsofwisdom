@@ -1,19 +1,19 @@
 ---
-title: "Suriname’s Debt Crisis Shows Us How Global Capitalism Works"
-author: "Jerome Phelps"
+title: Suriname’s Debt Crisis Shows Us How Global Capitalism Works
+author: Jerome Phelps
 url: https://jacobin.com/2024/11/suriname-imf-debt-neocolonialism-oil/
 published: 2024-11-17
 date: 2024-11-18
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Colonialism]]" 
-  - "[[Exploitation]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Colonialism]]"
+  - "[[Exploitation]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process
@@ -86,7 +86,7 @@ publish: true
 
 ✏️ Unlike cops, soldiers and firefighters, which are ostensibly social work.. but these are masculinized and therefore worthwhile and productive-ish.. or at least important to focus on.
  Teaching and care work is feminine.. so not as important or considered a productive thing.
-👓 [[masculinity]] [[capitalism]]
+👓 [[masculinity|masculinity]] [[capitalism|capitalism]]
 🔗 [View Highlight](https://read.readwise.io/read/01jczdzet9smpeh41ad3rbnxqa)
 
 ### id813773555

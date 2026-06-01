@@ -1,16 +1,16 @@
 ---
-title: "The Rockefeller Christmas Tree Belongs to the Working Class"
-author: "Spencer Snyder"
+title: The Rockefeller Christmas Tree Belongs to the Working Class
+author: Spencer Snyder
 url: https://jacobin.com/2024/12/rockefeller-christmas-tree-working-class/
 published: 2024-12-17
 date: 2024-12-18
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Community]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Community]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

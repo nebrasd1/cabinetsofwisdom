@@ -4,7 +4,7 @@ author: Mandy Brown
 url: https://everythingchanges.us/blog/energy-makes-time/
 published: 2023-08-04
 date: 2023-09-03
-modified: 
+modified:
 type: articles
 source: reader
 lenses:

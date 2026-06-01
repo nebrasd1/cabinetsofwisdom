@@ -1,16 +1,16 @@
 ---
-title: "The Pesticide Industry’s Toxic Lobby"
-author: "Lois Parshley"
+title: The Pesticide Industry’s Toxic Lobby
+author: Lois Parshley
 url: https://jacobin.com/2024/07/pesticide-cancer-lobbying-lawsuits/
 published: 2024-07-27
 date: 2024-08-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

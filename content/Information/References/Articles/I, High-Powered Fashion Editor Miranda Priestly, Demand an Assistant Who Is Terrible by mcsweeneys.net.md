@@ -1,13 +1,13 @@
 ---
-title: "I, High-Powered Fashion Editor Miranda Priestly, Demand an Assistant Who Is Terrible"
-author: "mcsweeneys.net"
+title: I, High-Powered Fashion Editor Miranda Priestly, Demand an Assistant Who Is Terrible
+author: mcsweeneys.net
 url: https://www.mcsweeneys.net/articles/i-high-powered-fashion-editor-miranda-priestly-demand-an-assistant-who-is-terrible
-published: 
+published:
 date: 2022-03-28
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

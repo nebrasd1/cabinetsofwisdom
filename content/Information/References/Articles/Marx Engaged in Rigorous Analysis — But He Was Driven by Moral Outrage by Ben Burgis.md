@@ -1,15 +1,15 @@
 ---
-title: "Marx Engaged in Rigorous Analysis — But He Was Driven by Moral Outrage"
-author: "Ben Burgis"
+title: Marx Engaged in Rigorous Analysis — But He Was Driven by Moral Outrage
+author: Ben Burgis
 url: https://jacobin.com/2023/09/karl-marx-analytic-moral-outrage-injustice-private-property-exploitation-slavery/
 published: 2023-09-18
 date: 2024-11-11
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[History]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

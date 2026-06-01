@@ -1,13 +1,13 @@
 ---
-title: "The So-Called “Culture Wars”"
-author: "Jason Kottke"
+title: The So-Called “Culture Wars”
+author: Jason Kottke
 url: https://kottke.org/23/03/the-so-called-culture-wars
 published: 2023-03-16
 date: 2023-03-17
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

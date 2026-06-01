@@ -1,15 +1,15 @@
 ---
-title: "Why Complex Questions Can Have Simple Answers"
-author: "Oliver Burkeman"
+title: Why Complex Questions Can Have Simple Answers
+author: Oliver Burkeman
 url: https://www.theguardian.com/lifeandstyle/2016/mar/04/complex-questions-simple-answers-oliver-burkeman
 published: 2016-03-04
 date: 2024-08-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Exploitation]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Exploitation]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

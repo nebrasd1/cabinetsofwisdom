@@ -1,15 +1,15 @@
 ---
-title: "Rich Countries Are Exporting Climate Breakdown to the Global South"
-author: "Laurie Parsons"
+title: Rich Countries Are Exporting Climate Breakdown to the Global South
+author: Laurie Parsons
 url: https://jacobin.com/2023/07/carbon-colonialism-climate-change-waste-supply-chains-greenwashing/
 published: 2023-07-06
 date: 2023-07-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Colonialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Colonialism]]"
 publish: true
 ---
 > [!example]- Process

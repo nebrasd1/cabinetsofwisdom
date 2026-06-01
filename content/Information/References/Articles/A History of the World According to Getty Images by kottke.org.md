@@ -1,13 +1,13 @@
 ---
-title: "A History of the World According to Getty Images"
-author: "kottke.org"
+title: A History of the World According to Getty Images
+author: kottke.org
 url: https://kottke.org/23/04/a-history-of-the-world-according-to-getty-images
-published: 
+published:
 date: 2023-04-19
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

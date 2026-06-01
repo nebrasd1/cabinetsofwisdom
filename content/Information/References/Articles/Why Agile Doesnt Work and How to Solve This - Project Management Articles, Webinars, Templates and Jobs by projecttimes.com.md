@@ -1,13 +1,13 @@
 ---
-title: "Why Agile Doesn't Work and How to Solve This - Project Management Articles, Webinars, Templates and Jobs"
-author: "projecttimes.com"
+title: Why Agile Doesn't Work and How to Solve This - Project Management Articles, Webinars, Templates and Jobs
+author: projecttimes.com
 url: https://www.projecttimes.com/articles/why-agile-doesn-t-work-and-how-to-solve-this/
-published: 
+published:
 date: 2022-01-25
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

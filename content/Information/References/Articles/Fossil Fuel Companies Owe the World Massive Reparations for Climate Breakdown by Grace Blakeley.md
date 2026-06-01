@@ -1,15 +1,15 @@
 ---
-title: "Fossil Fuel Companies Owe the World Massive Reparations for Climate Breakdown"
-author: "Grace Blakeley"
+title: Fossil Fuel Companies Owe the World Massive Reparations for Climate Breakdown
+author: Grace Blakeley
 url: https://jacobin.com/2023/08/climate-change-crisis-fossil-fuel-companies-individualism/
 published: 2023-08-02
 date: 2023-08-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

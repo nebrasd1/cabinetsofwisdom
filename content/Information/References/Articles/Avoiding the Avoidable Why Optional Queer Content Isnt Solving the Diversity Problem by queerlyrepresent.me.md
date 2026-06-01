@@ -1,13 +1,13 @@
 ---
 title: "Avoiding the Avoidable: Why 'Optional' Queer Content Isn't Solving the Diversity Problem"
-author: "queerlyrepresent.me"
+author: queerlyrepresent.me
 url: https://queerlyrepresent.me/resources/articles/playersexuality
-published: 
+published:
 date: 2020-05-28
 modified:
 type: articles
 source: pocket
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

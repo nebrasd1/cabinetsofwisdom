@@ -1,13 +1,13 @@
 ---
-title: "Barbie"
-author: "Movies vs. Capitalism"
+title: Barbie
+author: Movies vs. Capitalism
 url: https://share.snipd.com/episode/72342f58-af16-45fa-bb30-38524c237e72
-published: 
+published:
 date: 2024-12-03
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

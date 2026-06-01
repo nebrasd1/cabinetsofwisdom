@@ -1,13 +1,13 @@
 ---
-title: "Rock & Roll Pioneer Sister Rosetta Tharpe"
-author: "Jason Kottke"
+title: Rock & Roll Pioneer Sister Rosetta Tharpe
+author: Jason Kottke
 url: https://www.inoreader.com/article/3a9c6e7abc09ad7c-rock-roll-pioneer-sister-rosetta-tharpe
-published: 
+published:
 date: 2021-09-26
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,14 +1,14 @@
 ---
-title: "For Sale, a Good Night’s Sleep, Just $4,700"
-author: "Victoria Song"
+title: For Sale, a Good Night’s Sleep, Just $4,700
+author: Victoria Song
 url: https://www.theverge.com/24279552/eight-sleep-pod-4-ultra-review-tracking
 published: 2024-11-02
 date: 2024-11-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process

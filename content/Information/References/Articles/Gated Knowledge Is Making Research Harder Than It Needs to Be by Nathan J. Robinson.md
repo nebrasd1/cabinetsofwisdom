@@ -1,13 +1,13 @@
 ---
-title: "Gated Knowledge Is Making Research Harder Than It Needs to Be"
-author: "Nathan J. Robinson"
+title: Gated Knowledge Is Making Research Harder Than It Needs to Be
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2024/04/gated-knowledge-is-making-research-harder-than-it-needs-to-be-2/
 published: 2024-04-09
 date: 2024-06-22
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

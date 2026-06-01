@@ -1,15 +1,15 @@
 ---
-title: "A U.N. Plan to Stop Corporate Tax Abuse"
-author: "Jon Schwarz"
+title: A U.N. Plan to Stop Corporate Tax Abuse
+author: Jon Schwarz
 url: https://theintercept.com/2023/08/12/tax-abuse-international-corporations/
 published: 2023-08-12
 date: 2023-08-21
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,16 +1,17 @@
 ---
 title: "Non-Ordinary States of Consciousness Contest: Psychedelic Cryptography"
-author: "Andrés Gómez-Emilsson"
+author: Andrés Gómez-Emilsson
 url: https://qri.org/blog/psycrypto-contest#winner
 published: 2023-06-02
 date: 2024-06-27
-modified:
+modified: 2026-05-31T21:40:53+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Science Fiction]]" 
-  - "[[Ttrpg]]" 
+lenses:
 publish: true
+topics:
+  - scifi
+  - ttrpg
 ---
 > [!example]- Process
 > 

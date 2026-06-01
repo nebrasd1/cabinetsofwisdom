@@ -1,13 +1,13 @@
 ---
-title: "Watch a Swarm of Drones Autonomously Track a Human Through a Dense Forest"
-author: "theverge.com"
+title: Watch a Swarm of Drones Autonomously Track a Human Through a Dense Forest
+author: theverge.com
 url: https://www.theverge.com/2022/5/5/23058160/drone-swarm-autonomous-navigation-dense-forest-person-tracking
-published: 
+published:
 date: 2022-05-10
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -26,5 +26,5 @@ publish: true
 
 ✏️ Good quote about our perpetual obsession with accomplishing something, eschewing any concerns about what the moral implications are.
  "We can do the how! Fuck the why."
-👓 [[quotes]]
+👓 [[quotes|quotes]]
 

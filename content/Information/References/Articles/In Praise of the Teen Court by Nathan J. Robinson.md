@@ -1,13 +1,13 @@
 ---
-title: "In Praise of the Teen Court"
-author: "Nathan J. Robinson"
+title: In Praise of the Teen Court
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/06/in-praise-of-the-teen-court/
 published: 2023-06-07
 date: 2023-06-11
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

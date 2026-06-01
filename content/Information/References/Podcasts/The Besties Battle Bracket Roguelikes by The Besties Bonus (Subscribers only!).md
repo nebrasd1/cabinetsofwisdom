@@ -1,13 +1,13 @@
 ---
 title: "The Besties Battle Bracket: Roguelikes"
-author: "The Besties Bonus (Subscribers only!)"
+author: The Besties Bonus (Subscribers only!)
 url: https://share.snipd.com/episode/56b0169b-413a-4614-92b1-a6ac8291435b
-published: 
+published:
 date: 2025-05-24
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

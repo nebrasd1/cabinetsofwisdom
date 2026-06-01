@@ -1,17 +1,17 @@
 ---
-title: "The Trans Panic in Sports Is Nearly a Century Old"
-author: "Ben Kesslen"
+title: The Trans Panic in Sports Is Nearly a Century Old
+author: Ben Kesslen
 url: https://www.thenation.com/article/culture/michael-waters-other-olympians/
 published: 2024-08-08
 date: 2024-08-27
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Injustice]]" 
-  - "[[Propaganda]]" 
-  - "[[Queer]]" 
+lenses:
+  - "[[History]]"
+  - "[[Injustice]]"
+  - "[[Propaganda]]"
+  - "[[Queer]]"
 publish: true
 ---
 > [!example]- Process

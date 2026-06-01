@@ -1,13 +1,13 @@
 ---
 title: "Saudi Aramco World : Roads of Arabia"
-author: "archive.aramcoworld.com"
+author: archive.aramcoworld.com
 url: https://archive.aramcoworld.com/issue/201102/roads.of.arabia.htm
-published: 
+published:
 date: 2021-01-09
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,15 +1,15 @@
 ---
-title: "A New Plan to Fix Mexico’s Housing Crisis"
-author: "Ximena González"
+title: A New Plan to Fix Mexico’s Housing Crisis
+author: Ximena González
 url: https://jacobin.com/2025/04/mexico-social-housing-crisis-sheinbaum/
 published: 2025-04-11
 date: 2025-04-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process

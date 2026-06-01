@@ -1,15 +1,15 @@
 ---
-title: "Argentina Was the Pioneer of Latin American Socialism"
-author: "Lucas Poy"
+title: Argentina Was the Pioneer of Latin American Socialism
+author: Lucas Poy
 url: https://jacobin.com/2024/08/argentina-socialist-party-second-international/
 published: 2024-08-07
 date: 2024-08-27
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[History]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

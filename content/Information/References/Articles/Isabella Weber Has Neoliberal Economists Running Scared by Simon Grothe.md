@@ -1,13 +1,13 @@
 ---
-title: "Isabella Weber Has Neoliberal Economists Running Scared"
-author: "Simon Grothe"
+title: Isabella Weber Has Neoliberal Economists Running Scared
+author: Simon Grothe
 url: https://jacobin.com/2023/08/isabella-weber-greedflation-inflation-profit-margins-economics/
 published: 2023-08-31
 date: 2023-09-01
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

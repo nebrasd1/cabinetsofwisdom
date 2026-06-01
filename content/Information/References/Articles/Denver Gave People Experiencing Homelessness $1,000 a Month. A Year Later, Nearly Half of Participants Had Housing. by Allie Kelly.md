@@ -1,16 +1,16 @@
 ---
-title: "Denver Gave People Experiencing Homelessness $1,000 a Month. A Year Later, Nearly Half of Participants Had Housing."
-author: "Allie Kelly"
+title: Denver Gave People Experiencing Homelessness $1,000 a Month. A Year Later, Nearly Half of Participants Had Housing.
+author: Allie Kelly
 url: https://www.yahoo.com/news/denver-gave-people-experiencing-homelessness-101802213.html
 published: 2024-06-21
 date: 2024-06-27
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Hope]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
-title: "Humanity Does Not Need Bill Gates ❧ Current Affairs"
-author: "currentaffairs.org"
+title: Humanity Does Not Need Bill Gates ❧ Current Affairs
+author: currentaffairs.org
 url: https://www.currentaffairs.org/2021/05/humanity-does-not-need-bill-gates/
-published: 
+published:
 date: 2021-05-05
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

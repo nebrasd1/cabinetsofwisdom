@@ -1,13 +1,13 @@
 ---
-title: "What’s Your Strategy for Managing Knowledge?"
-author: "hbr.org"
+title: What’s Your Strategy for Managing Knowledge?
+author: hbr.org
 url: https://hbr.org/1999/03/whats-your-strategy-for-managing-knowledge
 published: 1999-03-01
 date: 2021-03-01
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

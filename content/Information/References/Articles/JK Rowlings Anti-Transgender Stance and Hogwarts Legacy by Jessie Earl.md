@@ -1,16 +1,16 @@
 ---
-title: "JK Rowling's Anti-Transgender Stance and Hogwarts Legacy"
-author: "Jessie Earl"
+title: JK Rowling's Anti-Transgender Stance and Hogwarts Legacy
+author: Jessie Earl
 url: https://www.gamespot.com/articles/jk-rowlings-anti-transgender-stance-and-hogwarts-legacy/1100-6501632/
 published: 2023-02-07
 date: 2023-05-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Empowerment]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Empowerment]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process

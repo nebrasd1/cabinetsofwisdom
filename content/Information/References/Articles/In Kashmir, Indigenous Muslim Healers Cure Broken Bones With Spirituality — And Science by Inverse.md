@@ -1,15 +1,16 @@
 ---
-title: "In Kashmir, Indigenous Muslim Healers Cure Broken Bones With Spirituality — And Science"
-author: "Inverse"
+title: In Kashmir, Indigenous Muslim Healers Cure Broken Bones With Spirituality — And Science
+author: Inverse
 url: https://www.inverse.com/mind-body/kashmir-bone-setters
 published: 2022-02-25
 date: 2023-04-29
-modified:
+modified: 2026-05-31T21:40:10+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Science Fiction]]" 
+lenses:
 publish: true
+topics:
+  - scifi
 ---
 > [!example]- Process
 > 

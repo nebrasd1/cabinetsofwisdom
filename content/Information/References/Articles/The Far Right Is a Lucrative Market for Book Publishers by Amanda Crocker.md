@@ -1,17 +1,17 @@
 ---
-title: "The Far Right Is a Lucrative Market for Book Publishers"
-author: "Amanda Crocker"
+title: The Far Right Is a Lucrative Market for Book Publishers
+author: Amanda Crocker
 url: https://jacobin.com/2025/03/book-publishers-far-right-imprints/
 published: 2025-03-10
 date: 2025-03-10
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
-  - "[[Writing]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
+  - "[[Writing]]"
 publish: true
 ---
 > [!example]- Process

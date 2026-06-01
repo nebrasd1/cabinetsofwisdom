@@ -1,15 +1,15 @@
 ---
-title: "Tenants’ Unions Across the US Now Have a National Federation"
-author: "Rebecca Burns"
+title: Tenants’ Unions Across the US Now Have a National Federation
+author: Rebecca Burns
 url: https://jacobin.com/2024/08/national-tenants-union-landlords-harris/
 published: 2024-08-10
 date: 2024-08-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
 publish: true
 ---
 > [!example]- Process

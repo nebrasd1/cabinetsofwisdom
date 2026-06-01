@@ -4,11 +4,10 @@ author: Carlos Greaves
 url: https://www.mcsweeneys.net/articles/how-to-tell-the-difference-between-a-lone-wolf-and-a-coordinated-effort-by-the-radical-left
 published: 2025-09-16
 date: 2025-09-18
-modified:
+modified: 2026-05-31T21:19:17+03:00
 type: articles
 source: reader
 lenses:
-  - "[[Narrative]]"
   - "[[Storytelling]]"
 publish: true
 ---

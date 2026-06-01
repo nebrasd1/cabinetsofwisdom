@@ -1,14 +1,14 @@
 ---
-title: "Contenting Ourselves With Stories"
-author: "kottke.org"
+title: Contenting Ourselves With Stories
+author: kottke.org
 url: https://kottke.org/24/05/contenting-ourselves-with-stories
 published: 2024-05-21
 date: 2024-07-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process

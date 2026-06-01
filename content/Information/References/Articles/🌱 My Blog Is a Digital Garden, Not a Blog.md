@@ -1,13 +1,13 @@
 ---
-title: "🌱 My Blog Is a Digital Garden, Not a Blog"
-author: "joelhooks.com"
+title: 🌱 My Blog Is a Digital Garden, Not a Blog
+author: joelhooks.com
 url: https://joelhooks.com/digital-garden
-published: 
+published:
 date: 2021-07-15
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

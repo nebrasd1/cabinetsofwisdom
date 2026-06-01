@@ -1,14 +1,14 @@
 ---
-title: "As Cruel as It’s Possible to Be"
-author: "Nathan J. Robinson"
+title: As Cruel as It’s Possible to Be
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/08/as-cruel-as-its-possible-to-be/
 published: 2023-08-29
 date: 2023-08-30
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

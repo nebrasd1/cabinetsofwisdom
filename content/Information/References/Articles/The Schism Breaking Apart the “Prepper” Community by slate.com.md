@@ -1,13 +1,13 @@
 ---
-title: "The Schism Breaking Apart the “Prepper” Community"
-author: "slate.com"
+title: The Schism Breaking Apart the “Prepper” Community
+author: slate.com
 url: https://slate.com/technology/2022/03/reddit-preppers-sub-women-splitting-off-twoxpreppers.html
 published: 2022-03-28
 date: 2022-04-03
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
 title: "Confronting Capitalism: Socialism in the 21st Century"
-author: "Jacobin Radio"
+author: Jacobin Radio
 url: https://share.snipd.com/episode/151988f1-62b4-498d-9b37-55eb3404b9ea
-published: 
+published:
 date: 2025-01-30
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

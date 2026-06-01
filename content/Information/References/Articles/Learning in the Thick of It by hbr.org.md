@@ -1,13 +1,13 @@
 ---
-title: "Learning in the Thick of It"
-author: "hbr.org"
+title: Learning in the Thick of It
+author: hbr.org
 url: https://hbr.org/2005/07/learning-in-the-thick-of-it
 published: 2005-07-01
 date: 2021-01-11
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

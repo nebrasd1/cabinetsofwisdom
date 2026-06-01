@@ -1,15 +1,15 @@
 ---
-title: "The Hypocritical, Phony Outrage About Chinese Spying"
-author: "Nathan J. Robinson"
+title: The Hypocritical, Phony Outrage About Chinese Spying
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/09/the-hypocritical-phony-outrage-about-chinese-spying/
 published: 2023-09-29
 date: 2024-08-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

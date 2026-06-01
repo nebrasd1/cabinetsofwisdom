@@ -4,13 +4,13 @@ author: Elie Mystal
 url: https://www.thenation.com/article/archive/chevron-deference-supreme-court-power-grab/
 published: 2024-06-28
 date: 2024-06-29
-modified: 
+modified:
 type: articles
 source: reader
 lenses:
   - "[[Injustice]]"
   - "[[Politics]]"
-  - "[[Regulations]]"
+  - "[[Regulation]]"
 publish: true
 ---
 > [!example]- Process

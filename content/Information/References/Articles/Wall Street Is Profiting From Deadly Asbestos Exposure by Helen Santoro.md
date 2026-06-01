@@ -1,16 +1,16 @@
 ---
-title: "Wall Street Is Profiting From Deadly Asbestos Exposure"
-author: "Helen Santoro"
+title: Wall Street Is Profiting From Deadly Asbestos Exposure
+author: Helen Santoro
 url: https://jacobin.com/2024/07/wall-street-investment-asbestos-liabilities/
 published: 2024-07-10
 date: 2024-09-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

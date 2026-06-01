@@ -1,15 +1,15 @@
 ---
-title: "The Tragic Failure of the Soviet Experiment Doesn’t Mean We Should Reject Socialism"
-author: "Ben Burgis"
+title: The Tragic Failure of the Soviet Experiment Doesn’t Mean We Should Reject Socialism
+author: Ben Burgis
 url: https://jacobin.com/2023/07/g-a-cohen-soviet-union-ussr-failure-socialism-disillusion/
 published: 2023-07-15
 date: 2023-08-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

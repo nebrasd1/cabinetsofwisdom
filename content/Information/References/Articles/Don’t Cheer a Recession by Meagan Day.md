@@ -1,17 +1,17 @@
 ---
-title: "Don’t Cheer a Recession"
-author: "Meagan Day"
+title: Don’t Cheer a Recession
+author: Meagan Day
 url: https://jacobin.com/2025/04/recession-economy-crises-trump-democrats/
 published: 2025-04-14
 date: 2025-04-15
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

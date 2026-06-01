@@ -1,13 +1,13 @@
 ---
-title: "Quantity Leads to Quality - Austin Kleon"
-author: "austinkleon.com"
+title: Quantity Leads to Quality - Austin Kleon
+author: austinkleon.com
 url: https://austinkleon.com/2020/12/10/quantity-leads-to-quality-the-origin-of-a-parable/
-published: 
+published:
 date: 2020-12-23
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

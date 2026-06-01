@@ -4,14 +4,15 @@ author: Sam Friedman
 url: https://jacobin.com/2025/01/british-elites-inequality-meritocracy-education/
 published: 2025-01-08
 date: 2025-01-28
-modified: 2026-04-29T10:06:20+03:00
+modified: 2026-05-31T21:43:05+03:00
 type: articles
 source: reader
 lenses:
   - "[[Capitalism]]"
   - "[[Injustice]]"
-  - "[[Systems]]"
 publish: true
+topics:
+  - systems
 ---
 > [!example]- Process
 > 
@@ -39,7 +40,7 @@ It's not about individuals.. it's about systems.
 > What often is missing is a structural critique. It tends to be more of a “these people are individually flawed, rather than the processes that have brought them to those positions.”
 
 ✏️ This is the essential issue.. they're right. It's still character-focused, but never looking at the system that put them in place, let alone criticizing it and pointing out the problems there.
-👓 [[propaganda|propaganda]] [[systems|systems]] [[storytelling|storytelling]]
+👓 [[propaganda|propaganda]] [[storytelling|storytelling]]
 🔗 [View Highlight](https://read.readwise.io/read/01jjp91mg1xe3jgjx3xqngxeha)
 
 ### id844783908

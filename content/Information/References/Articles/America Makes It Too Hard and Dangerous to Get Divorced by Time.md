@@ -1,15 +1,15 @@
 ---
-title: "America Makes It Too Hard and Dangerous to Get Divorced"
-author: "Time"
+title: America Makes It Too Hard and Dangerous to Get Divorced
+author: Time
 url: https://time.com/6274819/us-accessible-divorce-unwanted-marriages/
 published: 2023-04-27
 date: 2023-05-05
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process

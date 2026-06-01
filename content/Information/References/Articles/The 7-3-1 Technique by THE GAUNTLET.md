@@ -1,15 +1,15 @@
 ---
-title: "The 7-3-1 Technique"
-author: "THE GAUNTLET"
+title: The 7-3-1 Technique
+author: THE GAUNTLET
 url: https://www.gauntlet-rpg.com/blog/the-7-3-1-technique
 published: 2018-07-18
 date: 2023-06-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Swn]]" 
-  - "[[Ttrpg]]" 
+lenses:
+  - "[[Swn]]"
+  - "[[Ttrpg]]"
 publish: true
 ---
 > [!example]- Process

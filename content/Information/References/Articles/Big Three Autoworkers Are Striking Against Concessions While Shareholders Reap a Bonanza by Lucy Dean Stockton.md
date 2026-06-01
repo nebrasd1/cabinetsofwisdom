@@ -1,15 +1,15 @@
 ---
-title: "Big Three Autoworkers Are Striking Against Concessions While Shareholders Reap a Bonanza"
-author: "Lucy Dean Stockton"
+title: Big Three Autoworkers Are Striking Against Concessions While Shareholders Reap a Bonanza
+author: Lucy Dean Stockton
 url: https://jacobin.com/2023/09/united-auto-workers-uaw-strike-big-three-automakers-stock-buyback-shareholders/
 published: 2023-09-15
 date: 2023-09-17
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

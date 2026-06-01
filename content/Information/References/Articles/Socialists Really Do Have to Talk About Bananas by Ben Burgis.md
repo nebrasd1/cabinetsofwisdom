@@ -1,14 +1,14 @@
 ---
-title: "Socialists Really Do Have to Talk About Bananas"
-author: "Ben Burgis"
+title: Socialists Really Do Have to Talk About Bananas
+author: Ben Burgis
 url: https://jacobin.com/2023/07/bananas-socialist-economy-production-consumption-abundance-twitter/
 published: 2023-07-24
 date: 2025-02-10
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

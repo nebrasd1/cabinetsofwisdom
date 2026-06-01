@@ -1,13 +1,13 @@
 ---
-title: "Human Nature, Hope & Ice Cream"
-author: "Pop Culture Detective"
+title: Human Nature, Hope & Ice Cream
+author: Pop Culture Detective
 url: https://www.youtube.com/watch?v=_yl0LJH-nFM
 published: 2024-11-08
 date: 2024-11-12
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -23,7 +23,7 @@ publish: true
 ### id811116573
 > "John Burroughs has stated that experimental study of animals in captivity is absolutely useless. Their character, their habits, their appetites undergo a complete transformation when torn from their soil in field and forest. With human nature caged in a narrow space, whipped daily into submission, how can we speak of its potentialities?" ~ Emma Goldman
 
-👓 [[quote]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01jcfrb5pgnvs7vrz1zm1s4ae8)
 
 ### id811116712

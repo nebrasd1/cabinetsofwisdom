@@ -1,15 +1,15 @@
 ---
-title: "Jane McAlevey Demanded We Go Beyond Speaking Truth to Power"
-author: "jacobin.com"
+title: Jane McAlevey Demanded We Go Beyond Speaking Truth to Power
+author: jacobin.com
 url: https://jacobin.com/2024/07/jane-mcalevey-strategy-organizing-obituary
-published: 
+published:
 date: 2024-08-14
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
 publish: true
 ---
 > [!example]- Process
@@ -26,7 +26,7 @@ publish: true
 > Talking at a post-training dinner about noble but fizzling protests that left their target decision-makers unscathed, Jane once remarked, “‘Speaking truth to power’ — how’s that working out for you?”
 
 ✏️ It's not enough if you're not moving the ball down the line. You need to close the gap between the power they have and the power we have.
-👓 [[quote]] [[empowerment]]
+#addto/quote [[empowerment|empowerment]]
 🔗 [View Highlight](https://read.readwise.io/read/01j581g2y2x7wa2q4f0xq4kj6z)
 
 ### id758081687

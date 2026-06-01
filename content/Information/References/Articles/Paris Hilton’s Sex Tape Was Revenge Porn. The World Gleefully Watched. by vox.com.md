@@ -1,13 +1,13 @@
 ---
-title: "Paris Hilton’s Sex Tape Was Revenge Porn. The World Gleefully Watched."
-author: "vox.com"
+title: Paris Hilton’s Sex Tape Was Revenge Porn. The World Gleefully Watched.
+author: vox.com
 url: https://www.vox.com/culture/22391942/paris-hilton-sex-tape-revenge-porn-south-park-stupid-spoiled-whore-video-playset-pink-stupid-girl
-published: 
+published:
 date: 2021-06-07
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,15 +1,15 @@
 ---
-title: "Social Housing Can Work"
-author: "Stanley Chang"
+title: Social Housing Can Work
+author: Stanley Chang
 url: https://jacobin.com/2024/05/social-housing-policy-california-hawaii/
 published: 2024-05-13
 date: 2024-11-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
@@ -32,6 +32,6 @@ publish: true
 ### id808477058
 > in Singapore that 80 percent of the population lives in public housing, where it is not stigmatized, it is well-maintained, and it is constantly upgraded. When you see a program that works so incredibly well, it completely changes your view of the housing problem.
 
-👓 [[hope]]
+👓 [[hope|hope]]
 🔗 [View Highlight](https://read.readwise.io/read/01jc0ed07sntg7tpqr9ppd6qz5)
 

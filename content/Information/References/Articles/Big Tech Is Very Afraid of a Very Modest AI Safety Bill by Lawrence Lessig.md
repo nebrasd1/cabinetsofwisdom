@@ -1,16 +1,16 @@
 ---
-title: "Big Tech Is Very Afraid of a Very Modest AI Safety Bill"
-author: "Lawrence Lessig"
+title: Big Tech Is Very Afraid of a Very Modest AI Safety Bill
+author: Lawrence Lessig
 url: https://www.thenation.com/article/society/sb-1047-ai-big-tech-fight/
 published: 2024-08-30
 date: 2024-09-01
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Ai]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Ai]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

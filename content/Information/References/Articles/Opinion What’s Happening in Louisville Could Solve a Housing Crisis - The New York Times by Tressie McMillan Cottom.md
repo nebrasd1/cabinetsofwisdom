@@ -1,18 +1,18 @@
 ---
-title: "Opinion | What’s Happening in Louisville Could Solve a Housing Crisis - The New York Times"
-author: "Tressie McMillan Cottom"
+title: Opinion | What’s Happening in Louisville Could Solve a Housing Crisis - The New York Times
+author: Tressie McMillan Cottom
 url: https://www.nytimes.com/2024/08/06/opinion/housing-louisville-tenants-union.html?unlocked_article_code=1.A04.LDkZ.vgrAqOxs76HU
 published: 2024-08-06
 date: 2024-08-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Community]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
-  - "[[Racism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Community]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
+  - "[[Racism]]"
 publish: true
 ---
 > [!example]- Process

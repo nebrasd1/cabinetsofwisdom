@@ -1,13 +1,13 @@
 ---
 title: "A Dispatch From the Heart of Lahaina: Relief Is Not Enough"
-author: "Kaniela Ing"
+author: Kaniela Ing
 url: https://www.thenation.com/article/environment/lahaina-hawaii-fires-justice/
 published: 2023-08-21
 date: 2023-08-21
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

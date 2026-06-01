@@ -1,18 +1,17 @@
 ---
-title: "Abusers Aren’t Always Powerful Men. Some of Them Are Regular Guys."
-author: "Katha Pollitt"
+title: Abusers Aren’t Always Powerful Men. Some of Them Are Regular Guys.
+author: Katha Pollitt
 url: https://www.thenation.com/article/society/gisele-pelicot/
 published: 2024-10-29
 date: 2024-10-30
-modified:
+modified: 2026-05-31T21:43:35+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
-  - "[[Masculinity]]" 
-  - "[[Toxic]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
+  - "[[Masculinity]]"
+  - "[[Gender]]"
 publish: true
 ---
 > [!example]- Process

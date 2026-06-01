@@ -1,13 +1,13 @@
 ---
-title: "Ancient Routes Take a 2,500-Year Detour Across the Arabian Peninsula All the Way to Louvre Abu Dhabi"
-author: "thenationalnews.com"
+title: Ancient Routes Take a 2,500-Year Detour Across the Arabian Peninsula All the Way to Louvre Abu Dhabi
+author: thenationalnews.com
 url: https://www.thenationalnews.com/opinion/comment/ancient-routes-take-a-2-500-year-detour-across-the-arabian-peninsula-all-the-way-to-louvre-abu-dhabi-1.789688
-published: 
+published:
 date: 2021-01-09
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

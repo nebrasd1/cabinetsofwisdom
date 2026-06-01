@@ -1,17 +1,17 @@
 ---
-title: "Why Is Elon Musk Like That?"
-author: "Second Thought"
+title: Why Is Elon Musk Like That?
+author: Second Thought
 url: https://www.youtube.com/watch?v=nST5BggdfUs&t=1s
 published: 2024-11-22
 date: 2024-11-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

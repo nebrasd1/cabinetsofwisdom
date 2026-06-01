@@ -1,15 +1,15 @@
 ---
-title: "I Worked in Federal Prison Sweatshops for 23 Cents an Hour"
-author: "Aaron M. Kinzer"
+title: I Worked in Federal Prison Sweatshops for 23 Cents an Hour
+author: Aaron M. Kinzer
 url: https://theintercept.com/2023/09/04/prison-labor-exploitation-america/
 published: 2023-09-04
 date: 2023-09-05
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
 publish: true
 ---
 > [!example]- Process

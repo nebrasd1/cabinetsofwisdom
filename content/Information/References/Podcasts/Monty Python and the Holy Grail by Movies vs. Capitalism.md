@@ -1,13 +1,13 @@
 ---
-title: "Monty Python and the Holy Grail"
-author: "Movies vs. Capitalism"
+title: Monty Python and the Holy Grail
+author: Movies vs. Capitalism
 url: https://share.snipd.com/episode/322e44a3-6973-4979-b281-73f72c50a13a
-published: 
+published:
 date: 2024-10-17
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

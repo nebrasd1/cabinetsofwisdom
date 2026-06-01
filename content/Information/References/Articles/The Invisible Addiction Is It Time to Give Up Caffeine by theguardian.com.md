@@ -1,13 +1,13 @@
 ---
 title: "The Invisible Addiction: Is It Time to Give Up Caffeine?"
-author: "theguardian.com"
+author: theguardian.com
 url: https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up
 published: 2021-07-06
 date: 2021-08-11
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

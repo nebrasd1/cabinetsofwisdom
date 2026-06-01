@@ -1,15 +1,15 @@
 ---
-title: "Narendra Modi Is Using Brutal Repression to Silence the People of Kashmir"
-author: "Somdeep Sen"
+title: Narendra Modi Is Using Brutal Repression to Silence the People of Kashmir
+author: Somdeep Sen
 url: https://jacobin.com/2023/07/narendra-modi-kashmir-military-repression-censorship/
 published: 2023-07-16
 date: 2023-08-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Colonialism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

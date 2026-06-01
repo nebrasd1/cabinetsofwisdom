@@ -1,13 +1,13 @@
 ---
-title: "What the Universal Translator Tells Us About Exploring Other Cultures"
-author: "Charlie Jane Anders"
+title: What the Universal Translator Tells Us About Exploring Other Cultures
+author: Charlie Jane Anders
 url: https://www.tor.com/2023/04/24/what-the-universal-translator-tells-us-about-exploring-other-cultures/
 published: 2023-04-24
 date: 2023-04-24
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

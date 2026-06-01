@@ -1,7 +1,23 @@
 ---
 publish: true
+modified: 2026-05-31T21:42:11+03:00
+aliases:
+  - socialism
+  - socialist
 ---
-# Notes
+# Socialism
+## Personal Definition
+
+
+
+???
+The lens of socialist analysis and alternatives — collective ownership or democratic control of productive forces, organization around need rather than profit, critique of capitalism from socialist categories. 
+
+Reach for this lens when the analytical move engages socialist thinking, history, or proposed alternatives, including its _internal variations_: authoritarian state socialism (USSR, China), social democracy (European mixed economies), market socialism, democratic socialism, worker self-management.
+
+Distinct from **Capitalism** (often its analytical foil) and from **Anarchy** (which is more skeptical of _any_ institutional power, including socialist states). Use this lens to recover socialism as a serious tradition with internal diversity, distinct from its caricature as a single failed system.
+
+## Notes
 - basic needs are met
 	- you dont have to work to survive
 - jobs can be distributed equitably rather than overwork some and maintaing unemployed rest that will work for the least pay

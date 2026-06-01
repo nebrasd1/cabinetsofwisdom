@@ -1,17 +1,17 @@
 ---
-title: "Opinion | How the Cass Report Became a Weapon in the War on Trans Kids - The New York Times"
-author: "Lydia Polgreen"
+title: Opinion | How the Cass Report Became a Weapon in the War on Trans Kids - The New York Times
+author: Lydia Polgreen
 url: https://www.nytimes.com/2024/08/13/opinion/cass-report-trans-kids.html?unlocked_article_code=1.Ck4.t6ZV.zESy0Rbxu3G7
 published: 2024-08-13
 date: 2024-08-14
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Gender]]" 
-  - "[[Injustice]]" 
-  - "[[Queer]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Gender]]"
+  - "[[Injustice]]"
+  - "[[Queer]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process
@@ -65,7 +65,7 @@ publish: true
 ### id758084806
 > “It is not easy to deal scientifically with feelings,” Sigmund Freud
 
-👓 [[quote]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01j5834f7nj5mrzvqeprscq83h)
 
 ### id758085343

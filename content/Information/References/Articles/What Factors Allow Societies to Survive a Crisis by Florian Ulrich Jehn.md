@@ -1,14 +1,14 @@
 ---
-title: "What Factors Allow Societies to Survive a Crisis?"
-author: "Florian Ulrich Jehn"
+title: What Factors Allow Societies to Survive a Crisis?
+author: Florian Ulrich Jehn
 url: https://florianjehn.github.io/Societal_Collapse/2024-04-09-big_data_history/?utm_source=substack&utm_medium=email
 published: 2024-04-08
 date: 2024-10-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
+lenses:
+  - "[[History]]"
 publish: true
 ---
 > [!example]- Process

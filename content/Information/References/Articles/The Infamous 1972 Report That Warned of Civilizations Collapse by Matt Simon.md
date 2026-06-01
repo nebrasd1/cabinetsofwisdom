@@ -1,18 +1,18 @@
 ---
-title: "The Infamous 1972 Report That Warned of Civilization's Collapse"
-author: "Matt Simon"
+title: The Infamous 1972 Report That Warned of Civilization's Collapse
+author: Matt Simon
 url: https://www.wired.com/story/the-infamous-1972-report-that-warned-of-civilizations-collapse/
 published: 2022-07-06
 date: 2024-11-04
-modified:
+modified: 2026-05-31T21:19:58+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Environment]]" 
-  - "[[Exploitation]]" 
-  - "[[History]]" 
-  - "[[Narrative]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Environment]]"
+  - "[[Exploitation]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process

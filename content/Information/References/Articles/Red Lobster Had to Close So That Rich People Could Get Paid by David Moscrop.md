@@ -1,14 +1,14 @@
 ---
-title: "Red Lobster Had to Close So That Rich People Could Get Paid"
-author: "David Moscrop"
+title: Red Lobster Had to Close So That Rich People Could Get Paid
+author: David Moscrop
 url: https://jacobin.com/2024/05/red-lobster-bankruptcy-private-equity/
 published: 2024-05-24
 date: 2024-07-03
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process

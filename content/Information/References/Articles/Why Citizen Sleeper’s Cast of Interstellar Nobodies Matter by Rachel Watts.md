@@ -1,17 +1,17 @@
 ---
-title: "Why Citizen Sleeper’s Cast of Interstellar Nobodies Matter"
-author: "Rachel Watts"
+title: Why Citizen Sleeper’s Cast of Interstellar Nobodies Matter
+author: Rachel Watts
 url: https://www.rockpapershotgun.com/why-citizen-sleepers-cast-of-interstellar-nobodies-matter
 published: 2023-05-31
 date: 2023-05-31
-modified:
+modified: 2026-05-31T21:41:37+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Science Fiction]]" 
-  - "[[Swn]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
+topics:
+  - scifi
 ---
 > [!example]- Process
 > 

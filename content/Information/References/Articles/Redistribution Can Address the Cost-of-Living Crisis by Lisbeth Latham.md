@@ -1,16 +1,16 @@
 ---
-title: "Redistribution Can Address the Cost-of-Living Crisis"
-author: "Lisbeth Latham"
+title: Redistribution Can Address the Cost-of-Living Crisis
+author: Lisbeth Latham
 url: https://jacobin.com/2023/07/redistribution-cost-of-living-crisis-australia-inflation-interest-economy/
 published: 2023-07-11
 date: 2023-08-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

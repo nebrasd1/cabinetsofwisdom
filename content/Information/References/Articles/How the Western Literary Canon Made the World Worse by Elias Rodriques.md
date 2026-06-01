@@ -1,19 +1,18 @@
 ---
-title: "How the Western Literary Canon Made the World Worse"
-author: "Elias Rodriques"
+title: How the Western Literary Canon Made the World Worse
+author: Elias Rodriques
 url: https://www.thenation.com/article/culture/dionne-brand-salvage-interview/
 published: 2024-12-05
 date: 2025-01-30
-modified:
+modified: 2026-05-31T21:19:04+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Colonialism]]" 
-  - "[[History]]" 
-  - "[[Narrative]]" 
-  - "[[Propaganda]]" 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Colonialism]]"
+  - "[[History]]"
+  - "[[Propaganda]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process

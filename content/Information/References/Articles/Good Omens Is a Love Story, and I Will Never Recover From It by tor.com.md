@@ -1,13 +1,13 @@
 ---
-title: "Good Omens Is a Love Story, and I Will Never Recover From It"
-author: "tor.com"
+title: Good Omens Is a Love Story, and I Will Never Recover From It
+author: tor.com
 url: https://www.tor.com/2021/06/29/good-omens-is-a-love-story-and-i-will-never-recover-from-it/
-published: 
+published:
 date: 2021-07-03
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

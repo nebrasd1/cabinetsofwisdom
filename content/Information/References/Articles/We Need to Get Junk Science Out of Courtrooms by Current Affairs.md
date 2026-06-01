@@ -1,13 +1,13 @@
 ---
-title: "We Need to Get Junk Science Out of Courtrooms"
-author: "Current Affairs"
+title: We Need to Get Junk Science Out of Courtrooms
+author: Current Affairs
 url: https://www.currentaffairs.org/2023/01/we-need-to-get-junk-science-out-of-courtrooms/
 published: 2023-01-20
 date: 2023-01-21
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

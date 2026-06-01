@@ -1,17 +1,17 @@
 ---
-title: "Class Struggle Built the Finnish Welfare State"
-author: "jacobin.com"
+title: Class Struggle Built the Finnish Welfare State
+author: jacobin.com
 url: https://jacobin.com/2020/01/finland-socialism-capitalism-welfare-state-strikes
 published: 2020-01-23
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

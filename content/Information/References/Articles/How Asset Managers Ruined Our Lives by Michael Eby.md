@@ -1,13 +1,13 @@
 ---
-title: "How Asset Managers Ruined Our Lives"
-author: "Michael Eby"
+title: How Asset Managers Ruined Our Lives
+author: Michael Eby
 url: https://www.thenation.com/article/culture/brett-christophers-asset-manager-review/
 published: 2023-10-23
 date: 2024-11-19
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

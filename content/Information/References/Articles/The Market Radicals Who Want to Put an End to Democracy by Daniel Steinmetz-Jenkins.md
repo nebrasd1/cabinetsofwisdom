@@ -1,14 +1,14 @@
 ---
-title: "The Market Radicals Who Want to Put an End to Democracy"
-author: "Daniel Steinmetz-Jenkins"
+title: The Market Radicals Who Want to Put an End to Democracy
+author: Daniel Steinmetz-Jenkins
 url: https://www.thenation.com/article/culture/quinn-slobodian-crack-capitalism-interview/
 published: 2023-10-11
 date: 2023-10-11
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process

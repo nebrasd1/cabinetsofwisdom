@@ -1,19 +1,19 @@
 ---
-title: "We Were Tortured in Assad’s Jail"
-author: "Sercan Üstündaş"
+title: We Were Tortured in Assad’s Jail
+author: Sercan Üstündaş
 url: https://jacobin.com/2025/01/assad-rojava-syria-jail-torture/
 published: 2025-01-27
 date: 2025-01-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[Hope]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
@@ -42,6 +42,6 @@ publish: true
 > People from the neighborhood recognized us as prisoners and invited us into their homes. They gave us clothes, fed us, and offered phones to contact our families. Some even helped us arrange transportation back to the Kurdish-controlled areas. It was surreal.
 
 ✏️ People help people. When you remove everything else, even when the appearance of things is that these are "prisoners", people help people.
-👓 [[hope]] [[community]]
+👓 [[hope|hope]] [[community|community]]
 🔗 [View Highlight](https://read.readwise.io/read/01jjp10nfss04xakascqqcf04j)
 

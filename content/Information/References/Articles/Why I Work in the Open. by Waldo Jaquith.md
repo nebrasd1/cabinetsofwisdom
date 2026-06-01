@@ -1,16 +1,16 @@
 ---
-title: "Why I Work in the Open."
-author: "Waldo Jaquith"
+title: Why I Work in the Open.
+author: Waldo Jaquith
 url: https://waldo.jaquith.org/blog/2025/03/work-open/
 published: 2025-03-25
 date: 2025-04-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[Hope]]"
 publish: true
 ---
 > [!example]- Process

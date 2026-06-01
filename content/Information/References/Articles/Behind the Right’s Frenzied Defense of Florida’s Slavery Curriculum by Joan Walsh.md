@@ -1,15 +1,15 @@
 ---
-title: "Behind the Right’s Frenzied Defense of Florida’s Slavery Curriculum"
-author: "Joan Walsh"
+title: Behind the Right’s Frenzied Defense of Florida’s Slavery Curriculum
+author: Joan Walsh
 url: https://www.thenation.com/article/politics/desantis-florida-slavery/
 published: 2023-07-25
 date: 2023-07-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Propaganda]]" 
-  - "[[Racism]]" 
+lenses:
+  - "[[Propaganda]]"
+  - "[[Racism]]"
 publish: true
 ---
 > [!example]- Process

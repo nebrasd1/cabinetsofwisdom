@@ -1,14 +1,14 @@
 ---
-title: "Billionaire Wealth Surges by $2 Trillion in 2024, Three Times Faster Than the Year Before, While the Number of People Living in Poverty Has Barely Changed Since 1990"
-author: "Oxfam International"
+title: Billionaire Wealth Surges by $2 Trillion in 2024, Three Times Faster Than the Year Before, While the Number of People Living in Poverty Has Barely Changed Since 1990
+author: Oxfam International
 url: https://www.oxfam.org/en/press-releases/billionaire-wealth-surges-2-trillion-2024-three-times-faster-year-while-number
 published: 2025-01-20
 date: 2025-01-30
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process

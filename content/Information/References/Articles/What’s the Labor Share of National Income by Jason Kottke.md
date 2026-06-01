@@ -1,16 +1,16 @@
 ---
-title: "What’s the Labor Share of National Income?"
-author: "Jason Kottke"
+title: What’s the Labor Share of National Income?
+author: Jason Kottke
 url: https://kottke.org/24/10/whats-the-labor-share-of-national-income
 published: 2024-10-02
 date: 2024-10-17
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[History]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[History]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,18 +1,18 @@
 ---
-title: "Mexico’s Lessons for the International Left"
-author: "Kurt Hackbarth"
+title: Mexico’s Lessons for the International Left
+author: Kurt Hackbarth
 url: https://jacobin.com/2024/07/claudia-sheinbaum-amlo-morena-mexico/
 published: 2024-07-21
 date: 2024-08-27
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Hope]]" 
-  - "[[Leadership]]" 
-  - "[[Politics]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Hope]]"
+  - "[[Leadership]]"
+  - "[[Politics]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process
@@ -109,7 +109,7 @@ publish: true
 
 ✏️ The ever consistent and demanding propaganda of neoliberalist/globalist agendas at work through "journalism".
  Forget the poor.. will someone please spare a concern for the investors and capitalists?
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01j69qv17xwvfsqgbmvabsjhah)
 
 ### id763988364

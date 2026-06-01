@@ -1,19 +1,18 @@
 ---
-title: "Narrative Legos With Ken Levine - GDC 2014"
-author: "GameSpot"
+title: Narrative Legos With Ken Levine - GDC 2014
+author: GameSpot
 url: https://www.youtube.com/watch?v=58FWUkA8y2Q
 published: 2014-03-24
 date: 2023-06-21
-modified:
+modified: 2026-05-31T21:19:35+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Game Design]]" 
-  - "[[Narrative]]" 
-  - "[[Storytelling]]" 
-  - "[[Ttrpg]]" 
-  - "[[Writing]]" 
+lenses:
+  - "[[Storytelling]]"
 publish: true
+topics:
+  - game design
+  - ttrpg
 ---
 > [!example]- Process
 > 

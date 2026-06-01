@@ -1,15 +1,15 @@
 ---
-title: "What Happens When Private Equity Owns Your Kid’s Day Care"
-author: "Hailey Huget"
+title: What Happens When Private Equity Owns Your Kid’s Day Care
+author: Hailey Huget
 url: https://jacobin.com/2025/04/private-equity-day-care-childcare/
 published: 2025-04-22
 date: 2025-04-27
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
-title: "Why Batman Is a Terrible Superhero"
-author: "tor.com"
+title: Why Batman Is a Terrible Superhero
+author: tor.com
 url: https://www.tor.com/2020/09/28/why-batman-is-a-terrible-superhero-or-why-our-present-social-crises-demand-a-different-class-of-hero/
-published: 
+published:
 date: 2021-02-07
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

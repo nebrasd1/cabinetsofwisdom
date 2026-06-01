@@ -1,13 +1,13 @@
 ---
-title: "Look for These Training Trends in 2020"
-author: "shrm.org"
+title: Look for These Training Trends in 2020
+author: shrm.org
 url: https://www.shrm.org/resourcesandtools/hr-topics/organizational-and-employee-development/pages/viewpoint-how-to-develop-an-agile-workforce.aspx?loc=mena
-published: 
+published:
 date: 2022-01-25
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

@@ -1,16 +1,16 @@
 ---
-title: "Swedish Social Democracy Has Always Been Contradictory"
-author: "Joel Nordström"
+title: Swedish Social Democracy Has Always Been Contradictory
+author: Joel Nordström
 url: https://jacobin.com/2024/07/swedish-social-democracy-kjell-ostberg/
 published: 2024-07-23
 date: 2024-08-27
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[History]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[History]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

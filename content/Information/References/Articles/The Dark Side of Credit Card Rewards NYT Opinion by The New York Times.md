@@ -1,16 +1,16 @@
 ---
-title: "The Dark Side of Credit Card Rewards | NYT Opinion"
-author: "The New York Times"
+title: The Dark Side of Credit Card Rewards | NYT Opinion
+author: The New York Times
 url: https://www.youtube.com/watch?v=49OZIDqsksE
 published: 2023-11-21
 date: 2023-12-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

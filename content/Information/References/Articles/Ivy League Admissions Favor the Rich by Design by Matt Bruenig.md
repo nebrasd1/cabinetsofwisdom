@@ -1,14 +1,14 @@
 ---
-title: "Ivy League Admissions Favor the Rich by Design"
-author: "Matt Bruenig"
+title: Ivy League Admissions Favor the Rich by Design
+author: Matt Bruenig
 url: https://jacobin.com/2023/07/elite-colleges-holistic-admissions-wealth-inequality/
 published: 2023-07-25
 date: 2023-07-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

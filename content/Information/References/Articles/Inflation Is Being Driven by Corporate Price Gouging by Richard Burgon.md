@@ -1,13 +1,13 @@
 ---
-title: "Inflation Is Being Driven by Corporate Price Gouging"
-author: "Richard Burgon"
+title: Inflation Is Being Driven by Corporate Price Gouging
+author: Richard Burgon
 url: https://jacobin.com/2023/05/uk-greedflation-corporate-profiteering-policy-proposals/
 published: 2023-05-23
 date: 2023-05-24
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

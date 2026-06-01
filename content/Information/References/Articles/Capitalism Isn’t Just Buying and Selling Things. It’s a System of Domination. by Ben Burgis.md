@@ -1,15 +1,15 @@
 ---
-title: "Capitalism Isn’t Just Buying and Selling Things. It’s a System of Domination."
-author: "Ben Burgis"
+title: Capitalism Isn’t Just Buying and Selling Things. It’s a System of Domination.
+author: Ben Burgis
 url: https://jacobin.com/2023/11/capitalism-market-economy-sabine-hossenfelder-youtube/
 published: 2023-11-12
 date: 2025-02-10
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process

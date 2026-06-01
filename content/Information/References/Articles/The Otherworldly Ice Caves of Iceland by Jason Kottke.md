@@ -1,14 +1,14 @@
 ---
-title: "The Otherworldly Ice Caves of Iceland"
-author: "Jason Kottke"
+title: The Otherworldly Ice Caves of Iceland
+author: Jason Kottke
 url: https://kottke.org/23/05/the-otherworldly-ice-caves-of-iceland
 published: 2023-05-16
 date: 2023-05-16
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Swn]]" 
+lenses:
+  - "[[Swn]]"
 publish: true
 ---
 > [!example]- Process

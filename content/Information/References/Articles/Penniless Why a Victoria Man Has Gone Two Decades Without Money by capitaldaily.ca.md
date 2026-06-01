@@ -1,13 +1,13 @@
 ---
 title: "Penniless: Why a Victoria Man Has Gone Two Decades Without Money"
-author: "capitaldaily.ca"
+author: capitaldaily.ca
 url: https://www.capitaldaily.ca/news/penniless-two-decades-without-money
-published: 
+published:
 date: 2021-07-28
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

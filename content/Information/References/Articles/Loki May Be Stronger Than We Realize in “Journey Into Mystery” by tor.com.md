@@ -1,13 +1,13 @@
 ---
-title: "Loki May Be Stronger Than We Realize in “Journey Into Mystery”"
-author: "tor.com"
+title: Loki May Be Stronger Than We Realize in “Journey Into Mystery”
+author: tor.com
 url: https://www.tor.com/2021/07/07/loki-may-be-stronger-than-we-realize-in-journey-into-mystery/
-published: 
+published:
 date: 2021-07-10
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

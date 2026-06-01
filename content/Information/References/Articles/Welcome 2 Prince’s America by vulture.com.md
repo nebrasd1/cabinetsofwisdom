@@ -1,13 +1,13 @@
 ---
-title: "Welcome 2 Prince’s America"
-author: "vulture.com"
+title: Welcome 2 Prince’s America
+author: vulture.com
 url: https://www.vulture.com/article/interview-prince-welcome-2-america-new-power-generation.html
-published: 
+published:
 date: 2021-08-01
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

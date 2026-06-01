@@ -1,14 +1,14 @@
 ---
-title: "Saudi Arabia’s Huge U.S. Investments Lose Money — But Buy Influence"
-author: "Ken Klippenstein"
+title: Saudi Arabia’s Huge U.S. Investments Lose Money — But Buy Influence
+author: Ken Klippenstein
 url: https://theintercept.com/2023/07/14/saudi-arabia-us-investments-influence-liv-pga-golf/
 published: 2023-07-14
 date: 2023-07-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process

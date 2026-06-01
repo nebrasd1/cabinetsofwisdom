@@ -1,13 +1,13 @@
 ---
-title: "It's Not Really About Sports"
+title: It's Not Really About Sports
 author: "The Anti-Trans Hate Machine: A Plot Against Equality"
 url: https://share.snipd.com/episode/3bc19ff7-2b57-4053-89c9-726b24e64f40
-published: 
+published:
 date: 2023-10-03
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

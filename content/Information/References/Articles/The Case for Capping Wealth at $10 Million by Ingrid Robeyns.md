@@ -1,15 +1,15 @@
 ---
-title: "The Case for Capping Wealth at $10 Million"
-author: "Ingrid Robeyns"
+title: The Case for Capping Wealth at $10 Million
+author: Ingrid Robeyns
 url: https://www.thenation.com/article/economy/wealth-cap-limitarianism-davos/
 published: 2024-01-17
 date: 2024-08-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process

@@ -1,13 +1,13 @@
 ---
-title: "The Library of Possible Futures"
-author: "theatlantic.com"
+title: The Library of Possible Futures
+author: theatlantic.com
 url: https://www.theatlantic.com/culture/archive/2021/02/future-shock-pop-futurism-pandemic/617867/
-published: 
+published:
 date: 2021-02-03
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process

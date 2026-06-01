@@ -1,17 +1,17 @@
 ---
-title: "We Need Your Email Address"
-author: "404 Media"
+title: We Need Your Email Address
+author: 404 Media
 url: https://www.404media.co/why-404-media-needs-your-email-address/
 published: 2024-01-26
 date: 2024-06-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Ai]]" 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Writing]]" 
+lenses:
+  - "[[Ai]]"
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Writing]]"
 publish: true
 ---
 > [!example]- Process
