@@ -1,16 +1,16 @@
 ---
-title: "John Rawls Was Wrong to Think We Could Have a Just Capitalism"
-author: "Nick French"
+title: John Rawls Was Wrong to Think We Could Have a Just Capitalism
+author: Nick French
 url: https://jacobin.com/2023/08/john-rawls-david-chandler-theory-of-justice-capitalism-exploitation/
 published: 2023-08-21
 date: 2023-09-05
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
