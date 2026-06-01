@@ -1,15 +1,15 @@
 ---
-title: "A Canadian Study Gave $7,500 to Homeless People. Here’s How They Spent It."
-author: "Sigal Samuel"
+title: A Canadian Study Gave $7,500 to Homeless People. Here’s How They Spent It.
+author: Sigal Samuel
 url: https://www.vox.com/future-perfect/21528569/homeless-poverty-cash-transfer-canada-new-leaf-project
 published: 2020-10-27
 date: 2024-09-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
@@ -37,7 +37,7 @@ publish: true
 > The study, though small, offers a counter to the myths that people who become poor get that way because they’re bad at rational decision-making and self-control, and are thus intrinsically to blame for their situation, and that people getting free money will blow it on frivolous things or addictive substances. [Studies have](https://www.givedirectly.org/research-on-cash-transfers/) [consistently shown](https://www.worldbank.org/en/research/dime/brief/Cash-Transfers-and-Temptation-Goods) that cash transfers don’t increase the consumption of “temptation goods”; they either decrease it or have no effect on it.
 
 ✏️ Fighting propaganda. This study has to show that people can be trusted to make good decisions with their money.
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01j78m4njhygar1zv9cmnxfvcw)
 
 ### id782762071
