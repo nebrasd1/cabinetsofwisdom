@@ -2,14 +2,14 @@
 title: TV Review Star Trek Discovery’s Species Ten-C
 author: tor.com
 url: https://www.tor.com/2022/03/10/going-boldly-star-trek-discoverys-species-ten-c/
-published: 
+published:
 date: 2022-03-21
 modified: 2025-05-10T08:32:03+03:00
 type:
   - articles
 source:
   - hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
