@@ -1,16 +1,16 @@
 ---
-title: "No, the Federal Reserve Hasn’t Brought Inflation Down"
-author: "Andrew Elrod"
+title: No, the Federal Reserve Hasn’t Brought Inflation Down
+author: Andrew Elrod
 url: https://jacobin.com/2023/08/federal-reserve-inflation-rate-hikes-price-shocks/
 published: 2023-08-18
 date: 2023-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
