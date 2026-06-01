@@ -1,13 +1,13 @@
 ---
-title: "AI Offers New Tools for Making Games, but Developers Worry About Their Jobs"
-author: "Shannon Liao"
+title: AI Offers New Tools for Making Games, but Developers Worry About Their Jobs
+author: Shannon Liao
 url: https://www.theverge.com/2023/5/4/23700619/ai-game-development-jobs-gdc-2023
 published: 2023-05-04
 date: 2023-05-05
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
