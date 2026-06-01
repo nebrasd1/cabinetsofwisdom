@@ -1,17 +1,17 @@
 ---
-title: "Five More for Mothership"
-author: "Dan"
+title: Five More for Mothership
+author: Dan
 url: http://throneofsalt.blogspot.com/2018/12/five-more-for-mothership.html
 published: 2018-12-01
 date: 2023-05-12
-modified:
+modified: 2026-05-31T21:39:52+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Science Fiction]]" 
-  - "[[Swn]]" 
-  - "[[Ttrpg]]" 
+lenses:
 publish: true
+topics:
+  - ttrpg
+  - scifi
 ---
 > [!example]- Process
 > 
