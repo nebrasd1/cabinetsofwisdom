@@ -1,14 +1,14 @@
 ---
-title: "Oxfam Says World Ruled by “Aristocratic Oligarchy,” as Billionaire Wealth Surges by $2 Trillion"
-author: "Andre Damon"
+title: Oxfam Says World Ruled by “Aristocratic Oligarchy,” as Billionaire Wealth Surges by $2 Trillion
+author: Andre Damon
 url: https://www.wsws.org/en/articles/2025/01/21/qlef-j21.html
 published: 2025-01-21
 date: 2025-01-30
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process
