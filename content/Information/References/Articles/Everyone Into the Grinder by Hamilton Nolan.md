@@ -1,16 +1,16 @@
 ---
-title: "Everyone Into the Grinder"
-author: "Hamilton Nolan"
+title: Everyone Into the Grinder
+author: Hamilton Nolan
 url: https://www.hamiltonnolan.com/p/everyone-into-the-grinder
 published: 2024-06-01
 date: 2024-07-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
