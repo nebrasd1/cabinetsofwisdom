@@ -1,13 +1,13 @@
 ---
-title: "Paid Parental Leave Should Not Exclude Any Parents. Period."
-author: "Matt Bruenig"
+title: Paid Parental Leave Should Not Exclude Any Parents. Period.
+author: Matt Bruenig
 url: https://jacobin.com/2023/05/minnesota-paid-parental-leave-income-benefit-exclusion/
 published: 2023-05-22
 date: 2023-05-22
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
