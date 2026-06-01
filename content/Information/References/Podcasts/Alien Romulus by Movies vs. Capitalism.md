@@ -1,13 +1,13 @@
 ---
 title: "Alien: Romulus"
-author: "Movies vs. Capitalism"
+author: Movies vs. Capitalism
 url: https://share.snipd.com/episode/22fc143c-39ad-46c7-b4eb-367123d2014e
-published: 
+published:
 date: 2024-11-25
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
