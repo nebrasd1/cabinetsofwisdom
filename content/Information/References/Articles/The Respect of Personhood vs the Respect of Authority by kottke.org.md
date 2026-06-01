@@ -4,15 +4,16 @@ author: kottke.org
 url: https://kottke.org/18/05/the-respect-of-personhood-vs-the-respect-of-authority
 published: 2018-05-17
 date: 2026-01-17
-modified:
+modified: 2026-05-31T21:34:39+03:00
 type: articles
 source: reader
 lenses:
   - "[[Injustice]]"
   - "[[Masculinity]]"
   - "[[Psychology]]"
-  - "[[Quote]]"
 publish: true
+tags:
+  - addto/quote
 ---
 > [!example]- Process
 > 
