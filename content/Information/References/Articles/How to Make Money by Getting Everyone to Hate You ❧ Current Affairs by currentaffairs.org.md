@@ -1,13 +1,13 @@
 ---
-title: "How to Make Money by Getting Everyone to Hate You ❧ Current Affairs"
-author: "currentaffairs.org"
+title: How to Make Money by Getting Everyone to Hate You ❧ Current Affairs
+author: currentaffairs.org
 url: https://www.currentaffairs.org/2021/06/how-to-make-money-by-getting-everyone-to-hate-you/
-published: 
+published:
 date: 2021-06-23
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
