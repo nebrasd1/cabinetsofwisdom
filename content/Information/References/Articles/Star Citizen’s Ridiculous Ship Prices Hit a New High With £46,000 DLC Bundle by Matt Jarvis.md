@@ -1,13 +1,13 @@
 ---
-title: "Star Citizen’s Ridiculous Ship Prices Hit a New High With £46,000 DLC Bundle"
-author: "Matt Jarvis"
+title: Star Citizen’s Ridiculous Ship Prices Hit a New High With £46,000 DLC Bundle
+author: Matt Jarvis
 url: https://www.rockpapershotgun.com/star-citizens-ridiculous-ship-prices-hit-a-new-high-with-46000-dlc-bundle
 published: 2024-01-05
 date: 2024-01-06
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -23,6 +23,6 @@ publish: true
 ### id655289215
 > a bundle of digital ships costing £46,000.
 
-👓 [[capitalism]]
+👓 [[capitalism|capitalism]]
 🔗 [View Highlight](https://read.readwise.io/read/01hkf17wkkx56ccqhr50gfn51q)
 
