@@ -1,15 +1,15 @@
 ---
-title: "The Moms Who Caught Me When the Safety Net Failed"
-author: "Adrianne Wright"
+title: The Moms Who Caught Me When the Safety Net Failed
+author: Adrianne Wright
 url: https://www.thenation.com/article/society/the-moms-who-caught-me-when-the-safety-net-failed/
 published: 2025-05-09
 date: 2025-05-27
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Hope]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Hope]]"
 publish: true
 ---
 > [!example]- Process
