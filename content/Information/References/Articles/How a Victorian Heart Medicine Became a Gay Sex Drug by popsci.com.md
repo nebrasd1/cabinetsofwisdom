@@ -1,13 +1,13 @@
 ---
-title: "How a Victorian Heart Medicine Became a Gay Sex Drug"
-author: "popsci.com"
+title: How a Victorian Heart Medicine Became a Gay Sex Drug
+author: popsci.com
 url: https://www.popsci.com/wake-up-smell-the-poppers/
-published: 
+published:
 date: 2020-12-20
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
