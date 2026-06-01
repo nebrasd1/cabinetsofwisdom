@@ -4,7 +4,7 @@ author: Jon Greenaway
 url: https://www.currentaffairs.org/news/andor-shows-us-what-popular-culture-could-be
 published: 2025-06-04
 date: 2025-06-18
-modified:
+modified: 2026-05-31T21:39:16+03:00
 type: articles
 source: reader
 lenses:
@@ -12,9 +12,10 @@ lenses:
   - "[[Hope]]"
   - "[[Injustice]]"
   - "[[Politics]]"
-  - "[[Science Fiction]]"
   - "[[Storytelling]]"
 publish: true
+topics:
+  - scifi
 ---
 > [!example]- Process
 > 
