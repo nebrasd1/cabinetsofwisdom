@@ -1,16 +1,16 @@
 ---
-title: "AMLO Is Reducing Poverty in Mexico"
-author: "Kurt Hackbarth"
+title: AMLO Is Reducing Poverty in Mexico
+author: Kurt Hackbarth
 url: https://jacobin.com/2023/08/amlo-poverty-mexico-wealth-inequality-politics-fourth-transformation/
 published: 2023-08-26
 date: 2023-08-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Propaganda]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
