@@ -1,16 +1,16 @@
 ---
-title: "Claudia Sheinbaum Stares Down Mexico’s Highest Court"
-author: "Kurt Hackbarth"
+title: Claudia Sheinbaum Stares Down Mexico’s Highest Court
+author: Kurt Hackbarth
 url: https://jacobin.com/2024/11/morena-sheinbaum-judicial-reform-lawfare/
 published: 2024-11-04
 date: 2024-11-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Hope]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Hope]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
