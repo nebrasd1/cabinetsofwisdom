@@ -1,13 +1,13 @@
 ---
 title: "S7 E4: Invisible Hand Guy?"
-author: "Scene on Radio"
+author: Scene on Radio
 url: https://share.snipd.com/episode/99cc95f7-4dee-47b8-a6a5-409dcbcd2890
-published: 
+published:
 date: 2024-10-22
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
