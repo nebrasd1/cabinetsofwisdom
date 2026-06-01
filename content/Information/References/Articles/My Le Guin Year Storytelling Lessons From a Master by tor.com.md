@@ -1,13 +1,13 @@
 ---
 title: "My Le Guin Year: Storytelling Lessons From a Master"
-author: "tor.com"
+author: tor.com
 url: https://www.tor.com/2022/03/10/my-le-guin-year-storytelling-lessons-from-a-master/
-published: 
+published:
 date: 2022-03-28
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
