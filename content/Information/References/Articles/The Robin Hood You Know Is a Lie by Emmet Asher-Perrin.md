@@ -1,15 +1,15 @@
 ---
-title: "The Robin Hood You Know Is a Lie"
-author: "Emmet Asher-Perrin"
+title: The Robin Hood You Know Is a Lie
+author: Emmet Asher-Perrin
 url: https://www.tor.com/2023/07/05/the-robin-hood-you-know-is-a-lie/
 published: 2023-07-05
 date: 2023-07-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Propaganda]]" 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[Propaganda]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process
