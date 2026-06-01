@@ -1,15 +1,15 @@
 ---
-title: "Breaking the Economics Discipline’s Austerity Consensus"
-author: "Clara E. Mattei"
+title: Breaking the Economics Discipline’s Austerity Consensus
+author: Clara E. Mattei
 url: https://jacobin.com/2025/02/center-for-heterodox-economics-che-tulsa/
 published: 2025-02-06
 date: 2025-02-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
