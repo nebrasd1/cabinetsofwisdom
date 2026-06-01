@@ -1,13 +1,13 @@
 ---
-title: "Is the Western way of raising kids weird?"
-author: "Kelly Oakes"
+title: Is the Western way of raising kids weird?
+author: Kelly Oakes
 url: https://www.bbc.com/future/article/20210222-the-unusual-ways-western-parents-raise-children
 published: 2021-02-22
 date: 2023-05-24
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
