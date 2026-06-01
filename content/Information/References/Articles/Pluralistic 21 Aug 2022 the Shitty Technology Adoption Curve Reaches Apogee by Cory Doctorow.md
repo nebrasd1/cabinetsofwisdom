@@ -1,13 +1,13 @@
 ---
 title: "Pluralistic: 21 Aug 2022 the Shitty Technology Adoption Curve Reaches Apogee"
-author: "Cory Doctorow"
+author: Cory Doctorow
 url: https://pluralistic.net/2022/08/21/great-taylors-ghost/
 published: 2022-08-21
 date: 2023-01-22
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
