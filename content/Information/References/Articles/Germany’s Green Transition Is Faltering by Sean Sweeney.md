@@ -1,15 +1,15 @@
 ---
-title: "Germany’s Green Transition Is Faltering"
-author: "Sean Sweeney"
+title: Germany’s Green Transition Is Faltering
+author: Sean Sweeney
 url: https://jacobin.com/2024/10/germany-green-energy-transition-labor/
 published: 2024-10-11
 date: 2024-10-13
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Environment]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Environment]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
