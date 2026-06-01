@@ -1,13 +1,13 @@
 ---
-title: "Will Northwestern Get Its Stadium, or Will Evanston Get a Fair Deal?"
-author: "Dave Zirin"
+title: Will Northwestern Get Its Stadium, or Will Evanston Get a Fair Deal?
+author: Dave Zirin
 url: https://www.thenation.com/article/society/northwestern-stadium-evanston/
 published: 2023-08-25
 date: 2023-08-27
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
