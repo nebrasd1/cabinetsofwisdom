@@ -4,7 +4,7 @@ author: Ann Larson
 url: https://www.thenation.com/article/society/retail-grocery-automation-esl-kroger/
 published: 2025-01-22
 date: 2025-01-22
-modified: 
+modified:
 type: articles
 source: reader
 lenses:
