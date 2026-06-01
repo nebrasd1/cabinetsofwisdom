@@ -1,13 +1,13 @@
 ---
 title: "The Garden and the Stream: A Technopastoral"
-author: "hapgood.us"
+author: hapgood.us
 url: https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
-published: 
+published:
 date: 2021-06-27
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -30,7 +30,7 @@ publish: true
 > The excitement here is in building complexity, not reducing it. More importantly note how meaning changes here. We probably know what the tweet would have “meant”, and what a blog post would have “meant”, but meaning here is something different. Instead of building an argument about the issue this attempts to build a model of the issue that can generate new understandings.
 
 ✏️ A key difference from simple blogging that tries to boil things down, simplify, and erase the shades of grey.
-👓 [[digital garden]]
+👓 [[digital garden|digital garden]]
 
 ### None
 > The Garden is the web as topology. The web as space. It’s the integrative web, the iterative web, the web as an arrangement and rearrangement of things to one another.
