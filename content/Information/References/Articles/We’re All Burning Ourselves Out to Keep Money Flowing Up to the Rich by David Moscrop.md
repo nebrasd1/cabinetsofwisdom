@@ -1,15 +1,15 @@
 ---
-title: "We’re All Burning Ourselves Out to Keep Money Flowing Up to the Rich"
-author: "David Moscrop"
+title: We’re All Burning Ourselves Out to Keep Money Flowing Up to the Rich
+author: David Moscrop
 url: https://jacobin.com/2023/11/burnout-overwork-working-conditions-leisure-rest-rich/
 published: 2023-11-14
 date: 2024-08-15
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
 publish: true
 ---
 > [!example]- Process
