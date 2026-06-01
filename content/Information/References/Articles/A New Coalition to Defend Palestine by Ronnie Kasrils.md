@@ -1,18 +1,18 @@
 ---
-title: "A New Coalition to Defend Palestine"
-author: "Ronnie Kasrils"
+title: A New Coalition to Defend Palestine
+author: Ronnie Kasrils
 url: https://jacobin.com/2025/02/hague-group-apartheid-israel-genocide/
 published: 2025-02-02
 date: 2025-02-03
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[History]]" 
-  - "[[Hope]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[History]]"
+  - "[[Hope]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
