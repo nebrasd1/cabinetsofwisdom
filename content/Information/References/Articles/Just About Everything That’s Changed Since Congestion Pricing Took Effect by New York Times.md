@@ -1,15 +1,15 @@
 ---
-title: "Just About Everything That’s Changed Since Congestion Pricing Took Effect"
-author: "New York Times"
+title: Just About Everything That’s Changed Since Congestion Pricing Took Effect
+author: New York Times
 url: https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html?unlocked_article_code=1.Gk8.Qb_b.AdexZtaIKBQ6
 published: 2025-05-12
 date: 2025-05-13
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Hope]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Hope]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
