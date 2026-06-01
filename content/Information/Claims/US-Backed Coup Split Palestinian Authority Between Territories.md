@@ -1,0 +1,11 @@
+---
+created: 2026-05-08
+modified: 2026-05-09T15:15:41+03:00
+source: "[[Before They Vowed to Annihilate Hamas, Israeli Officials Considered It an Asset by Alice Speri|Before They Vowed to Annihilate Hamas, Israeli Officials Considered It an Asset by Alice Speri]]"
+type: claim
+publish: true
+noRSS: true
+reviewed: true
+---
+
+![[Before They Vowed to Annihilate Hamas, Israeli Officials Considered It an Asset by Alice Speri#id610348333|US-Backed Coup Split Palestinian Authority Between Territories]]
