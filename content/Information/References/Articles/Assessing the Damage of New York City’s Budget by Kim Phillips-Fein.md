@@ -1,16 +1,16 @@
 ---
-title: "Assessing the Damage of New York City’s Budget"
-author: "Kim Phillips-Fein"
+title: Assessing the Damage of New York City’s Budget
+author: Kim Phillips-Fein
 url: https://jacobin.com/2023/07/assessing-the-damage-of-new-york-citys-budget/
 published: 2023-07-13
 date: 2023-07-19
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
-  - "[[Swn]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Socialism]]"
+  - "[[Swn]]"
 publish: true
 ---
 > [!example]- Process
