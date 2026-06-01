@@ -1,13 +1,13 @@
 ---
-title: "OpenAI Releases O1, Its First Model With ‘Reasoning’ Abilities"
-author: "Kylie Robison"
+title: OpenAI Releases O1, Its First Model With ‘Reasoning’ Abilities
+author: Kylie Robison
 url: https://www.theverge.com/2024/9/12/24242439/openai-o1-model-reasoning-strawberry-chatgpt
 published: 2024-09-12
 date: 2024-09-12
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -26,7 +26,7 @@ publish: true
 
 ✏️ We should be more critical of this subterfuge. It's not thinking, yet we're being tricked into assuming that.
  It's a dangerous and slippery slope.
-👓 [[propaganda]] [[ai]]
+👓 [[propaganda|propaganda]] [[ai|ai]]
 🔗 [View Highlight](https://read.readwise.io/read/01j7krbe8d0xf5458vdhxdt7by)
 
 ### id784768279
