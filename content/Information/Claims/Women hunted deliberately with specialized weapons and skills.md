@@ -1,0 +1,11 @@
+---
+created: 2026-05-06
+modified: 2026-05-06T13:50:05+03:00
+source: "[[Ancient Women Were Hunters — And Grandmas Were the Most Skilled Ones, Study Suggests by Nurith Aizenman|Ancient Women Were Hunters — And Grandmas Were the Most Skilled Ones, Study Suggests by Nurith Aizenman]]"
+type: claim
+publish: true
+noRSS: true
+reviewed: true
+---
+
+![[Ancient Women Were Hunters — And Grandmas Were the Most Skilled Ones, Study Suggests by Nurith Aizenman#id557094997|Women hunted deliberately with specialized weapons and skills]]
