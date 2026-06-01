@@ -1,13 +1,13 @@
 ---
 title: "“Everything Ends Someday” — Star Trek: Discovery Fifth Season Overview"
-author: "TorSarah"
+author: TorSarah
 url: https://reactormag.com/everything-ends-someday-star-trek-discovery-fifth-season-overview/
 published: 2024-06-20
 date: 2024-06-24
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
