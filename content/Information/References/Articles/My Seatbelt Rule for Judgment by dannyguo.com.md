@@ -1,13 +1,13 @@
 ---
-title: "My Seatbelt Rule for Judgment"
-author: "dannyguo.com"
+title: My Seatbelt Rule for Judgment
+author: dannyguo.com
 url: https://www.dannyguo.com/blog/my-seatbelt-rule-for-judgment/
 published: 2022-02-06
 date: 2022-03-07
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
