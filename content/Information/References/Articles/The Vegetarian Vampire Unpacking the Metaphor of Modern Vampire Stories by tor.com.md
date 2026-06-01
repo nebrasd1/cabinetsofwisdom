@@ -1,13 +1,13 @@
 ---
 title: "The Vegetarian Vampire: Unpacking the Metaphor of Modern Vampire Stories"
-author: "tor.com"
+author: tor.com
 url: https://www.tor.com/2020/11/30/the-vegetarian-vampire-unpacking-the-metaphor-of-modern-vampire-stories/
-published: 
+published:
 date: 2020-12-16
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
