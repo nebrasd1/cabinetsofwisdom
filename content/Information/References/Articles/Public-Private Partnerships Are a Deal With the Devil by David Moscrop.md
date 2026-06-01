@@ -1,15 +1,15 @@
 ---
-title: "Public-Private Partnerships Are a Deal With the Devil"
-author: "David Moscrop"
+title: Public-Private Partnerships Are a Deal With the Devil
+author: David Moscrop
 url: https://jacobin.com/2023/07/public-private-partnerships-deal-with-the-devil-p3s-canada-ottawa-ltr/
 published: 2023-07-17
 date: 2023-08-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
