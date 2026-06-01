@@ -1,14 +1,19 @@
 ---
-title: "The Strange Origin Story Behind This Iconic Masterpiece"
-author: "DamiLee"
+title: The Strange Origin Story Behind This Iconic Masterpiece
+author: DamiLee
 url: https://www.youtube.com/watch?v=cMx5ajcWnMU
 published: 2024-06-29
 date: 2024-09-05
-modified:
+modified: 2026-05-31T21:20:17+03:00
 type: articles
 source: reader
-lenses: 
+lenses:
+  - "[[Storytelling]]"
+  - "[[History]]"
 publish: true
+topics:
+  - worldbuilding
+  - scifi
 ---
 > [!example]- Process
 > 
@@ -29,7 +34,6 @@ publish: true
  Lang visits and is inspired, makes Metropolis, with it's iconic megacity of elite on top, and workers on bottom layer.
  This is inspiration for all things cyberpunk honestly.. akira, bladerunner, and any creation of a city with stratified layers of social class.
  Just a thought experiment about the the causality of things.. how so much would be different if he hadn't visited NYC.. if he went to a city developing differently, etc.
-👓 [[worldbuilding]] [[history]] [[science fiction]] [[narrative]]
 🔗 [View Highlight](https://read.readwise.io/read/01j70px6ny28wspwqec48zehsn)
 
 ### id781426795
