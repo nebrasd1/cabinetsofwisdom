@@ -1,14 +1,14 @@
 ---
-title: "A Book Is a Book Is a Book—Except When It’s an E-Book"
-author: "Maria Bustillos"
+title: A Book Is a Book Is a Book—Except When It’s an E-Book
+author: Maria Bustillos
 url: https://www.thenation.com/article/culture/internet-archive-lawsuit-libraries-books/
 published: 2023-08-30
 date: 2023-08-31
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process
