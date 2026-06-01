@@ -10,7 +10,7 @@ source: reader
 lenses:
   - "[[Injustice]]"
   - "[[Masculinity]]"
-  - "[[Women]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process
