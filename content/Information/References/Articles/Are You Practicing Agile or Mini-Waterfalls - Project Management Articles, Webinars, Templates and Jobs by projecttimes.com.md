@@ -1,13 +1,13 @@
 ---
-title: "Are You Practicing Agile or Mini-Waterfalls? - Project Management Articles, Webinars, Templates and Jobs"
-author: "projecttimes.com"
+title: Are You Practicing Agile or Mini-Waterfalls? - Project Management Articles, Webinars, Templates and Jobs
+author: projecttimes.com
 url: https://www.projecttimes.com/articles/are-you-practicing-agile-or-mini-waterfalls/
-published: 
+published:
 date: 2022-01-25
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
