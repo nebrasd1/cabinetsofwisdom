@@ -1,16 +1,16 @@
 ---
-title: "What Felt Impossible Became Possible"
-author: "dansinker.com"
+title: What Felt Impossible Became Possible
+author: dansinker.com
 url: https://dansinker.com/posts/2025-02-23-dale/
 published: 2025-02-24
 date: 2025-02-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Hope]]" 
-  - "[[Racism]]" 
+lenses:
+  - "[[History]]"
+  - "[[Hope]]"
+  - "[[Racism]]"
 publish: true
 ---
 > [!example]- Process
