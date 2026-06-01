@@ -4,11 +4,10 @@ author: Eric W. Dolan
 url: https://www.psypost.org/2023/06/psychologists-have-identified-a-pervasive-illusion-that-has-existed-for-at-least-70-years-166017
 published: 2023-06-27
 date: 2024-01-03
-modified: 2025-05-10T08:33:50+03:00
+modified: 2026-05-31T21:13:47+03:00
 type: articles
 source: reader
 lenses:
-  - "[[Collaboration]]"
   - "[[Psychology]]"
 publish: true
 ---
