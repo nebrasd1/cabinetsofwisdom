@@ -1,13 +1,13 @@
 ---
 title: "Never Say You Can’t Survive: The Unexamined Story Is Not Worth Writing"
-author: "tor.com"
+author: tor.com
 url: https://www.tor.com/2020/09/22/never-say-you-cant-survive-the-unexamined-story-is-not-worth-writing/
-published: 
+published:
 date: 2020-12-22
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
