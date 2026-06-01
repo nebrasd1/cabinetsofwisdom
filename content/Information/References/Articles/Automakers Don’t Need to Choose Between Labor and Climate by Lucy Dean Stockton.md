@@ -1,16 +1,16 @@
 ---
-title: "Automakers Don’t Need to Choose Between Labor and Climate"
-author: "Lucy Dean Stockton"
+title: Automakers Don’t Need to Choose Between Labor and Climate
+author: Lucy Dean Stockton
 url: https://www.thenation.com/article/archive/automakers-dont-need-to-choose-between-labor-and-climate/
 published: 2023-09-27
 date: 2023-09-27
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
