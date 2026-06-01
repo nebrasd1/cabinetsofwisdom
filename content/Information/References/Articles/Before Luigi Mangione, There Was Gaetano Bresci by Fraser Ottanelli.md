@@ -1,16 +1,16 @@
 ---
-title: "Before Luigi Mangione, There Was Gaetano Bresci"
-author: "Fraser Ottanelli"
+title: Before Luigi Mangione, There Was Gaetano Bresci
+author: Fraser Ottanelli
 url: https://jacobin.com/2025/05/mangione-bresci-power-exploitation-repression/
 published: 2025-05-22
 date: 2025-05-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Anarchy]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Anarchy]]"
+  - "[[History]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
