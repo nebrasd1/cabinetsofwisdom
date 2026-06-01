@@ -1,16 +1,16 @@
 ---
-title: "How Leonard Leo Weaponized the Courts Against Democracy"
-author: "Jeet Heer"
+title: How Leonard Leo Weaponized the Courts Against Democracy
+author: Jeet Heer
 url: https://www.thenation.com/article/politics/leonard-leo-federalist-society-courts/
 published: 2023-10-13
 date: 2023-10-14
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
