@@ -1,17 +1,17 @@
 ---
-title: "Disaster Capitalists Are Circling Maui Like Buzzards"
-author: "Guthrie Scrimgeour"
+title: Disaster Capitalists Are Circling Maui Like Buzzards
+author: Guthrie Scrimgeour
 url: https://jacobin.com/2023/08/diaster-capitalism-maui-hawaii-real-estate-opportunism-climate-crisis-wildfires/
 published: 2023-08-24
 date: 2023-08-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
