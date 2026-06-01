@@ -1,14 +1,14 @@
 ---
-title: "True Democracy Is Incompatible With Capitalism"
-author: "Grace Blakeley"
+title: True Democracy Is Incompatible With Capitalism
+author: Grace Blakeley
 url: https://jacobin.com/2023/06/democracy-retreat-capitalism-authoritarianism-crisis/
 published: 2023-06-17
 date: 2023-06-19
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process
