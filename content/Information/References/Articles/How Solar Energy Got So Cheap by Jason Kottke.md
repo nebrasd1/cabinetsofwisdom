@@ -1,13 +1,13 @@
 ---
-title: "How Solar Energy Got So Cheap"
-author: "Jason Kottke"
+title: How Solar Energy Got So Cheap
+author: Jason Kottke
 url: https://kottke.org/23/04/how-solar-energy-got-so-cheap
 published: 2023-04-13
 date: 2023-04-15
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
