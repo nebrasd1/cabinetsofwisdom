@@ -4,7 +4,7 @@ author: David Moscrop
 url: https://jacobin.com/2025/01/digital-ownership-physical-media-control/
 published: 2025-01-02
 date: 2025-01-27
-modified: 
+modified:
 type: articles
 source: reader
 lenses:
