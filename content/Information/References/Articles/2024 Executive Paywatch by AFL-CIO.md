@@ -1,14 +1,14 @@
 ---
-title: "2024 Executive Paywatch"
-author: "AFL-CIO"
+title: 2024 Executive Paywatch
+author: AFL-CIO
 url: https://aflcio.org/paywatch
-published: 
+published:
 date: 2025-02-25
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process
