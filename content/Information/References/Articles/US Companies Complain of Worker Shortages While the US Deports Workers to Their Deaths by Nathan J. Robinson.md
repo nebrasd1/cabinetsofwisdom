@@ -1,13 +1,13 @@
 ---
-title: "US Companies Complain of Worker Shortages While the US Deports Workers to Their Deaths"
-author: "Nathan J. Robinson"
+title: US Companies Complain of Worker Shortages While the US Deports Workers to Their Deaths
+author: Nathan J. Robinson
 url: https://www.currentaffairs.org/2023/03/us-companies-complain-of-worker-shortages-while-the-us-deports-workers-to-their-deaths/
 published: 2023-03-29
 date: 2023-04-03
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
