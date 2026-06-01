@@ -1,16 +1,16 @@
 ---
-title: "The AFL-CIO Has a Damning New Report on CEO Pay"
-author: "Paul Prescod"
+title: The AFL-CIO Has a Damning New Report on CEO Pay
+author: Paul Prescod
 url: https://jacobin.com/2024/08/inflation-ceo-pay-harris-walz/
 published: 2024-08-16
 date: 2024-08-17
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
