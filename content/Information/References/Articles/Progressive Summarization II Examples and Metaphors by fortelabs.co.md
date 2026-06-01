@@ -1,13 +1,13 @@
 ---
 title: "Progressive Summarization II: Examples and Metaphors"
-author: "fortelabs.co"
+author: fortelabs.co
 url: https://fortelabs.co/blog/progressive-summarization-ii-examples-and-metaphors/
-published: 
+published:
 date: 2021-06-28
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
