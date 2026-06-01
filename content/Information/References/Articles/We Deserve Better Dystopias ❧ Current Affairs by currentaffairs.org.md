@@ -1,13 +1,13 @@
 ---
-title: "We Deserve Better Dystopias ❧ Current Affairs"
-author: "currentaffairs.org"
+title: We Deserve Better Dystopias ❧ Current Affairs
+author: currentaffairs.org
 url: https://www.currentaffairs.org/2021/05/we-deserve-better-dystopias/
-published: 
+published:
 date: 2021-06-04
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
