@@ -1,15 +1,15 @@
 ---
 title: "Salvador Allende: “I Am Essentially a Man of Action”"
-author: "Salvador Allende"
+author: Salvador Allende
 url: https://jacobin.com/2023/09/salvador-allende-regis-debray-interview-socialist-politics-right-wing-reaction/
 published: 2023-09-10
 date: 2023-09-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[History]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
@@ -30,7 +30,7 @@ publish: true
 > All the essentially theoretical works, so to speak, like Bakunin, for example, but the most important thing was Demarchi’s commentaries because I didn’t have the temperament for reading in depth; he explained things to me with the simplicity and clarity that one finds in self-taught workers.
 
 ✏️ Such a cool character concept. The shoemaker anarchist mentor.
-👓 [[ttrpg]] [[character]]
+👓 [[ttrpg|ttrpg]] [[character|character]]
 🔗 [View Highlight](https://read.readwise.io/read/01ha4j8ztfynr671svka8eaz3x)
 
 ### id594813951
