@@ -1,15 +1,15 @@
 ---
 title: "The Teamsters’ UPS Contract: Incomplete, but Amazingly Strong"
-author: "Barry Eidlin"
+author: Barry Eidlin
 url: https://jacobin.com/2023/08/teamsters-ups-contract-part-time-pay-tier-system-strike-organizing/
 published: 2023-08-11
 date: 2023-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Empowerment]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Empowerment]]"
 publish: true
 ---
 > [!example]- Process
