@@ -1,13 +1,13 @@
 ---
-title: "After Blocking Lockheed Martin Acquisition, FTC Allows Another Defense Firm to Close the Deal"
-author: "Austin Ahlman"
+title: After Blocking Lockheed Martin Acquisition, FTC Allows Another Defense Firm to Close the Deal
+author: Austin Ahlman
 url: https://theintercept.com/2023/08/31/ftc-defense-mergers-lockheed-l3harris/
 published: 2023-08-31
 date: 2023-09-01
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
