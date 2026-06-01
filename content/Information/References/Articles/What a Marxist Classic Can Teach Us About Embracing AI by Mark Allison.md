@@ -1,16 +1,16 @@
 ---
-title: "What a Marxist Classic Can Teach Us About Embracing AI"
-author: "Mark Allison"
+title: What a Marxist Classic Can Teach Us About Embracing AI
+author: Mark Allison
 url: https://jacobin.com/2023/07/harry-braverman-labor-and-monopoly-capital-artifical-intelligence-labor-process-production/
 published: 2023-07-03
 date: 2023-07-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Ai]]" 
-  - "[[Capitalism]]" 
-  - "[[Empowerment]]" 
+lenses:
+  - "[[Ai]]"
+  - "[[Capitalism]]"
+  - "[[Empowerment]]"
 publish: true
 ---
 > [!example]- Process
