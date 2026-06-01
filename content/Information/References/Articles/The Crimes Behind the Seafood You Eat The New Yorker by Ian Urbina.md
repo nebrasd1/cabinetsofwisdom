@@ -27,7 +27,7 @@ publish: true
 ### id649322679
 > In the past few decades, partly in an effort to project its influence abroad, China has dramatically expanded its distant-water fishing fleet. Chinese firms now own or operate terminals in ninety-five foreign ports. China estimates that it has twenty-seven hundred distant-water fishing ships, though this figure does not include vessels in contested waters; public records and satellite imaging suggest that the fleet may be closer to sixty-five hundred ships. (The U.S. and the E.U., by contrast, have fewer than three hundred distant-water fishing vessels each.) Some ships that appear to be fishing vessels press territorial claims in contested waters, including in the South China Sea and around Taiwan. “This may look like a fishing fleet, but, in certain places, it’s also serving military purposes,” Ian Ralby, who runs I.R. Consilium, a maritime-security firm, told me. China’s preëminence at sea has come at a cost. The country is largely unresponsive to international laws, and its fleet is the worst perpetrator of illegal fishing in the world, helping drive species to the brink of extinction. Its ships are also rife with labor trafficking, debt bondage, violence, criminal neglect, and death. “The human-rights abuses on these ships are happening on an industrial and global scale
 
-✏️ [[SWN]]
+✏️ [[SWN|SWN]]
  Faction that cares about controlling an industry at whatever cost.. ignoring laws, safety, human rights, etc.
 🔗 [View Highlight](https://read.readwise.io/read/01hjqq8fgsjbb5g8t6j1mf3dr3)
 
