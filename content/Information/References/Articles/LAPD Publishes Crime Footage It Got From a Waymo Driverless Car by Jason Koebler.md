@@ -4,7 +4,7 @@ author: Jason Koebler
 url: https://www.404media.co/lapd-publishes-crime-footage-it-got-from-a-waymo-driverless-car/
 published: 2025-04-16
 date: 2025-04-17
-modified: 
+modified:
 type: articles
 source: reader
 lenses:
