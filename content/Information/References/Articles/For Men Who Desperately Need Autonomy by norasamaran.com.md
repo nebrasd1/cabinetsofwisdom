@@ -1,13 +1,13 @@
 ---
-title: "For Men Who Desperately Need Autonomy"
-author: "norasamaran.com"
+title: For Men Who Desperately Need Autonomy
+author: norasamaran.com
 url: https://norasamaran.com/2016/07/21/for-men-who-desperately-need-autonomy-make-it-dont-take-it/
-published: 
+published:
 date: 2020-12-23
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
