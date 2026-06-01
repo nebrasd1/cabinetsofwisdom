@@ -1,15 +1,15 @@
 ---
-title: "We’re in a Class War. Jane McAlevey Actually Acted Like It."
-author: "jacobin.com"
+title: We’re in a Class War. Jane McAlevey Actually Acted Like It.
+author: jacobin.com
 url: https://jacobin.com/2024/07/jane-mcalevey-labor-movement-obituary
-published: 
+published:
 date: 2024-08-14
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
 publish: true
 ---
 > [!example]- Process
