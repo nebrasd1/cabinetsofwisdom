@@ -1,14 +1,14 @@
 ---
-title: "Illustrating the Wisdom of Universal Benefits"
-author: "Matt Bruenig"
+title: Illustrating the Wisdom of Universal Benefits
+author: Matt Bruenig
 url: https://www.peoplespolicyproject.org/2021/11/30/illustrating-the-wisdom-of-universal-benefits/
 published: 2021-11-30
 date: 2024-11-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
