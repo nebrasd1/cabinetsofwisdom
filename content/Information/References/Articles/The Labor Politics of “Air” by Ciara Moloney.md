@@ -1,15 +1,15 @@
 ---
-title: "The Labor Politics of “Air”"
-author: "Ciara Moloney"
+title: The Labor Politics of “Air”
+author: Ciara Moloney
 url: https://www.currentaffairs.org/2023/09/the-labor-politics-of-air/
 published: 2023-09-04
 date: 2023-09-05
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
 publish: true
 ---
 > [!example]- Process
