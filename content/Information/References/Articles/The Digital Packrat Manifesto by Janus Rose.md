@@ -4,14 +4,13 @@ author: Janus Rose
 url: https://www.404media.co/the-digital-packrat-manifesto/
 published: 2025-02-28
 date: 2025-04-28
-modified: 2025-05-07T13:22:09+03:00
+modified: 2026-05-31T21:15:31+03:00
 type:
   - articles
 source:
   - reader
 lenses:
   - "[[Community]]"
-  - "[[Culture]]"
   - "[[Propaganda]]"
   - "[[Technology]]"
 publish: true
