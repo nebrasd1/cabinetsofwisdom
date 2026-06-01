@@ -1,13 +1,13 @@
 ---
-title: "How Feminism Shaped the Carceral State ❧ Current Affairs"
-author: "currentaffairs.org"
+title: How Feminism Shaped the Carceral State ❧ Current Affairs
+author: currentaffairs.org
 url: https://www.currentaffairs.org/2022/02/how-feminism-shaped-the-carceral-state/
-published: 
+published:
 date: 2022-03-07
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
