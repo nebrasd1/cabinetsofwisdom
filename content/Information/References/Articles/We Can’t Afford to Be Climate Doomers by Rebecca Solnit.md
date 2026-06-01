@@ -1,16 +1,16 @@
 ---
-title: "We Can’t Afford to Be Climate Doomers"
-author: "Rebecca Solnit"
+title: We Can’t Afford to Be Climate Doomers
+author: Rebecca Solnit
 url: https://www.theguardian.com/commentisfree/2023/jul/26/we-cant-afford-to-be-climate-doomers
 published: 2023-07-26
 date: 2023-08-06
-modified:
+modified: 2026-05-31T21:43:57+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Propaganda]]" 
-  - "[[Psychology]]" 
-  - "[[Toxic]]" 
+lenses:
+  - "[[Propaganda]]"
+  - "[[Psychology]]"
+  - "[[Environment]]"
 publish: true
 ---
 > [!example]- Process
