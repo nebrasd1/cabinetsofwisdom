@@ -1,13 +1,13 @@
 ---
-title: "Laurie Penny on the Sexual Revolution ❧ Current Affairs"
-author: "currentaffairs.org"
+title: Laurie Penny on the Sexual Revolution ❧ Current Affairs
+author: currentaffairs.org
 url: https://www.currentaffairs.org/2022/04/laurie-penny-on-the-sexual-revolution/
-published: 
+published:
 date: 2022-05-22
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
