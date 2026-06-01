@@ -1,15 +1,15 @@
 ---
-title: "What Is the Value of “Intellectual Diversity”?"
-author: "More from Nathan J. Robinson"
+title: What Is the Value of “Intellectual Diversity”?
+author: More from Nathan J. Robinson
 url: https://www.currentaffairs.org/news/2021/06/what-is-the-value-of-intellectual-diversity
 published: 2021-06-24
 date: 2025-05-05
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Propaganda]]" 
-  - "[[Psychology]]" 
+lenses:
+  - "[[Propaganda]]"
+  - "[[Psychology]]"
 publish: true
 ---
 > [!example]- Process
