@@ -1,14 +1,14 @@
 ---
 title: "Ted Chiang: “ChatGPT Is a Blurry JPEG of the Web”"
-author: "kottke.org"
+author: kottke.org
 url: https://kottke.org/23/02/ted-chiang-chatgpt-is-a-blurry-jpeg-of-the-web
 published: 2023-02-09
 date: 2023-02-10
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Favorite]]" 
+lenses:
+  - "[[Favorite]]"
 publish: true
 ---
 > [!example]- Process
