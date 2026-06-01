@@ -1,15 +1,15 @@
 ---
-title: "Advanced NPC Roleplaying Templates"
-author: "thealexandrian.net"
+title: Advanced NPC Roleplaying Templates
+author: thealexandrian.net
 url: https://thealexandrian.net/wordpress/46250/roleplaying-games/advanced-npc-templates
 published: 2021-04-30
 date: 2023-09-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Gmstuff]]" 
-  - "[[Ttrpg]]" 
+lenses:
+  - "[[Gmstuff]]"
+  - "[[Ttrpg]]"
 publish: true
 ---
 > [!example]- Process
