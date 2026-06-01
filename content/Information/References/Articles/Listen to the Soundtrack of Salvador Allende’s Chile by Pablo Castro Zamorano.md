@@ -1,15 +1,15 @@
 ---
-title: "Listen to the Soundtrack of Salvador Allende’s Chile"
-author: "Pablo Castro Zamorano"
+title: Listen to the Soundtrack of Salvador Allende’s Chile
+author: Pablo Castro Zamorano
 url: https://jacobin.com/2023/09/salvador-allende-popular-unity-music-art-culture-irt-rca-coup/
 published: 2023-09-10
 date: 2023-09-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[History]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
