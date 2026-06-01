@@ -1,14 +1,14 @@
 ---
-title: "The Vast Fortune of This Auto Boss Is More Than Enough to Make Your Blood Boil"
-author: "Derek Seidman"
+title: The Vast Fortune of This Auto Boss Is More Than Enough to Make Your Blood Boil
+author: Derek Seidman
 url: https://jacobin.com/2023/09/john-elkann-stellantis-chair-exor-billionaire-dynasty-uaw-strike/
 published: 2023-09-22
 date: 2023-09-27
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process
