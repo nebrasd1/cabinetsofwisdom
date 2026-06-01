@@ -1,14 +1,14 @@
 ---
-title: "Opinion | It’s Time to Tax the Billionaires - The New York Times"
-author: "archive.is"
+title: Opinion | It’s Time to Tax the Billionaires - The New York Times
+author: archive.is
 url: https://archive.is/ZLb6N
 published: 2024-06-13
 date: 2024-09-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process
