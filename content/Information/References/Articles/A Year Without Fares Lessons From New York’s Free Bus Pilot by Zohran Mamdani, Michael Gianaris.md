@@ -1,14 +1,14 @@
 ---
 title: "A Year Without Fares: Lessons From New York’s Free Bus Pilot"
-author: "Zohran Mamdani, Michael Gianaris"
+author: Zohran Mamdani, Michael Gianaris
 url: https://www.thenation.com/article/society/new-york-city-bus-free-fare/
 published: 2024-09-06
 date: 2024-09-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
