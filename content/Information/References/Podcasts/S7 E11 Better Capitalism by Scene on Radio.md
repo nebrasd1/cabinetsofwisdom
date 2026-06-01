@@ -1,13 +1,13 @@
 ---
 title: "S7 E11: Better Capitalism?"
-author: "Scene on Radio"
+author: Scene on Radio
 url: https://share.snipd.com/episode/3fd4f82a-014a-4187-b1e4-8a87e869faaf
-published: 
+published:
 date: 2024-12-04
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
