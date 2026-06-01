@@ -1,17 +1,17 @@
 ---
-title: "Honduras Ratchets Up Battle With Crypto-Libertarian Investors, Rejects World Bank Court"
-author: "Ryan Grim"
+title: Honduras Ratchets Up Battle With Crypto-Libertarian Investors, Rejects World Bank Court
+author: Ryan Grim
 url: https://theintercept.com/2024/03/19/honduras-crypto-investors-world-bank-prospera/
 published: 2024-03-19
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Colonialism]]" 
-  - "[[Exploitation]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Colonialism]]"
+  - "[[Exploitation]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
