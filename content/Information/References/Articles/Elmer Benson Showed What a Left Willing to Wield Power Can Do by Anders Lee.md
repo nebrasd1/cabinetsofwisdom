@@ -1,16 +1,16 @@
 ---
-title: "Elmer Benson Showed What a Left Willing to Wield Power Can Do"
-author: "Anders Lee"
+title: Elmer Benson Showed What a Left Willing to Wield Power Can Do
+author: Anders Lee
 url: https://jacobin.com/2023/09/elmer-benson-governor-minnesota-farmer-labor-party-executive-action-strikes-national-guard/
 published: 2023-09-13
 date: 2023-09-17
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
