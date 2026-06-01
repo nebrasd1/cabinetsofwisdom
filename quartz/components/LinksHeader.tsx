@@ -17,16 +17,16 @@ export default (() => {
             <a href="/Output/Writings/">🌱Writings</a>
           </span>
           <span>
+          <a href="/Information/Lenses/">🔎Lenses</a>
+          </span>
+          <span>
+          <a href="/Information/Questions/">❓Questions</a>
+          </span>
+          <span>
             <a href="/Information/References/">🗂️References</a>
           </span>
           <span>
-            <a href="/Information/Lenses/">🔎Lenses</a>
-          </span>
-          <span>
-            <a href="/Information/Questions/">❓Questions</a>
-          </span>
-          <span>
-            <a href="/Output/Mistakes">📝Mistakes</a>
+            <a href="/Site Meta/Mistakes">📝Mistakes</a>
           </span>
         </div>
       <hr style="background-color: var(--gray); border-top: 1px var(--gray) solid; margin-top: 1.3rem"></hr>

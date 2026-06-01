@@ -30,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ConditionalRender({
       component: Component.Properties(),
-      condition: (page) => page.fileData.slug.startsWith("Information/References"),
+      condition: (page) => page.fileData.slug.startsWith("Information"),
     }),
     Component.TagList(),
   ],
@@ -56,6 +56,7 @@ export const defaultContentPageLayout: PageLayout = {
         linkToMore: "Output/" as SimpleSlug,
       }),
     ),
+/*removing highlights
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "RECENT HIGHLIGHTS",
@@ -64,6 +65,7 @@ export const defaultContentPageLayout: PageLayout = {
         linkToMore: "Information/References/" as SimpleSlug,
       }),
     ),
+*/
   ],
   right: [
     //Component.Graph(),
@@ -97,6 +99,7 @@ export const defaultListPageLayout: PageLayout = {
         linkToMore: "Output/" as SimpleSlug,
       }),
     ),
+/*removing highlights
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "RECENT HIGHLIGHTS",
@@ -105,6 +108,7 @@ export const defaultListPageLayout: PageLayout = {
         linkToMore: "Information/References/" as SimpleSlug,
       }),
     ),
+*/
   ],
   right: [],
 }
