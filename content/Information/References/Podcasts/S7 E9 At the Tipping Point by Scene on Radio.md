@@ -1,13 +1,13 @@
 ---
 title: "S7 E9: At the Tipping Point"
-author: "Scene on Radio"
+author: Scene on Radio
 url: https://share.snipd.com/episode/8bb31330-eb56-40b6-9914-98606ca0b04a
-published: 
+published:
 date: 2024-11-27
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
