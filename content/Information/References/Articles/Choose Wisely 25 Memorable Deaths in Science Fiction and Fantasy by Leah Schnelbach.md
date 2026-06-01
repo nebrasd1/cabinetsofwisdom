@@ -1,13 +1,13 @@
 ---
 title: "Choose Wisely: 25 Memorable Deaths in Science Fiction and Fantasy"
-author: "Leah Schnelbach"
+author: Leah Schnelbach
 url: https://www.inoreader.com/article/3a9c6e7a3c0e7464-choose-wisely-25-memorable-deaths-in-science-fiction-and-fantasy
-published: 
+published:
 date: 2022-03-16
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
