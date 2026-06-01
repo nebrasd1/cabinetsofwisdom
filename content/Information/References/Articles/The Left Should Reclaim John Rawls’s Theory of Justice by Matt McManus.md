@@ -1,15 +1,15 @@
 ---
-title: "The Left Should Reclaim John Rawls’s Theory of Justice"
-author: "Matt McManus"
+title: The Left Should Reclaim John Rawls’s Theory of Justice
+author: Matt McManus
 url: https://jacobin.com/2023/09/john-rawls-theory-of-justice-radical-philosophy-book-review/
 published: 2023-09-06
 date: 2023-09-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
