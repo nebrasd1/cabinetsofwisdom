@@ -1,13 +1,13 @@
 ---
-title: "Mehdi Hasan on How to Argue and Win"
-author: "Current Affairs"
+title: Mehdi Hasan on How to Argue and Win
+author: Current Affairs
 url: https://www.currentaffairs.org/2023/04/mehdi-hasan-on-how-to-argue-and-win/
-published: 
+published:
 date: 2023-04-15
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
