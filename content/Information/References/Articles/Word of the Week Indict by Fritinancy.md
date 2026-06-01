@@ -1,13 +1,13 @@
 ---
 title: "Word of the Week: Indict"
-author: "Fritinancy"
+author: Fritinancy
 url: https://nancyfriedman.typepad.com/away_with_words/2023/04/word-of-the-week-indict.html
 published: 2023-04-03
 date: 2023-04-19
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
