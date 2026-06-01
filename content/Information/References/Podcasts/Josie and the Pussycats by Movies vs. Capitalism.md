@@ -1,13 +1,13 @@
 ---
-title: "Josie and the Pussycats"
-author: "Movies vs. Capitalism"
+title: Josie and the Pussycats
+author: Movies vs. Capitalism
 url: https://share.snipd.com/episode/52ca8af9-e8ac-4641-bfb8-6b1541b90a9a
-published: 
+published:
 date: 2024-12-18
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
