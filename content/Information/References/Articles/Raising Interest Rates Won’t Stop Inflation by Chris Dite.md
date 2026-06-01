@@ -1,13 +1,13 @@
 ---
-title: "Raising Interest Rates Won’t Stop Inflation"
-author: "Chris Dite"
+title: Raising Interest Rates Won’t Stop Inflation
+author: Chris Dite
 url: https://jacobin.com/2023/06/reserve-bank-of-australia-interest-rate-hike-inflation-corporate-greed-workers/
 published: 2023-06-10
 date: 2023-06-10
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
