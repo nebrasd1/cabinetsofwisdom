@@ -1,15 +1,15 @@
 ---
-title: "The Rich Want You to Fear Tax Fairness"
-author: "Jim Stanford"
+title: The Rich Want You to Fear Tax Fairness
+author: Jim Stanford
 url: https://jacobin.com/2024/08/capital-gains-tax-canada-inequality/
 published: 2024-08-31
 date: 2024-09-01
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
