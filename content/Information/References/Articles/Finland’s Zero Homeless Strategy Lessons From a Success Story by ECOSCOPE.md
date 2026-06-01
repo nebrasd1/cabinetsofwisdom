@@ -1,17 +1,17 @@
 ---
 title: "Finland’s Zero Homeless Strategy: Lessons From a Success Story"
-author: "ECOSCOPE"
+author: ECOSCOPE
 url: https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/
 published: 2021-12-13
 date: 2025-01-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Hope]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[History]]"
+  - "[[Hope]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
