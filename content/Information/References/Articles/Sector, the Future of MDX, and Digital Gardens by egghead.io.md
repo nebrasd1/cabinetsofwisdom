@@ -1,13 +1,13 @@
 ---
-title: "Sector, the Future of MDX, and Digital Gardens"
-author: "egghead.io"
+title: Sector, the Future of MDX, and Digital Gardens
+author: egghead.io
 url: https://egghead.io/lessons/egghead-sector-the-future-of-mdx-and-digital-gardens
-published: 
+published:
 date: 2021-07-15
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
