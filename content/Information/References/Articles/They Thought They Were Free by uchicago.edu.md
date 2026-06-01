@@ -1,19 +1,20 @@
 ---
-title: "They Thought They Were Free"
-author: "uchicago.edu"
+title: They Thought They Were Free
+author: uchicago.edu
 url: https://press.uchicago.edu/Misc/Chicago/511928.htm
-published: 
+published:
 date: 2024-12-19
-modified:
+modified: 2026-05-31T21:34:59+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Fascism]]" 
-  - "[[History]]" 
-  - "[[Injustice]]" 
-  - "[[Psychology]]" 
-  - "[[Quote]]" 
+lenses:
+  - "[[Fascism]]"
+  - "[[History]]"
+  - "[[Injustice]]"
+  - "[[Psychology]]"
 publish: true
+tags:
+  - addto/quote
 ---
 > [!example]- Process
 > 
