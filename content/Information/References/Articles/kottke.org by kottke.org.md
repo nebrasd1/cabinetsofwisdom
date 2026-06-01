@@ -1,13 +1,13 @@
 ---
-title: "kottke.org"
-author: "kottke.org"
+title: kottke.org
+author: kottke.org
 url: https://kottke.org/20/11/rebecca-solnit-we-dont-need-to-meet-nazis-halfway
-published: 
+published:
 date: 2020-12-15
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
