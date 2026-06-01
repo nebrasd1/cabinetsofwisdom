@@ -1,17 +1,17 @@
 ---
-title: "Putin’s Night of the Long Knives"
-author: "James Risen"
+title: Putin’s Night of the Long Knives
+author: James Risen
 url: https://theintercept.com/2023/08/24/yevgeny-prigozhin-death-nazis/
-published: 
+published:
 date: 2023-08-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Character]]" 
-  - "[[Politics]]" 
-  - "[[Swn]]" 
-  - "[[Worldbuilding]]" 
+lenses:
+  - "[[Character]]"
+  - "[[Politics]]"
+  - "[[Swn]]"
+  - "[[Worldbuilding]]"
 publish: true
 ---
 > [!example]- Process
