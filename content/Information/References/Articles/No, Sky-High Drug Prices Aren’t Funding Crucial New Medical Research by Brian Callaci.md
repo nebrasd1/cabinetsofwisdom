@@ -1,15 +1,15 @@
 ---
-title: "No, Sky-High Drug Prices Aren’t Funding Crucial New Medical Research"
-author: "Brian Callaci"
+title: No, Sky-High Drug Prices Aren’t Funding Crucial New Medical Research
+author: Brian Callaci
 url: https://jacobin.com/2023/09/big-pharma-research-and-development-new-drugs-buybacks-biden-medicare-negotiation/
 published: 2023-09-18
 date: 2024-11-11
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
 publish: true
 ---
 > [!example]- Process
