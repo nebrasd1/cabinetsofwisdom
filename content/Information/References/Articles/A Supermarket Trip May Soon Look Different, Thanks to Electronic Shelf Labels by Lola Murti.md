@@ -4,7 +4,7 @@ author: Lola Murti
 url: https://www.npr.org/2024/06/17/nx-s1-5009271/electronic-shelf-labels-prices-walmart-grocery-store#:~:text=The%20new%20labels%20allow%20employees,Lempert%2C%20a%20grocery%20industry%20analyst.
 published: 2024-06-19
 date: 2025-01-22
-modified: 
+modified:
 type: articles
 source: reader
 lenses:
