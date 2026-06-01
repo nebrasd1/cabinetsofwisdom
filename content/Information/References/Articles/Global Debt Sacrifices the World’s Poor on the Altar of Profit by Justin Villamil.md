@@ -1,17 +1,17 @@
 ---
-title: "Global Debt Sacrifices the World’s Poor on the Altar of Profit"
-author: "Justin Villamil"
+title: Global Debt Sacrifices the World’s Poor on the Altar of Profit
+author: Justin Villamil
 url: https://jacobin.com/2024/06/global-debt-poor-credit-austerity/
 published: 2024-06-21
 date: 2024-06-22
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Colonialism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
