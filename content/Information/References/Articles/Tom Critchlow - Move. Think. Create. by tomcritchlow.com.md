@@ -1,13 +1,13 @@
 ---
-title: "Tom Critchlow - Move. Think. Create."
-author: "tomcritchlow.com"
+title: Tom Critchlow - Move. Think. Create.
+author: tomcritchlow.com
 url: https://tomcritchlow.com/wiki/
-published: 
+published:
 date: 2021-07-15
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
