@@ -1,13 +1,13 @@
 ---
-title: "Confessions of a McKinsey Whistleblower"
-author: "Garrison Lovely"
+title: Confessions of a McKinsey Whistleblower
+author: Garrison Lovely
 url: https://www.thenation.com/article/society/mckinsey-whistleblower-confessions/
 published: 2023-09-05
 date: 2023-09-06
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
