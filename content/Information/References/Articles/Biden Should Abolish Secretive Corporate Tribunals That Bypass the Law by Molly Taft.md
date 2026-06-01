@@ -1,17 +1,17 @@
 ---
-title: "Biden Should Abolish Secretive Corporate Tribunals That Bypass the Law"
-author: "Molly Taft"
+title: Biden Should Abolish Secretive Corporate Tribunals That Bypass the Law
+author: Molly Taft
 url: https://www.thenation.com/article/environment/corporate-tribunals-isds-climate-biden/
 published: 2023-12-12
 date: 2024-01-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
