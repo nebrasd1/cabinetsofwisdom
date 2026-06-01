@@ -1,15 +1,15 @@
 ---
-title: "We Can Have Cop City, or We Can Have Democracy"
-author: "Benjamin S. Case"
+title: We Can Have Cop City, or We Can Have Democracy
+author: Benjamin S. Case
 url: https://jacobin.com/2024/06/cop-city-atlanta-democracy-referendum/
 published: 2024-06-23
 date: 2024-06-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
@@ -29,7 +29,7 @@ Found a surprising amount of evidence in this article about how, when people are
 > Ballot [initiatives and referendums](https://convergencemag.com/articles/initiative-campaigns-bridge-partisan-divides/) are the only large-scale means of direct legislation we have, and as such are a good barometer for democratic institutions. Where the local party in power is uncomfortable with people having a direct say in legislation, it’s a good bet that those politicians aren’t governing in most people’s best interests. That’s because when voters are allowed to legislate for themselves, they tend to agree on a lot of core issues.
 
 ✏️ This is interesting. In the US, when people's votes actually count, one to one, the end result is they tend to agree on core issues. (see below)
-👓 [[empowerment]] [[politics]]
+👓 [[empowerment|empowerment]] [[politics|politics]]
 🔗 [View Highlight](https://read.readwise.io/read/01j14gckqr104mch9heb3nmdam)
 
 ### id737628786
