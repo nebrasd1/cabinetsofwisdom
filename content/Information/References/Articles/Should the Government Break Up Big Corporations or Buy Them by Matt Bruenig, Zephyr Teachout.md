@@ -1,17 +1,17 @@
 ---
-title: "Should the Government Break Up Big Corporations or Buy Them?"
-author: "Matt Bruenig, Zephyr Teachout"
+title: Should the Government Break Up Big Corporations or Buy Them?
+author: Matt Bruenig, Zephyr Teachout
 url: https://www.thenation.com/article/economy/nationalize-corporations-anti-monopoly-debate/
 published: 2024-09-27
 date: 2024-11-03
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Favorite]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Favorite]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
