@@ -1,13 +1,13 @@
 ---
-title: "The Problem With AI Is the Problem With Capitalism"
-author: "Nathan J. Robinson"
+title: The Problem With AI Is the Problem With Capitalism
+author: Nathan J. Robinson
 url: https://jacobin.com/2023/03/ai-artificial-intelligence-art-chatgpt-jobs-capitalism
 published: 2023-03-26
 date: 2023-05-03
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
