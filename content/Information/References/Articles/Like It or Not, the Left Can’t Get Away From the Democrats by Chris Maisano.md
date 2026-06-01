@@ -1,16 +1,16 @@
 ---
-title: "Like It or Not, the Left Can’t Get Away From the Democrats"
-author: "Chris Maisano"
+title: Like It or Not, the Left Can’t Get Away From the Democrats
+author: Chris Maisano
 url: https://jacobin.com/2023/08/socialist-left-strategy-democratic-party-realignment/
 published: 2023-08-30
 date: 2023-08-31
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
