@@ -1,15 +1,15 @@
 ---
-title: "The Trump Indictments Reveal a Paradox at the Heart of American Democracy"
-author: "Zack Beauchamp"
+title: The Trump Indictments Reveal a Paradox at the Heart of American Democracy
+author: Zack Beauchamp
 url: https://www.vox.com/trump-investigations/2023/8/17/23832734/trump-indictment-democracy-paradox
 published: 2023-08-17
 date: 2023-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
