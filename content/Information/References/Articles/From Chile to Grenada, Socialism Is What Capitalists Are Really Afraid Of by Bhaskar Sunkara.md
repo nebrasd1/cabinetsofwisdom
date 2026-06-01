@@ -1,16 +1,16 @@
 ---
-title: "From Chile to Grenada, Socialism Is What Capitalists Are Really Afraid Of"
-author: "Bhaskar Sunkara"
+title: From Chile to Grenada, Socialism Is What Capitalists Are Really Afraid Of
+author: Bhaskar Sunkara
 url: https://jacobin.com/2023/12/chile-grenada-revolution-socialism-capitalism-united-states-global-south-imperialism/
 published: 2023-12-28
 date: 2024-01-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
