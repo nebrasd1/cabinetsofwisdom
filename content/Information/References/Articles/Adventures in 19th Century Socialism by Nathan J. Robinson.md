@@ -1,13 +1,13 @@
 ---
-title: "Adventures in 19th Century Socialism"
-author: "Nathan J. Robinson"
+title: Adventures in 19th Century Socialism
+author: Nathan J. Robinson
 url: https://www.inoreader.com/article/3a9c6e7aaee5beb2-adventures-in-19th-century-socialism
-published: 
+published:
 date: 2021-10-12
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
