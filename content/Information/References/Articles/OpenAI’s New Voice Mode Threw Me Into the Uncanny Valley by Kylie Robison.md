@@ -1,14 +1,14 @@
 ---
-title: "OpenAI’s New Voice Mode Threw Me Into the Uncanny Valley"
-author: "Kylie Robison"
+title: OpenAI’s New Voice Mode Threw Me Into the Uncanny Valley
+author: Kylie Robison
 url: https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley
 published: 2024-08-15
 date: 2024-08-15
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Ai]]" 
+lenses:
+  - "[[Ai]]"
 publish: true
 ---
 > [!example]- Process
