@@ -1,13 +1,13 @@
 ---
-title: "Which Women Do We Choose to Believe?"
-author: "thecut.com"
+title: Which Women Do We Choose to Believe?
+author: thecut.com
 url: https://www.thecut.com/2022/05/why-do-so-many-people-think-amber-heard-is-lying.html
-published: 
+published:
 date: 2022-05-29
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
