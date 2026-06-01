@@ -1,13 +1,13 @@
 ---
-title: "Don't Call Us Berber, We Are Amazigh"
-author: "thenationalnews.com"
+title: Don't Call Us Berber, We Are Amazigh
+author: thenationalnews.com
 url: https://www.thenationalnews.com/world/a-history-of-lost-love-poetry-in-the-middle-east-1.86459
-published: 
+published:
 date: 2021-01-22
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
