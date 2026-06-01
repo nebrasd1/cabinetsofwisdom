@@ -1,13 +1,13 @@
 ---
-title: "How the World Changed Its Mind on Tracy Flick"
-author: "Constance Grady"
+title: How the World Changed Its Mind on Tracy Flick
+author: Constance Grady
 url: https://www.inoreader.com/article/3a9c6e7a64773965-how-the-world-changed-its-mind-on-tracy-flick
-published: 
+published:
 date: 2022-07-14
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
