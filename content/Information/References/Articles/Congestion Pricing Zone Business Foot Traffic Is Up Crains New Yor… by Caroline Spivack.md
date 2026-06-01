@@ -1,15 +1,15 @@
 ---
-title: "Congestion Pricing Zone Business Foot Traffic Is Up | Crain's New Yor…"
-author: "Caroline Spivack"
+title: Congestion Pricing Zone Business Foot Traffic Is Up | Crain's New Yor…
+author: Caroline Spivack
 url: https://archive.is/sap6h
 published: 2025-02-08
 date: 2025-02-09
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Hope]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Hope]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
