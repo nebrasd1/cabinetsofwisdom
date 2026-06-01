@@ -1,15 +1,15 @@
 ---
-title: "Ecuadorian Migrants Fleeing to the US Are Refugees of Right-Wing Rule"
-author: "Hilary Goodfriend"
+title: Ecuadorian Migrants Fleeing to the US Are Refugees of Right-Wing Rule
+author: Hilary Goodfriend
 url: https://jacobin.com/2023/09/ecuadorian-migrants-lenin-moreno-refugees-right-wing-rule/
 published: 2023-09-12
 date: 2023-09-13
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
