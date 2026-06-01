@@ -27,7 +27,7 @@ publish: true
 
 ✏️ How often will people see both these options and say, that second one would never work? And what would that say about us a global society?
  Why is the second option farfetched? It isn't, unless you accept that capitalism is king.
-👓 [[exploitation]] [[capitalism]]
+👓 [[exploitation|exploitation]] [[capitalism|capitalism]]
 🔗 [View Highlight](https://read.readwise.io/read/01j107mdzgz8qt8e0dqkc5022c)
 
 ### id736913529
