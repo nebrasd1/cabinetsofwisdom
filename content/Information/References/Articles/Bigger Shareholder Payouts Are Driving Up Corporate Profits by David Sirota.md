@@ -1,15 +1,15 @@
 ---
-title: "Bigger Shareholder Payouts Are Driving Up Corporate Profits"
-author: "David Sirota"
+title: Bigger Shareholder Payouts Are Driving Up Corporate Profits
+author: David Sirota
 url: https://jacobin.com/2025/05/dividends-corporate-profits-inflation-tariffs/
 published: 2025-05-02
 date: 2025-05-27
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
 publish: true
 ---
 > [!example]- Process
