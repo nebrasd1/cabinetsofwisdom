@@ -1,15 +1,15 @@
 ---
-title: "Yes, Matt, You’re Racist"
-author: "Alex Skopic"
+title: Yes, Matt, You’re Racist
+author: Alex Skopic
 url: https://www.currentaffairs.org/news/yes-matt-youre-racist
 published: 2024-12-05
 date: 2024-12-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Propaganda]]" 
-  - "[[Racism]]" 
+lenses:
+  - "[[Propaganda]]"
+  - "[[Racism]]"
 publish: true
 ---
 > [!example]- Process
