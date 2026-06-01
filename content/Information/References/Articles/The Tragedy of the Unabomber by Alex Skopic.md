@@ -1,17 +1,17 @@
 ---
-title: "The Tragedy of the Unabomber"
-author: "Alex Skopic"
+title: The Tragedy of the Unabomber
+author: Alex Skopic
 url: https://www.currentaffairs.org/2023/06/the-tragedy-of-the-unabomber/
 published: 2023-06-22
 date: 2023-07-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Character]]" 
-  - "[[Colonialism]]" 
-  - "[[Socialism]]" 
-  - "[[Swn]]" 
+lenses:
+  - "[[Character]]"
+  - "[[Colonialism]]"
+  - "[[Socialism]]"
+  - "[[Swn]]"
 publish: true
 ---
 > [!example]- Process
