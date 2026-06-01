@@ -1,13 +1,13 @@
 ---
-title: "“What Is a Woman?” Is a Feature-Length Exploration of Conservative Ignorance and Prejudice"
-author: "Nathan J. Robinson"
+title: “What Is a Woman?” Is a Feature-Length Exploration of Conservative Ignorance and Prejudice
+author: Nathan J. Robinson
 url: https://www.inoreader.com/article/3a9c6e7a7197b2fd-ldquowhat-is-a-womanrdquo-is-a-feature-length-exploration-of-conservative-ignorance-and-prejudicenbsp
-published: 
+published:
 date: 2022-06-16
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
