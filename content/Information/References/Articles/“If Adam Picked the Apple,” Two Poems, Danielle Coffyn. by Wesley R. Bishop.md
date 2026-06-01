@@ -1,16 +1,16 @@
 ---
-title: "“If Adam Picked the Apple,” Two Poems, Danielle Coffyn."
-author: "Wesley R. Bishop"
+title: “If Adam Picked the Apple,” Two Poems, Danielle Coffyn.
+author: Wesley R. Bishop
 url: https://thenorthmeridianreview.org/blog/if-adam-picked-the-apple-and-other-poems
 published: 2024-04-26
 date: 2024-10-30
-modified:
+modified: 2026-05-31T21:44:26+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Masculinity]]" 
-  - "[[Propaganda]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Masculinity]]"
+  - "[[Propaganda]]"
+  - "[[Gender]]"
 publish: true
 ---
 > [!example]- Process
