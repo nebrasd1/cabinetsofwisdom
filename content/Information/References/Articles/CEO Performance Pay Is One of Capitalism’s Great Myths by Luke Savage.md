@@ -1,15 +1,15 @@
 ---
-title: "CEO Performance Pay Is One of Capitalism’s Great Myths"
-author: "Luke Savage"
+title: CEO Performance Pay Is One of Capitalism’s Great Myths
+author: Luke Savage
 url: https://jacobin.com/2023/11/ceo-performance-pay-inequality-tax-loopholes-stock-buybacks-trickle-down-myths/
 published: 2023-11-25
 date: 2024-07-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
