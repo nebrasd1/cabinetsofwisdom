@@ -1,13 +1,13 @@
 ---
-title: "The Great Online Game"
-author: "notboring.co"
+title: The Great Online Game
+author: notboring.co
 url: https://www.notboring.co/p/the-great-online-game
 published: 2021-05-10
 date: 2021-06-07
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
