@@ -1,18 +1,18 @@
 ---
-title: "How Everything Became Data"
-author: "Ben Tarnoff"
+title: How Everything Became Data
+author: Ben Tarnoff
 url: https://www.thenation.com/article/society/how-data-happened/
 published: 2023-10-16
 date: 2023-10-16
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[History]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[History]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
