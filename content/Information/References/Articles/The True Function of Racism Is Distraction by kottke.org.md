@@ -1,17 +1,18 @@
 ---
-title: "The True Function of Racism Is Distraction"
-author: "kottke.org"
+title: The True Function of Racism Is Distraction
+author: kottke.org
 url: https://kottke.org/24/08/the-true-function-of-racism-is-distraction
 published: 2024-08-01
 date: 2024-08-20
-modified:
+modified: 2026-05-31T21:34:49+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Quote]]" 
-  - "[[Racism]]" 
+lenses:
+  - "[[History]]"
+  - "[[Racism]]"
 publish: true
+tags:
+  - addto/quote
 ---
 > [!example]- Process
 > 
@@ -28,7 +29,8 @@ publish: true
 
 ✏️ As with any marginalized community (thinking about queer people as well), the goal of discrimination is to distract, to deter, with the end result that you are constantly explaining, over and over again, your reason for being.
  Your identity is at question, constantly. You are not the norm... whatever that may be at the moment.
-👓 [[quote]] [[racism]]
+👓 [[racism|racism]]
+#addto/quote
 🔗 [View Highlight](https://read.readwise.io/read/01j52xajctyf732225y5p4j58h)
 
 ### id757149342
