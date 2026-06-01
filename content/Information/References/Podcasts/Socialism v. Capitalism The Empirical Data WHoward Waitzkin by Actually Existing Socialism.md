@@ -1,13 +1,13 @@
 ---
 title: "Socialism v. Capitalism: The Empirical Data W/Howard Waitzkin"
-author: "Actually Existing Socialism"
+author: Actually Existing Socialism
 url: https://share.snipd.com/episode/ef746727-f809-4797-aa53-19f1d16e0ca0
-published: 
+published:
 date: 2023-08-17
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
