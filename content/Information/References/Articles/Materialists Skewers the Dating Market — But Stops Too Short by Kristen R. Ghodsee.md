@@ -10,7 +10,7 @@ source: reader
 lenses:
   - "[[Capitalism]]"
   - "[[Propaganda]]"
-  - "[[Women]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process
