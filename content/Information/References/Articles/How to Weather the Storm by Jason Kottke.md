@@ -1,15 +1,15 @@
 ---
-title: "How to Weather the Storm"
-author: "Jason Kottke"
+title: How to Weather the Storm
+author: Jason Kottke
 url: https://kottke.org/25/01/how-to-weather-the-storm
 published: 2025-01-24
 date: 2025-01-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Hope]]"
 publish: true
 ---
 > [!example]- Process
