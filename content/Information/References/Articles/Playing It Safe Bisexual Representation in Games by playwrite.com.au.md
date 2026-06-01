@@ -1,13 +1,13 @@
 ---
 title: "Playing It Safe: Bisexual Representation in Games"
-author: "playwrite.com.au"
+author: playwrite.com.au
 url: http://playwrite.com.au/playing-it-safe-bisexual-representation-in-games/
-published: 
+published:
 date: 2020-05-28
 modified:
 type: articles
 source: pocket
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
