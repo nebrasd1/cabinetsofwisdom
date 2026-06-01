@@ -1,13 +1,13 @@
 ---
-title: "Finland’s Right-Wing Government Wants to Rip Up Its Welfare State"
-author: "Annika Rönni-Sällinen"
+title: Finland’s Right-Wing Government Wants to Rip Up Its Welfare State
+author: Annika Rönni-Sällinen
 url: https://jacobin.com/2023/10/finland-true-finn-far-right-wing-welfare-state-workers-rights/
 published: 2023-10-24
 date: 2023-10-26
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -24,6 +24,6 @@ publish: true
 > At the heart of the Finnish class compromise is the tradition of social dialogue between unions, employers, and the government, which has led to annual nationwide and sectoral negotiations on wage setting for all union members, tripartite negotiations on new legislative proposals, and the expansion of the welfare state
 
 ✏️ What a successful socialist democratic model looks like in Finland. The balance and dialogue of different powers.
-👓 [[politics]] [[socialism]]
+👓 [[politics|politics]] [[socialism|socialism]]
 🔗 [View Highlight](https://read.readwise.io/read/01hdnj7yg56qxvvvbrarf3c2n8)
 
