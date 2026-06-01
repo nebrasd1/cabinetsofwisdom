@@ -1,17 +1,17 @@
 ---
-title: "The Philosophical Case for a Four-Day Workweek"
-author: "Jason Read"
+title: The Philosophical Case for a Four-Day Workweek
+author: Jason Read
 url: https://jacobin.com/2024/04/marx-spinoza-four-day-workweek/
 published: 2024-04-20
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Empowerment]]"
+  - "[[Hope]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
