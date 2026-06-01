@@ -1,16 +1,16 @@
 ---
-title: "Business Insider Founder Creates AI Exec for His New Newsroom, Immediately Hits on Her"
-author: "Matthew Gault"
+title: Business Insider Founder Creates AI Exec for His New Newsroom, Immediately Hits on Her
+author: Matthew Gault
 url: https://www.404media.co/business-insider-founder-creates-ai-exec-for-his-new-newsroom-immediately-hits-on-her/
 published: 2025-04-22
 date: 2025-04-24
-modified:
+modified: 2026-05-31T21:43:43+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Ai]]" 
-  - "[[Toxic]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Ai]]"
+  - "[[Gender]]"
+  - "[[Masculinity]]"
 publish: true
 ---
 > [!example]- Process
@@ -35,7 +35,7 @@ publish: true
  We've coded into it the core rule (or law as you will) that it needs to give us an answer and needs to interact with us. When that is at the base level of programming, you get lying, hallucinating, and worst of all, this faux humanizing sense of subservience, deference and need to please that triggers all the wrong things in us as users.
  And we.. we get zero consequences from acting on our impulses. We can be annoying, offensive... etc.
  #followup
-👓 [[ai]]
+👓 [[ai|ai]]
 🔗 [View Highlight](https://read.readwise.io/read/01jska20t2n2dn9v5vfdc9j9st)
 
 ### id881367690
