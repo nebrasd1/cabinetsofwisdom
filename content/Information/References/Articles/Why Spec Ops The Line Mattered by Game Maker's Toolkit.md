@@ -7,7 +7,7 @@ date: 2024-03-17
 modified: 2025-05-10T08:35:36+03:00
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
