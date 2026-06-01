@@ -4,7 +4,7 @@ author: Ted Chiang
 url: https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art
 published: 2024-08-31
 date: 2024-09-09
-modified: 
+modified:
 type: articles
 source: reader
 lenses:
