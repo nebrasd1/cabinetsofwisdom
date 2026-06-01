@@ -1,17 +1,18 @@
 ---
-title: "5 Main Takeaways From Randomly Sampling YouTube"
-author: "Ryan McGrady"
+title: 5 Main Takeaways From Randomly Sampling YouTube
+author: Ryan McGrady
 url: https://publicinfrastructure.org/2023/12/21/notes-from-random-youtube-coding/
 published: 2023-12-21
 date: 2024-01-02
-modified:
+modified: 2026-05-31T21:42:47+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Propaganda]]" 
-  - "[[Systems]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Propaganda]]"
 publish: true
+topics:
+  - systems
 ---
 > [!example]- Process
 > 
