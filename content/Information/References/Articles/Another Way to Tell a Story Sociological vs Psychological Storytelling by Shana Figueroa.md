@@ -1,16 +1,15 @@
 ---
 title: "Another Way to Tell a Story: Sociological vs Psychological Storytelling"
-author: "Shana Figueroa"
+author: Shana Figueroa
 url: http://www.shanafigueroa.com/blog/another-way-to-tell-a-story-sociological-vs-psychological-storytelling/#:~:text=Other%20examples%20of%20sociological%20stories,and%20Isaac%20Asimov's%20Foundation%20series.
 published: 2020-06-01
 date: 2023-05-23
-modified:
+modified: 2026-05-31T21:18:02+03:00
 type: articles
 source: reader
-lenses: 
-  - "[[Narrative]]" 
-  - "[[Storytelling]]" 
-  - "[[Writing]]" 
+lenses:
+  - "[[Storytelling]]"
+  - "[[Writing]]"
 publish: true
 ---
 > [!example]- Process
