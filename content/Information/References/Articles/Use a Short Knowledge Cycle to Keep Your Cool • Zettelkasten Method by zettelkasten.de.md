@@ -1,13 +1,13 @@
 ---
-title: "Use a Short Knowledge Cycle to Keep Your Cool • Zettelkasten Method"
-author: "zettelkasten.de"
+title: Use a Short Knowledge Cycle to Keep Your Cool • Zettelkasten Method
+author: zettelkasten.de
 url: https://zettelkasten.de/posts/knowledge-cycle-efficiently-organize-writing-projects/
 published: 2014-07-17
 date: 2021-06-29
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
