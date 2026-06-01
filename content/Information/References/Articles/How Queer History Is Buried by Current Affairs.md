@@ -1,13 +1,13 @@
 ---
-title: "How Queer History Is Buried"
-author: "Current Affairs"
+title: How Queer History Is Buried
+author: Current Affairs
 url: https://www.currentaffairs.org/2023/03/how-queer-history-is-buried/
 published: 2023-03-03
 date: 2023-03-04
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
