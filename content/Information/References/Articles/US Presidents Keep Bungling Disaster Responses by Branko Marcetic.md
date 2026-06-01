@@ -1,15 +1,15 @@
 ---
-title: "US Presidents Keep Bungling Disaster Responses"
-author: "Branko Marcetic"
+title: US Presidents Keep Bungling Disaster Responses
+author: Branko Marcetic
 url: https://jacobin.com/2023/08/biden-maui-wildfires-climate-katrina-flint-puerto-rico-authoritarianism/
 published: 2023-08-18
 date: 2023-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
