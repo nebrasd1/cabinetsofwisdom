@@ -1,14 +1,14 @@
 ---
-title: "Today’s Class War Is the 1 Percent Versus the People Just Below Them"
-author: "Jon Schwarz"
+title: Today’s Class War Is the 1 Percent Versus the People Just Below Them
+author: Jon Schwarz
 url: https://theintercept.com/2023/07/16/class-warfare-1-percent-technocrat/
 published: 2023-07-26
 date: 2023-08-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process
