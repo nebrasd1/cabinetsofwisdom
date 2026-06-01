@@ -1,14 +1,14 @@
 ---
-title: "The Niger Coup Risks Opening Another Front in the West’s War With Russia"
-author: "Jody Ray"
+title: The Niger Coup Risks Opening Another Front in the West’s War With Russia
+author: Jody Ray
 url: https://jacobin.com/2023/08/niger-coup-west-russia-war-mohamed-bazoum-security-democracy/
 published: 2023-08-07
 date: 2023-08-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
+lenses:
+  - "[[Colonialism]]"
 publish: true
 ---
 > [!example]- Process
