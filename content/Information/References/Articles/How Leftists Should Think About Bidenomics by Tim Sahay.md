@@ -1,16 +1,16 @@
 ---
-title: "How Leftists Should Think About Bidenomics"
-author: "Tim Sahay"
+title: How Leftists Should Think About Bidenomics
+author: Tim Sahay
 url: https://jacobin.com/2023/09/bidenomics-industrial-policy-infrastructure-chips-left-response-derisking-workers-climate-china/
 published: 2023-09-01
 date: 2023-09-18
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
