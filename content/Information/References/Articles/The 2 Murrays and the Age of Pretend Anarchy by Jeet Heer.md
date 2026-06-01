@@ -1,15 +1,15 @@
 ---
-title: "The 2 Murrays and the Age of Pretend Anarchy"
-author: "Jeet Heer"
+title: The 2 Murrays and the Age of Pretend Anarchy
+author: Jeet Heer
 url: https://www.thenation.com/article/politics/bookchin-rothbard-anarcho-capitalism/
 published: 2023-12-15
 date: 2024-11-18
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[History]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[History]]"
 publish: true
 ---
 > [!example]- Process
