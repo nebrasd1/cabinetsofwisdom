@@ -1,13 +1,13 @@
 ---
-title: "Stalin Will Never Be Redeemable"
-author: "Alex Skopic"
+title: Stalin Will Never Be Redeemable
+author: Alex Skopic
 url: https://www.currentaffairs.org/2023/03/stalin-will-never-be-redeemable/
 published: 2023-03-22
 date: 2023-04-29
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
