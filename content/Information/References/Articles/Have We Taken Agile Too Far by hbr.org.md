@@ -1,13 +1,13 @@
 ---
-title: "Have We Taken Agile Too Far?"
-author: "hbr.org"
+title: Have We Taken Agile Too Far?
+author: hbr.org
 url: https://hbr.org/2021/04/have-we-taken-agile-too-far
 published: 2021-04-09
 date: 2022-01-25
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
