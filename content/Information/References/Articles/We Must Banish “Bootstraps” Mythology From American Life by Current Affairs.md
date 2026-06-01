@@ -1,17 +1,17 @@
 ---
-title: "We Must Banish “Bootstraps” Mythology From American Life"
-author: "Current Affairs"
+title: We Must Banish “Bootstraps” Mythology From American Life
+author: Current Affairs
 url: https://www.currentaffairs.org/2023/06/we-must-banish-bootstraps-mythology-from-american-life/
 published: 2023-06-13
 date: 2023-09-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Empowerment]]" 
-  - "[[Propaganda]]" 
-  - "[[Psychology]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Empowerment]]"
+  - "[[Propaganda]]"
+  - "[[Psychology]]"
 publish: true
 ---
 > [!example]- Process
