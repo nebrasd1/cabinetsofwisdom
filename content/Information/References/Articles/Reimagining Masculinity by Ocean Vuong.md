@@ -1,15 +1,15 @@
 ---
-title: "Reimagining Masculinity"
-author: "Ocean Vuong"
+title: Reimagining Masculinity
+author: Ocean Vuong
 url: https://www.theparisreview.org/blog/2019/06/10/no-homo/
 published: 2019-06-10
 date: 2020-12-29
 modified:
 type: articles
 source: pocket
-lenses: 
-  - "[[Masculinity]]" 
-  - "[[(Sun) Masculinity]]" 
+lenses:
+  - "[[Masculinity]]"
+  - "[[(Sun) Masculinity]]"
 publish: true
 ---
 > [!example]- Process
