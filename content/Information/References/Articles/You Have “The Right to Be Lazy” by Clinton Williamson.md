@@ -1,15 +1,15 @@
 ---
-title: "You Have “The Right to Be Lazy”"
-author: "Clinton Williamson"
+title: You Have “The Right to Be Lazy”
+author: Clinton Williamson
 url: https://www.thenation.com/article/culture/right-to-be-lazy-lafargue/
 published: 2023-11-23
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
