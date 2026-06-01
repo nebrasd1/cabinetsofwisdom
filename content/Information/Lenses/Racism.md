@@ -2,5 +2,8 @@
 publish: true
 aliases:
   - racism
-modified: 2025-05-07T13:11:27+03:00
+  - racist
+modified: 2026-05-31T21:35:50+03:00
 ---
+# Racism
+## Personal Definition
