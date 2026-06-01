@@ -1,14 +1,14 @@
 ---
-title: "For Fascists, Hypocrisy Is a Virtue"
-author: "Jason Kottke"
+title: For Fascists, Hypocrisy Is a Virtue
+author: Jason Kottke
 url: https://kottke.org/25/03/for-fascists-hypocrisy-is-a-virtue
 published: 2025-03-24
 date: 2025-04-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Fascism]]" 
+lenses:
+  - "[[Fascism]]"
 publish: true
 ---
 > [!example]- Process
