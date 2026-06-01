@@ -1,15 +1,15 @@
 ---
-title: "What Can Happen When Young Socialist Elected Officials Gather for a Weekend of Lessons and Solidarity?"
-author: "Branko Marcetic"
+title: What Can Happen When Young Socialist Elected Officials Gather for a Weekend of Lessons and Solidarity?
+author: Branko Marcetic
 url: https://www.thenation.com/article/politics/socialism-progressives-elections-congress/
 published: 2023-06-28
 date: 2023-06-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
