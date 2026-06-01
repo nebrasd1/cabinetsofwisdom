@@ -1,13 +1,13 @@
 ---
-title: "I Am Often Asked if I Wi..."
+title: I Am Often Asked if I Wi...
 author: "@ummjackson on Twitter"
 url: https://twitter.com/ummjackson/status/1415353984617914370
-published: 
+published:
 date: 2021-08-28
 modified:
 type: tweets
 source: twitter
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
