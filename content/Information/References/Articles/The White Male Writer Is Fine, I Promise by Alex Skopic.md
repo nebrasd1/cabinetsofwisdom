@@ -1,15 +1,15 @@
 ---
-title: "The White Male Writer Is Fine, I Promise"
-author: "Alex Skopic"
+title: The White Male Writer Is Fine, I Promise
+author: Alex Skopic
 url: https://www.currentaffairs.org/news/the-white-male-writer-is-fine-i-promise
 published: 2025-04-03
 date: 2025-04-07
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Propaganda]]" 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[Propaganda]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process
