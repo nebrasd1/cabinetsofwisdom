@@ -1,16 +1,16 @@
 ---
-title: "Introducing Murray Bookchin, the Extraordinary Originator of “Social Ecology”"
-author: "Current Affairs"
+title: Introducing Murray Bookchin, the Extraordinary Originator of “Social Ecology”
+author: Current Affairs
 url: https://www.currentaffairs.org/2023/05/introducing-murray-bookchin-the-extraordinary-originator-of-social-ecology/
 published: 2023-05-31
 date: 2023-06-10
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Empowerment]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Empowerment]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
