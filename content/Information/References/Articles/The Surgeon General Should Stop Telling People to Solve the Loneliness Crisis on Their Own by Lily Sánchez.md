@@ -1,13 +1,13 @@
 ---
-title: "The Surgeon General Should Stop Telling People to Solve the Loneliness Crisis on Their Own"
-author: "Lily Sánchez"
+title: The Surgeon General Should Stop Telling People to Solve the Loneliness Crisis on Their Own
+author: Lily Sánchez
 url: https://www.currentaffairs.org/2023/05/the-surgeon-general-should-stop-telling-people-to-solve-the-loneliness-crisis-on-their-own/
 published: 2023-05-03
 date: 2023-05-04
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
