@@ -1,15 +1,15 @@
 ---
-title: "The NLRB’s Recent Decisions Are Good News for Workers"
-author: "Jane McAlevey"
+title: The NLRB’s Recent Decisions Are Good News for Workers
+author: Jane McAlevey
 url: https://www.thenation.com/article/society/nlrb-joy-silk-union-recognition/
 published: 2023-09-04
 date: 2023-09-05
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Empowerment]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Empowerment]]"
 publish: true
 ---
 > [!example]- Process
