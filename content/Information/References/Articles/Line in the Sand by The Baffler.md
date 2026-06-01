@@ -1,13 +1,13 @@
 ---
-title: "Line in the Sand"
-author: "The Baffler"
+title: Line in the Sand
+author: The Baffler
 url: https://thebaffler.com/latest/line-in-the-sand-wagner
 published: 2023-02-07
 date: 2024-12-22
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
