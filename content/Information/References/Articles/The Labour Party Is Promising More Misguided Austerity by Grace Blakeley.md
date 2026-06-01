@@ -1,16 +1,16 @@
 ---
-title: "The Labour Party Is Promising More Misguided Austerity"
-author: "Grace Blakeley"
+title: The Labour Party Is Promising More Misguided Austerity
+author: Grace Blakeley
 url: https://jacobin.com/2024/07/reeves-uk-labour-austerity-economy/
 published: 2024-07-31
 date: 2024-08-20
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
