@@ -1,17 +1,17 @@
 ---
-title: "Ancient Women Were Hunters — And Grandmas Were the Most Skilled Ones, Study Suggests"
-author: "Nurith Aizenman"
+title: Ancient Women Were Hunters — And Grandmas Were the Most Skilled Ones, Study Suggests
+author: Nurith Aizenman
 url: https://www.npr.org/2023/06/28/1184894580/ancient-women-were-hunters-and-grandmas-were-the-most-skilled-ones-study-suggest
 published: 2023-06-28
 date: 2023-07-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Gender]]" 
-  - "[[History]]" 
-  - "[[Propaganda]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Gender]]"
+  - "[[History]]"
+  - "[[Propaganda]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process
