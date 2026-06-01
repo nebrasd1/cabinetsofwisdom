@@ -1,15 +1,15 @@
 ---
-title: "Real Estate Magnate Tim Gurner Is a Jerk. But He’s Saying What All Capitalists Really Think."
-author: "Luke Savage"
+title: Real Estate Magnate Tim Gurner Is a Jerk. But He’s Saying What All Capitalists Really Think.
+author: Luke Savage
 url: https://jacobin.com/2023/09/tim-gurner-capitalists-neoliberalism-unemployment-precarity/
 published: 2023-09-14
 date: 2023-09-14
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
