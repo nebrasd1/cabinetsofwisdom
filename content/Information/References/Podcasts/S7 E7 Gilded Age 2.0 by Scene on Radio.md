@@ -1,13 +1,13 @@
 ---
 title: "S7 E7: Gilded Age 2.0"
-author: "Scene on Radio"
+author: Scene on Radio
 url: https://share.snipd.com/episode/9f2b4427-4fe6-4b63-a956-c56d9fa0187d
-published: 
+published:
 date: 2024-11-21
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
