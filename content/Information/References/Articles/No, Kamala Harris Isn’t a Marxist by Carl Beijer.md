@@ -1,17 +1,17 @@
 ---
-title: "No, Kamala Harris Isn’t a Marxist"
-author: "Carl Beijer"
+title: No, Kamala Harris Isn’t a Marxist
+author: Carl Beijer
 url: https://jacobin.com/2024/08/kamala-harris-equity-rufo-marxism/
 published: 2024-08-08
 date: 2024-08-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
