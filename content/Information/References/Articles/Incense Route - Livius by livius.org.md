@@ -1,13 +1,13 @@
 ---
-title: "Incense Route - Livius"
-author: "livius.org"
+title: Incense Route - Livius
+author: livius.org
 url: https://www.livius.org/articles/place/incense-route/
-published: 
+published:
 date: 2021-01-08
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
