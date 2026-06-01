@@ -1,16 +1,16 @@
 ---
-title: "Economic Inequality Is Even Worse Than You Think"
-author: "Rob Larson"
+title: Economic Inequality Is Even Worse Than You Think
+author: Rob Larson
 url: https://jacobin.com/2024/12/economic-wealth-inequality-ruling-class/
 published: 2024-12-02
 date: 2025-02-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
