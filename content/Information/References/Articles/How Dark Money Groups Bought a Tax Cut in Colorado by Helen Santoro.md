@@ -1,16 +1,16 @@
 ---
-title: "How Dark Money Groups Bought a Tax Cut in Colorado"
-author: "Helen Santoro"
+title: How Dark Money Groups Bought a Tax Cut in Colorado
+author: Helen Santoro
 url: https://jacobin.com/2024/08/colorado-dark-money-tax-cuts/
 published: 2024-08-30
 date: 2024-09-01
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
