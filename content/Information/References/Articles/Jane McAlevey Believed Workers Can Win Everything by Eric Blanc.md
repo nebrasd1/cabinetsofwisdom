@@ -1,15 +1,15 @@
 ---
-title: "Jane McAlevey Believed Workers Can Win Everything"
-author: "Eric Blanc"
+title: Jane McAlevey Believed Workers Can Win Everything
+author: Eric Blanc
 url: https://jacobin.com/2024/07/jane-mcalevey-union-organizing-obituary/
 published: 2024-07-09
 date: 2024-08-13
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
 publish: true
 ---
 > [!example]- Process
