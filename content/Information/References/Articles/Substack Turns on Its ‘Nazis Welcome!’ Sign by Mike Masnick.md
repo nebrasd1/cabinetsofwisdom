@@ -1,14 +1,14 @@
 ---
-title: "Substack Turns on Its ‘Nazis Welcome!’ Sign"
-author: "Mike Masnick"
+title: Substack Turns on Its ‘Nazis Welcome!’ Sign
+author: Mike Masnick
 url: https://www.techdirt.com/2023/12/26/substack-turns-on-its-nazis-welcome-sign/
 published: 2023-12-26
 date: 2023-12-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Hypocrisy ]]" 
+lenses:
+  - "[[Hypocrisy ]]"
 publish: true
 ---
 > [!example]- Process
