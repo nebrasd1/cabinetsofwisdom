@@ -1,13 +1,13 @@
 ---
-title: "Movie Stars and Their Misguided Messiah Complex ❧ Current Affairs"
-author: "CURRENT AFFAIRS"
+title: Movie Stars and Their Misguided Messiah Complex ❧ Current Affairs
+author: CURRENT AFFAIRS
 url: https://www.currentaffairs.org/2021/01/movie-stars-and-their-misguided-messiah-complex
-published: 
+published:
 date: 2021-01-16
 modified:
 type: articles
 source: pocket
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
