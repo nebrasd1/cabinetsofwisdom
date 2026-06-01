@@ -1,16 +1,16 @@
 ---
-title: "The Online Scam Industry Is Capitalism Built on Slave Labor"
-author: "Mark Bo"
+title: The Online Scam Industry Is Capitalism Built on Slave Labor
+author: Mark Bo
 url: https://jacobin.com/2025/05/online-scam-industry-slave-labor/
 published: 2025-05-14
 date: 2025-05-26
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Exploitation]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Exploitation]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
