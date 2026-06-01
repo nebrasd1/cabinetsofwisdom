@@ -1,17 +1,17 @@
 ---
-title: "Public Infrastructure Is AMLO’s Legacy"
-author: "Ximena González"
+title: Public Infrastructure Is AMLO’s Legacy
+author: Ximena González
 url: https://jacobin.com/2024/10/amlo-fourth-transformation-public-architecture/
 published: 2024-10-27
 date: 2024-10-30
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
