@@ -1,13 +1,13 @@
 ---
-title: "Inside the Incel ❧ Current Affairs"
-author: "currentaffairs.org"
+title: Inside the Incel ❧ Current Affairs
+author: currentaffairs.org
 url: https://www.currentaffairs.org/2021/03/inside-the-incel/
-published: 
+published:
 date: 2021-04-06
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
@@ -57,7 +57,7 @@ publish: true
 
 ✏️ Another good source of conflict and debate. The extremes are all agency or all structure, and where does one lay blame/accountability along this spectrum.
  Are you a helpless victim of capitalism, simply reacting naturally to other people’s bad ideas, or are you a person with agency, who is hurting people on purpose because you enjoy their pain? Are you the only one who is allowed to respond to terrible pressures in unjust ways?
-👓 [[conflict]]
+👓 [[conflict|conflict]]
 
 ### None
 > just because someone is aware of the cruelty and inequity of capitalism doesn’t mean they’re opposed to it. This is one of the dangers of trying to find common ground with incels, and reactionaries in general: yes, they too have identified the problem, but they have their own answer, which is not the same as ours.
