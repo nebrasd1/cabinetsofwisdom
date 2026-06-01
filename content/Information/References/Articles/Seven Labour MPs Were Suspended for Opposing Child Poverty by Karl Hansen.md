@@ -1,16 +1,16 @@
 ---
-title: "Seven Labour MPs Were Suspended for Opposing Child Poverty"
-author: "Karl Hansen"
+title: Seven Labour MPs Were Suspended for Opposing Child Poverty
+author: Karl Hansen
 url: https://jacobin.com/2024/07/starmer-labour-suspension-child-poverty/
 published: 2024-07-25
 date: 2024-07-25
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Hypocrisy]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Hypocrisy]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
