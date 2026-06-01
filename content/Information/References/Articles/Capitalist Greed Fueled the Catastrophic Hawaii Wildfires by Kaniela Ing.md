@@ -1,17 +1,17 @@
 ---
-title: "Capitalist Greed Fueled the Catastrophic Hawaii Wildfires"
-author: "Kaniela Ing"
+title: Capitalist Greed Fueled the Catastrophic Hawaii Wildfires
+author: Kaniela Ing
 url: https://jacobin.com/2023/08/maui-fires-hawaiian-electric-capitalism-colonialism-green-new-deal/
 published: 2023-08-28
 date: 2023-08-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Colonialism]]" 
-  - "[[Storytelling]]" 
-  - "[[Swn]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Colonialism]]"
+  - "[[Storytelling]]"
+  - "[[Swn]]"
 publish: true
 ---
 > [!example]- Process
