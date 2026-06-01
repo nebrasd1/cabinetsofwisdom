@@ -1,13 +1,13 @@
 ---
-title: "How to Debunk Sexist Pseudoscience"
-author: "Current Affairs"
+title: How to Debunk Sexist Pseudoscience
+author: Current Affairs
 url: https://www.currentaffairs.org/2023/04/how-to-debunk-sexist-pseudoscience/
 published: 2023-04-17
 date: 2023-04-19
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
