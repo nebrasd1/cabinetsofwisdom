@@ -1,18 +1,18 @@
 ---
-title: "Regret for the War on Terror Is Not the Same as Remorse"
-author: "Norman Solomon"
+title: Regret for the War on Terror Is Not the Same as Remorse
+author: Norman Solomon
 url: https://www.thenation.com/article/world/war-on-terror-air-strikes/
 published: 2023-09-13
 date: 2023-09-13
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
-  - "[[History]]" 
-  - "[[Ksa]]" 
-  - "[[Politics]]" 
-  - "[[Storytelling]]" 
+lenses:
+  - "[[Colonialism]]"
+  - "[[History]]"
+  - "[[Ksa]]"
+  - "[[Politics]]"
+  - "[[Storytelling]]"
 publish: true
 ---
 > [!example]- Process
