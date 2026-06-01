@@ -1,17 +1,17 @@
 ---
-title: "Salvador Allende Was in Washington’s Crosshairs"
-author: "Branko Marcetic"
+title: Salvador Allende Was in Washington’s Crosshairs
+author: Branko Marcetic
 url: https://jacobin.com/2023/09/chile-coup-cia-henry-kissinger-richard-nixon-documents-foia-salvador-allende/
 published: 2023-09-11
 date: 2023-09-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
