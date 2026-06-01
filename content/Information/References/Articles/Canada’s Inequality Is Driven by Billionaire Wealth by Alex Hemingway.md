@@ -1,14 +1,14 @@
 ---
-title: "Canada’s Inequality Is Driven by Billionaire Wealth"
-author: "Alex Hemingway"
+title: Canada’s Inequality Is Driven by Billionaire Wealth
+author: Alex Hemingway
 url: https://jacobin.com/2025/04/canada-wealth-inequality-billionaires-housing/
 published: 2025-04-02
 date: 2025-04-08
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
+lenses:
+  - "[[Capitalism]]"
 publish: true
 ---
 > [!example]- Process
