@@ -1,15 +1,15 @@
 ---
-title: "Yes, Prager U Wants to Indoctrinate Your Kids. But That’s Not Really the Point."
-author: "Jack Schneider, Jennifer C. Berkshire"
+title: Yes, Prager U Wants to Indoctrinate Your Kids. But That’s Not Really the Point.
+author: Jack Schneider, Jennifer C. Berkshire
 url: https://www.thenation.com/article/society/prager-u-curriculum-public-education/
 published: 2023-10-25
 date: 2023-10-25
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
