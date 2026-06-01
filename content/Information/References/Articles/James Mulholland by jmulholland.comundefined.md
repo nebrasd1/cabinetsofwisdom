@@ -1,13 +1,13 @@
 ---
-title: "James Mulholland"
-author: "jmulholland.comundefined"
+title: James Mulholland
+author: jmulholland.comundefined
 url: https://jmulholland.comundefined/
-published: 
+published:
 date: 2022-07-04
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
