@@ -1,13 +1,13 @@
 ---
-title: "It Seems the Cigarette Industry Helped Create the Type-a Personality"
-author: "Melissa Dahl"
+title: It Seems the Cigarette Industry Helped Create the Type-a Personality
+author: Melissa Dahl
 url: https://www.thecut.com/2016/08/the-tobacco-industry-helped-create-the-type-a-personality.html
 published: 2016-08-22
 date: 2021-10-04
 modified:
 type: articles
 source: pocket
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
