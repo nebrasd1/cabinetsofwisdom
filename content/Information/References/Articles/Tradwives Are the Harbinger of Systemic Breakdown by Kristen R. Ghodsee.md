@@ -1,18 +1,18 @@
 ---
-title: "Tradwives Are the Harbinger of Systemic Breakdown"
-author: "Kristen R. Ghodsee"
+title: Tradwives Are the Harbinger of Systemic Breakdown
+author: Kristen R. Ghodsee
 url: https://jacobin.com/2025/04/tradwives-hobbes-soviet-union-consumption/
 published: 2025-04-27
 date: 2025-04-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Community]]" 
-  - "[[History]]" 
-  - "[[Masculinity]]" 
-  - "[[Women]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Community]]"
+  - "[[History]]"
+  - "[[Masculinity]]"
+  - "[[gender]]"
 publish: true
 ---
 > [!example]- Process
