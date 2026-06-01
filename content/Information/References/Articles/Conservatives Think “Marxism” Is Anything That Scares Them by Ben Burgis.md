@@ -1,14 +1,14 @@
 ---
-title: "Conservatives Think “Marxism” Is Anything That Scares Them"
-author: "Ben Burgis"
+title: Conservatives Think “Marxism” Is Anything That Scares Them
+author: Ben Burgis
 url: https://jacobin.com/2023/08/conservatives-marxism-challenge-yoram-hazony-history-materialism/
 published: 2023-08-15
 date: 2023-08-21
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
