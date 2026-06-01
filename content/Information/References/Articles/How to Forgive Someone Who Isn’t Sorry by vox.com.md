@@ -1,13 +1,13 @@
 ---
-title: "How to Forgive Someone Who Isn’t Sorry"
-author: "vox.com"
+title: How to Forgive Someone Who Isn’t Sorry
+author: vox.com
 url: https://www.vox.com/22967752/how-to-forgive-someone-who-isnt-sorry-wont-apologize
-published: 
+published:
 date: 2022-03-28
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
