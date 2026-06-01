@@ -1,15 +1,15 @@
 ---
-title: "There Is No One to Cheer for in Canada’s Tech Giants vs. News Media Battle Royale"
-author: "David Moscrop"
+title: There Is No One to Cheer for in Canada’s Tech Giants vs. News Media Battle Royale
+author: David Moscrop
 url: https://jacobin.com/2023/08/canada-tech-monopoly-news-media-public-funding/
 published: 2023-08-06
 date: 2023-08-06
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
