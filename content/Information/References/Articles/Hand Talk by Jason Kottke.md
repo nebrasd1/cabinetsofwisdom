@@ -1,14 +1,14 @@
 ---
-title: "Hand Talk"
-author: "Jason Kottke"
+title: Hand Talk
+author: Jason Kottke
 url: https://kottke.org/23/05/hand-talk
 published: 2023-05-25
 date: 2023-06-01
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Colonialism]]" 
+lenses:
+  - "[[Colonialism]]"
 publish: true
 ---
 > [!example]- Process
