@@ -1,15 +1,15 @@
 ---
-title: "Colombia’s Coal Embargo on Israel Is a Model to Follow"
-author: "Rula Jamal"
+title: Colombia’s Coal Embargo on Israel Is a Model to Follow
+author: Rula Jamal
 url: https://jacobin.com/2024/06/colombia-coal-embargo-israel-war-gaza/
 published: 2024-06-17
 date: 2024-07-02
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Hope]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Hope]]"
 publish: true
 ---
 > [!example]- Process
@@ -37,6 +37,6 @@ publish: true
 > Petro’s announcement came after a transnational global day of action against Glencore for their human rights abuses on May 28, where Palestinian organizations wrote directly to the president with their [demand](https://www.thepipd.com/actions/colombia-coal-glencore/) that he end coal exports.
 > This mobilization brought about the monumental decision to suspend Colombian coal exports to Israel. It demonstrates how mobilizations across borders, with clear demands and through shared principles and values, can weave together an effective campaign that challenges global powers, imperialism, and colonialism.
 
-👓 [[hope]]
+👓 [[hope|hope]]
 🔗 [View Highlight](https://read.readwise.io/read/01j1smh95htdn0d9ekxr112tnx)
 
