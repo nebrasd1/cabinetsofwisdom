@@ -1,13 +1,13 @@
 ---
-title: "LeVar Burton’s Quest to Succeed Alex Trebek"
-author: "nytimes.com"
+title: LeVar Burton’s Quest to Succeed Alex Trebek
+author: nytimes.com
 url: https://www.nytimes.com/interactive/2021/06/28/magazine/levar-burton-interview.html
-published: 
+published:
 date: 2021-07-03
 modified:
 type: articles
 source: hypothesis
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
