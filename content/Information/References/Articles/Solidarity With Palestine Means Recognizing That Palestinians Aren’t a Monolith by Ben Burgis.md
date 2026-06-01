@@ -1,16 +1,16 @@
 ---
-title: "Solidarity With Palestine Means Recognizing That Palestinians Aren’t a Monolith"
-author: "Ben Burgis"
+title: Solidarity With Palestine Means Recognizing That Palestinians Aren’t a Monolith
+author: Ben Burgis
 url: https://jacobin.com/2023/10/solidarity-palestine-israeli-occupation-gaza-human-rights/
 published: 2023-10-12
 date: 2023-10-12
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[History]]" 
-  - "[[Injustice]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[History]]"
+  - "[[Injustice]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
