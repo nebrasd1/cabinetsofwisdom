@@ -1,13 +1,13 @@
 ---
 title: "Spider-Man: No Way Home Is How to Do a Meta Multiverse Right"
-author: "Tor.com"
+author: Tor.com
 url: https://www.inoreader.com/article/3a9c6e7afc2c4b2e-spider-man-no-way-home-is-how-to-do-a-meta-multiverse-right
-published: 
+published:
 date: 2021-12-19
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
