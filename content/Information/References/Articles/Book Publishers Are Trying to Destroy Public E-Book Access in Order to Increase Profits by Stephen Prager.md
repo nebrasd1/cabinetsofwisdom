@@ -1,13 +1,13 @@
 ---
-title: "Book Publishers Are Trying to Destroy Public E-Book Access in Order to Increase Profits"
-author: "Stephen Prager"
+title: Book Publishers Are Trying to Destroy Public E-Book Access in Order to Increase Profits
+author: Stephen Prager
 url: https://www.currentaffairs.org/2023/05/book-publishers-are-trying-to-destroy-public-e-book-access-in-order-to-increase-profits/
 published: 2023-05-23
 date: 2023-05-24
 modified:
 type: articles
 source: reader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
