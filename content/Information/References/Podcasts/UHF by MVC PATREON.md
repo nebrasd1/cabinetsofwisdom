@@ -1,13 +1,13 @@
 ---
-title: "UHF"
-author: "MVC PATREON"
+title: UHF
+author: MVC PATREON
 url: https://share.snipd.com/episode/c67c610c-390a-4213-8d96-d63303d0c3f2
-published: 
+published:
 date: 2025-01-29
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
