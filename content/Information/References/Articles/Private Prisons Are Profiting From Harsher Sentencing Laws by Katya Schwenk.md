@@ -1,15 +1,15 @@
 ---
-title: "Private Prisons Are Profiting From Harsher Sentencing Laws"
-author: "Katya Schwenk"
+title: Private Prisons Are Profiting From Harsher Sentencing Laws
+author: Katya Schwenk
 url: https://jacobin.com/2024/06/private-prisons-sentencing-law-lobbying/
 published: 2024-06-28
 date: 2024-06-29
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Injustice]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Injustice]]"
 publish: true
 ---
 > [!example]- Process
@@ -51,6 +51,6 @@ publish: true
 > prison contracts, including in Tennessee, are paid on a “[per inmate, per day](https://www.capitol.tn.gov/Archives/Joint/committees/fiscal-review/contracts/11.%20RFS%20329.44-00008%20Correction%20(CoreCivic_SCCF%20amendment%201)_Redacted.pdf)”  basis, meaning that these fluctuations in prison populations directly impact the company’s bottom line.
 
 ✏️ I feel this is an issue of bad regulation. When you monitor a private company doing a public good based on something like this, you're rewarding the socially bad thing.. More prisoners.
-👓 [[Regulations]]
+👓 [[Regulation|Regulation]]
 🔗 [View Highlight](https://read.readwise.io/read/01j1hgctb3y61crtwscfcgmcmq)
 
