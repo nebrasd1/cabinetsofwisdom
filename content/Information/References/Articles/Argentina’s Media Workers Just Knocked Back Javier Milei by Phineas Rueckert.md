@@ -1,16 +1,16 @@
 ---
-title: "Argentina’s Media Workers Just Knocked Back Javier Milei"
-author: "Phineas Rueckert"
+title: Argentina’s Media Workers Just Knocked Back Javier Milei
+author: Phineas Rueckert
 url: https://jacobin.com/2024/07/argentina-media-union-milei-telam/
 published: 2024-07-12
 date: 2024-08-14
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Community]]" 
-  - "[[Empowerment]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Community]]"
+  - "[[Empowerment]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
