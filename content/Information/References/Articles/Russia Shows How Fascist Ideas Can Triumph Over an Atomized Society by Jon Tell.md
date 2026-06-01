@@ -1,15 +1,15 @@
 ---
-title: "Russia Shows How Fascist Ideas Can Triumph Over an Atomized Society"
-author: "Jon Tell"
+title: Russia Shows How Fascist Ideas Can Triumph Over an Atomized Society
+author: Jon Tell
 url: https://jacobin.com/2023/06/russia-fascism-wagner-coup-atomization-associationalism-neoliberalism-society/
 published: 2023-06-27
 date: 2023-06-28
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Fascism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Fascism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
