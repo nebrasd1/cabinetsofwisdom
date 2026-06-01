@@ -1,15 +1,15 @@
 ---
-title: "25 Years Ago, the Battle of Seattle Showed Us What Democracy Looks Like"
-author: "Colette Shade"
+title: 25 Years Ago, the Battle of Seattle Showed Us What Democracy Looks Like
+author: Colette Shade
 url: https://www.thenation.com/article/activism/seattle-wto-1999/
 published: 2024-11-29
 date: 2024-11-30
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[Politics]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[Politics]]"
 publish: true
 ---
 > [!example]- Process
@@ -33,6 +33,6 @@ publish: true
 ### id818891482
 > Friedman went on to describe the protesters as a coalition of cranks and naïve idealists who were simply incapable of understanding how trade would have to work in an Internet-connected, post–Cold War world.
 
-👓 [[propaganda]]
+👓 [[propaganda|propaganda]]
 🔗 [View Highlight](https://read.readwise.io/read/01jdxvrk7dhcccg1gzwc4ez0eh)
 
