@@ -1,14 +1,14 @@
 ---
-title: "Hello? This Is Colombia’s Antimachismo Hotline. - The New York Times"
-author: "Julie Turkewitz"
+title: Hello? This Is Colombia’s Antimachismo Hotline. - The New York Times
+author: Julie Turkewitz
 url: https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html
 published: 2021-10-18
 date: 2023-05-24
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Favorite]]" 
+lenses:
+  - "[[Favorite]]"
 publish: true
 ---
 > [!example]- Process
