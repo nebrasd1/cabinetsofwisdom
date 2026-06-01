@@ -1,13 +1,13 @@
 ---
-title: "The World of Shiny Turtles"
+title: The World of Shiny Turtles
 author: "Exolore: facts-based fictional worldbuilding"
 url: https://share.snipd.com/episode/8d4a3771-d392-450d-9acf-2114f99901aa
-published: 
+published:
 date: 2023-08-20
 modified:
 type: podcasts
 source: snipd
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
