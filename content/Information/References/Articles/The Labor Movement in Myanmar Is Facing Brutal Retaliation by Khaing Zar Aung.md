@@ -1,18 +1,18 @@
 ---
-title: "The Labor Movement in Myanmar Is Facing Brutal Retaliation"
-author: "Khaing Zar Aung"
+title: The Labor Movement in Myanmar Is Facing Brutal Retaliation
+author: Khaing Zar Aung
 url: https://jacobin.com/2024/10/myanmar-labor-movement-military-retaliation/
 published: 2024-10-10
 date: 2024-10-13
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Empowerment]]" 
-  - "[[Exploitation]]" 
-  - "[[Hope]]" 
-  - "[[Politics]]" 
-  - "[[Propaganda]]" 
+lenses:
+  - "[[Empowerment]]"
+  - "[[Exploitation]]"
+  - "[[Hope]]"
+  - "[[Politics]]"
+  - "[[Propaganda]]"
 publish: true
 ---
 > [!example]- Process
