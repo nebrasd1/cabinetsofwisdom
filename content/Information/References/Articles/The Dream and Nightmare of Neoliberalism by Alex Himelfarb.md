@@ -1,17 +1,17 @@
 ---
-title: "The Dream and Nightmare of Neoliberalism"
-author: "Alex Himelfarb"
+title: The Dream and Nightmare of Neoliberalism
+author: Alex Himelfarb
 url: https://jacobin.com/2024/09/neoliberalism-pandemic-third-way-solidarity/
 published: 2024-09-15
 date: 2024-11-04
 modified:
 type: articles
 source: reader
-lenses: 
-  - "[[Capitalism]]" 
-  - "[[History]]" 
-  - "[[Politics]]" 
-  - "[[Socialism]]" 
+lenses:
+  - "[[Capitalism]]"
+  - "[[History]]"
+  - "[[Politics]]"
+  - "[[Socialism]]"
 publish: true
 ---
 > [!example]- Process
