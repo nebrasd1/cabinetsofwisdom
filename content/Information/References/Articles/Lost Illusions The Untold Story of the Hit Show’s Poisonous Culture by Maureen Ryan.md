@@ -4,14 +4,13 @@ author: Maureen Ryan
 url: https://www.vanityfair.com/hollywood/2023/05/lost-tv-show-culture
 published: 2023-05-30
 date: 2023-05-31
-modified: 
+modified: 2026-05-31T21:43:50+03:00
 type: articles
 source: reader
 lenses:
   - "[[Creativity]]"
   - "[[Empowerment]]"
-  - "[[Toxic]]"
-  - "[[Women]]"
+  - "[[Gender]]"
 publish: true
 ---
 > [!example]- Process
