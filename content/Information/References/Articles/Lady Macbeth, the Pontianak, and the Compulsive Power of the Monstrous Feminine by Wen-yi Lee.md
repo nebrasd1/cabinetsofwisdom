@@ -1,13 +1,13 @@
 ---
-title: "Lady Macbeth, the Pontianak, and the Compulsive Power of the Monstrous Feminine"
-author: "Wen-yi Lee"
+title: Lady Macbeth, the Pontianak, and the Compulsive Power of the Monstrous Feminine
+author: Wen-yi Lee
 url: https://www.inoreader.com/article/3a9c6e7a7e6f799e-lady-macbeth-the-pontianak-and-the-compulsive-power-of-the-monstrous-feminine
-published: 
+published:
 date: 2022-06-14
 modified:
 type: articles
 source: inoreader
-lenses: 
+lenses:
 publish: true
 ---
 > [!example]- Process
