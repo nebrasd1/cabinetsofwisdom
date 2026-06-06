@@ -327,6 +327,8 @@ layout:
       gap: 0.5rem
   byPageType:
     "404":
+      exclude:
+        - comments
       positions:
         beforeBody: []
         left: []
@@ -335,11 +337,13 @@ layout:
     folder:
       exclude:
         - reader-mode
+        - comments
       positions:
         right: []
     tag:
       exclude:
         - reader-mode
+        - comments
       positions:
         right: []
     canvas: {}
