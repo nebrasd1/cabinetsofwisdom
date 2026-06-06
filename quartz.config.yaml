@@ -17,12 +17,11 @@ configuration:
     - .obsidian
     - .trash
     - 00 Meta/
-    - Information/Claims/
-    - Information/Entities/
     - Information/Fiction_Ideas/
-    - Information/References/
+    - Information/References/Conversations/
+    - Information/References/Websites/
+    - Information/References/PDFs/
     - 40 Worldbuilding/
-    - Indexes/
     - 50 Personal/
     - 70 RPGs/
   theme:
@@ -274,9 +273,7 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - description
         - aliases
-      excludedProperties:
         - author
         - url
         - datePublished
@@ -284,6 +281,11 @@ plugins:
         - type
         - source
         - lenses
+        - 📚source
+        - 📶certainty
+        - ⚖️bias
+        - 🎯purpose
+      excludedProperties:
       hidePropertiesView: false
       delimiters: ---
       language: yaml
