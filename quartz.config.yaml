@@ -78,7 +78,7 @@ plugins:
       wikilinks: true
       callouts: true
       mermaid: true
-      parseTags: true
+      parseTags: false
       parseArrows: true
       parseBlockReferences: true
       enableInHtmlEmbed: false
@@ -160,8 +160,10 @@ plugins:
     enabled: true
   - source: github:quartz-community/folder-page
     enabled: true
+    options:
+      - showFolderCount: false
   - source: github:quartz-community/tag-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/explorer
     enabled: false
     layout:
@@ -191,7 +193,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: github:quartz-community/content-meta
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -241,6 +243,7 @@ plugins:
     layout:
       position: afterBody
       priority: 10
+      condition: not-index
   - source: github:quartz-community/footer
     enabled: true
     options:
@@ -276,6 +279,8 @@ plugins:
         - aliases
         - author
         - original
+        - url
+        - credit
         - published
         - highlighted
         - date
@@ -295,6 +300,7 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+      condition: not-index
   - source:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
