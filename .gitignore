@@ -11,3 +11,20 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+
+# Content private folders — not for publishing
+content/00 Meta/
+content/40 Worldbuilding/
+content/50 Personal/
+content/70 RPGs/
+content/Indexes/
+content/Information/Fiction_Ideas/
+content/Information/References/Conversations/
+content/Information/References/Websites/
+content/Information/References/PDFs/
+content/Output/Day_Jobs/
+
+# Content Obsidian system folders — not for publishing
+content/.smart-env/
+content/.trash/
+content/.obsidian/

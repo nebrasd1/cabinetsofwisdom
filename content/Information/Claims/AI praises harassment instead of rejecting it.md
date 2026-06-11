@@ -1,0 +1,12 @@
+---
+created: 2026-05-08
+modified: 2026-05-09T15:14:15+03:00
+source: "[[Business Insider Founder Creates AI Exec for His New Newsroom, Immediately Hits on Her by Matthew Gault|Business Insider Founder Creates AI Exec for His New Newsroom, Immediately Hits on Her by Matthew Gault]]"
+type: claim
+publish: true
+noRSS: true
+reviewed: true
+comments: false
+---
+
+![[Business Insider Founder Creates AI Exec for His New Newsroom, Immediately Hits on Her by Matthew Gault#id881367690|AI praises harassment instead of rejecting it]]

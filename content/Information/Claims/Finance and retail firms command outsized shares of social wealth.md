@@ -1,0 +1,11 @@
+---
+created: 2026-05-26
+source: "[[Canada Is Banning “Wage Fixing” — Unless It’s Necessary to Boost Profits by Mitchell Thompson|Canada Is Banning “Wage Fixing” — Unless It’s Necessary to Boost Profits by Mitchell Thompson]]"
+type: claim
+publish: true
+noRSS: true
+reviewed: true
+comments: false
+---
+
+![[Canada Is Banning “Wage Fixing” — Unless It’s Necessary to Boost Profits by Mitchell Thompson#id570937442|Finance and retail firms command outsized shares of social wealth]]
