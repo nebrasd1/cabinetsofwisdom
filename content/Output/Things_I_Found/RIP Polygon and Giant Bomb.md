@@ -1,18 +1,9 @@
 ---
-title: 
-type:
-  - posts
-postType:
-  - linkPost
-date: 2025-05-04
-published: 2025-05-02
-modified: 
-url: https://aftermath.site/aftermath-hours-podcast-giant-bomb-polygon-layoffs-valnet
-credit: "[[Aftermath]]"
-lenses:
-  - "[[capitalism]]"
 publish: true
+created: 2025-05-04
+modified: 2026-06-12T13:11:42+03:00
 ---
+
 [Giant Bomb's fate is up in the air](https://kotaku.com/giant-bomb-fandom-dan-ryckert-jeff-grubb-gerstmann-1851778728), and [Polygon just got shafted with a recent sale](https://aftermath.site/polygon-layoffs-sale).
 This is some heartbreaking stuff. So many people's livelihoods just evaporated because of corporate machinations extremely out of their control. Brands as solid as these two paragons of the videogame journalism/content world, just up and poof, because of the "Adults in the Room", as being discussed in an [Aftermath podcast](https://aftermath.site/aftermath-hours-podcast-giant-bomb-polygon-layoffs-valnet).
 
@@ -21,4 +12,12 @@ This is some heartbreaking stuff. So many people's livelihoods just evaporated b
 
 The more this happens, the more I get reinvigorated and radicalized towards supporting as many worker-owned and listener/reader-supported organizations as I can find. This deserves its own post, so I'll write about that soon.
 
-*Credit: [Aftermath](https://aftermath.site/)*
+_Credit: [Aftermath](https://aftermath.site/)_
+
+```linkcard
+title: "Polygon And Giant Bomb Are Being Sacrificed At The Altar Of Slop - Aftermath"
+image: "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2025/10/gbgon-3.png"
+description: "\"It’s all interchangeable to them. It’s all the same slop\""
+url: "https://aftermath.site/aftermath-hours-podcast-giant-bomb-polygon-layoffs-valnet"
+favicon: ""
+```
