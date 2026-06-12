@@ -230,8 +230,8 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: nebrasd1/cabinetsofwisdom-content
-        repoId: R_kgDOSv1M5g
+        repo: nebrasd1/cabinetsofwisdom
+        repoId: R_kgDOOWtDXw
         category: Announcements
         categoryId: DIC_kwDOSv1M5s4C-oMH
         mapping: url
@@ -326,6 +326,10 @@ plugins:
     layout:
       position: beforeBody
       priority: 1
+  - source: github:nebrasd1/quartz-linkcard
+    enabled: true
+    options: {}
+    order: 95
 layout:
   groups:
     toolbar:

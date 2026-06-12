@@ -193,6 +193,12 @@
       "commit": "a1c1fe0a9c6a5ce1acf6efa01d473a7d9850e2a3",
       "installedAt": "2026-06-06T09:26:14.858Z"
     },
+    "quartz-linkcard": {
+      "source": "github:nebrasd1/quartz-linkcard",
+      "resolved": "https://github.com/nebrasd1/quartz-linkcard.git",
+      "commit": "a04083f344eab70a018ea3e390971c21c97e46de",
+      "installedAt": "2026-06-12T09:51:57.694Z"
+    },
     "quartz-links-header": {
       "source": "github:nebrasd1/quartz-links-header",
       "resolved": "https://github.com/nebrasd1/quartz-links-header.git",

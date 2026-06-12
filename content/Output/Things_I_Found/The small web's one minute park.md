@@ -6,7 +6,7 @@ postType:
   - linkPost
 date: 2026-06-10
 published:
-modified: 2026-06-10T14:40:05+03:00
+modified: 2026-06-11T18:51:51+03:00
 url: https://oneminutepark.tv/
 credit:
   - "[Elliot Cost](https://elliott.computer/)"
