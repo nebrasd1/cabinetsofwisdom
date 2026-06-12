@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-05-04
-modified: 2026-06-12T13:11:42+03:00
+modified: 2026-06-13T01:17:08+03:00
 ---
 
 [Giant Bomb's fate is up in the air](https://kotaku.com/giant-bomb-fandom-dan-ryckert-jeff-grubb-gerstmann-1851778728), and [Polygon just got shafted with a recent sale](https://aftermath.site/polygon-layoffs-sale).
