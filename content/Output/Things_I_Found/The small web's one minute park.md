@@ -2,7 +2,7 @@
 publish: true
 title: The small web's one minute park
 created: 2026-06-10
-modified: 2026-06-12T13:10:15+03:00
+modified: 2026-06-13T13:19:46+03:00
 ---
 
 [There was something instantly calming and teleporting about this](https://oneminutepark.tv/). I mean, reading about it was one thing, and I went in expecting to be like, huh yeah okay cool.. but the way it was full-screen, and the serenity of the view.. it took me away for longer than a moment and I was transfixed.
