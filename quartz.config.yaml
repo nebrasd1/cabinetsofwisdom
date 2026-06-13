@@ -275,7 +275,7 @@ plugins:
     enabled: true
     options:
       includeAll: false
-      includedProperties: '["aliases","author","original","url","credit","published","highlighted","date","type","source","lenses","📚source","📶certainty","⚖️bias","🎯purpose","norss","index"]'
+      includedProperties: '{"aliases","author","original","url","credit","published","highlighted","date","type","source","lenses","📚source","📶certainty","⚖️bias","🎯purpose","norss","index"}'
       excludedProperties: null
       hidePropertiesView: false
       delimiters: ---
