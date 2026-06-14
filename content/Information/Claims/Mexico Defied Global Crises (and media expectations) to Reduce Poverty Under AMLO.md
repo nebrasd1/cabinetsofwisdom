@@ -1,0 +1,13 @@
+---
+publish: true
+created: 2026-05-04
+modified: 2026-05-06T11:52:37+03:00
+published: 2026-06-06T22:19:40.757+03:00
+source: "[[AMLO Is Reducing Poverty in Mexico by Kurt Hackbarth|AMLO Is Reducing Poverty in Mexico by Kurt Hackbarth]]"
+type: claim
+noRSS: true
+reviewed: true
+comments: false
+---
+
+![[AMLO Is Reducing Poverty in Mexico by Kurt Hackbarth#id588231408|Mexico Defied Global Crises (and media expectations) to Reduce Poverty Under AMLO]]

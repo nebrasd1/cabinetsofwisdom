@@ -1,0 +1,32 @@
+---
+publish: true
+title: "Ted Chiang: “ChatGPT Is a Blurry JPEG of the Web”"
+created: 2026-06-03T14:41:55.485+03:00
+modified:
+published: 2023-02-09
+author: kottke.org
+original: https://kottke.org/23/02/ted-chiang-chatgpt-is-a-blurry-jpeg-of-the-web
+highlighted: 2023-02-10
+type: articles
+source: reader
+lenses:
+  - "[[Favorite]]"
+comments: false
+---
+
+> [!example]- Process
+>
+> | | Status  | Items                           |
+> | -------------- | ------------------------- |------------------------- |
+> | **Output**        | None     |  |
+> | **Questions**            | None  |   |
+> | **Claims** | None  |  |
+> | **Highlights**            | Done  | See section below |
+
+## Highlights
+
+### id473847059
+
+> What I’ve described sounds a lot like ChatGPT, or most any other large-language model. Think of ChatGPT as a blurry jpeg of all the text on the Web. It retains much of the information on the Web, in the same way that a jpeg retains much of the information of a higher-resolution image, but, if you’re looking for an exact sequence of bits, you won’t find it; all you will ever get is an approximation. But, because the approximation is presented in the form of grammatical text, which ChatGPT excels at creating, it’s usually acceptable. You’re still looking at a blurry jpeg, but the blurriness occurs in a way that doesn’t make the picture as a whole look less sharp.
+
+🔗 [View Highlight](https://read.readwise.io/read/01grxwd8j6qjeqtq0m7awt8c26)
