@@ -333,6 +333,7 @@ layout:
       exclude:
         - reader-mode
         - comments
+        - note-properties
       positions:
         right: []
     tag:
