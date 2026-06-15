@@ -278,7 +278,7 @@ plugins:
       hidePropertiesView: false
       delimiters: ---
       language: yaml
-      excludedProperties: ["publish","title","description","comments","noRSS","index","purchased","created","reviewed"]
+      excludedProperties: ["aliases","publish","title","description","comments","noRSS","index","purchased","consumed","created","reviewed","date","claimType","postType","type"]
     order: 5
     layout:
       position: beforeBody
