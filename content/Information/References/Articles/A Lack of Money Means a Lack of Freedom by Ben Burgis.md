@@ -2,7 +2,7 @@
 publish: true
 title: A Lack of Money Means a Lack of Freedom
 created: 2026-05-30T14:27:38.420+03:00
-modified: 2025-05-10T08:34:27+03:00
+modified: 2025-05-10
 published: 2023-11-07
 author: Ben Burgis
 original: https://jacobin.com/2023/11/negative-freedom-g-a-cohen-marxism-capitalism/

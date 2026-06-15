@@ -2,7 +2,7 @@
 publish: true
 title: 5 Main Takeaways From Randomly Sampling YouTube
 created: 2026-06-03T14:41:55.450+03:00
-modified: 2026-05-31T21:42:47+03:00
+modified: 2026-05-31
 published: 2023-12-21
 author: Ryan McGrady
 original: https://publicinfrastructure.org/2023/12/21/notes-from-random-youtube-coding/

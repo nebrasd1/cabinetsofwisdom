@@ -4,7 +4,7 @@ aliases:
   - Into the Woods
 title: Into the Woods
 created: 2026-05-30T14:27:38.462+03:00
-modified: 2026-04-19T17:08:11+03:00
+modified: 2026-04-19
 published:
 author: John Yorke
 original:

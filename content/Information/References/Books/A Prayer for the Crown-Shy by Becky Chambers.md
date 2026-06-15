@@ -2,7 +2,7 @@
 publish: true
 title: A Prayer for the Crown-Shy
 created: 2026-05-30T14:27:38.461+03:00
-modified: 2026-04-20T11:24:52+03:00
+modified: 2026-04-20
 published:
 author: Becky Chambers
 original:

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - unjust
 created: 2026-06-03T14:41:55.449+03:00
-modified: 2026-05-31T21:17:08+03:00
-published: 2026-06-03T14:41:55.449+03:00
+modified: 2026-05-31
+published: 2026-06-15T13:19:37.334+03:00
 ---
 
 # Injustice

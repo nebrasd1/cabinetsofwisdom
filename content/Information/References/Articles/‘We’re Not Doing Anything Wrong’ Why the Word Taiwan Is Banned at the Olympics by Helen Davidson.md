@@ -2,7 +2,7 @@
 publish: true
 title: "‘We’re Not Doing Anything Wrong’: Why the Word Taiwan Is Banned at the Olympics"
 created: 2026-05-30T14:27:38.460+03:00
-modified: 2026-04-29T15:12:17+03:00
+modified: 2026-04-29
 published: 2024-08-07
 author: Helen Davidson
 original: https://www.theguardian.com/world/article/2024/aug/07/were-not-doing-anything-wrong-why-the-word-taiwan-is-banned-at-the-olympics

@@ -2,7 +2,7 @@
 publish: true
 title: "Double Fine PsychOdyssey · EP25: “A Different Beast”"
 created: 2026-06-03T14:41:55.463+03:00
-modified: 2026-05-31T21:12:01+03:00
+modified: 2026-05-31
 published: 2023-02-10
 author: DoubleFineProd
 original: https://www.youtube.com/watch?list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_&v=60busy0bGWE&feature=youtu.be

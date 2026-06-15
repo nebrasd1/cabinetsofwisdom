@@ -2,7 +2,7 @@
 publish: true
 title: Andor, Season 1
 created: 2026-05-30T14:27:38.467+03:00
-modified: 2026-06-07T09:40:27+03:00
+modified: 2026-06-07
 published:
 author: MVC PATREON
 url: https://share.snipd.com/episode/60bc0fa3-d1df-464a-9e81-9ef7cd7e9687

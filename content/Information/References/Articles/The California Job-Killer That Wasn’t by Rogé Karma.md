@@ -2,7 +2,7 @@
 publish: true
 title: The California Job-Killer That Wasn’t
 created: 2026-06-03T14:41:55.486+03:00
-modified: 2026-05-31T21:19:45+03:00
+modified: 2026-05-31
 published: 2024-12-22
 author: Rogé Karma
 original: https://www.theatlantic.com/ideas/archive/2024/12/california-minimum-wage-myth/681145/?gift=j9r7avb6p-KY8zdjhsiSZ1F3acvbaMPr0GUdVl-FcX4

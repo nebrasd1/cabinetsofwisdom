@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-06
-modified: 2026-05-06T14:01:26+03:00
-published: 2026-06-06T22:19:40.551+03:00
+modified: 2026-05-06
+published: 2026-06-15T13:19:36.950+03:00
 source: "[[Argentina Was the Pioneer of Latin American Socialism by Lucas Poy|Argentina Was the Pioneer of Latin American Socialism by Lucas Poy]]"
 type: claim
 noRSS: true

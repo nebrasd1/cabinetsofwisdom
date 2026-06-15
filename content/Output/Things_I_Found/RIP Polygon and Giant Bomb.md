@@ -1,14 +1,13 @@
 ---
 publish: true
 title: RIP Polygon and Giant Bomb
-created: 2025-05-04
-modified: 2026-06-13T13:00:52+03:00
+created: 2026-06-13T01:16:58.158+03:00
+modified: 2026-06-15
 published: 2025-05-02
 type:
   - posts
 postType:
   - linkPost
-date: 2025-05-04
 url: https://aftermath.site/aftermath-hours-podcast-giant-bomb-polygon-layoffs-valnet
 credit: "[[Aftermath]]"
 lenses:

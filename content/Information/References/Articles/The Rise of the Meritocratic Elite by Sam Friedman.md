@@ -2,7 +2,7 @@
 publish: true
 title: The Rise of the Meritocratic Elite
 created: 2026-06-03T14:41:55.489+03:00
-modified: 2026-05-31T21:43:05+03:00
+modified: 2026-05-31
 published: 2025-01-08
 author: Sam Friedman
 original: https://jacobin.com/2025/01/british-elites-inequality-meritocracy-education/

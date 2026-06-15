@@ -2,7 +2,7 @@
 publish: true
 title: Business Insider Founder Creates AI Exec for His New Newsroom, Immediately Hits on Her
 created: 2026-06-03T14:41:55.458+03:00
-modified: 2026-05-31T21:43:43+03:00
+modified: 2026-05-31
 published: 2025-04-22
 author: Matthew Gault
 original: https://www.404media.co/business-insider-founder-creates-ai-exec-for-his-new-newsroom-immediately-hits-on-her/

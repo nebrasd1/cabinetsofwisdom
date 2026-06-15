@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-08
-modified: 2026-05-09T15:12:08+03:00
-published: 2026-06-06T22:19:40.532+03:00
+modified: 2026-05-09
+published: 2026-06-15T13:19:36.931+03:00
 source: "[[Bail Bond Insurers Are Lobbying to Keep People in Jail by Katya Schwenk|Bail Bond Insurers Are Lobbying to Keep People in Jail by Katya Schwenk]]"
 type: claim
 noRSS: true

@@ -2,7 +2,7 @@
 publish: true
 title: The Respect of Personhood vs the Respect of Authority
 created: 2026-06-03T14:41:55.489+03:00
-modified: 2026-05-31T21:34:39+03:00
+modified: 2026-05-31
 published: 2018-05-17
 tags:
   - addto/quote

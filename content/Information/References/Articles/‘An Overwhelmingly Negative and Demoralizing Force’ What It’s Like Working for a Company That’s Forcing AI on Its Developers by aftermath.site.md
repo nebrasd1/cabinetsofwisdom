@@ -2,7 +2,7 @@
 publish: true
 title: "‘An Overwhelmingly Negative and Demoralizing Force’: What It’s Like Working for a Company That’s Forcing AI on Its Developers"
 created: 2026-06-03T14:41:55.498+03:00
-modified: 2025-05-10T15:53:36+03:00
+modified: 2026-06-15
 published: 2025-04-07
 author: aftermath.site
 original: https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney

@@ -2,7 +2,7 @@
 publish: true
 title: 🎓 Communities Who Never Met IRL Are Older Than You Think
 created: 2026-05-30T14:27:38.461+03:00
-modified: 2026-04-29T10:06:07+03:00
+modified: 2026-04-29
 published: 2025-02-20
 author: Eleanor Konik
 original: https://www.eleanorkonik.com/p/communities-who-never-met-irl-are

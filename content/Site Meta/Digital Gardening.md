@@ -2,7 +2,7 @@
 publish: true
 description: Thoughts on digital gardening, what it means, etc.
 created: 2025-05-01
-modified: 2026-06-07T08:31:45+03:00
+modified: 2026-06-07
 published: 2025-05-01
 title:
 type:

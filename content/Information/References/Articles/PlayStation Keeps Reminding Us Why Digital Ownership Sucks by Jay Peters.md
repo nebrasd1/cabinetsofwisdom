@@ -2,7 +2,7 @@
 publish: true
 title: PlayStation Keeps Reminding Us Why Digital Ownership Sucks
 created: 2026-06-03T14:41:55.482+03:00
-modified: 2026-05-31T20:55:15+03:00
+modified: 2026-05-31
 published: 2023-12-05
 author: Jay Peters
 original: https://www.theverge.com/2023/12/5/23989290/playstation-digital-ownership-sucks

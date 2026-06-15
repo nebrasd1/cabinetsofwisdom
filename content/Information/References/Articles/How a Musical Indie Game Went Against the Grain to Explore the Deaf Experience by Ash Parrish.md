@@ -2,7 +2,7 @@
 publish: true
 title: How a Musical Indie Game Went Against the Grain to Explore the Deaf Experience
 created: 2026-06-03T14:41:55.471+03:00
-modified: 2026-05-31T21:18:50+03:00
+modified: 2026-05-31
 published: 2024-07-03
 author: Ash Parrish
 original: https://www.theverge.com/24190846/harmonium-the-musical-developer-interview-deaf-culture-experience

@@ -2,7 +2,7 @@
 publish: true
 title: On the Material Foundations of Intellectual Production
 created: 2026-05-30T14:27:38.439+03:00
-modified: 2025-05-10T08:35:19+03:00
+modified: 2025-05-10
 published: 2023-12-15
 author: Nathan J. Robinson
 original: https://www.currentaffairs.org/2023/12/on-the-material-foundations-of-intellectual-production/

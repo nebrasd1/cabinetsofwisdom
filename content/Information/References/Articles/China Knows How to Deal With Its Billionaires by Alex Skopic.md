@@ -2,7 +2,7 @@
 publish: true
 title: China Knows How to Deal With Its Billionaires
 created: 2026-05-30T14:27:38.425+03:00
-modified: 2025-05-10T14:56:00+03:00
+modified: 2025-05-10
 published: 2025-04-11
 author: Alex Skopic
 original: https://www.currentaffairs.org/news/china-knows-how-to-deal-with-its-billionaires

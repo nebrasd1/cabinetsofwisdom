@@ -2,7 +2,7 @@
 publish: true
 title: “Buy Now, Pay Later” Companies Are an Unregulated Racket
 created: 2026-05-30T14:27:38.460+03:00
-modified: 2025-05-06T13:22:04+03:00
+modified: 2025-05-06
 published: 2024-12-19
 author: Amos Barshad
 original: https://jacobin.com/2024/12/buy-now-pay-later-klarna/

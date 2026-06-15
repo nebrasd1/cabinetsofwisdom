@@ -2,7 +2,7 @@
 publish: true
 title: UK Users Need to Post Selfie or Photo ID to View Reddit's R/IsraelCrimes, R/UkraineWarFootage
 created: 2026-06-03T14:41:55.492+03:00
-modified: 2026-05-31T21:20:34+03:00
+modified: 2026-05-31
 published: 2025-07-29
 author: Emanuel Maiberg
 original: https://www.404media.co/uk-users-need-to-post-selfie-or-photo-id-to-view-reddits-r-israelcrimes-r-ukrainewarfootage/

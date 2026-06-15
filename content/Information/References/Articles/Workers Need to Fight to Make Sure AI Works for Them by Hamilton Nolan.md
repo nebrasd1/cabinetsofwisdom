@@ -2,7 +2,7 @@
 publish: true
 title: Workers Need to Fight to Make Sure AI Works for Them
 created: 2026-06-03T14:41:55.497+03:00
-modified: 2025-05-10T14:52:09+03:00
+modified: 2025-05-10
 published: 2024-01-24
 author: Hamilton Nolan
 original: https://jacobin.com/2024/01/workers-labor-artificial-intelligence-technology/

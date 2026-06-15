@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-06
-modified: 2026-05-06T14:22:57+03:00
-published: 2026-06-06T22:19:40.869+03:00
+modified: 2026-05-06
+published: 2026-06-15T13:19:37.239+03:00
 source: "[[Another Way to Tell a Story Sociological vs Psychological Storytelling by Shana Figueroa|Another Way to Tell a Story Sociological vs Psychological Storytelling by Shana Figueroa]]"
 type: claim
 noRSS: true

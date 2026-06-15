@@ -2,7 +2,7 @@
 publish: true
 title: Write Great Fiction - Characters, Emotion & Viewpoint
 created: 2026-05-30T14:27:38.466+03:00
-modified: 2026-04-19T17:03:51+03:00
+modified: 2026-04-19
 published:
 author: Nancy Kress
 original:

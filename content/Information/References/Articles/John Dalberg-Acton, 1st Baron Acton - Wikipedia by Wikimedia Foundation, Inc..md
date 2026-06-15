@@ -2,7 +2,7 @@
 publish: true
 title: John Dalberg-Acton, 1st Baron Acton - Wikipedia
 created: 2026-06-03T14:41:55.476+03:00
-modified: 2026-05-31T21:33:55+03:00
+modified: 2026-05-31
 published: 2003-05-10
 tags:
   - addto/quote

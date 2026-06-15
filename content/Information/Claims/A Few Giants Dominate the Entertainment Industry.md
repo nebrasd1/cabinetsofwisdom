@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-26
-modified: 2026-05-31T20:43:36+03:00
-published: 2026-06-06T22:19:40.441+03:00
+modified: 2026-05-31
+published: 2026-06-15T13:19:36.862+03:00
 tags:
   - xref
 source: "[[Capitalism Is Draining the Life From Our Culture Industries by Dean Van Nguyen|Capitalism Is Draining the Life From Our Culture Industries by Dean Van Nguyen]]"

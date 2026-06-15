@@ -2,13 +2,12 @@
 publish: true
 title: "50 Years After “The Other 9/11”: Remembering the Chilean Coup"
 created: 2026-05-30T14:27:38.420+03:00
-modified: 2026-06-07T09:37:09.777+03:00
-published: 2026-06-07T09:37:09.777+03:00
+modified: 2026-06-15
+published: 2023-09-11
 cssclasses:
   - wiki-right
   - rside-10
 highlighted: 2023-09-17
-datePublished: 2023-09-11
 type:
   - articles
 source: reader

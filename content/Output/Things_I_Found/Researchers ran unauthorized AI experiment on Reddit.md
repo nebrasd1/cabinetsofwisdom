@@ -1,15 +1,14 @@
 ---
 publish: true
 title: Researchers ran unauthorized AI experiment on Reddit
-created: 2025-04-29
-modified: 2026-06-13T13:00:32+03:00
+created: 2026-06-13T01:16:58.158+03:00
+modified: 2026-06-15
 published: 2025-04-28
 type:
   - posts
 postType:
   - linkPost
-date: 2025-04-29
-url: https://www.404media.co/researchers-secretly-ran-a-massive-unauthorized-ai-persuasion-experiment-on-reddit-users/?__readwiseLocation=
+url: https://www.404media.co/researchers-secretly-ran-a-massive-unauthorized-ai-persuasion-experiment-on-reddit-users
 credit: "[[404 Media]]"
 lenses:
   - "[[ai]]"

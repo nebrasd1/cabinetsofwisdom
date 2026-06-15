@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-26
-modified: 2026-05-31T20:48:37+03:00
-published: 2026-06-06T22:16:48.697+03:00
+modified: 2026-05-31
+published: 2026-06-15T13:19:36.854+03:00
 source: "[[All Games Are Political by Max Haiven|All Games Are Political by Max Haiven]]"
 type: claim
 noRSS: true

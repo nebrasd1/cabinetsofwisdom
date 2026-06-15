@@ -2,7 +2,7 @@
 publish: true
 title: The New Zodiac
 created: 2026-06-03T14:41:55.488+03:00
-modified: 2026-05-31T21:20:06+03:00
+modified: 2026-05-31
 published: 1999-03-11
 author: Jason Kottke
 original: https://kottke.org/99/03/the-new-zodiac

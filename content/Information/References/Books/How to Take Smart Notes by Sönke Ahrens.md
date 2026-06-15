@@ -2,7 +2,7 @@
 publish: true
 title: How to Take Smart Notes
 created: 2026-05-30T14:27:38.462+03:00
-modified: 2025-05-05T18:04:04+03:00
+modified: 2025-05-05
 published:
 author: Sönke Ahrens
 original:

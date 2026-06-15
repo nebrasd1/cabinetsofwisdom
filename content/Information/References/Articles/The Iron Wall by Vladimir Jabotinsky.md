@@ -2,7 +2,7 @@
 publish: true
 title: The Iron Wall
 created: 2026-06-03T14:41:55.487+03:00
-modified: 2026-05-11T14:19:27+03:00
+modified: 2026-05-11
 published: 2006-08-21
 author: Vladimir Jabotinsky
 original: https://www.marxists.org/history/etol/document/mideast/ironwall/ironwall.htm

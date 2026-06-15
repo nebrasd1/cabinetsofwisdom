@@ -2,7 +2,7 @@
 publish: true
 title: How the Western Literary Canon Made the World Worse
 created: 2026-06-03T14:41:55.472+03:00
-modified: 2026-05-31T21:19:04+03:00
+modified: 2026-05-31
 published: 2024-12-05
 author: Elias Rodriques
 original: https://www.thenation.com/article/culture/dionne-brand-salvage-interview/

@@ -2,7 +2,7 @@
 publish: true
 title: Star Trek Gave Us a Utopian Vision of an Egalitarian, Postcapitalist Future
 created: 2026-06-03T14:41:55.485+03:00
-modified: 2026-05-31T21:41:00+03:00
+modified: 2026-05-31
 published: 2023-08-16
 author: Simon Tyrie
 original: https://jacobin.com/2023/08/star-trek-solidarity-utopianism-technology-postcapitalism/

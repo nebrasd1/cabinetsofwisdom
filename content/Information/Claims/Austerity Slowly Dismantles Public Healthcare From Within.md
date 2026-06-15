@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-26
-modified: 2026-05-26T19:16:02+03:00
-published: 2026-06-06T22:19:40.527+03:00
+modified: 2026-05-26
+published: 2026-06-15T13:19:36.924+03:00
 source: "[[Canada’s Public Health Care System Faces Encroachment by Privatizing Profiteers by Jeremy Appel|Canada’s Public Health Care System Faces Encroachment by Privatizing Profiteers by Jeremy Appel]]"
 type: claim
 noRSS: true

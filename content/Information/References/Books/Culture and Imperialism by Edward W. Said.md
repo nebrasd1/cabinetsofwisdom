@@ -2,7 +2,7 @@
 publish: true
 title: Culture and Imperialism
 created: 2026-05-30T14:27:38.461+03:00
-modified: 2026-04-20T11:25:10+03:00
+modified: 2026-04-20
 published: 2012-10-24
 author: Edward W. Said
 original:

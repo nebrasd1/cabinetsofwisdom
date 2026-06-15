@@ -2,7 +2,7 @@
 publish: true
 title: The Worldbuilding of Andor’s Ghorman Speaks Volumes
 created: 2026-06-03T14:41:55.491+03:00
-modified: 2026-05-31T21:41:12+03:00
+modified: 2026-05-31
 published: 2025-05-06
 author: Emmet Asher-Perrin
 original: https://reactormag.com/the-worldbuilding-in-andor-speaks-volumes/

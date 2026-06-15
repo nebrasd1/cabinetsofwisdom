@@ -2,7 +2,7 @@
 publish: true
 title: Everyday Utopia
 created: 2026-06-03T14:41:55.499+03:00
-modified: 2026-04-20T11:25:16+03:00
+modified: 2026-04-20
 published:
 author: Kristen R. Ghodsee
 original:

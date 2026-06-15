@@ -2,7 +2,7 @@
 publish: true
 title: “I Hate to Write, but I Love Having Written”
 created: 2026-06-03T14:41:55.498+03:00
-modified: 2026-05-31T21:23:08+03:00
+modified: 2026-05-31
 published: 2020-08-21
 tags:
   - addto/quote

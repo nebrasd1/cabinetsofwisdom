@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-08
-modified: 2026-05-09T15:11:51+03:00
-published: 2026-06-06T22:19:40.650+03:00
+modified: 2026-05-09
+published: 2026-06-15T13:19:37.030+03:00
 source: "[[Automation in Retail Is Even Worse Than You Thought by Ann Larson|Automation in Retail Is Even Worse Than You Thought by Ann Larson]]"
 type: claim
 noRSS: true

@@ -2,10 +2,9 @@
 publish: true
 title: Fintech and Microfinance Are Preying on the Global Poor
 created: 2026-05-30T14:27:38.428+03:00
-modified: 2025-01-01
-published: 2026-06-07T09:37:13.360+03:00
+modified: 2026-06-15
+published: 2023-06-02
 highlighted: 2023-06-04
-datePublished: 2023-06-02
 type:
   - articles
 source: reader

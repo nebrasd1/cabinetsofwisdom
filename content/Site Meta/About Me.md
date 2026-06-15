@@ -2,7 +2,7 @@
 publish: true
 description: Quick "bio" of sorts, covering some basic stats and biases for now.
 created: ""
-modified: 2026-06-07T08:31:40+03:00
+modified: 2026-06-07
 published: ""
 title:
 type:

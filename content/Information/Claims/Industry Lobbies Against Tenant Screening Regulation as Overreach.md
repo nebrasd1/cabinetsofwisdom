@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-06
-modified: 2026-05-07T11:24:08+03:00
-published: 2026-06-06T22:19:40.711+03:00
+modified: 2026-05-07
+published: 2026-06-15T13:19:37.101+03:00
 source: "[[Artificial Intelligence Is Driving Discrimination in the Housing Market by Rebecca Burns|Artificial Intelligence Is Driving Discrimination in the Housing Market by Rebecca Burns]]"
 type: claim
 noRSS: true

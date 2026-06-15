@@ -2,8 +2,8 @@
 publish: true
 title: Capitalist Realism
 created: 2026-06-03T14:41:55.499+03:00
-modified: 2026-05-31T21:30:37+03:00
-published: 2026-06-07T09:39:25.637+03:00
+modified: 2026-05-31
+published: 2026-06-15T13:19:37.604+03:00
 highlighted: 2023-09-23
 datePublished:
 type: books

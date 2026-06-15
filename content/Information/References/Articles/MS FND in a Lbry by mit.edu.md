@@ -2,7 +2,7 @@
 publish: true
 title: MS FND in a Lbry
 created: 2026-06-03T14:41:55.477+03:00
-modified: 2026-05-31T21:40:31+03:00
+modified: 2026-05-31
 published:
 author: mit.edu
 original: https://trillian.mit.edu/~jc/humor/Ms_fnd_in_a_Lbry.html

@@ -2,7 +2,7 @@
 publish: true
 title: The Crimes Behind the Seafood You Eat | The New Yorker
 created: 2026-06-03T14:41:55.486+03:00
-modified: 2025-05-10T08:32:23+03:00
+modified: 2025-05-10
 published: 2023-10-16
 author: Ian Urbina
 original: https://www.newyorker.com/magazine/2023/10/16/the-crimes-behind-the-seafood-you-eat

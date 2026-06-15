@@ -2,7 +2,7 @@
 publish: true
 title: Colombia Stood Up to Trump—But the Media Let Him Shape the Narrative
 created: 2026-06-03T14:41:55.460+03:00
-modified: 2026-05-31T21:18:39+03:00
+modified: 2026-05-31
 published: 2025-02-01
 author: More from Alex Skopic & Nathan J. Robinson
 original: https://www.currentaffairs.org/news/colombia-stood-up-to-trump-but-the-media-let-him-shape-the-narrative

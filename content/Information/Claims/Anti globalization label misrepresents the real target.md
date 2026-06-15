@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-03
-modified: 2026-05-03T15:04:35+03:00
-published: 2026-06-06T22:19:40.518+03:00
+modified: 2026-05-03
+published: 2026-06-15T13:19:36.918+03:00
 source: "[[25 Years Ago, the Battle of Seattle Showed Us What Democracy Looks Like by Colette Shade|25 Years Ago, the Battle of Seattle Showed Us What Democracy Looks Like by Colette Shade]]"
 type: claim
 noRSS: true

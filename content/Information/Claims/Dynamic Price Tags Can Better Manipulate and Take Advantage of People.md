@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-04
-modified: 2026-05-04T13:10:17+03:00
-published: 2026-06-06T22:19:40.631+03:00
+modified: 2026-05-04
+published: 2026-06-15T13:19:37.013+03:00
 source: "[[A Supermarket Trip May Soon Look Different, Thanks to Electronic Shelf Labels by Lola Murti|A Supermarket Trip May Soon Look Different, Thanks to Electronic Shelf Labels by Lola Murti]]"
 type: claim
 noRSS: true

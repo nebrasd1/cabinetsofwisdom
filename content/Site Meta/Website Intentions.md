@@ -2,7 +2,7 @@
 publish: true
 description: What it says on the tin.. what I want out of this whole thing.
 created: 2025-01-04
-modified: 2026-06-07T08:32:05+03:00
+modified: 2026-06-07
 published: 2025-01-04
 type:
   - posts

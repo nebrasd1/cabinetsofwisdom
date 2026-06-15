@@ -2,7 +2,7 @@
 publish: true
 title: André Gorz Was the Theorist Who Predicted the Revolt Against Meaningless Work
 created: 2026-06-03T14:41:55.454+03:00
-modified: 2026-05-31T21:32:25+03:00
+modified: 2026-05-31
 published: 2023-07-18
 tags:
   - addto/quote

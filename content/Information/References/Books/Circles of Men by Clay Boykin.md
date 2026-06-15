@@ -2,7 +2,7 @@
 publish: true
 title: Circles of Men
 created: 2026-05-30T14:27:38.461+03:00
-modified: 2026-04-19T17:04:53+03:00
+modified: 2026-04-19
 published:
 author: Clay Boykin
 original:

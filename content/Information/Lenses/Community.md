@@ -3,8 +3,8 @@ publish: true
 aliases:
   - communal
 created: 2026-06-03T14:41:55.449+03:00
-modified: 2026-05-31T21:14:20+03:00
-published: 2026-06-03T14:41:55.449+03:00
+modified: 2026-05-31
+published: 2026-06-15T13:19:37.319+03:00
 ---
 
 # Community

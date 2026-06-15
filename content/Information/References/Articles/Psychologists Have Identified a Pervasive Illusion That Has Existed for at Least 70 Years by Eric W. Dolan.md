@@ -2,7 +2,7 @@
 publish: true
 title: Psychologists Have Identified a Pervasive Illusion That Has Existed for at Least 70 Years
 created: 2026-06-03T14:41:55.482+03:00
-modified: 2026-05-31T21:13:47+03:00
+modified: 2026-05-31
 published: 2023-06-27
 author: Eric W. Dolan
 original: https://www.psypost.org/2023/06/psychologists-have-identified-a-pervasive-illusion-that-has-existed-for-at-least-70-years-166017

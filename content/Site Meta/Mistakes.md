@@ -2,9 +2,8 @@
 publish: true
 description: A place to acknowledge my mistakes and misunderstandings, and reflect upon them publicly.
 created: 2025-01-01
-modified: 2025-01-01
+modified: 2026-06-15
 published: 2025-01-01
-sidebar: false
 date: 2025-01-01
 noRSS: true
 ---

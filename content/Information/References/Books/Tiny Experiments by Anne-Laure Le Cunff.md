@@ -2,7 +2,7 @@
 publish: true
 title: Tiny Experiments
 created: 2026-05-30T14:27:38.465+03:00
-modified: 2026-06-04T14:23:52+03:00
+modified: 2026-06-04
 published:
 author: Anne-Laure Le Cunff
 original:

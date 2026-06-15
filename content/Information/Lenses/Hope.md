@@ -3,8 +3,8 @@ publish: true
 aliases:
   - hopeful
 created: 2026-06-03T14:41:55.449+03:00
-modified: 2026-05-31T21:16:47+03:00
-published: 2026-06-03T14:41:55.449+03:00
+modified: 2026-05-31
+published: 2026-06-15T13:19:37.331+03:00
 ---
 
 # Hope

@@ -2,7 +2,7 @@
 publish: true
 title: They Thought They Were Free
 created: 2026-06-03T14:41:55.491+03:00
-modified: 2026-05-31T21:34:59+03:00
+modified: 2026-05-31
 published:
 tags:
   - addto/quote

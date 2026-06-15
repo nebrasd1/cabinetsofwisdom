@@ -2,7 +2,7 @@
 publish: true
 title: How to Secretly Communicate With People on LSD
 created: 2026-06-03T14:41:55.472+03:00
-modified: 2026-05-31T21:40:01+03:00
+modified: 2026-05-31
 published: 2015-05-22
 author: Qualia  Computing
 original: https://qualiacomputing.com/2015/05/22/how-to-secretly-communicate-with-people-on-lsd/

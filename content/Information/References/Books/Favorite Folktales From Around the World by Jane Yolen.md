@@ -2,7 +2,7 @@
 publish: true
 title: Favorite Folktales From Around the World
 created: 2026-05-30T14:27:38.462+03:00
-modified: 2026-04-27T13:34:32+03:00
+modified: 2026-04-27
 published:
 author: Jane Yolen
 original:

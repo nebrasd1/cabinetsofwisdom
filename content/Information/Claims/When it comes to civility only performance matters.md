@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-26
-modified: 2026-05-28T17:56:24+03:00
-published: 2026-06-06T22:19:40.954+03:00
+modified: 2026-05-28
+published: 2026-06-15T13:19:37.304+03:00
 claimType: claim
 source: "[[Civility Is a Fantasy by Roxane Gay|Civility Is a Fantasy by Roxane Gay]]"
 type: claim

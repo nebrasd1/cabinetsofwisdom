@@ -2,7 +2,7 @@
 publish: true
 title: Rich People in the US Have Been Allowed to Get Way Too Rich
 created: 2026-05-30T14:27:38.442+03:00
-modified: 2025-05-10T14:51:47+03:00
+modified: 2025-05-10
 published: 2023-11-17
 author: Liza Featherstone
 original: https://jacobin.com/2023/11/tax-the-rich-people-wealth-inequality-luxury-services/

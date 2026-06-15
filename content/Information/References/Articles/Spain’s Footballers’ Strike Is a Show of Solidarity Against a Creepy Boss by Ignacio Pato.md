@@ -2,7 +2,7 @@
 publish: true
 title: Spain’s Footballers’ Strike Is a Show of Solidarity Against a Creepy Boss
 created: 2026-06-03T14:41:55.484+03:00
-modified: 2025-05-10T08:31:39+03:00
+modified: 2025-05-10
 published: 2023-08-30
 author: Ignacio Pato
 original: https://jacobin.com/2023/08/spain-womens-soccer-team-strike-jennifer-hermoso-luis-rubiales-sexism-solidarity/

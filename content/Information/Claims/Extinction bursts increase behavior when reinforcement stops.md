@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-04
-modified: 2026-05-04T13:01:20+03:00
-published: 2026-06-06T22:19:40.649+03:00
+modified: 2026-05-04
+published: 2026-06-15T13:19:37.029+03:00
 source: "[[A Proven Strategies for Dealing With Extinction Bursts in ABA by Adina ABA Staff|A Proven Strategies for Dealing With Extinction Bursts in ABA by Adina ABA Staff]]"
 type: claim
 noRSS: true

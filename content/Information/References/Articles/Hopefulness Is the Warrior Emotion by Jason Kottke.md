@@ -2,7 +2,7 @@
 publish: true
 title: Hopefulness Is the Warrior Emotion
 created: 2026-06-03T14:41:55.469+03:00
-modified: 2026-05-31T21:33:37+03:00
+modified: 2026-05-31
 published: 2024-08-16
 tags:
   - addto/quote

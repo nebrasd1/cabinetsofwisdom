@@ -2,7 +2,7 @@
 publish: true
 title: Too Dystopian for Whom? A Continental Nigerian Writer’s Perspective
 created: 2026-06-03T14:41:55.491+03:00
-modified: 2026-05-31T21:41:24+03:00
+modified: 2026-05-31
 published:
 author: Uncanny Magazine
 original: https://www.uncannymagazine.com/article/too-dystopian-for-whom-a-continental-nigerian-writers-perspective/

@@ -2,7 +2,7 @@
 publish: true
 title: "SIX at 6: The Reading Brain, DNA, the ‘90 Bulls, Chefs and Cooks, Striving for Perfection, and Reid Hoffman"
 created: 2026-06-03T14:41:55.484+03:00
-modified: 2026-05-31T21:34:31+03:00
+modified: 2026-05-31
 published: 2022-04-24
 author: Billy Oppenheimer
 original: https://billyoppenheimer.com/april-24-2022/?utm_source=substack&utm_medium=email

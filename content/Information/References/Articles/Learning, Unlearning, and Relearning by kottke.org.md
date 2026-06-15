@@ -2,7 +2,7 @@
 publish: true
 title: Learning, Unlearning, and Relearning
 created: 2026-06-03T14:41:55.477+03:00
-modified: 2026-05-31T21:34:11+03:00
+modified: 2026-05-31
 published: 2023-12-18
 tags:
   - addto/quote

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-04
-modified: 2026-05-06T11:52:00+03:00
-published: 2026-06-06T22:19:40.466+03:00
+modified: 2026-05-06
+published: 2026-06-15T13:19:36.875+03:00
 source: "[[AI Offers New Tools for Making Games, but Developers Worry About Their Jobs by Shannon Liao|AI Offers New Tools for Making Games, but Developers Worry About Their Jobs by Shannon Liao]]"
 type: claim
 noRSS: true

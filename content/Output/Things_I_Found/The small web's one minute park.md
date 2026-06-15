@@ -1,14 +1,13 @@
 ---
 publish: true
 title: The small web's one minute park
-created: 2026-06-10
-modified: 2026-06-14
-published:
+created: 2026-06-13T01:16:58.158+03:00
+modified: 2026-06-15
+published: 2026-06-10
 type:
   - posts
 postType:
   - linkPost
-date: 2026-06-10
 url: https://oneminutepark.tv/
 credit:
   - "[Elliot Cost](https://elliott.computer/)"
@@ -17,7 +16,6 @@ lenses:
   - "[[Environment]]"
   - "[[Community]]"
   - "[[Creativity]]"
-comments:
 ---
 
 [There was something instantly calming and teleporting about this](https://oneminutepark.tv/). I mean, reading about it was one thing, and I went in expecting to be like, huh yeah okay cool.. but the way it was full-screen, and the serenity of the view.. it took me away for longer than a moment and I was transfixed.

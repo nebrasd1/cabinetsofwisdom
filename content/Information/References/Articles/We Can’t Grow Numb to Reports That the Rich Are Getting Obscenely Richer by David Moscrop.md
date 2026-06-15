@@ -2,7 +2,7 @@
 publish: true
 title: We Can’t Grow Numb to Reports That the Rich Are Getting Obscenely Richer
 created: 2026-05-30T14:27:38.455+03:00
-modified: 2025-05-10T14:52:13+03:00
+modified: 2025-05-10
 published: 2023-11-18
 author: David Moscrop
 original: https://jacobin.com/2023/11/rich-wealth-inequality-pandemic-covid-income-1-percent-mobilize/

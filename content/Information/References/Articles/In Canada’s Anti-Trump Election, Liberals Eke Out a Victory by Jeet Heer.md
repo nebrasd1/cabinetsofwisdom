@@ -2,7 +2,7 @@
 publish: true
 title: In Canada’s Anti-Trump Election, Liberals Eke Out a Victory
 created: 2026-06-03T14:41:55.473+03:00
-modified: 2026-05-31T21:33:46+03:00
+modified: 2026-05-31
 published: 2025-04-29
 author: Jeet Heer
 original: https://www.thenation.com/article/world/canada-liberals-mark-carney-trump/

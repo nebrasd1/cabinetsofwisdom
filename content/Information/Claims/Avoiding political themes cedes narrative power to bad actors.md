@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-06
-modified: 2026-05-06T14:27:09+03:00
-published: 2026-06-06T22:19:40.531+03:00
+modified: 2026-05-06
+published: 2026-06-15T13:19:36.930+03:00
 source: "[[Art for Art’s Sake by Alex Louis|Art for Art’s Sake by Alex Louis]]"
 type: claim
 noRSS: true

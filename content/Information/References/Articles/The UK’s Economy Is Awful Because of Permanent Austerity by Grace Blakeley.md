@@ -2,7 +2,7 @@
 publish: true
 title: The UK’s Economy Is Awful Because of Permanent Austerity
 created: 2026-05-30T14:27:38.452+03:00
-modified: 2025-05-10T14:52:04+03:00
+modified: 2025-05-10
 published: 2024-03-13
 author: Grace Blakeley
 original: https://jacobin.com/2024/02/recession-uk-austerity-starmer-climate/

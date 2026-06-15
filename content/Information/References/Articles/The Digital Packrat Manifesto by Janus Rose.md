@@ -2,7 +2,7 @@
 publish: true
 title: The Digital Packrat Manifesto
 created: 2026-06-03T14:41:55.486+03:00
-modified: 2026-05-31T21:15:31+03:00
+modified: 2026-05-31
 published: 2025-02-28
 author: Janus Rose
 original: https://www.404media.co/the-digital-packrat-manifesto/

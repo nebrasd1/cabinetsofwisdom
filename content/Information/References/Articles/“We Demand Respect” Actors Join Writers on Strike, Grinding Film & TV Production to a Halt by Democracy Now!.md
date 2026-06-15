@@ -2,7 +2,7 @@
 publish: true
 title: "“We Demand Respect”: Actors Join Writers on Strike, Grinding Film & TV Production to a Halt"
 created: 2026-05-30T14:27:38.460+03:00
-modified: 2025-05-06T13:21:33+03:00
+modified: 2025-05-06
 published: 2023-07-14
 author: Democracy Now!
 original: https://www.democracynow.org/2023/7/14/sag_aftra_strike_begins

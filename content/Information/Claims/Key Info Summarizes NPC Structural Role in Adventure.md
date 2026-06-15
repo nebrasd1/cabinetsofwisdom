@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-04
-modified: 2026-05-06T11:44:01+03:00
-published: 2026-06-06T22:19:40.725+03:00
+modified: 2026-05-06
+published: 2026-06-15T13:19:37.117+03:00
 tags:
   - followup
 source: "[[Advanced NPC Roleplaying Templates by thealexandrian.net|Advanced NPC Roleplaying Templates by thealexandrian.net]]"

@@ -2,7 +2,7 @@
 publish: true
 title: Welcome to my Cabinets of Wisdom and Curiosity
 created: 2025-01-01
-modified: 2026-06-08T11:41:21+03:00
+modified: 2026-06-08
 published: 2025-01-01
 cssclasses:
   - list-cards

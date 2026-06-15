@@ -2,7 +2,7 @@
 publish: true
 title: The True Function of Racism Is Distraction
 created: 2026-06-03T14:41:55.490+03:00
-modified: 2026-05-31T21:34:49+03:00
+modified: 2026-05-31
 published: 2024-08-01
 tags:
   - addto/quote

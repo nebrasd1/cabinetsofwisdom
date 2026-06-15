@@ -2,7 +2,7 @@
 publish: true
 title: The Carrier Bag Theory of Fiction
 created: 2026-05-30T14:27:38.446+03:00
-modified: 2025-09-02T13:02:56+03:00
+modified: 2025-09-02
 published:
 author: theanarchistlibrary.org
 original: https://theanarchistlibrary.org/mirror/u/uk/ursula-k-le-guin-the-carrier-bag-theory-of-fiction.pdf

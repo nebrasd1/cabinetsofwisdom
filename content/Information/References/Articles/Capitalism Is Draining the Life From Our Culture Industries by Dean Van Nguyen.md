@@ -2,7 +2,7 @@
 publish: true
 title: Capitalism Is Draining the Life From Our Culture Industries
 created: 2026-06-03T14:41:55.460+03:00
-modified: 2026-05-31T21:15:14+03:00
+modified: 2026-05-31
 published: 2024-12-22
 author: Dean Van Nguyen
 original: https://jacobin.com/2024/12/capitalism-culture-film-music-creativity/

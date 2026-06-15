@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-04
-modified: 2026-05-04T12:57:51+03:00
-published: 2026-06-06T22:19:40.693+03:00
+modified: 2026-05-04
+published: 2026-06-15T13:19:37.074+03:00
 source: "[[A New Coalition to Defend Palestine by Ronnie Kasrils|A New Coalition to Defend Palestine by Ronnie Kasrils]]"
 type: claim
 noRSS: true

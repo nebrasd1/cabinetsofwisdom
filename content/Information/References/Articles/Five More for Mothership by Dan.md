@@ -2,7 +2,7 @@
 publish: true
 title: Five More for Mothership
 created: 2026-06-03T14:41:55.467+03:00
-modified: 2026-05-31T21:39:52+03:00
+modified: 2026-05-31
 published: 2018-12-01
 author: Dan
 original: http://throneofsalt.blogspot.com/2018/12/five-more-for-mothership.html

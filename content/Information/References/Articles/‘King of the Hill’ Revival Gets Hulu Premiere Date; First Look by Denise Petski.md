@@ -2,7 +2,7 @@
 publish: true
 title: ‘King of the Hill’ Revival Gets Hulu Premiere Date; First Look
 created: 2026-06-03T14:41:55.498+03:00
-modified: 2026-05-31T21:17:56+03:00
+modified: 2026-05-31
 published: 2025-05-30
 author: Denise Petski
 original: https://deadline.com/2025/05/king-of-the-hill-revival-hulu-release-date-1236414324/

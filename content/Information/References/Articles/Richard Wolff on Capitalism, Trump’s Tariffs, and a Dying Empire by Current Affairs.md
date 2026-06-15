@@ -2,7 +2,7 @@
 publish: true
 title: Richard Wolff on Capitalism, Trump’s Tariffs, and a Dying Empire
 created: 2026-05-30T14:27:38.442+03:00
-modified: 2026-04-29T10:05:16+03:00
+modified: 2026-04-29
 published: 2025-06-27
 author: Current Affairs
 url:

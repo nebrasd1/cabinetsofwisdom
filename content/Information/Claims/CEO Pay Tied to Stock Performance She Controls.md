@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-08
-modified: 2026-05-09T15:10:50+03:00
-published: 2026-06-03T14:41:55.442+03:00
+modified: 2026-05-09
+published: 2026-06-15T13:19:36.955+03:00
 source: "[[Automakers Don’t Need to Choose Between Labor and Climate by Lucy Dean Stockton|Automakers Don’t Need to Choose Between Labor and Climate by Lucy Dean Stockton]]"
 type: claim
 noRSS: true

@@ -4,7 +4,7 @@ aliases:
   - Avicenna and the Aristotelian Left
 title: Avicenna and the Aristotelian Left
 created: 2026-05-30T14:27:38.461+03:00
-modified: 2026-04-19T16:54:02+03:00
+modified: 2026-04-19
 published:
 author: Ernst Bloch
 original:

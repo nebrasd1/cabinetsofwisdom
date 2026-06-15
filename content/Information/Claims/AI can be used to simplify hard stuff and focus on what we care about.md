@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-29
-modified: 2026-05-03T15:04:47+03:00
-published: 2026-06-06T22:19:40.465+03:00
+modified: 2026-05-03
+published: 2026-06-15T13:19:36.873+03:00
 tags:
   - xref
 source: "[[Isometric NYC by cannoneyed.com|Isometric NYC by cannoneyed.com]]"

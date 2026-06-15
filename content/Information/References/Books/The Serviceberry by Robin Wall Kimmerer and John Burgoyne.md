@@ -2,7 +2,7 @@
 publish: true
 title: The Serviceberry
 created: 2026-05-30T14:27:38.465+03:00
-modified: 2025-05-10T14:55:44+03:00
+modified: 2025-05-10
 published:
 author: Robin Wall Kimmerer and John Burgoyne
 original:

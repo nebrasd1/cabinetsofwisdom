@@ -2,7 +2,7 @@
 publish: true
 description: Disclaimers and terms of use for my site
 created: 2025-05-04
-modified: 2026-06-07T08:31:29+03:00
+modified: 2026-06-07
 published: 2025-05-04
 title:
 type:

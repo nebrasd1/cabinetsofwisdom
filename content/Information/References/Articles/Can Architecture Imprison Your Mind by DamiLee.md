@@ -2,7 +2,7 @@
 publish: true
 title: Can Architecture Imprison Your Mind?
 created: 2026-06-03T14:41:55.458+03:00
-modified: 2026-05-31T21:39:43+03:00
+modified: 2026-05-31
 published: 2024-04-24
 author: DamiLee
 original: https://www.youtube.com/watch?v=qo21ufhx_mg

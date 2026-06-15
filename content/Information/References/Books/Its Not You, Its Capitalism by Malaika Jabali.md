@@ -2,7 +2,7 @@
 publish: true
 title: It's Not You, It's Capitalism
 created: 2026-05-30T14:27:38.463+03:00
-modified: 2025-05-10T08:34:51+03:00
+modified: 2025-05-10
 published:
 author: Malaika Jabali
 original:

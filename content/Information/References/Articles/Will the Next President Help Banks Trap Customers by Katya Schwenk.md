@@ -2,7 +2,7 @@
 publish: true
 title: Will the Next President Help Banks Trap Customers?
 created: 2026-06-03T14:41:55.497+03:00
-modified: 2026-05-31T21:23:28+03:00
+modified: 2026-05-31
 published: 2024-11-03
 author: Katya Schwenk
 original: https://jacobin.com/2024/11/cfpb-antitrust-dimon-trump-harris/

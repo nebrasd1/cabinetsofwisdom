@@ -2,7 +2,7 @@
 publish: true
 title: "Newsletter #185 - Faith No More's Midlife Crisis and the Observers Paradox"
 created: 2026-06-05T09:41:57.427+03:00
-modified: 2026-06-07T09:37:30+03:00
+modified: 2026-06-07
 published: 2025-06-25
 author: Noah Kalina
 original: https://noahkalina.substack.com/p/newsletter-185-faith-no-mores-midlife

@@ -2,7 +2,7 @@
 publish: true
 title: Cornel West on Trump, American Empire, and Courage in Dark Times
 created: 2026-05-30T14:27:38.426+03:00
-modified: 2026-04-29T10:05:28+03:00
+modified: 2026-04-29
 published: 2025-06-23
 author: Current Affairs
 original: https://www.currentaffairs.org/news/cornel-west

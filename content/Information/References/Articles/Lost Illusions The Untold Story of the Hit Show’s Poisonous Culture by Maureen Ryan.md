@@ -2,7 +2,7 @@
 publish: true
 title: "Lost Illusions: The Untold Story of the Hit Show’s Poisonous Culture"
 created: 2026-06-03T14:41:55.477+03:00
-modified: 2026-05-31T21:43:50+03:00
+modified: 2026-05-31
 published: 2023-05-30
 author: Maureen Ryan
 original: https://www.vanityfair.com/hollywood/2023/05/lost-tv-show-culture

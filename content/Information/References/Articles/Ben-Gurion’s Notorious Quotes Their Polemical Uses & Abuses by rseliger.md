@@ -2,7 +2,7 @@
 publish: true
 title: "Ben-Gurion’s Notorious Quotes: Their Polemical Uses & Abuses"
 created: 2026-06-03T14:41:55.457+03:00
-modified: 2026-05-31T21:27:07+03:00
+modified: 2026-05-31
 published: 2006-10-04
 author: rseliger
 original: https://www.progressiveisrael.org/ben-gurions-notorious-quotes-their-polemical-uses-abuses/

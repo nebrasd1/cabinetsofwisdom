@@ -2,7 +2,7 @@
 publish: true
 title: Billionaires Are Suing the Honduran Government for Blocking Their Profit-Making Scheme
 created: 2026-05-30T14:27:38.423+03:00
-modified: 2025-05-10T08:35:00+03:00
+modified: 2025-05-10
 published: 2023-11-27
 author: Grace Blakeley
 original: https://jacobin.com/2023/11/honduras-international-law-isds-thiel-prospera-free-market-neocolonialism/

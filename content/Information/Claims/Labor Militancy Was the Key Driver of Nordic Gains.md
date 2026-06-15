@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-26
-modified: 2026-05-28T14:51:02+03:00
-published: 2026-06-06T22:19:40.736+03:00
+modified: 2026-05-28
+published: 2026-06-15T13:19:37.126+03:00
 claimType: claim
 source: "[[Class Struggle Built the Finnish Welfare State by jacobin.com|Class Struggle Built the Finnish Welfare State by jacobin.com]]"
 type: claim

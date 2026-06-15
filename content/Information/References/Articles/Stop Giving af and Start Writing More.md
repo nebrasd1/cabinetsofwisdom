@@ -2,7 +2,7 @@
 publish: true
 title: Stop Giving af and Start Writing More
 created: 2026-06-03T14:41:55.485+03:00
-modified: 2025-05-06T08:16:59+03:00
+modified: 2025-05-06
 published:
 author: joelhooks.com
 original: https://joelhooks.com/on-writing-more

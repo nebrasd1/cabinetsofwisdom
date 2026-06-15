@@ -2,7 +2,7 @@
 publish: true
 title: How to Tell the Difference Between a Lone Wolf and a Coordinated Effort by the Radical Left
 created: 2026-06-03T14:41:55.472+03:00
-modified: 2026-05-31T21:19:17+03:00
+modified: 2026-05-31
 published: 2025-09-16
 author: Carlos Greaves
 original: https://www.mcsweeneys.net/articles/how-to-tell-the-difference-between-a-lone-wolf-and-a-coordinated-effort-by-the-radical-left

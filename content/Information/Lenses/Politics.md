@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-03T14:41:55.449+03:00
-modified: 2026-06-04T14:24:50+03:00
-published: 2026-06-04T14:24:50.711+03:00
+modified: 2026-06-04
+published: 2026-06-15T13:19:37.340+03:00
 ---
 
 # Politics

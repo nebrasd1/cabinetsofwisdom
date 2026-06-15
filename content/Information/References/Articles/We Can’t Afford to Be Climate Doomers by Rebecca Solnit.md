@@ -2,7 +2,7 @@
 publish: true
 title: We Can’t Afford to Be Climate Doomers
 created: 2026-06-03T14:41:55.493+03:00
-modified: 2026-05-31T21:43:57+03:00
+modified: 2026-05-31
 published: 2023-07-26
 author: Rebecca Solnit
 original: https://www.theguardian.com/commentisfree/2023/jul/26/we-cant-afford-to-be-climate-doomers

@@ -2,7 +2,7 @@
 publish: true
 title: “Fair Trade” Labels Conceal Brutal Abuses of Farmworkers
 created: 2026-05-30T14:27:38.460+03:00
-modified: 2025-05-06T13:21:58+03:00
+modified: 2025-05-06
 published: 2024-01-17
 author: James Daria
 original: https://jacobin.com/2024/01/fair-trade-label-farmworkers-exploitation/

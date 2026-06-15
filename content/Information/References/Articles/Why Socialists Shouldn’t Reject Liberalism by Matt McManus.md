@@ -2,7 +2,7 @@
 publish: true
 title: Why Socialists Shouldn’t Reject Liberalism
 created: 2026-05-30T14:27:38.458+03:00
-modified: 2025-05-10T08:35:06+03:00
+modified: 2025-05-10
 published: 2024-08-31
 author: Matt McManus
 original: https://jacobin.com/2024/08/socialism-liberalism-mill-marx-moyn/

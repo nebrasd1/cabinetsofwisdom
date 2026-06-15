@@ -2,7 +2,7 @@
 publish: true
 title: Blake Lively’s Suit Exposes the Twisted World of Hollywood Misogyny
 created: 2026-06-03T14:41:55.458+03:00
-modified: 2026-05-31T21:18:23+03:00
+modified: 2026-05-31
 published: 2024-12-31
 author: Ray Epstein
 original: https://www.thenation.com/article/society/blake-livelys-suit-exposes-the-twisted-world-of-hollywood-misogyny/

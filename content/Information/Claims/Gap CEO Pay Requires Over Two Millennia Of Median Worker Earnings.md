@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-02
-modified: 2026-05-03T15:05:32+03:00
-published: 2026-06-06T22:19:40.677+03:00
+modified: 2026-05-03
+published: 2026-06-15T13:19:37.063+03:00
 source: "[[2024 Executive Paywatch by AFL-CIO|2024 Executive Paywatch by AFL-CIO]]"
 type: claim
 noRSS: true

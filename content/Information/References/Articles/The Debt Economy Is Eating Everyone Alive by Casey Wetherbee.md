@@ -2,7 +2,7 @@
 publish: true
 title: The Debt Economy Is Eating Everyone Alive
 created: 2026-06-03T14:41:55.486+03:00
-modified: 2026-05-31T20:56:25+03:00
+modified: 2026-05-31
 published: 2025-05-31
 author: Casey Wetherbee
 original: https://jacobin.com/2025/05/bnpl-loans-debt-regulation-klarna/

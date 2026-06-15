@@ -2,7 +2,7 @@
 publish: true
 title: Andor Shows Us What Popular Culture Could Be
 created: 2026-06-03T14:41:55.454+03:00
-modified: 2026-05-31T21:39:16+03:00
+modified: 2026-05-31
 published: 2025-06-04
 author: Jon Greenaway
 original: https://www.currentaffairs.org/news/andor-shows-us-what-popular-culture-could-be

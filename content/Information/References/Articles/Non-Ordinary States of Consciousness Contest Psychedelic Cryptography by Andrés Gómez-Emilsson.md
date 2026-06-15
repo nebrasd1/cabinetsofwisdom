@@ -2,7 +2,7 @@
 publish: true
 title: "Non-Ordinary States of Consciousness Contest: Psychedelic Cryptography"
 created: 2026-06-03T14:41:55.480+03:00
-modified: 2026-05-31T21:40:53+03:00
+modified: 2026-05-31
 published: 2023-06-02
 author: Andrés Gómez-Emilsson
 original: https://qri.org/blog/psycrypto-contest#winner

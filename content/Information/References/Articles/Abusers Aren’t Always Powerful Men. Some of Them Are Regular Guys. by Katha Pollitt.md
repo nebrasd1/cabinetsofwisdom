@@ -2,7 +2,7 @@
 publish: true
 title: Abusers Aren’t Always Powerful Men. Some of Them Are Regular Guys.
 created: 2026-06-03T14:41:55.452+03:00
-modified: 2026-05-31T21:43:35+03:00
+modified: 2026-05-31
 published: 2024-10-29
 author: Katha Pollitt
 original: https://www.thenation.com/article/society/gisele-pelicot/

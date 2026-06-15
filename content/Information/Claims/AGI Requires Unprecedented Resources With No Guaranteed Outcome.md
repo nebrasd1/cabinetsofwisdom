@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-06
-modified: 2026-05-06T14:00:55+03:00
-published: 2026-06-06T22:19:40.450+03:00
+modified: 2026-05-06
+published: 2026-06-15T13:19:36.866+03:00
 source: "[[Anthropic’s CEO thinks AI will lead to a utopia — he just needs $7 billion first by Kylie Robison|Anthropic’s CEO thinks AI will lead to a utopia — he just needs $7 billion first by Kylie Robison]]"
 type: claim
 noRSS: true

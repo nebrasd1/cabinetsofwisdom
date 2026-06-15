@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-06
-modified: 2026-05-06T13:57:49+03:00
-published: 2026-06-06T22:19:40.854+03:00
+modified: 2026-05-06
+published: 2026-06-15T13:19:37.219+03:00
 source: "[[André Gorz Was the Theorist Who Predicted the Revolt Against Meaningless Work by Willy Gianinazzi|André Gorz Was the Theorist Who Predicted the Revolt Against Meaningless Work by Willy Gianinazzi]]"
 type: claim
 noRSS: true

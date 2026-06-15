@@ -2,7 +2,7 @@
 publish: true
 title: “If Adam Picked the Apple,” Two Poems, Danielle Coffyn.
 created: 2026-06-03T14:41:55.498+03:00
-modified: 2026-05-31T21:44:26+03:00
+modified: 2026-05-31
 published: 2024-04-26
 author: Wesley R. Bishop
 original: https://thenorthmeridianreview.org/blog/if-adam-picked-the-apple-and-other-poems

@@ -5,8 +5,8 @@ aliases:
   - Ai
   - artificial intelligence
 created: 2026-06-03T14:41:55.449+03:00
-modified: 2026-05-31T21:46:37+03:00
-published: 2026-06-03T14:41:59.356+03:00
+modified: 2026-05-31
+published: 2026-06-15T13:19:37.313+03:00
 ---
 
 # AI

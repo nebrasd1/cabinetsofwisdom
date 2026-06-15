@@ -2,7 +2,7 @@
 publish: true
 title: We and the Arabs by Vladimir Jabotinsky
 created: 2026-06-03T14:41:55.494+03:00
-modified: 2026-05-31T21:33:22+03:00
+modified: 2026-05-31
 published: 2006-08-21
 tags:
   - addto/quote

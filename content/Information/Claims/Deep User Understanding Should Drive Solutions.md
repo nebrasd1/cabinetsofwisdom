@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-02
-modified: 2026-05-03T15:05:12+03:00
-published: 2026-06-06T22:19:40.620+03:00
+modified: 2026-05-03
+published: 2026-06-15T13:19:37.004+03:00
 source: "[[21 Lessons From 14 Years at Google by Addy Osmani|21 Lessons From 14 Years at Google by Addy Osmani]]"
 type: claim
 noRSS: true

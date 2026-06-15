@@ -2,7 +2,7 @@
 publish: true
 title: The Worst Magazine in America
 created: 2026-06-03T14:41:55.491+03:00
-modified: 2026-05-31T21:20:26+03:00
+modified: 2026-05-31
 published: 2024-09-13
 author: More from Nathan J. Robinson
 original: https://www.currentaffairs.org/news/the-worst-magazine-in-america

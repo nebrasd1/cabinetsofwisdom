@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-04
-modified: 2026-05-04T11:14:36+03:00
-published: 2026-06-06T22:19:40.608+03:00
+modified: 2026-05-04
+published: 2026-06-15T13:19:36.992+03:00
 source: "[[A Book Is a Book Is a Book—Except When It’s an E-Book by Maria Bustillos|A Book Is a Book Is a Book—Except When It’s an E-Book by Maria Bustillos]]"
 type: claim
 noRSS: true

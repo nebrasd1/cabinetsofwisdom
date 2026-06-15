@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-04
-modified: 2026-05-04T11:14:52+03:00
-published: 2026-06-06T22:19:40.753+03:00
+modified: 2026-05-04
+published: 2026-06-15T13:19:37.135+03:00
 source: "[[A Lack of Money Means a Lack of Freedom by Ben Burgis|A Lack of Money Means a Lack of Freedom by Ben Burgis]]"
 type: claim
 noRSS: true

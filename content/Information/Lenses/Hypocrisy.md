@@ -3,8 +3,8 @@ publish: true
 aliases:
   - hypocrite
 created: 2026-06-03T14:41:55.449+03:00
-modified: 2026-05-14T18:35:17+03:00
-published: 2026-06-03T14:41:59.357+03:00
+modified: 2026-05-14
+published: 2026-06-15T13:19:37.333+03:00
 ---
 
 # Hypocrisy

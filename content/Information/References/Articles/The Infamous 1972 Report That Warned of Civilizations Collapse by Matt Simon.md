@@ -2,7 +2,7 @@
 publish: true
 title: The Infamous 1972 Report That Warned of Civilization's Collapse
 created: 2026-06-03T14:41:55.487+03:00
-modified: 2026-05-31T21:19:58+03:00
+modified: 2026-05-31
 published: 2022-07-06
 author: Matt Simon
 original: https://www.wired.com/story/the-infamous-1972-report-that-warned-of-civilizations-collapse/

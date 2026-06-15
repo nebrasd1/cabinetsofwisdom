@@ -2,7 +2,7 @@
 publish: true
 title: High Conflict
 created: 2026-06-03T14:41:55.499+03:00
-modified: 2026-06-07T15:18:10+03:00
+modified: 2026-06-07
 published:
 author: Amanda Ripley
 original:

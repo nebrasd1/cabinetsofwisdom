@@ -2,7 +2,7 @@
 publish: true
 title: Narrative Legos With Ken Levine - GDC 2014
 created: 2026-06-03T14:41:55.479+03:00
-modified: 2026-05-31T21:19:35+03:00
+modified: 2026-05-31
 published: 2014-03-24
 author: GameSpot
 original: https://www.youtube.com/watch?v=58FWUkA8y2Q
