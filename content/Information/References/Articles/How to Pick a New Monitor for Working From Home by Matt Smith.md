@@ -2,10 +2,10 @@
 publish: true
 title: How to Pick a New Monitor for Working From Home
 created: 2026-06-03T14:41:55.472+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2022-01-17
 author: Matt Smith
-original: https://www.inoreader.com/article/3a9c6e7ae7ce1b33-how-to-pick-a-new-monitor-for-working-from-home
+original: https://www.theverge.com/22877788/best-monitor-work-from-home-screen-choice-4k-qhd-refresh-rate-ultrawide
 highlighted: 2022-01-18
 type: articles
 source: inoreader

@@ -3,9 +3,9 @@ publish: true
 title: Five Superpowers That Just Aren’t as Fun as They Sound
 created: 2026-06-03T14:41:55.467+03:00
 modified:
-published:
+published: 2021-09-22
 author: James Davis Nicoll
-original: https://www.inoreader.com/article/3a9c6e7ab360c481-five-superpowers-that-just-arent-as-fun-as-they-sound
+original: https://www.tor.com/2021/09/22/five-superpowers-that-just-arent-as-fun-as-they-sound/
 highlighted: 2021-09-25
 type: articles
 source: inoreader

@@ -3,9 +3,9 @@ publish: true
 title: How the Rich Profit Off Racism, From Charter Schools to Detention Centers
 created: 2026-06-03T14:41:55.472+03:00
 modified:
-published:
+published: 2021-10-02
 author: Current Affairs
-original: https://www.inoreader.com/article/3a9c6e7ab4dcd46b-how-the-rich-profit-off-racism-from-charter-schools-to-detention-centers
+original: https://www.currentaffairs.org/news/2021/10/how-the-rich-profit-from-racism-from-charter-schools-to-detention-centers
 highlighted: 2021-10-03
 type: articles
 source: inoreader

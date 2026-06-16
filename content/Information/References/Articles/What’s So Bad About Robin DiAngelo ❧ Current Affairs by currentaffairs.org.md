@@ -3,7 +3,7 @@ publish: true
 title: What’s So Bad About Robin DiAngelo ❧ Current Affairs
 created: 2026-06-03T14:41:55.495+03:00
 modified:
-published:
+published: 2021-07-19
 author: currentaffairs.org
 original: https://www.currentaffairs.org/2021/07/whats-so-bad-about-robin-diangelo/
 highlighted: 2021-07-20

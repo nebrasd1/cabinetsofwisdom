@@ -3,7 +3,7 @@ publish: true
 title: How a Victorian Heart Medicine Became a Gay Sex Drug
 created: 2026-06-03T14:41:55.471+03:00
 modified:
-published:
+published: 2019-06-28
 author: popsci.com
 original: https://www.popsci.com/wake-up-smell-the-poppers/
 highlighted: 2020-12-20

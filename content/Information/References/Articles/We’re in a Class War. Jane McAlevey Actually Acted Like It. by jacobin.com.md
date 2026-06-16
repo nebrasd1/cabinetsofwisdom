@@ -2,8 +2,8 @@
 publish: true
 title: We’re in a Class War. Jane McAlevey Actually Acted Like It.
 created: 2026-06-03T14:41:55.494+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2024-07-08
 author: jacobin.com
 original: https://jacobin.com/2024/07/jane-mcalevey-labor-movement-obituary
 highlighted: 2024-08-14

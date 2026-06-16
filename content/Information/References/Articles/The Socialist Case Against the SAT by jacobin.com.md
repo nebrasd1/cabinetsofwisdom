@@ -2,8 +2,8 @@
 publish: true
 title: The Socialist Case Against the SAT
 created: 2026-06-03T14:41:55.489+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2018-04-14
 author: jacobin.com
 original: https://jacobin.com/2018/04/against-the-sat-testing-meritocracy-race-class
 highlighted: 2023-07-04

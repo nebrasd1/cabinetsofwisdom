@@ -3,7 +3,7 @@ publish: true
 title: He Couldn’t Get Over His Fiancee’s Death. So He Brought Her Back as an A.I. Chatbot
 created: 2026-06-03T14:41:55.469+03:00
 modified:
-published:
+published: 2021-07-23
 author: sfchronicle.com
 original: https://www.sfchronicle.com/projects/2021/jessica-simulation-artificial-intelligence/
 highlighted: 2021-07-26

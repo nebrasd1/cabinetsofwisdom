@@ -3,9 +3,9 @@ publish: true
 title: The Right Wins Because They Understand Power
 created: 2026-06-03T14:41:55.489+03:00
 modified:
-published:
+published: 2022-06-26
 author: Nathan J. Robinson
-original: https://www.inoreader.com/article/3a9c6e7a699eaeb6-the-right-wins-because-they-understand-power
+original: https://www.currentaffairs.org/news/2022/06/the-right-wins-because-they-understand-power
 highlighted: 2022-07-04
 type: articles
 source: inoreader

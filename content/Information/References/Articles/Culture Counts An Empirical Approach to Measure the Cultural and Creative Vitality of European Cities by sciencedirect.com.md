@@ -2,8 +2,8 @@
 publish: true
 title: "Culture Counts: An Empirical Approach to Measure the Cultural and Creative Vitality of European Cities"
 created: 2026-06-03T14:41:55.462+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2019-06-01
 author: sciencedirect.com
 original: https://www.sciencedirect.com/science/article/pii/S0264275118303640
 highlighted: 2021-03-24

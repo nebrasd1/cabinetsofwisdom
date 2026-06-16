@@ -3,7 +3,7 @@ publish: true
 title: How Knowledge About Different Cultures Is Shaking the Foundations of Psychology
 created: 2026-06-03T14:41:55.471+03:00
 modified:
-published:
+published: 2018-03-09
 author: Nicolas Geeraert
 original: https://getpocket.com/explore/item/how-knowledge-about-different-cultures-is-shaking-the-foundations-of-psychology
 highlighted: 2024-08-20

@@ -3,7 +3,7 @@ publish: true
 title: Inside the Incel ❧ Current Affairs
 created: 2026-06-03T14:41:55.475+03:00
 modified:
-published:
+published: 2021-03-05
 author: currentaffairs.org
 original: https://www.currentaffairs.org/2021/03/inside-the-incel/
 highlighted: 2021-04-06

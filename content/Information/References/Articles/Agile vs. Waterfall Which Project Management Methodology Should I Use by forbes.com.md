@@ -2,8 +2,8 @@
 publish: true
 title: "Agile vs. Waterfall: Which Project Management Methodology Should I Use?"
 created: 2026-06-03T14:41:55.454+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2022-01-01
 author: forbes.com
 original: https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/
 highlighted: 2022-01-25

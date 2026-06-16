@@ -2,8 +2,8 @@
 publish: true
 title: Opinion | Why People Are So Awful Online
 created: 2026-06-03T14:41:55.481+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-07-17
 author: nytimes.com
 original: https://www.nytimes.com/2021/07/17/opinion/culture/social-media-cancel-culture-roxane-gay.html
 highlighted: 2021-07-19

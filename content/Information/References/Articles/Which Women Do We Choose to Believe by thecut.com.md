@@ -3,7 +3,7 @@ publish: true
 title: Which Women Do We Choose to Believe?
 created: 2026-06-03T14:41:55.496+03:00
 modified:
-published:
+published: 2022-05-12
 author: thecut.com
 original: https://www.thecut.com/2022/05/why-do-so-many-people-think-amber-heard-is-lying.html
 highlighted: 2022-05-29

@@ -3,7 +3,7 @@ publish: true
 title: Don't Call Us Berber, We Are Amazigh
 created: 2026-06-03T14:41:55.463+03:00
 modified:
-published:
+published: 2017-02-12
 author: thenationalnews.com
 original: https://www.thenationalnews.com/world/a-history-of-lost-love-poetry-in-the-middle-east-1.86459
 highlighted: 2021-01-22

@@ -3,7 +3,7 @@ publish: true
 title: "The Garden and the Stream: A Technopastoral"
 created: 2026-06-03T14:41:55.487+03:00
 modified:
-published:
+published: 2015-10-17
 author: hapgood.us
 original: https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
 highlighted: 2021-06-27

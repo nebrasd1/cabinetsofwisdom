@@ -3,7 +3,7 @@ publish: true
 title: How to Make Money by Getting Everyone to Hate You ❧ Current Affairs
 created: 2026-06-03T14:41:55.472+03:00
 modified:
-published:
+published: 2021-06-22
 author: currentaffairs.org
 original: https://www.currentaffairs.org/2021/06/how-to-make-money-by-getting-everyone-to-hate-you/
 highlighted: 2021-06-23

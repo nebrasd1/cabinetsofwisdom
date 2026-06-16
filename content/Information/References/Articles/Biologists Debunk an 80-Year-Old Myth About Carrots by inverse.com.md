@@ -2,14 +2,15 @@
 publish: true
 title: Biologists Debunk an 80-Year-Old Myth About Carrots
 created: 2026-06-03T14:41:55.458+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-05-01
 author: inverse.com
 original: https://www.inverse.com/science/scientists-debunk-myth-about-carrots
 highlighted: 2021-05-02
 type: articles
 source: hypothesis
 lenses:
+  - "[[Propaganda]]"
 comments: false
 ---
 

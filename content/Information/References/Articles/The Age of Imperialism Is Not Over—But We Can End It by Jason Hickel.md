@@ -2,10 +2,10 @@
 publish: true
 title: The Age of Imperialism Is Not Over—But We Can End It
 created: 2026-06-03T14:41:55.485+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-12-05
 author: Jason Hickel
-original: https://www.inoreader.com/article/3a9c6e7a852ca715-the-age-of-imperialism-is-not-overmdashbut-we-can-end-it
+original: https://www.currentaffairs.org/news/2021/12/the-age-of-imperialism-is-not-over-but-we-can-end-it
 highlighted: 2022-07-02
 type: articles
 source: inoreader

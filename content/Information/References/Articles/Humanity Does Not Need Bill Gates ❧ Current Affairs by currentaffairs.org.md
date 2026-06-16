@@ -3,7 +3,7 @@ publish: true
 title: Humanity Does Not Need Bill Gates ❧ Current Affairs
 created: 2026-06-03T14:41:55.472+03:00
 modified:
-published:
+published: 2021-05-04
 author: currentaffairs.org
 original: https://www.currentaffairs.org/2021/05/humanity-does-not-need-bill-gates/
 highlighted: 2021-05-05

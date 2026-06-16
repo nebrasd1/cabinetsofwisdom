@@ -3,9 +3,9 @@ publish: true
 title: "Let’s Talk About the Most Important Scene in Spider-Man: No Way Home"
 created: 2026-06-03T14:41:55.477+03:00
 modified:
-published:
+published: 2021-12-20
 author: Leah Schnelbach
-original: https://www.inoreader.com/article/3a9c6e7af20d2fbe-lets-talk-about-the-most-important-scene-in-spider-man-no-way-home
+original: https://reactormag.com/spider-man-no-way-home-marvel-cinematic-universe-review-discussion/
 highlighted: 2021-12-20
 type: articles
 source: inoreader

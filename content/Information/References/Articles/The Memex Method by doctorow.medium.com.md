@@ -3,7 +3,7 @@ publish: true
 title: The Memex Method
 created: 2026-06-03T14:41:55.488+03:00
 modified:
-published:
+published: 2021-05-09
 author: doctorow.medium.com
 original: https://doctorow.medium.com/the-memex-method-238c71f2fb46
 highlighted: 2021-06-10

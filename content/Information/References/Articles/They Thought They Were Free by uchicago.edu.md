@@ -2,8 +2,8 @@
 publish: true
 title: They Thought They Were Free
 created: 2026-06-03T14:41:55.491+03:00
-modified: 2026-05-31
-published:
+modified: 2026-06-16
+published: 2016-06-22
 tags:
   - addto/quote
 author: uchicago.edu

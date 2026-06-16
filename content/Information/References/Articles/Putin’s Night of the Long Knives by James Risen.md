@@ -3,7 +3,7 @@ publish: true
 title: Putin’s Night of the Long Knives
 created: 2026-06-03T14:41:55.482+03:00
 modified:
-published:
+published: 2023-08-25
 author: James Risen
 original: https://theintercept.com/2023/08/24/yevgeny-prigozhin-death-nazis/
 highlighted: 2023-08-28

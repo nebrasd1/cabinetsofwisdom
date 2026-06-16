@@ -2,8 +2,8 @@
 publish: true
 title: Building a Second Brain + Smart Notes
 created: 2026-06-03T14:41:55.458+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2020-08-13
 author: jamesstuber.com
 original: https://jamesstuber.com/basb-vs-smart-notes/
 highlighted: 2021-06-28

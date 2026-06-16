@@ -2,8 +2,8 @@
 publish: true
 title: Digital Garden Terms of Service ∊ swyx.io
 created: 2026-06-03T14:41:55.463+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2020-02-25
 author: swyx.io
 original: https://www.swyx.io/writing/digital-garden-tos
 highlighted: 2021-07-06

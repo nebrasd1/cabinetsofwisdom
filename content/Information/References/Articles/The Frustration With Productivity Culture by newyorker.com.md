@@ -3,7 +3,7 @@ publish: true
 title: The Frustration With Productivity Culture
 created: 2026-06-03T14:41:55.487+03:00
 modified:
-published:
+published: 2021-09-13
 author: newyorker.com
 original: https://www.newyorker.com/culture/office-space/the-frustration-with-productivity-culture
 highlighted: 2021-09-16

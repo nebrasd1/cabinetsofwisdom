@@ -3,7 +3,7 @@ publish: true
 title: How Feminism Shaped the Carceral State ❧ Current Affairs
 created: 2026-06-03T14:41:55.471+03:00
 modified:
-published:
+published: 2022-02-14
 author: currentaffairs.org
 original: https://www.currentaffairs.org/2022/02/how-feminism-shaped-the-carceral-state/
 highlighted: 2022-03-07

@@ -3,7 +3,7 @@ publish: true
 title: We Deserve Better Dystopias ❧ Current Affairs
 created: 2026-06-03T14:41:55.493+03:00
 modified:
-published:
+published: 2021-05-30
 author: currentaffairs.org
 original: https://www.currentaffairs.org/2021/05/we-deserve-better-dystopias/
 highlighted: 2021-06-04

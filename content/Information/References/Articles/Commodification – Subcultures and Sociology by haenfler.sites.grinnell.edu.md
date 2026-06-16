@@ -2,8 +2,8 @@
 publish: true
 title: Commodification – Subcultures and Sociology
 created: 2026-06-03T14:41:55.460+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2017-12-07
 author: haenfler.sites.grinnell.edu
 original: https://haenfler.sites.grinnell.edu/subcultural-theory-and-theorists/commodification/
 highlighted: 2021-02-01

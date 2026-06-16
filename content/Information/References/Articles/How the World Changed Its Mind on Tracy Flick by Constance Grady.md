@@ -2,8 +2,8 @@
 publish: true
 title: How the World Changed Its Mind on Tracy Flick
 created: 2026-06-03T14:41:55.472+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2022-07-14
 author: Constance Grady
 original: https://www.inoreader.com/article/3a9c6e7a64773965-how-the-world-changed-its-mind-on-tracy-flick
 highlighted: 2022-07-14

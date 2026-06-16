@@ -2,10 +2,10 @@
 publish: true
 title: "Middle East Trade Routes: A History of Saudi Arabia’s Economy"
 created: 2026-06-03T14:41:55.478+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-01-01
 author: visitsaudi.com
-original: https://www.visitsaudi.com/en/do/culture/the-history-of-saudi-s-trade-routes
+original: https://www.visitsaudi.com/en/stories/the-history-of-saudi-s-trade-routes
 highlighted: 2021-01-08
 type: articles
 source: hypothesis

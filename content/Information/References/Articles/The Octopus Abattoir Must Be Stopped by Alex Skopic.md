@@ -3,7 +3,7 @@ publish: true
 title: The Octopus Abattoir Must Be Stopped
 created: 2026-06-03T14:41:55.488+03:00
 modified:
-published:
+published: 2023-09-12
 author: Alex Skopic
 original: https://www.currentaffairs.org/2023/09/the-octopus-abattoir-must-be-stopped/
 highlighted: 2023-09-17

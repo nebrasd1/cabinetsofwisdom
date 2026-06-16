@@ -3,7 +3,7 @@ publish: true
 title: Escaping a Hostage Situation
 created: 2026-06-03T14:41:55.465+03:00
 modified:
-published:
+published: 2024-09-02
 author: Five Good Hours
 original: https://fivegoodhours.substack.com/p/escaping-a-hostage-situation?utm_source=substack&utm_medium=email
 highlighted: 2024-09-09

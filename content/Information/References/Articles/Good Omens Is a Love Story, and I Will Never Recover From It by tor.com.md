@@ -3,7 +3,7 @@ publish: true
 title: Good Omens Is a Love Story, and I Will Never Recover From It
 created: 2026-06-03T14:41:55.468+03:00
 modified:
-published:
+published: 2021-06-29
 author: tor.com
 original: https://www.tor.com/2021/06/29/good-omens-is-a-love-story-and-i-will-never-recover-from-it/
 highlighted: 2021-07-03

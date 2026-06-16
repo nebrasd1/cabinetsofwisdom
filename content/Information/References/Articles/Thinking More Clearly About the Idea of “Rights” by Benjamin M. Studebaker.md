@@ -2,8 +2,8 @@
 publish: true
 title: Thinking More Clearly About the Idea of “Rights”
 created: 2026-06-03T14:41:55.491+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2022-05-12
 author: Benjamin M. Studebaker
 original: https://www.inoreader.com/article/3a9c6e7a0aeb52c2-thinking-more-clearly-about-the-idea-of-ldquorightsrdquo
 highlighted: 2022-05-15

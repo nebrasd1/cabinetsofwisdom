@@ -2,8 +2,8 @@
 publish: true
 title: The Spectre of Orientalism in Craig Thompson’s Habibi
 created: 2026-06-03T14:41:55.489+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2011-10-04
 author: hoodedutilitarian.com
 original: http://www.hoodedutilitarian.com/2011/10/can-the-subaltern-draw-the-spectre-of-orientalism-in-craig-thompsons-habibi/
 highlighted: 2022-07-09

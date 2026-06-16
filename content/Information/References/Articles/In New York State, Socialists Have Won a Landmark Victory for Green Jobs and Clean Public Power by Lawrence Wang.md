@@ -2,8 +2,8 @@
 publish: true
 title: In New York State, Socialists Have Won a Landmark Victory for Green Jobs and Clean Public Power
 created: 2026-06-03T14:41:55.473+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2023-07-03
 author: Lawrence Wang
 original: https://jacobin.com/2023/07/new-york-bpra-green-new-deal-public-renewable-energy
 highlighted: 2023-09-03

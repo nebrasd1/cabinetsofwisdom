@@ -2,8 +2,8 @@
 publish: true
 title: Speculation in the Age of No Growth
 created: 2026-05-30T14:27:38.444+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2025-06-13
 author: jacobin.com
 original: https://jacobin.com/2025/06/speculation-in-the-age-of-no-growth/?__readwiseLocation=
 highlighted: 2025-06-22

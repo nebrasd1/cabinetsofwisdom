@@ -3,7 +3,7 @@ publish: true
 title: Satanic Panics and the Death of Mythos ❧ Current Affairs
 created: 2026-06-03T14:41:55.484+03:00
 modified:
-published:
+published: 2021-02-24
 author: CURRENT AFFAIRS
 original: https://www.currentaffairs.org/2021/02/satanic-panics-and-the-death-of-mythos
 highlighted: 2021-03-27

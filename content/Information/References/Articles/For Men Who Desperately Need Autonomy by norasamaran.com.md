@@ -3,7 +3,7 @@ publish: true
 title: For Men Who Desperately Need Autonomy
 created: 2026-06-03T14:41:55.467+03:00
 modified:
-published:
+published: 2016-07-21
 author: norasamaran.com
 original: https://norasamaran.com/2016/07/21/for-men-who-desperately-need-autonomy-make-it-dont-take-it/
 highlighted: 2020-12-23

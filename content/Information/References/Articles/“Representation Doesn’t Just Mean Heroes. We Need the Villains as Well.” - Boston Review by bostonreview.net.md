@@ -2,8 +2,8 @@
 publish: true
 title: “Representation Doesn’t Just Mean Heroes. We Need the Villains as Well.” - Boston Review
 created: 2026-06-03T14:41:55.498+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2022-02-09
 author: bostonreview.net
 original: https://bostonreview.net/articles/representation-doesnt-just-mean-heroes-we-need-the-villains-as-well/
 highlighted: 2022-03-07

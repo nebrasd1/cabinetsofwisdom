@@ -3,7 +3,7 @@ publish: true
 title: 🌲 Secondary Sources Are Pretty Great, Actually
 created: 2026-06-03T14:41:55.499+03:00
 modified:
-published:
+published: 2024-01-13
 author: eleanorkonik.com
 original: https://www.eleanorkonik.com/p/secondary-sources-are-pretty-great?publication_id=1974188&post_id=140631018&isFreemail=true&r=azhd&triedRedirect=true
 highlighted: 2024-10-09

@@ -3,7 +3,7 @@ publish: true
 title: Socialist Politics Are More Necessary Than Ever  ❧ Current Affairs
 created: 2026-06-03T14:41:55.484+03:00
 modified:
-published:
+published: 2022-04-27
 author: currentaffairs.org
 original: https://www.currentaffairs.org/2022/04/socialist-politics-are-more-necessary-than-ever/
 highlighted: 2022-05-21

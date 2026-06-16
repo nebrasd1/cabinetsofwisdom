@@ -3,7 +3,7 @@ publish: true
 title: "Tome Raiders: Solving the Great Book Heist"
 created: 2026-06-03T14:41:55.491+03:00
 modified:
-published:
+published: 2020-12-13
 author: Mark Wilding
 original: https://www.theguardian.com/books/2020/dec/13/tome-raiders-solving-the-great-book-heist
 highlighted: 2020-12-20

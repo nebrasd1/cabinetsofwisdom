@@ -2,8 +2,8 @@
 publish: true
 title: "Pick Up What They Put Down: The Ultimate Hack for Learning in Public ∊ swyx.io"
 created: 2026-06-03T14:41:55.482+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2020-01-01
 author: swyx.io
 original: https://www.swyx.io/PUWTPD
 highlighted: 2021-07-06

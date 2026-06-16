@@ -3,7 +3,7 @@ publish: true
 title: "Imperfect Offerings: Inside the Complex New World of Trans Tech"
 created: 2026-06-03T14:41:55.473+03:00
 modified:
-published:
+published: 2021-05-19
 author: theverge.com
 original: https://www.theverge.com/2021/5/19/22433056/transgender-tech-apps-euphoria-clarity-solace-bliss
 highlighted: 2021-06-03

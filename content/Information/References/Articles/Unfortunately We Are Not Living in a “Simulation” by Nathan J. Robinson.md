@@ -3,9 +3,9 @@ publish: true
 title: Unfortunately We Are Not Living in a “Simulation”
 created: 2026-06-03T14:41:55.492+03:00
 modified:
-published:
+published: 2022-02-02
 author: Nathan J. Robinson
-original: https://www.inoreader.com/article/3a9c6e7ad250e9b8-unfortunately-we-are-not-living-in-a-ldquosimulationrdquo
+original: https://www.currentaffairs.org/news/2022/02/unfortunately-we-are-not-living-in-a-simulation
 highlighted: 2022-02-03
 type: articles
 source: inoreader

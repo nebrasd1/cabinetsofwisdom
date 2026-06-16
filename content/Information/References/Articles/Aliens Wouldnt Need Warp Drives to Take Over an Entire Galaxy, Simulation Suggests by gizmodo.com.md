@@ -3,7 +3,7 @@ publish: true
 title: Aliens Wouldn't Need Warp Drives to Take Over an Entire Galaxy, Simulation Suggests
 created: 2026-06-03T14:41:55.454+03:00
 modified:
-published:
+published: 2021-06-15
 author: gizmodo.com
 original: https://gizmodo.com/aliens-wouldnt-need-warp-drives-to-take-over-an-entire-1847101242
 highlighted: 2021-07-05

@@ -3,7 +3,7 @@ publish: true
 title: Are You Practicing Agile or Mini-Waterfalls? - Project Management Articles, Webinars, Templates and Jobs
 created: 2026-06-03T14:41:55.456+03:00
 modified:
-published:
+published: 2019-09-18
 author: projecttimes.com
 original: https://www.projecttimes.com/articles/are-you-practicing-agile-or-mini-waterfalls/
 highlighted: 2022-01-25

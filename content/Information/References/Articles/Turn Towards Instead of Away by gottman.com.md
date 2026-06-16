@@ -3,7 +3,7 @@ publish: true
 title: Turn Towards Instead of Away
 created: 2026-06-03T14:41:55.492+03:00
 modified:
-published:
+published: 2015-04-01
 author: gottman.com
 original: https://www.gottman.com/blog/turn-toward-instead-of-away/
 highlighted: 2020-12-24

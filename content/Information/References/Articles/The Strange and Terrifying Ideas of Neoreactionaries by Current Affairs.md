@@ -3,9 +3,9 @@ publish: true
 title: The Strange and Terrifying Ideas of Neoreactionaries
 created: 2026-06-03T14:41:55.490+03:00
 modified:
-published:
+published: 2022-05-30
 author: Current Affairs
-original: https://www.inoreader.com/article/3a9c6e7a04096989-the-strange-and-terrifying-ideas-of-neoreactionaries
+original: https://www.currentaffairs.org/news/2022/05/the-strange-and-terrifying-ideas-of-neoreactionaries
 highlighted: 2022-06-03
 type: articles
 source: inoreader

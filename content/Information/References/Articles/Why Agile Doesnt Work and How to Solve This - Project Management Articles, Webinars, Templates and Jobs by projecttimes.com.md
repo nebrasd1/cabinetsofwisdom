@@ -3,7 +3,7 @@ publish: true
 title: Why Agile Doesn't Work and How to Solve This - Project Management Articles, Webinars, Templates and Jobs
 created: 2026-06-03T14:41:55.496+03:00
 modified:
-published:
+published: 2021-03-16
 author: projecttimes.com
 original: https://www.projecttimes.com/articles/why-agile-doesn-t-work-and-how-to-solve-this/
 highlighted: 2022-01-25

@@ -3,7 +3,7 @@ publish: true
 title: Ancient Routes Take a 2,500-Year Detour Across the Arabian Peninsula All the Way to Louvre Abu Dhabi
 created: 2026-06-03T14:41:55.454+03:00
 modified:
-published:
+published: 2018-11-08
 author: thenationalnews.com
 original: https://www.thenationalnews.com/opinion/comment/ancient-routes-take-a-2-500-year-detour-across-the-arabian-peninsula-all-the-way-to-louvre-abu-dhabi-1.789688
 highlighted: 2021-01-09

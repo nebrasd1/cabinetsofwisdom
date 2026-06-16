@@ -3,7 +3,7 @@ publish: true
 title: Movie Stars and Their Misguided Messiah Complex ❧ Current Affairs
 created: 2026-06-03T14:41:55.478+03:00
 modified:
-published:
+published: 2021-01-16
 author: CURRENT AFFAIRS
 original: https://www.currentaffairs.org/2021/01/movie-stars-and-their-misguided-messiah-complex
 highlighted: 2021-01-16

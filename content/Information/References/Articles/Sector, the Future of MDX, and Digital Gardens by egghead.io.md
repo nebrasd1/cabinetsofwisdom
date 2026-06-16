@@ -2,8 +2,8 @@
 publish: true
 title: Sector, the Future of MDX, and Digital Gardens
 created: 2026-06-03T14:41:55.484+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2020-05-06
 author: egghead.io
 original: https://egghead.io/lessons/egghead-sector-the-future-of-mdx-and-digital-gardens
 highlighted: 2021-07-15

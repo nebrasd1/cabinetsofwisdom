@@ -3,7 +3,7 @@ publish: true
 title: The “Clash of Civilizations” Thesis Is Still Ignorant Nonsense ❧ Current Affairs
 created: 2026-06-03T14:41:55.491+03:00
 modified:
-published:
+published: 2022-03-31
 author: currentaffairs.org
 original: https://www.currentaffairs.org/2022/03/the-clash-of-civilizations-thesis-is-still-ignorant-nonsense/
 highlighted: 2022-05-29

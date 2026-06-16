@@ -3,7 +3,7 @@ publish: true
 title: Don’t Let a Good Story Sell You on a Bad Idea
 created: 2026-06-03T14:41:55.463+03:00
 modified:
-published:
+published: 2020-12-17
 author: hbr.org
 original: https://hbr.org/2020/12/dont-let-a-good-story-sell-you-on-a-bad-idea
 highlighted: 2020-12-23

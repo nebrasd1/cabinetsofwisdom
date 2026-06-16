@@ -2,10 +2,10 @@
 publish: true
 title: Taming the Greedocracy
 created: 2026-06-03T14:41:55.485+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-08-01
 author: Jag Bhalla
-original: https://www.inoreader.com/article/3a9c6e7b5c1f1f2d-taming-the-greedocracy
+original: https://www.currentaffairs.org/news/2021/08/taming-the-greedocracy
 highlighted: 2021-08-10
 type: articles
 source: inoreader

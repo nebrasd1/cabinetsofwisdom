@@ -2,10 +2,10 @@
 publish: true
 title: Melt the Crown
 created: 2026-06-03T14:41:55.478+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-07-18
 author: Amanda Hanna-McLeer
-original: https://www.inoreader.com/article/3a9c6e7b605407af-melt-the-crown
+original: https://www.currentaffairs.org/news/2021/07/melt-the-crown
 highlighted: 2021-08-10
 type: articles
 source: inoreader

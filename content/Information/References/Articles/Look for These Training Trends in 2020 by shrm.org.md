@@ -2,8 +2,8 @@
 publish: true
 title: Look for These Training Trends in 2020
 created: 2026-06-03T14:41:55.477+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2019-01-04
 author: shrm.org
 original: https://www.shrm.org/resourcesandtools/hr-topics/organizational-and-employee-development/pages/viewpoint-how-to-develop-an-agile-workforce.aspx?loc=mena
 highlighted: 2022-01-25

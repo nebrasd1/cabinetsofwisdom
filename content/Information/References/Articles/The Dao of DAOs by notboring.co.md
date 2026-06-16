@@ -3,7 +3,7 @@ publish: true
 title: The Dao of DAOs
 created: 2026-06-03T14:41:55.486+03:00
 modified:
-published:
+published: 2021-03-22
 author: notboring.co
 original: https://www.notboring.co/p/the-dao-of-daos
 highlighted: 2021-06-07

@@ -3,7 +3,7 @@ publish: true
 title: TV Review Star Trek Discovery’s Species Ten-C
 created: 2026-06-03T14:41:55.485+03:00
 modified: 2025-05-10
-published:
+published: 2022-03-10
 author: tor.com
 original: https://www.tor.com/2022/03/10/going-boldly-star-trek-discoverys-species-ten-c/
 highlighted: 2022-03-21

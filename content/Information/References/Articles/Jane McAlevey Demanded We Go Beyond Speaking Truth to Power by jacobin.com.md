@@ -2,8 +2,8 @@
 publish: true
 title: Jane McAlevey Demanded We Go Beyond Speaking Truth to Power
 created: 2026-06-03T14:41:55.476+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2024-07-09
 author: jacobin.com
 original: https://jacobin.com/2024/07/jane-mcalevey-strategy-organizing-obituary
 highlighted: 2024-08-14

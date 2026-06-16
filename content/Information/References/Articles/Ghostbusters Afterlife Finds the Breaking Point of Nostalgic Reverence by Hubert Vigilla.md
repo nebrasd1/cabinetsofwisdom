@@ -3,9 +3,9 @@ publish: true
 title: "Ghostbusters: Afterlife Finds the Breaking Point of Nostalgic Reverence"
 created: 2026-06-03T14:41:55.468+03:00
 modified:
-published:
+published: 2021-11-23
 author: Hubert Vigilla
-original: https://www.inoreader.com/article/3a9c6e7a8e0007bc-ghostbusters-afterlife-finds-the-breaking-point-of-nostalgic-reverence
+original: https://www.tor.com/2021/11/23/ghostbusters-afterlife-finds-the-breaking-point-of-nostalgic-reverence/
 highlighted: 2021-11-28
 type: articles
 source: inoreader

@@ -3,7 +3,7 @@ publish: true
 title: Why the Panic Over Trans Kids? ❧ Current Affairs
 created: 2026-06-03T14:41:55.497+03:00
 modified:
-published:
+published: 2021-04-30
 author: currentaffairs.org
 original: https://www.currentaffairs.org/2021/04/why-the-panic-over-trans-kids/
 highlighted: 2021-05-04

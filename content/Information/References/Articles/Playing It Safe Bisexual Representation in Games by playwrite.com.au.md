@@ -2,10 +2,10 @@
 publish: true
 title: "Playing It Safe: Bisexual Representation in Games"
 created: 2026-06-03T14:41:55.482+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2015-11-19
 author: playwrite.com.au
-original: http://playwrite.com.au/playing-it-safe-bisexual-representation-in-games/
+original: https://web.archive.org/web/20151126064035/http://playwrite.com.au/playing-it-safe-bisexual-representation-in-games/
 highlighted: 2020-05-28
 type: articles
 source: pocket

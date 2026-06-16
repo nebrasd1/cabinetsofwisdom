@@ -3,7 +3,7 @@ publish: true
 title: Douglas Adams Eats Biscuits on Cambridge Station
 created: 2026-06-03T14:41:55.464+03:00
 modified:
-published:
+published: 2013-07-25
 author: markmeynell.wordpress.com
 original: https://markmeynell.wordpress.com/2013/07/25/douglas-adams-eats-biscuits-on-cambridge-station/
 highlighted: 2021-08-09

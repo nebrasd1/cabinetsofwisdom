@@ -3,7 +3,7 @@ publish: true
 title: "Never Say You Can’t Survive: The Unexamined Story Is Not Worth Writing"
 created: 2026-06-03T14:41:55.479+03:00
 modified:
-published:
+published: 2020-09-22
 author: tor.com
 original: https://www.tor.com/2020/09/22/never-say-you-cant-survive-the-unexamined-story-is-not-worth-writing/
 highlighted: 2020-12-22

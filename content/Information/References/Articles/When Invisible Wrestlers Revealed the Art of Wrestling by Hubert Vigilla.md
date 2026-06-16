@@ -3,9 +3,9 @@ publish: true
 title: When Invisible Wrestlers Revealed the Art of Wrestling
 created: 2026-06-03T14:41:55.495+03:00
 modified:
-published:
+published: 2022-06-07
 author: Hubert Vigilla
-original: https://www.inoreader.com/article/3a9c6e7a7fa46431-when-invisible-wrestlers-revealed-the-art-of-wrestling
+original: https://www.tor.com/2022/06/07/when-invisible-wrestlers-revealed-the-art-of-wrestling/
 highlighted: 2022-06-14
 type: articles
 source: inoreader

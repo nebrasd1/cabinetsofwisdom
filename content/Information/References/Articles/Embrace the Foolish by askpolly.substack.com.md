@@ -3,7 +3,7 @@ publish: true
 title: "'Embrace the Foolish'"
 created: 2026-06-03T14:41:55.465+03:00
 modified:
-published:
+published: 2021-12-08
 author: askpolly.substack.com
 original: https://askpolly.substack.com/p/embrace-the-foolish
 highlighted: 2022-03-07

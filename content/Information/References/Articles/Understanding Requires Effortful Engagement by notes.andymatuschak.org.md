@@ -2,8 +2,8 @@
 publish: true
 title: Understanding Requires Effortful Engagement
 created: 2026-06-03T14:41:55.492+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-07-15
 author: notes.andymatuschak.org
 original: https://notes.andymatuschak.org/Understanding_requires_effortful_engagement
 highlighted: 2021-07-15

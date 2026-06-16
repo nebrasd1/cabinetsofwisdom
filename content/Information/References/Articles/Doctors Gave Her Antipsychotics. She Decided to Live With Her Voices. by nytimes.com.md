@@ -2,8 +2,8 @@
 publish: true
 title: Doctors Gave Her Antipsychotics. She Decided to Live With Her Voices.
 created: 2026-06-03T14:41:55.463+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2022-05-17
 author: nytimes.com
 original: https://www.nytimes.com/2022/05/17/magazine/antipsychotic-medications-mental-health.html
 highlighted: 2022-05-24

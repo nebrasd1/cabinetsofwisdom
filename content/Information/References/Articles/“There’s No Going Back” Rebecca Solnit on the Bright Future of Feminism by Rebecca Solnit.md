@@ -3,7 +3,7 @@ publish: true
 title: "“There’s No Going Back”: Rebecca Solnit on the Bright Future of Feminism"
 created: 2026-06-03T14:41:55.498+03:00
 modified:
-published:
+published: 2014-05-21
 author: Rebecca Solnit
 original: http://www.salon.com/2014/05/21/theres_no_going_back_rebecca_solnit_on_the_future_of_feminism_partner/
 highlighted: 2020-12-29

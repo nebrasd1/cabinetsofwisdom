@@ -3,7 +3,7 @@ publish: true
 title: Sober-Minded Socialism ❧ Current Affairs
 created: 2026-06-03T14:41:55.484+03:00
 modified:
-published:
+published: 2021-05-17
 author: currentaffairs.org
 original: https://www.currentaffairs.org/2021/05/sober-minded-socialism/
 highlighted: 2021-06-09

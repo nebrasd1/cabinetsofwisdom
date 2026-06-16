@@ -2,8 +2,8 @@
 publish: true
 title: How Gossip Girl Broke the Fantasy of Being the World’s Most Special Girl
 created: 2026-06-03T14:41:55.471+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-05-08
 author: Constance Grady
 original: https://www.inoreader.com/article/3a9c6e7b5ce7057c-how-gossip-girl-broke-the-fantasy-of-being-the-worlds-most-special-girl
 highlighted: 2021-08-10

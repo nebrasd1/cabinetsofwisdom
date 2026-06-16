@@ -3,9 +3,9 @@ publish: true
 title: Lady Macbeth, the Pontianak, and the Compulsive Power of the Monstrous Feminine
 created: 2026-06-03T14:41:55.476+03:00
 modified:
-published:
+published: 2022-06-08
 author: Wen-yi Lee
-original: https://www.inoreader.com/article/3a9c6e7a7e6f799e-lady-macbeth-the-pontianak-and-the-compulsive-power-of-the-monstrous-feminine
+original: https://reactormag.com/lady-macbeth-the-pontianak-and-the-compulsive-power-of-the-monstrous-feminine/
 highlighted: 2022-06-14
 type: articles
 source: inoreader

@@ -3,7 +3,7 @@ publish: true
 title: Things You Can Try to Do to So Your Kid's Not a Dick About Other People's Weight
 created: 2026-06-03T14:41:55.491+03:00
 modified:
-published:
+published: 2021-06-09
 author: evilwitches.substack.com
 original: https://evilwitches.substack.com/p/things-you-can-try-to-do-to-so-your
 highlighted: 2021-06-23

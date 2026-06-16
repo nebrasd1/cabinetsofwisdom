@@ -3,7 +3,7 @@ publish: true
 title: TV’s White Guys Are in Crisis
 created: 2026-06-03T14:41:55.485+03:00
 modified:
-published:
+published: 2021-08-13
 author: vulture.com
 original: https://www.vulture.com/2021/08/tv-white-men-the-white-lotus-ted-lasso.html
 highlighted: 2021-08-15

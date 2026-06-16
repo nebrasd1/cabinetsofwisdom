@@ -3,7 +3,7 @@ publish: true
 title: Hopepunk and Revolutionary Acts of Kindness
 created: 2026-06-03T14:41:55.469+03:00
 modified:
-published:
+published: 2020-11-23
 author: tor.com
 original: https://www.tor.com/2020/11/23/hopepunk-and-revolutionary-acts-of-kindness/
 highlighted: 2020-12-22

@@ -3,7 +3,7 @@ publish: true
 title: "The Vegetarian Vampire: Unpacking the Metaphor of Modern Vampire Stories"
 created: 2026-06-03T14:41:55.490+03:00
 modified:
-published:
+published: 2020-11-30
 author: tor.com
 original: https://www.tor.com/2020/11/30/the-vegetarian-vampire-unpacking-the-metaphor-of-modern-vampire-stories/
 highlighted: 2020-12-16

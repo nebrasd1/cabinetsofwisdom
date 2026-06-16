@@ -2,10 +2,12 @@
 publish: true
 title: Inbox - Altsarc@gmail.com - Gmail
 created: 2026-06-03T14:41:55.473+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 1967-01-01
+tags:
+  - quote
 author: mail.google.com
-original: https://mail.google.com/mail/u/0/?q=anaa+ssn&zx=fq4s80afuml0#inbox
+original: https://www.goodreads.com/quotes/9607928-a-poet-is-somebody-who-feels-and-who-expresses-his
 highlighted: 2020-12-19
 type: articles
 source: web_clipper

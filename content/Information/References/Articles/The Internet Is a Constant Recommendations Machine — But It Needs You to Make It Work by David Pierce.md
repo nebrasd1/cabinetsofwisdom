@@ -2,10 +2,10 @@
 publish: true
 title: The Internet Is a Constant Recommendations Machine — But It Needs You to Make It Work
 created: 2026-06-03T14:41:55.487+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2022-06-29
 author: David Pierce
-original: https://www.inoreader.com/article/3a9c6e7a6fb6265e-the-internet-is-a-constant-recommendations-machine-but-it-needs-you-to-make-it-work
+original: https://www.theverge.com/23187911/internet-recommendations-shows-movies-restaurants-books
 highlighted: 2022-07-03
 type: articles
 source: inoreader

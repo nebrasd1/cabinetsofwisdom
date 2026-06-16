@@ -2,10 +2,10 @@
 publish: true
 title: What Is a Digital Garden?
 created: 2026-06-03T14:41:55.495+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2020-09-18
 author: christopherbiscardi.com
-original: https://www.christopherbiscardi.com/what-is-a-digital-garden
+original: https://web.archive.org/web/20250426192822/https://www.christopherbiscardi.com/what-is-a-digital-garden
 highlighted: 2021-07-15
 type: articles
 source: hypothesis

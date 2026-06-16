@@ -2,8 +2,8 @@
 publish: true
 title: "Penniless: Why a Victoria Man Has Gone Two Decades Without Money"
 created: 2026-06-03T14:41:55.482+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-07-14
 author: capitaldaily.ca
 original: https://www.capitaldaily.ca/news/penniless-two-decades-without-money
 highlighted: 2021-07-28

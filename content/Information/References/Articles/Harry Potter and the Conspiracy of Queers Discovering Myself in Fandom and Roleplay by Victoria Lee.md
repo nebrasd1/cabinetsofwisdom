@@ -3,7 +3,7 @@ publish: true
 title: "Harry Potter and the Conspiracy of Queers: Discovering Myself in Fandom and Roleplay"
 created: 2026-06-03T14:41:55.469+03:00
 modified:
-published:
+published: 2019-10-14
 author: Victoria Lee
 original: https://www.tor.com/2019/10/14/harry-potter-and-the-conspiracy-of-queers-discovering-myself-in-fandom-and-roleplay/
 highlighted: 2020-05-28

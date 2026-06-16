@@ -2,8 +2,8 @@
 publish: true
 title: FRANKINCENSE TRAIL | Facts and Details
 created: 2026-06-03T14:41:55.466+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-01-01
 author: factsanddetails.com
 original: http://factsanddetails.com/world/cat56/sub371/item1968.html
 highlighted: 2021-01-09

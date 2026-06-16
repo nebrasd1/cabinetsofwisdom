@@ -3,7 +3,7 @@ publish: true
 title: The Four Desires Driving All Human Behavior
 created: 2026-06-03T14:41:55.487+03:00
 modified:
-published:
+published: 2015-09-21
 author: Maria Popova
 original: https://getpocket.com/explore/item/the-four-desires-driving-all-human-behavior-bertrand-russell-s-magnificent-nobel-prize-acceptance
 highlighted: 2023-05-23

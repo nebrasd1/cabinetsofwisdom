@@ -3,7 +3,7 @@ publish: true
 title: "Act of Grace: Masculinity, Monstrosity, and Queer Catharsis in Our Flag Means Death"
 created: 2026-06-03T14:41:55.454+03:00
 modified:
-published:
+published: 2022-04-25
 author: tor.com
 original: https://www.tor.com/2022/04/25/act-of-grace-masculinity-monstrosity-and-queer-catharsis-in-our-flag-means-death/
 highlighted: 2022-05-19

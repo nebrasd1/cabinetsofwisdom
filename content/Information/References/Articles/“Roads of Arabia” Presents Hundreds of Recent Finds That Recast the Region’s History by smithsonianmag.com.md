@@ -3,7 +3,7 @@ publish: true
 title: “Roads of Arabia” Presents Hundreds of Recent Finds That Recast the Region’s History
 created: 2026-06-03T14:41:55.498+03:00
 modified:
-published:
+published: 2012-11-15
 author: smithsonianmag.com
 original: https://www.smithsonianmag.com/smithsonian-institution/roads-of-arabia-presents-hundreds-of-recent-finds-that-recast-the-regions-history-127324646/
 highlighted: 2021-01-09

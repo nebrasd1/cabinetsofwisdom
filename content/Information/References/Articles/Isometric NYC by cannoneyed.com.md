@@ -2,8 +2,8 @@
 publish: true
 title: Isometric NYC
 created: 2026-05-30T14:27:38.435+03:00
-modified: 2026-04-29
-published:
+modified: 2026-06-16
+published: 2026-01-22
 author: cannoneyed.com
 original: https://cannoneyed.com/projects/isometric-nyc
 highlighted: 2026-02-12

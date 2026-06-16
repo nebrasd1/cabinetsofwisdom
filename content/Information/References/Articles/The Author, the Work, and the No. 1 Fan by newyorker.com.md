@@ -3,7 +3,7 @@ publish: true
 title: The Author, the Work, and the No. 1 Fan
 created: 2026-06-03T14:41:55.486+03:00
 modified:
-published:
+published: 2021-08-05
 author: newyorker.com
 original: https://www.newyorker.com/culture/personal-history/the-author-the-work-and-the-no-1-fan
 highlighted: 2021-08-11

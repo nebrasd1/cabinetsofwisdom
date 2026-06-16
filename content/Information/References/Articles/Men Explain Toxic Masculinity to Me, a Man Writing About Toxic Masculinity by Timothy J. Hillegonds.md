@@ -3,7 +3,7 @@ publish: true
 title: Men Explain Toxic Masculinity to Me, a Man Writing About Toxic Masculinity
 created: 2026-06-03T14:41:55.478+03:00
 modified:
-published:
+published: 2019-10-01
 author: Timothy J. Hillegonds
 original: https://www.salon.com/2019/10/01/men-explain-toxic-masculinity-to-me-a-man-writing-about-toxic-masculinity/
 highlighted: 2020-12-29

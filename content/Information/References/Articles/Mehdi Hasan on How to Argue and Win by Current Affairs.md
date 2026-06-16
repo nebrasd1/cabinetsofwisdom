@@ -3,7 +3,7 @@ publish: true
 title: Mehdi Hasan on How to Argue and Win
 created: 2026-06-03T14:41:55.478+03:00
 modified:
-published:
+published: 2023-04-12
 author: Current Affairs
 original: https://www.currentaffairs.org/2023/04/mehdi-hasan-on-how-to-argue-and-win/
 highlighted: 2023-04-15

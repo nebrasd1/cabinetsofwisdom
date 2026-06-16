@@ -3,7 +3,7 @@ publish: true
 title: Quantity Leads to Quality - Austin Kleon
 created: 2026-06-03T14:41:55.483+03:00
 modified:
-published:
+published: 2020-12-10
 author: austinkleon.com
 original: https://austinkleon.com/2020/12/10/quantity-leads-to-quality-the-origin-of-a-parable/
 highlighted: 2020-12-23

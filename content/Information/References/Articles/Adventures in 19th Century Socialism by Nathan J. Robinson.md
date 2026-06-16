@@ -3,9 +3,9 @@ publish: true
 title: Adventures in 19th Century Socialism
 created: 2026-06-03T14:41:55.454+03:00
 modified:
-published:
+published: 2021-10-11
 author: Nathan J. Robinson
-original: https://www.inoreader.com/article/3a9c6e7aaee5beb2-adventures-in-19th-century-socialism
+original: https://www.currentaffairs.org/news/2021/10/adventures-in-19th-century-socialism
 highlighted: 2021-10-12
 type: articles
 source: inoreader

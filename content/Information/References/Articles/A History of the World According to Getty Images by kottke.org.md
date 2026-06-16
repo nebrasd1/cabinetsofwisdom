@@ -3,7 +3,7 @@ publish: true
 title: A History of the World According to Getty Images
 created: 2026-06-03T14:41:55.452+03:00
 modified:
-published:
+published: 2023-04-17
 author: kottke.org
 original: https://kottke.org/23/04/a-history-of-the-world-according-to-getty-images
 highlighted: 2023-04-19

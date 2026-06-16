@@ -2,8 +2,8 @@
 publish: true
 title: Thread by @Radicalbytes on Thread Reader App
 created: 2026-06-03T14:41:55.491+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2020-12-13
 author: threadreaderapp.com
 original: https://threadreaderapp.com/thread/1440582152047906816.html
 highlighted: 2022-05-29

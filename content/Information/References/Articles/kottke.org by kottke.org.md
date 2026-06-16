@@ -3,7 +3,7 @@ publish: true
 title: kottke.org
 created: 2026-06-03T14:41:55.498+03:00
 modified:
-published:
+published: 2020-11-23
 author: kottke.org
 original: https://kottke.org/20/11/rebecca-solnit-we-dont-need-to-meet-nazis-halfway
 highlighted: 2020-12-15

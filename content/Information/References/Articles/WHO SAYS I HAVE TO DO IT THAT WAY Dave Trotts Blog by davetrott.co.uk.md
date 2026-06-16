@@ -3,7 +3,7 @@ publish: true
 title: WHO SAYS I HAVE TO DO IT THAT WAY? | Dave Trott's Blog
 created: 2026-06-03T14:41:55.493+03:00
 modified:
-published:
+published: 2022-07-25
 author: davetrott.co.uk
 original: https://davetrott.co.uk/2022/07/who-says-i-have-to-do-it-that-way/?utm_source=pocket_mylist
 highlighted: 2022-08-06

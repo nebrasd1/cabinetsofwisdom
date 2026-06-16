@@ -3,7 +3,7 @@ publish: true
 title: "Connection in Practice: The Tricks of Shame and Hope"
 created: 2026-06-03T14:41:55.460+03:00
 modified:
-published:
+published: 2016-07-30
 author: norasamaran.com
 original: https://norasamaran.com/2016/07/30/cognitive-distortions/
 highlighted: 2020-12-24

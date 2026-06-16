@@ -3,9 +3,9 @@ publish: true
 title: Defective Altruism
 created: 2026-06-03T14:41:55.462+03:00
 modified:
-published:
+published: 2022-09-19
 author: Nathan J. Robinson
-original: https://www.inoreader.com/article/3a9c6e75b43d5ec1-defective-altruism
+original: https://www.currentaffairs.org/news/2022/09/defective-altruism
 highlighted: 2022-10-10
 type: articles
 source: inoreader

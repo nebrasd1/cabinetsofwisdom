@@ -3,9 +3,9 @@ publish: true
 title: The Pursuit of Happyness — Doctor Strange in the Multiverse of Madness
 created: 2026-06-03T14:41:55.489+03:00
 modified:
-published:
+published: 2022-08-10
 author: Keith R.A. DeCandido
-original: https://www.inoreader.com/article/3a9c6e7a49c5e775-the-pursuit-of-happyness-doctor-strange-in-the-multiverse-of-madness
+original: https://www.tor.com/2022/08/10/the-pursuit-of-happiness-doctor-strange-in-the-multiverse-of-madness/
 highlighted: 2022-08-11
 type: articles
 source: inoreader

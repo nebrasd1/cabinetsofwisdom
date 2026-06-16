@@ -3,7 +3,7 @@ publish: true
 title: The Insidious Idea About “Safety” That Keeps Putting Us in Danger
 created: 2026-06-03T14:41:55.487+03:00
 modified:
-published:
+published: 2021-11-08
 author: slate.com
 original: https://slate.com/technology/2021/11/risk-compensation-debunked-masks-rapid-tests-vaccines-safety.html
 highlighted: 2021-11-11

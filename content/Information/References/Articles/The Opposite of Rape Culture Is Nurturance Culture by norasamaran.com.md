@@ -3,7 +3,7 @@ publish: true
 title: The Opposite of Rape Culture Is Nurturance Culture
 created: 2026-06-03T14:41:55.488+03:00
 modified:
-published:
+published: 2016-02-11
 author: norasamaran.com
 original: https://norasamaran.com/2016/02/11/the-opposite-of-rape-culture-is-nurturance-culture-2/
 highlighted: 2020-12-24

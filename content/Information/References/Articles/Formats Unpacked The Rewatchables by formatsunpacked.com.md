@@ -2,10 +2,10 @@
 publish: true
 title: "Formats Unpacked: The Rewatchables"
 created: 2026-06-03T14:41:55.467+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2022-02-24
 author: formatsunpacked.com
-original: https://www.formatsunpacked.com/p/formats-unpacked-the-rewatchables
+original: https://formatsunpacked.storythings.com/p/formats-unpacked-the-rewatchables
 highlighted: 2022-03-28
 type: articles
 source: hypothesis

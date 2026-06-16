@@ -3,9 +3,9 @@ publish: true
 title: The Deeply Personal Art of Organizing Your Books
 created: 2026-06-03T14:41:55.486+03:00
 modified:
-published:
+published: 2022-01-20
 author: Molly Templeton
-original: https://www.inoreader.com/article/3a9c6e7ae46b8e27-the-deeply-personal-art-of-organizing-your-books
+original: https://www.tor.com/2022/01/20/mark-as-read-book-organization/
 highlighted: 2022-01-31
 type: articles
 source: inoreader

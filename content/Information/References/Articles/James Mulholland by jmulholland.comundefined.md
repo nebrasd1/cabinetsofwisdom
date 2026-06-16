@@ -2,10 +2,10 @@
 publish: true
 title: James Mulholland
 created: 2026-06-03T14:41:55.476+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2022-05-02
 author: jmulholland.comundefined
-original: https://jmulholland.comundefined/
+original: https://jmulholland.com/small-group/
 highlighted: 2022-07-04
 type: articles
 source: hypothesis

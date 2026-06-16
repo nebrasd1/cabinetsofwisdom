@@ -2,10 +2,10 @@
 publish: true
 title: "Avoiding the Avoidable: Why 'Optional' Queer Content Isn't Solving the Diversity Problem"
 created: 2026-06-03T14:41:55.457+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2017-09-27
 author: queerlyrepresent.me
-original: https://queerlyrepresent.me/resources/articles/playersexuality
+original: https://www.gamedeveloper.com/design/avoiding-the-avoidable-why-optional-queer-content-isn-t-solving-the-diversity-problem-and-how-to-fix-this-
 highlighted: 2020-05-28
 type: articles
 source: pocket

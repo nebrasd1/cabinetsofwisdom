@@ -2,8 +2,8 @@
 publish: true
 title: 2024 Executive Paywatch
 created: 2026-06-03T14:41:55.450+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2025-02-01
 author: AFL-CIO
 original: https://aflcio.org/paywatch
 highlighted: 2025-02-25

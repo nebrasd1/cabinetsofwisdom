@@ -2,10 +2,10 @@
 publish: true
 title: "Say Yes: Mel Brooks at 95"
 created: 2026-06-03T14:41:55.484+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-12-10
 author: Tim Carmody
-original: https://www.inoreader.com/article/3a9c6e7afaeeeaee-say-yes-mel-brooks-at-95
+original: https://kottke.org/21/12/mel-brooks-at-95
 highlighted: 2021-12-14
 type: articles
 source: inoreader

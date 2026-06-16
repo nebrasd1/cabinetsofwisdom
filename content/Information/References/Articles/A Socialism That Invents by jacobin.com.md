@@ -2,10 +2,10 @@
 publish: true
 title: A Socialism That Invents
 created: 2026-05-30T14:27:38.420+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2025-06-13
 author: jacobin.com
-url:
+url: https://jacobin.com/2025/06/a-socialism-that-invents
 highlighted: 2025-06-22
 type: articles
 source: reader

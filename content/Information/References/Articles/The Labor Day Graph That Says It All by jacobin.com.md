@@ -2,8 +2,8 @@
 publish: true
 title: The Labor Day Graph That Says It All
 created: 2026-06-03T14:41:55.487+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-09-06
 author: jacobin.com
 original: https://jacobin.com/2021/09/labor-day-chart-union-membership-share-top-10-percent-income-inequality?utm_source=substack&utm_medium=email
 highlighted: 2023-09-05

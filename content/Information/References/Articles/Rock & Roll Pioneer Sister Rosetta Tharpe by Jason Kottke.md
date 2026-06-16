@@ -2,10 +2,10 @@
 publish: true
 title: Rock & Roll Pioneer Sister Rosetta Tharpe
 created: 2026-06-03T14:41:55.483+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-09-20
 author: Jason Kottke
-original: https://www.inoreader.com/article/3a9c6e7abc09ad7c-rock-roll-pioneer-sister-rosetta-tharpe
+original: https://kottke.org/21/09/rock-roll-pioneer-sister-rosetta-tharpe
 highlighted: 2021-09-26
 type: articles
 source: inoreader

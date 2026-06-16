@@ -2,10 +2,10 @@
 publish: true
 title: Can Music Theory Education Overcome Its Whiteness Problem?
 created: 2026-06-03T14:41:55.458+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2022-03-18
 author: Jeff Williams
-original: https://www.inoreader.com/article/3a9c6e7a32b462e5-can-music-theory-education-overcome-its-whiteness-problem
+original: https://www.currentaffairs.org/news/2022/03/can-music-theory-education-overcome-its-whiteness-problem
 highlighted: 2022-03-22
 type: articles
 source: inoreader

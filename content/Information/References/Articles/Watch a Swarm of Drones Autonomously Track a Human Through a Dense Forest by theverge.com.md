@@ -3,7 +3,7 @@ publish: true
 title: Watch a Swarm of Drones Autonomously Track a Human Through a Dense Forest
 created: 2026-06-03T14:41:55.493+03:00
 modified:
-published:
+published: 2022-05-05
 author: theverge.com
 original: https://www.theverge.com/2022/5/5/23058160/drone-swarm-autonomous-navigation-dense-forest-person-tracking
 highlighted: 2022-05-10

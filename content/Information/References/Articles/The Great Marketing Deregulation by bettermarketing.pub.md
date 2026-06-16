@@ -3,7 +3,7 @@ publish: true
 title: The Great Marketing Deregulation
 created: 2026-06-03T14:41:55.487+03:00
 modified:
-published:
+published: 2020-07-31
 author: bettermarketing.pub
 original: https://bettermarketing.pub/the-great-marketing-deregulation-2125a0efe094
 highlighted: 2022-08-06

@@ -3,7 +3,7 @@ publish: true
 title: I Never Expected to Run for Office—Here's What I Learned
 created: 2026-06-03T14:41:55.472+03:00
 modified:
-published:
+published: 2024-09-05
 author: Will Stancil
 original: https://www.offmessage.net/p/what-i-learned-running-for-office-stancil
 highlighted: 2024-11-04

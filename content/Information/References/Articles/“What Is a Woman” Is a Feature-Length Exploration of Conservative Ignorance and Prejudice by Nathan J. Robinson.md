@@ -3,9 +3,9 @@ publish: true
 title: “What Is a Woman?” Is a Feature-Length Exploration of Conservative Ignorance and Prejudice
 created: 2026-06-03T14:41:55.499+03:00
 modified:
-published:
+published: 2022-06-15
 author: Nathan J. Robinson
-original: https://www.inoreader.com/article/3a9c6e7a7197b2fd-ldquowhat-is-a-womanrdquo-is-a-feature-length-exploration-of-conservative-ignorance-and-prejudicenbsp
+original: https://www.currentaffairs.org/news/2022/06/what-is-a-woman-is-a-feature-length-exploration-of-conservative-ignorance-and-prejudice
 highlighted: 2022-06-16
 type: articles
 source: inoreader

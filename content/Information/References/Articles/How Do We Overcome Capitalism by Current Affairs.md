@@ -3,9 +3,9 @@ publish: true
 title: How Do We Overcome Capitalism?
 created: 2026-06-03T14:41:55.471+03:00
 modified:
-published:
+published: 2022-10-06
 author: Current Affairs
-original: https://www.inoreader.com/article/3a9c6e75a09c6b2a-how-do-we-overcome-capitalism
+original: https://www.currentaffairs.org/news/2022/10/how-do-we-overcome-capitalism
 highlighted: 2022-10-16
 type: articles
 source: inoreader

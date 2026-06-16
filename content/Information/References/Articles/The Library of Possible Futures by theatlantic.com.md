@@ -3,7 +3,7 @@ publish: true
 title: The Library of Possible Futures
 created: 2026-06-03T14:41:55.488+03:00
 modified:
-published:
+published: 2021-02-01
 author: theatlantic.com
 original: https://www.theatlantic.com/culture/archive/2021/02/future-shock-pop-futurism-pandemic/617867/
 highlighted: 2021-02-03

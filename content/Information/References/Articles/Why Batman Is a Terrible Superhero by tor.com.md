@@ -3,7 +3,7 @@ publish: true
 title: Why Batman Is a Terrible Superhero
 created: 2026-06-03T14:41:55.496+03:00
 modified:
-published:
+published: 2020-09-28
 author: tor.com
 original: https://www.tor.com/2020/09/28/why-batman-is-a-terrible-superhero-or-why-our-present-social-crises-demand-a-different-class-of-hero/
 highlighted: 2021-02-07

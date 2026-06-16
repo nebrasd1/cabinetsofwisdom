@@ -2,8 +2,8 @@
 publish: true
 title: Incense Route - Livius
 created: 2026-06-03T14:41:55.473+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2020-08-11
 author: livius.org
 original: https://www.livius.org/articles/place/incense-route/
 highlighted: 2021-01-08

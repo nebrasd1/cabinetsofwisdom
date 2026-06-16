@@ -2,8 +2,8 @@
 publish: true
 title: "Saudi Aramco World : Roads of Arabia"
 created: 2026-06-03T14:41:55.484+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2011-04-01
 author: archive.aramcoworld.com
 original: https://archive.aramcoworld.com/issue/201102/roads.of.arabia.htm
 highlighted: 2021-01-09

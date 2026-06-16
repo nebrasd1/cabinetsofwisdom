@@ -3,7 +3,7 @@ publish: true
 title: "Research Proves It: There’s No Such Thing as Noblesse Oblige"
 created: 2026-06-03T14:41:55.483+03:00
 modified:
-published:
+published: 2021-04-04
 author: theatlantic.com
 original: https://www.theatlantic.com/ideas/archive/2021/04/does-wealth-rob-brain-compassion/618496/
 highlighted: 2021-04-14

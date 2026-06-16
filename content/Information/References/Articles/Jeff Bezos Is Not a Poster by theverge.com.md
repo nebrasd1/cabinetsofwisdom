@@ -3,7 +3,7 @@ publish: true
 title: Jeff Bezos Is Not a Poster
 created: 2026-06-03T14:41:55.476+03:00
 modified:
-published:
+published: 2022-05-16
 author: theverge.com
 original: https://www.theverge.com/2022/5/16/23075683/jeff-bezos-twitter-elon-musk-posting-troll
 highlighted: 2022-05-17

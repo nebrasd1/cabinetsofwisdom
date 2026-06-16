@@ -2,8 +2,8 @@
 publish: true
 title: Collecting Material Feels More Useful Than It Usually Is
 created: 2026-06-03T14:41:55.460+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-07-15
 author: notes.andymatuschak.org
 original: https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8
 highlighted: 2021-07-15

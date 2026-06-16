@@ -3,7 +3,7 @@ publish: true
 title: Laurie Penny on the Sexual Revolution ❧ Current Affairs
 created: 2026-06-03T14:41:55.477+03:00
 modified:
-published:
+published: 2022-04-01
 author: currentaffairs.org
 original: https://www.currentaffairs.org/2022/04/laurie-penny-on-the-sexual-revolution/
 highlighted: 2022-05-22

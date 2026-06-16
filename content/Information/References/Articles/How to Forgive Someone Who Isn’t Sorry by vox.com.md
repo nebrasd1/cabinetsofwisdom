@@ -2,8 +2,8 @@
 publish: true
 title: How to Forgive Someone Who Isn’t Sorry
 created: 2026-06-03T14:41:55.472+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2022-03-25
 author: vox.com
 original: https://www.vox.com/22967752/how-to-forgive-someone-who-isnt-sorry-wont-apologize
 highlighted: 2022-03-28

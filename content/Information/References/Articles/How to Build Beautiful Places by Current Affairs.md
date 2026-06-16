@@ -3,9 +3,9 @@ publish: true
 title: How to Build Beautiful Places
 created: 2026-06-03T14:41:55.472+03:00
 modified:
-published:
+published: 2022-05-16
 author: Current Affairs
-original: https://www.inoreader.com/article/3a9c6e7a0fc9cd6d-how-to-build-beautiful-places
+original: https://www.currentaffairs.org/news/2022/05/how-to-build-beautiful-places
 highlighted: 2022-05-20
 type: articles
 source: inoreader

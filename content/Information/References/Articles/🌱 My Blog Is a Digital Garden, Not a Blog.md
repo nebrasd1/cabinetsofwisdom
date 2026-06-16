@@ -2,8 +2,8 @@
 publish: true
 title: 🌱 My Blog Is a Digital Garden, Not a Blog
 created: 2026-06-03T14:41:55.499+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2019-07-17
 author: joelhooks.com
 original: https://joelhooks.com/digital-garden
 highlighted: 2021-07-15

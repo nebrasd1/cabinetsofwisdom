@@ -3,7 +3,7 @@ publish: true
 title: LeVar Burton’s Quest to Succeed Alex Trebek
 created: 2026-06-03T14:41:55.477+03:00
 modified:
-published:
+published: 2021-06-28
 author: nytimes.com
 original: https://www.nytimes.com/interactive/2021/06/28/magazine/levar-burton-interview.html
 highlighted: 2021-07-03

@@ -3,7 +3,7 @@ publish: true
 title: Umar Khalid Challenged Modi’s Anti-Muslim Agenda. India Accused Him of Terrorism and Locked Him Up.
 created: 2026-06-03T14:41:55.492+03:00
 modified:
-published:
+published: 2023-08-06
 author: Sonia Faleiro
 original: https://theintercept.com/2023/08/06/umar-khalid-india-modi/
 highlighted: 2023-08-07

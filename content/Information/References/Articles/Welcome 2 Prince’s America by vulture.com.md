@@ -3,7 +3,7 @@ publish: true
 title: Welcome 2 Prince’s America
 created: 2026-06-03T14:41:55.494+03:00
 modified:
-published:
+published: 2021-07-30
 author: vulture.com
 original: https://www.vulture.com/article/interview-prince-welcome-2-america-new-power-generation.html
 highlighted: 2021-08-01

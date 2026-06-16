@@ -3,7 +3,7 @@ publish: true
 title: Loki May Be Stronger Than We Realize in “Journey Into Mystery”
 created: 2026-06-03T14:41:55.477+03:00
 modified:
-published:
+published: 2021-07-07
 author: tor.com
 original: https://www.tor.com/2021/07/07/loki-may-be-stronger-than-we-realize-in-journey-into-mystery/
 highlighted: 2021-07-10

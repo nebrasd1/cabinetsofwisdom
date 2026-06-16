@@ -3,9 +3,9 @@ publish: true
 title: "Neither Princess Nor Bride: Why Buttercup Is the Hero of Her Own Story"
 created: 2026-06-03T14:41:55.479+03:00
 modified:
-published:
+published: 2022-03-28
 author: Rachel Ayers
-original: https://www.inoreader.com/article/3a9c6e7a2b8a64ff-neither-princess-nor-bride-why-buttercup-is-the-hero-of-her-own-story
+original: https://www.tor.com/2022/03/28/neither-princess-nor-bride-why-buttercup-is-the-hero-of-her-own-story/
 highlighted: 2022-04-27
 type: articles
 source: inoreader

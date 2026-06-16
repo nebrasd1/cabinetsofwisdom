@@ -3,7 +3,7 @@ publish: true
 title: The Arguments Against Trans Athletes Are Bigoted and Irrational ❧ Current Affairs
 created: 2026-06-03T14:41:55.486+03:00
 modified:
-published:
+published: 2021-05-31
 author: currentaffairs.org
 original: https://www.currentaffairs.org/2021/05/the-arguments-against-trans-athletes-are-bigoted-and-irrational/
 highlighted: 2021-06-04

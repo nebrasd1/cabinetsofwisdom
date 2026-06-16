@@ -3,7 +3,7 @@ publish: true
 title: "Progressive Summarization II: Examples and Metaphors"
 created: 2026-06-03T14:41:55.482+03:00
 modified:
-published:
+published: 2017-12-27
 author: fortelabs.co
 original: https://fortelabs.co/blog/progressive-summarization-ii-examples-and-metaphors/
 highlighted: 2021-06-28

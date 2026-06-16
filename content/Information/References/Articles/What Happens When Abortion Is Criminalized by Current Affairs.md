@@ -3,9 +3,9 @@ publish: true
 title: What Happens When Abortion Is Criminalized
 created: 2026-06-03T14:41:55.494+03:00
 modified:
-published:
+published: 2022-07-08
 author: Current Affairs
-original: https://www.inoreader.com/article/3a9c6e7a608f6b1f-what-happens-when-abortion-is-criminalized
+original: https://www.currentaffairs.org/news/2022/07/what-happens-when-abortion-is-criminalized
 highlighted: 2022-07-09
 type: articles
 source: inoreader

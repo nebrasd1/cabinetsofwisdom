@@ -3,9 +3,9 @@ publish: true
 title: On Experiencing Joe Rogan
 created: 2026-06-03T14:41:55.480+03:00
 modified:
-published:
+published: 2022-02-11
 author: Nathan J. Robinson
-original: https://www.inoreader.com/article/3a9c6e7acb3ac198-on-experiencing-joe-rogan
+original: https://www.currentaffairs.org/news/2022/02/on-experiencing-joe-rogan
 highlighted: 2022-02-12
 type: articles
 source: inoreader

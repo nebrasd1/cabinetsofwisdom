@@ -3,9 +3,9 @@ publish: true
 title: "Choose Wisely: 25 Memorable Deaths in Science Fiction and Fantasy"
 created: 2026-06-03T14:41:55.460+03:00
 modified:
-published:
+published: 2022-03-15
 author: Leah Schnelbach
-original: https://www.inoreader.com/article/3a9c6e7a3c0e7464-choose-wisely-25-memorable-deaths-in-science-fiction-and-fantasy
+original: https://reactormag.com/choose-wisely-25-memorable-deaths-in-science-fiction-and-fantasy/
 highlighted: 2022-03-16
 type: articles
 source: inoreader

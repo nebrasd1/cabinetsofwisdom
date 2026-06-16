@@ -2,7 +2,7 @@
 publish: true
 title: "Finding Balance: Cultural Preservation and Tourism"
 created: 2026-06-03T14:41:55.466+03:00
-modified:
+modified: 2026-06-16
 published: 2017-11-28
 author: Rachel Caldwell
 original: https://chemonics.com/blog/finding-balance-cultural-preservation-tourism/

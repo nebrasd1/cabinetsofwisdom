@@ -3,7 +3,7 @@ publish: true
 title: I, High-Powered Fashion Editor Miranda Priestly, Demand an Assistant Who Is Terrible
 created: 2026-06-03T14:41:55.473+03:00
 modified:
-published:
+published: 2022-03-03
 author: mcsweeneys.net
 original: https://www.mcsweeneys.net/articles/i-high-powered-fashion-editor-miranda-priestly-demand-an-assistant-who-is-terrible
 highlighted: 2022-03-28

@@ -3,7 +3,7 @@ publish: true
 title: Let’s Show Some Love for the Ten Best Dads in Superhero TV and Movies
 created: 2026-06-03T14:41:55.477+03:00
 modified:
-published:
+published: 2021-06-16
 author: tor.com
 original: https://www.tor.com/2021/06/16/lets-show-some-love-for-the-ten-best-dads-in-superhero-tv-and-movies/
 highlighted: 2021-06-23

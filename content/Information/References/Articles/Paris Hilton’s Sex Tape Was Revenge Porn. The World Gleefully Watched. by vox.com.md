@@ -2,8 +2,8 @@
 publish: true
 title: Paris Hilton’s Sex Tape Was Revenge Porn. The World Gleefully Watched.
 created: 2026-06-03T14:41:55.482+03:00
-modified:
-published:
+modified: 2026-06-16
+published: 2021-03-25
 author: vox.com
 original: https://www.vox.com/culture/22391942/paris-hilton-sex-tape-revenge-porn-south-park-stupid-spoiled-whore-video-playset-pink-stupid-girl
 highlighted: 2021-06-07

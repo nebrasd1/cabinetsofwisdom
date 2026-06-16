@@ -3,7 +3,7 @@ publish: true
 title: "Queer Dads: Demons and Machines in Sorcerer’s Son by Phyllis Eisenstein and the Terminator Franchise"
 created: 2026-06-03T14:41:55.483+03:00
 modified:
-published:
+published: 2021-07-13
 author: tor.com
 original: https://www.tor.com/2021/07/13/queer-dads-demons-and-machines-in-sorcerers-son-by-phyllis-eisenstein-and-the-terminator-franchise/
 highlighted: 2021-08-08
