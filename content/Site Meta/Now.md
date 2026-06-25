@@ -1,9 +1,10 @@
 ---
 publish: true
+title: Now
 description: Snapshot of what I'm focused on or engaging with lately
 created: 2026-06-22T14:29:34.625+03:00
-modified: 2026-06-22
-published: 2026-06-22T14:56:12.615+03:00
+modified: 2026-06-25
+published: 2026-06-25T18:26:01.701+03:00
 reading:
   - "[[Star Wars - Thrawn Trilogy - Heir to the Empire (1991)]]"
 listening:
