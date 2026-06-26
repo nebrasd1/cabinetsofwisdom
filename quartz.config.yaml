@@ -259,15 +259,6 @@ plugins:
       title: Recent Output
       limit: 4
       linkToMore: output
-  - source: github:nebrasd1/recent-media
-    enabled: false
-    layout:
-      position: left
-      priority: 50
-    options:
-      title: Recent Engagements
-      limit: 4
-      linkToMore: references
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
