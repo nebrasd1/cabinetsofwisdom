@@ -259,6 +259,15 @@ plugins:
       title: Recent Output
       limit: 4
       linkToMore: output
+  - source: github:nebrasd1/recent-media
+    enabled: false
+    layout:
+      position: left
+      priority: 50
+    options:
+      title: Recent Engagements
+      limit: 4
+      linkToMore: references
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -278,7 +287,22 @@ plugins:
       hidePropertiesView: false
       delimiters: ---
       language: yaml
-      excludedProperties: ["aliases","publish","title","description","comments","noRSS","index","purchased","consumed","created","reviewed","date","claimType","postType","type"]
+      excludedProperties:
+        - aliases
+        - publish
+        - title
+        - description
+        - comments
+        - noRSS
+        - index
+        - purchased
+        - consumed
+        - created
+        - reviewed
+        - date
+        - claimType
+        - postType
+        - type
     order: 5
     layout:
       position: beforeBody
@@ -314,6 +338,10 @@ plugins:
     enabled: true
     options: {}
     order: 95
+  - source: github:nebrasd1/quartz-now-sidebar
+    enabled: true
+    order: 50
+    options: {}
 layout:
   groups:
     toolbar:
